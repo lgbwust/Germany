@@ -1,0 +1,669 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Generator for tools/data/b2_part1.py (Lessons 1 to 5, 70 words each = 350 words).
+L01: 学术语言与大学论文写作规范 (Wissenschaftssprache & Akademisches Arbeiten)
+L02: 商务谈判、商务德语与跨国商务合作 (Wirtschaftsdeutsch & Verhandlungsführung)
+L03: 宏观经济学、金融市场与国际贸易 (Makroökonomie & Welthandel)
+L04: 法律德语、契约精神与司法公正 (Rechtssprache & Justiz)
+L05: 生命伦理学、现代医学前沿与基因工程 (Bioethik & Gentechnik)
+"""
+
+content = r'''#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+B2 Part 1: Lessons 1 to 5 (350 words)
+L01: 学术语言与大学论文写作规范 (Wissenschaftssprache & Akademisches Arbeiten) - 70 words
+L02: 商务谈判、商务德语与跨国商务合作 (Wirtschaftsdeutsch & Verhandlungsführung) - 70 words
+L03: 宏观经济学、金融市场与国际贸易 (Makroökonomie & Welthandel) - 70 words
+L04: 法律德语、契约精神与司法公正 (Rechtssprache & Justiz) - 70 words
+L05: 生命伦理学、现代医学前沿与基因工程 (Bioethik & Gentechnik) - 70 words
+"""
+
+LESSONS_B2_PART1 = [
+    # LESSON 1
+    {
+        "id": "B2_L01",
+        "title": "第1课：学术语言与大学论文写作规范 (Wissenschaftssprache)",
+        "summary": "掌握名词化风格 (Nominalstil) 与动词化风格 (Verbalstil) 的深度互换、学术假设与论证方法",
+        "grammar": {
+            "title": "名词化风格与学术表达 (Nominalstil vs. Verbalstil)",
+            "sections": [
+                {
+                    "heading": "1. 动词从句转化为介词名词短语 (Verbalstil -> Nominalstil)：",
+                    "content": "• Weil die Temperaturen steigen, schmelzen die Gletscher. -> Aufgrund des Temperaturanstiegs schmelzen die Gletscher.\n• Bevor das Experiment begann, wurden alle Instrumente kalibriert. -> Vor Beginn des Experiments wurden alle Instrumente kalibriert.\n• 名词化能够极大提高学术论文的信息密度与客观严谨性。"
+                },
+                {
+                    "heading": "2. 常用学术动词的名词化派生词尾：",
+                    "content": "• -ung (untersuchen -> die Untersuchung, erforschen -> die Erforschung)\n• -tion / -sion (definieren -> die Definition, diskutieren -> die Diskussion)\n• 中性动名词 (forschen -> das Forschen, analysieren -> das Analysieren)"
+                }
+            ]
+        },
+        "quiz": [
+            {
+                "id": "B2_L01_Q1",
+                "type": "GRAMMAR_FILL",
+                "question": "______ (Weil die Daten fehlten) konnte die Hypothese nicht überprüft werden.",
+                "options": ["Mangels ausreichender Daten", "Obwohl Daten da waren", "Damit Daten fehlen", "Während der Daten"],
+                "correctIndex": 0,
+                "explanation": "Mangels (+Gen.) 表示“由于缺乏……”，是典型的学术名词化因果介词短语。"
+            },
+            {
+                "id": "B2_L01_Q2",
+                "type": "MEANING_SELECT",
+                "question": "“die Prämisse” 在科学论证与哲学思辨中的确切中文含义是：",
+                "options": ["前提，假定前提", "结论", "数据异常值", "反驳论据"],
+                "correctIndex": 0,
+                "explanation": "die Prämisse 表示“逻辑论证的前提、预设前提条件”。"
+            },
+            {
+                "id": "B2_L01_Q3",
+                "type": "GRAMMAR_FILL",
+                "question": "Die Forscher gingen von der Annahme aus, dass alle Faktoren ______ (beeinflussen) werden.",
+                "options": ["wechselseitig beeinflusst", "beeinflussen gegenseitig", "zu beeinflussen", "beeinflussend"],
+                "correctIndex": 0,
+                "explanation": "主动态变被动态：dass alle Faktoren wechselseitig beeinflusst werden。"
+            },
+            {
+                "id": "B2_L01_Q4",
+                "type": "LISTENING_MCQ",
+                "question": "“Die empirischen Befunde widerlegen die bisherige Lehrmeinung eindeutig.” 表达的主旨是：",
+                "options": ["实证研究结果明确推翻了以往的传统学术共识。", "研究数据验证了传统学说。", "实验因缺乏样本而宣告失败。", "新的观点尚未获得任何证据支持。"],
+                "correctIndex": 0,
+                "explanation": "empirische Befunde = 实证研究结果，widerlegen = 驳斥、推翻，Lehrmeinung = 传统主流学说。"
+            },
+            {
+                "id": "B2_L01_Q5",
+                "type": "SENTENCE_BUILDER",
+                "question": "重组规范学术论证句：“widmet sich / Die vorliegende Untersuchung / der Analyse komplexer Phänomene”",
+                "options": ["Die vorliegende Untersuchung widmet sich der Analyse komplexer Phänomene.", "Der Analyse komplexer Phänomene widmet sich die vorliegende Untersuchung nicht.", "Die Untersuchung vorliegende widmet sich komplexer Phänomene.", "Widmet sich die Untersuchung der Analyse komplexer Phänomene."],
+                "correctIndex": 0,
+                "explanation": "标准学术句式：Die vorliegende Untersuchung widmet sich (+Dat.) ... (本项研究致力于……)。"
+            }
+        ],
+        "words": [
+            ("die Wissenschaft", "die", "Nomen", "-en", "科学，学术", "Die moderne Wissenschaft basiert auf empirischer Evidenz.", "现代科学奠基于实证证据的基础之上。"),
+            ("die Disziplin", "die", "Nomen", "-en", "学科，专业领域", "Interdisziplinäre Forschung verbindet unterschiedliche Disziplinen.", "跨学科研究将不同的学术门类有机联结在一起。"),
+            ("die Hypothese", "die", "Nomen", "-n", "科学假设，假说", "Die Forscher stellten eine gewagte Hypothese auf.", "科研人员提出了一项极其大胆的科学假说。"),
+            ("die Theorie", "die", "Nomen", "-n", "理论", "Einsteins Relativitätstheorie revolutionierte das physikalische Weltbild.", "爱因斯坦的相对论彻底革新了物理学的宇宙世界观。"),
+            ("die Methodik", "die", "Nomen", "-en", "方法论，研究方法", "Die angewandte Methodik muss transparent und nachvollziehbar sein.", "论文所采用的研究方法论必须公开透明且具备可重复性。"),
+            ("die Methodologie", "die", "Nomen", "unz.", "方法学", "In der Methodologie werden qualitative und quantitative Verfahren verglichen.", "在方法学层面，学者对定性与定量分析手段进行了系统比对。"),
+            ("die Empirie", "die", "Nomen", "unz.", "经验性，实证", "Die Theorie muss sich an der Empirie messen lassen.", "理论构想必须经受住实证经验检验的洗礼。"),
+            ("die Evidenz", "die", "Nomen", "-en", "确凿证据，明证", "Bislang fehlt jegliche wissenschaftliche Evidenz für diese Behauptung.", "迄今为止这项断言依然缺乏任何具有说服力的科学实据。"),
+            ("die Quelle", "die", "Nomen", "-n", "文献出处，史料", "Primärquellen sind für historische Analysen von unschätzbarem Wert.", "第一手原始文献对历史学深入考证具有无可估量的价值。"),
+            ("das Zitat", "das", "Nomen", "-e", "引文，引用", "Wörtliche Zitate müssen typografisch eindeutig gekennzeichnet werden.", "原文直接引用必须在排版格式上给予明确清晰的标识。"),
+            ("die Zitierweise", "die", "Nomen", "-n", "引用规范，引用体例", "In wissenschaftlichen Arbeiten ist eine einheitliche Zitierweise zwingend.", "在学术论文创作中，遵循统一严谨的参考文献引注体例是硬性要求。"),
+            ("das Plagiat", "das", "Nomen", "-e", "剽窃，学术抄袭", "Ein vorsätzliches Plagiat führt zur Aberkennung des akademischen Grades.", "蓄意剽窃抄袭将直接导致被依法撤销所获学术学位。"),
+            ("das Manuskript", "das", "Nomen", "-e", "手稿，投稿初稿", "Das Manuskript wurde von zwei unabhängigen Gutachtern begutachtet.", "该论文初稿已交由两位独立同行评审专家实施盲审。"),
+            ("die Publikation", "die", "Nomen", "-en", "学术出版物，发表", "Ihre jüngste Publikation erregte in Fachkreisen großes Aufsehen.", "她最新发表的学术著作在专业学术界引发了极其热烈的反响。"),
+            ("die Fachzeitschrift", "die", "Nomen", "-en", "专业学术期刊", "Der Artikel erschien in einer renommierten internationalen Fachzeitschrift.", "这篇高质量论文刊发在了一本享誉盛名的国际权威学术期刊上。"),
+            ("das Peer-Review", "das", "Nomen", "-s", "同行评审机制", "Das Peer-Review-Verfahren sichert die wissenschaftliche Qualität der Beiträge.", "同行评审程序有效捍卫并保证了学术投稿的严谨水准与含金量。"),
+            ("die Dissertation", "die", "Nomen", "-en", "博士毕业论文", "Er verteidigte seine Dissertation mit der Bestnote 'summa cum laude'.", "他以“最优等”的最高荣誉评级成功完成了博士学位论文答辩。"),
+            ("die Habilitation", "die", "Nomen", "-en", "教授资格论文", "Die Habilitation ist in Deutschland die traditionelle Voraussetzung für eine Professur.", "教授资格论文是德国传统体系下获聘终身正教授职位的必备门槛。"),
+            ("das Kolloquium", "das", "Nomen", "Kolloquien", "学术研讨会，答辩会", "Im Kolloquium präsentieren Doktoranden den aktuellen Stand ihrer Forschung.", "在博士研究生研讨会上，在读博士生汇报各自课题的最新进展。"),
+            ("das Symposium", "das", "Nomen", "Symposien", "专题学术研讨会", "Wissenschaftler aus dreißig Ländern nahmen an dem dreitägigen Symposium teil.", "来自三十个国家的学者专程出席了为期三天的专题学术研讨峰会。"),
+            ("die Forschungsfrage", "die", "Nomen", "-n", "研究核心问题", "Eine präzise formulierte Forschungsfrage bildet den Ausgangspunkt jeder Arbeit.", "清晰界定的核心研究问题构成了任何一篇优秀学术论文的逻辑起点。"),
+            ("die Fragestellung", "die", "Nomen", "-en", "设问，问题意识", "Die Untersuchung nähert sich der Fragestellung aus soziologischer Perspektive.", "本项研究尝试从社会学理论视角切入并剖析这一核心设问。"),
+            ("der Gegenstand", "der", "Nomen", "-e", "研究对象，主题客体", "Der Gegenstand der Untersuchung ist das veränderte Wählerverhalten.", "本项调研的客体对象是选民投票行为在数字时代的结构性变迁。"),
+            ("der Ansatz", "der", "Nomen", "-e", "研究进路，分析路径", "Dieser interdisziplinäre Ansatz eröffnet völlig neuartige Perspektiven.", "这种跨学科融合的分析进路为该学术难题开拓了崭新的认知视角。"),
+            ("die Prämisse", "die", "Nomen", "-n", "前提假定，先决条件", "Unter der Prämisse rationalen Handelns ergibt das Modell Sinn.", "唯有在个体理性经济人行为假设的前提下，该数理模型方能成立。"),
+            ("das Axiom", "das", "Nomen", "-e", "公理", "In der formalen Logik dient ein Axiom als unbewiesener Grundsatz.", "在形式逻辑学体系中，公理被奉为无需在此证明的基础性根本原则。"),
+            ("das Paradigma", "das", "Nomen", "Paradigmen", "范式，范例", "Die Entdeckung führte zu einem dramatischen Paradigmenwechsel in der Physik.", "这项重大科学发现直接在现代物理学界掀起了一场剧烈的范式革命。"),
+            ("der Diskurs", "der", "Nomen", "-e", "话语体系，学术对话", "Der gesellschaftliche Diskurs über künstliche Intelligenz spitzt sich zu.", "关于人工智能潜在伦理风险的公众话语讨论正在变得日趋激烈深入。"),
+            ("die Rezeption", "die", "Nomen", "-en", "接受，学术反响", "Die Rezeption des Werkes war von anfänglicher Skepsis geprägt.", "这部开拓性著作在面世初期经历了一段伴随着普遍怀疑的接受阶段。"),
+            ("die Synthese", "die", "Nomen", "-n", "综合，合题", "Das Fazit bietet eine schlüssige Synthese der unterschiedlichen Ansichten.", "结论部分对各种针锋相对的不同学派观点作出了兼收并蓄的逻辑综合。"),
+            ("die Antithese", "die", "Nomen", "-n", "对立面，反题", "Seine These provozierte sogleich eine scharfe akademische Antithese.", "他所提出的激进主张立刻遭到了来自同行权威学者的严厉学术反驳。"),
+            ("die Prämisse", "die", "Nomen", "-n", "基本假定", "Die Argumentation bricht zusammen, wenn die zugrunde liegende Prämisse falsch ist.", "如果作为底层支撑的前提假定出现逻辑偏差，整套论证体系将土崩瓦解。"),
+            ("die Kohärenz", "die", "Nomen", "unz.", "连贯性，逻辑自洽", "Achten Sie auf die gedankliche Kohärenz zwischen den einzelnen Abschnitten!", "在行文布局时请务必强化各核心段落之间思维逻辑的严密连贯性！"),
+            ("die Validität", "die", "Nomen", "unz.", "效度，有效性", "Die statistische Validität der Messergebnisse wurde durch Kontrollgruppen gesichert.", "测量实验数据的统计学效度通过严格设置对照组得到了充分验证。"),
+            ("die Reliabilität", "die", "Nomen", "unz.", "信度，可靠性", "Eine hohe Reliabilität garantiert die Wiederholbarkeit der Messergebnisse.", "高标准的信度指标确保了无论在何时复测实验结果均具备高度一致性。"),
+            ("die Signifikanz", "die", "Nomen", "-en", "统计显著性", "Der Unterschied zwischen beiden Gruppen erreichte statistische Signifikanz.", "两组样本数据之间的表现差异达到了统计学意义上的高度显著性水平。"),
+            ("die Korrelation", "die", "Nomen", "-en", "相关性", "Eine Korrelation zwischen zwei Variablen bedeutet noch keine Kausalität.", "两组变量在统计曲线上的高度相关性并不等同于二者存在因果律。"),
+            ("die Kausalität", "die", "Nomen", "-en", "因果关系", "Die Kausalität zwischen Rauchen und Lungenkrebs gilt als zweifelsfrei bewiesen.", "吸烟行为与肺部恶性肿瘤发病之间的直接因果关联早已得到无可辩驳的证实。"),
+            ("das Phänomen", "das", "Nomen", "Phänomene", "现象", "Das Phänomen der Inflation beschäftigt Ökonomen seit Jahrhunderten.", "通货膨胀这一宏观经济现象数百年来始终困扰并吸引着代代经济学家。"),
+            ("die Anomalie", "die", "Nomen", "-n", "反常，异常现象", "Die Messgeräte registrierten eine unerklärliche thermische Anomalie.", "精密仪器在监测过程中捕捉到了一处无法用现有理论解释的热学异常。"),
+            ("die Dimension", "die", "Nomen", "-en", "维度，体量", "Das Problem besitzt eine ethische und eine völkerrechtliche Dimension.", "该项危机不仅关乎伦理道德考量，同时还蕴含着严肃的国际法法权维度。"),
+            ("die Skepsis", "die", "Nomen", "unz.", "怀疑态度", "Gesunde Skepsis ist die wichtigste Tugend jedes Forschenden.", "保持理性健康的求索怀疑态度是每一位严谨科研工作者不可或缺的美德。"),
+            ("das Postulat", "das", "Nomen", "-e", "基本要求，公准", "Objektivität bleibt das oberste Postulat jeder wissenschaftlichen Disziplin.", "客观中立性始终被奉为所有现代实证科学门类最高规格的终极基本准则。"),
+            ("der Befund", "der", "Nomen", "-e", "调研结果，实测诊断", "Die empirischen Befunde stützen die ursprüngliche These eindrucksvoll.", "最新的实证调研数据对最初提出的核心理论猜想形成了极其有力的支撑。"),
+            ("die Datenerhebung", "die", "Nomen", "-en", "数据收集，问卷调研", "Die Datenerhebung erfolgte mittels standardisierter Online-Fragebögen.", "本次大规模调研的数据采集工作全部借助标准化在线数字问卷系统完成。"),
+            ("die Stichprobe", "die", "Nomen", "-n", "随机抽样样本", "Die repräsentative Stichprobe umfasste über zweitausend Probanden.", "具有高度代表性的随机抽查样本总量覆盖了超过两千名有效受试者。"),
+            ("die Kontrollgruppe", "die", "Nomen", "-n", "对照组，控制组", "Die Kontrollgruppe erhielt während der gesamten Studie lediglich ein Placebo.", "在长达半年的双盲临床试验中，对照组仅被安排定时服用安慰剂对照。"),
+            ("der Proband", "der", "Nomen", "-en", "受试者，实验对象", "Alle Probanden wurden vor Beginn ausführlich über Risiken aufgeklärt.", "所有参试者在入组之前均就可能遭遇的潜在潜在风险签署了知情同意书。"),
+            ("die Variable", "die", "Nomen", "-n", "变量", "In komplexen Systemen müssen zahlreiche abhängige Variablen berücksichtigt werden.", "在错综复杂的动态大系统中，研究者必须同时兼顾多维度的相关因变量。"),
+            ("die Abweichung", "die", "Nomen", "-en", "偏差，偏离", "Die Standardabweichung lag bei weniger als zwei Prozentpunkten.", "实测数据经严密回归分析后的标准差仅维持在不足两个百分点的区间。"),
+            ("erforschen", "kein", "Verb", "erforschte, erforscht", "深入探究，研究", "Wissenschaftler erforschen die Mechanismen neurodegenerativer Krankheiten.", "神经生物学家正夜以继日地深入探究神经退行性疾病的病理作用机制。"),
+            ("analysieren", "kein", "Verb", "analysierte, analysiert", "剖析，化验分析", "Die Daten wurden mittels modernster Algorithmen statistisch analysiert.", "所有海量原始观测数据均依托前沿数学算法完成了严密的多维统计剖析。"),
+            ("verifizieren", "kein", "Verb", "verifizierte, verifiziert", "证实，核实真伪", "Experimentelle Befunde müssen unabhängig verifiziert werden.", "任何重大的实验新发现都必须接受来自全球同行独立重复试验的检验核实。"),
+            ("falsifizieren", "kein", "Verb", "falsifizierte, falsifiziert", "证伪，推翻假说", "Ein einziges Gegenbeispiel genügt oft, um eine Theorie zu falsifizieren.", "在逻辑实证主义框架下，单个确凿的反例往往足以彻底证伪一套全称理论。"),
+            ("postulieren", "kein", "Verb", "postulierte, postuliert", "假设，主张设定", "Der Autor postuliert die Existenz eines universellen Naturgesetzes.", "作者在论文开篇便明确假定宇宙中必然存在某种普适的永恒自然规律。"),
+            ("differenzieren", "kein", "Verb", "differenzierte, differenziert", "细分，区分", "Man muss begrifflich zwischen Korrelation und Kausalität differenzieren.", "在学术思辨中，必须从概念定义层面上严密区分关联现象与本质因果律。"),
+            ("abstrahieren", "kein", "Verb", "abstrahierte, abstrahiert", "抽象，提炼概念 (von)", "In Modellen abstrahiert man bewusst von störenden Nebeneffekten.", "在构建抽象数学模型时，研究人员会刻意剔除各种次要干扰性附带因素。"),
+            ("konkretisieren", "kein", "Verb", "konkretisierte, konkretisiert", "使具体化", "Der Forscher konkretisierte seine Thesen anhand dreier Fallstudien.", "学者借助三个极具代表性的行业深度案例研究将自己的核心论点全面具象化。"),
+            ("rekonstruieren", "kein", "Verb", "rekonstruierte, rekonstruiert", "重构，复原", "Historiker rekonstruierten den genauen Ablauf der Friedensverhandlungen.", "历史学者凭借解密原始档案精确复原了当年和平谈判幕后的全部细节经过。"),
+            ("dokumentieren", "kein", "Verb", "dokumentierte, dokumentiert", "记录，文献证明", "Alle Versuchsbedingungen wurden minutiös im Laborjournal dokumentiert.", "所有的实验环境参数与微观变化均被一丝不苟地详尽记录在实验室日志中。"),
+            ("resümieren", "kein", "Verb", "resümierte, resümiert", "总结，概括归纳", "Abschließend lässt sich resümieren, dass die Frage weiter offenbleibt.", "纵观全篇我们可以总结认为：这一前沿科学争端目前在学界仍未尘埃落定。"),
+            ("widerlegen", "kein", "Verb", "widerlegte, widerlegt", "反驳，推翻", "Die neuen Satellitendaten widerlegen die bisherige Klimaprognose.", "最新的高精度气象卫星遥感测绘数据彻底推翻了以往粗糙的气候预测结论。"),
+            ("begründen", "kein", "Verb", "begründete, begründet", "论证，奠定基础", "Er begründete eine neue theoretische Strömung in der Sprachwissenschaft.", "他开宗明义地在现代语言学研究领域中创立并奠基了一个崭新的理论流派。"),
+            ("empirisch", "kein", "Adjektiv", "-", "实证的，经验主义的", "Die Studie liefert fundierte empirische Belege für das Modell.", "本项长周期纵向跟踪研究为该理论模型提供了极其坚实可靠的实证佐证。"),
+            ("interdisziplinär", "kein", "Adjektiv", "-", "跨学科的", "Das Projekt erfordert interdisziplinäre Zusammenarbeit von Biologie und KI.", "该国家级重大攻关项目迫切需要生物学与人工智能团队开展跨学科协同。"),
+            ("plausibel", "kein", "Adjektiv", "-", "合情合理的，说得通的", "Ihre Erklärung klingt im ersten Moment außerordentlich plausibel.", "她的这一套理论阐释在第一眼看上去给人的感觉显得极其合情合理且逻辑顺畅。"),
+            ("schlüssig", "kein", "Adjektiv", "-", "严谨自洽的", "Das gesamte Argumentationsmuster ist logisch schlüssig und unanfechtbar.", "整套论证论述逻辑链条环环相扣、高度自洽，展现出无可辩驳的严密性。"),
+            ("heterogen", "kein", "Adjektiv", "-", "异质的，多元多样的", "Die untersuchte Zielgruppe wies eine sehr heterogene Zusammensetzung auf.", "本次受试调研的目标群体在年龄、教育背景与阶层结构上呈现出高度异质性。"),
+            ("homogen", "kein", "Adjektiv", "-", "同质的，匀质统一的", "Ein homogenes Versuchsfeld minimiert unkontrollierbare Störvariablen.", "构建一个高度均质化的实验对照样本场能够最大程度压低不可控的外生干扰。"),
+            ("fundiert", "kein", "Adjektiv", "-", "底蕴深厚的，有充分根据的", "Er vertritt eine fachlich exzellent fundierte und unerschütterliche Position.", "他在该学术领域内始终坚守着一套在专业学理上底蕴极其扎实的坚定立场。")
+        ]
+    },
+
+    # LESSON 2
+    {
+        "id": "B2_L02",
+        "title": "第2课：商务谈判、商务德语与跨国商务合作 (Wirtschaftsdeutsch)",
+        "summary": "掌握扩展分词定语 (Erweiterte Partizipialattribute) 与高阶商业谈判斡旋用语与跨国合作核心词汇",
+        "grammar": {
+            "title": "扩展分词定语 (Erweiterte Partizipialattribute) 的解构与应用",
+            "sections": [
+                {
+                    "heading": "1. 扩展分词定语结构（冠词与名词之间嵌入长状语和分词）：",
+                    "content": "• die [in Frankfurt erfolgreich abgeschlossenen] Verhandlungen\n• = die Verhandlungen, die in Frankfurt erfolgreich abgeschlossen wurden.\n• das [auf dem asiatischen Markt stark wachsende] Unternehmen\n• = das Unternehmen, das auf dem asiatischen Markt stark wächst."
+                },
+                {
+                    "heading": "2. 阅读与书面语中的拆解步骤：",
+                    "content": "• 步骤一：圈出冠词 (die) 与中心名词 (Verhandlungen)；\n• 步骤二：识别分词类型（第一分词表示主动进行，第二分词表示及物被动或不及物完成）；\n• 步骤三：将夹在中间的修饰语还原为关系从句进行精准理解与互译。"
+                }
+            ]
+        },
+        "quiz": [
+            {
+                "id": "B2_L02_Q1",
+                "type": "GRAMMAR_FILL",
+                "question": "Die ______ (gestern von beiden Seiten unterzeichnen) Vereinbarung tritt sofort in Kraft.",
+                "options": ["gestern von beiden Seiten unterzeichnete", "unterzeichnete gestern von beiden Seiten", "gestern unterzeichnende von beiden Seiten", "unterzeichnete Vereinbarung gestern"],
+                "correctIndex": 0,
+                "explanation": "扩展分词定语框架结构：定冠词 Die + 扩展成分 (gestern von beiden Seiten) + 第二分词词尾 (unterzeichnete) + 名词 (Vereinbarung)。"
+            },
+            {
+                "id": "B2_L02_Q2",
+                "type": "MEANING_SELECT",
+                "question": "“die Verhandlungssache” 的商务法律含义是：",
+                "options": ["可谈判协商的事项", "不可更改的既定条款", "已生效判决", "违约罚金"],
+                "correctIndex": 0,
+                "explanation": "die Verhandlungssache 指在商业谈判中“有待协商讨价还价的事项”。"
+            },
+            {
+                "id": "B2_L02_Q3",
+                "type": "GRAMMAR_FILL",
+                "question": "Wir müssen die durch Rohstoffengpässe ______ (verursachen) Mehrkosten an die Kunden weitergeben.",
+                "options": ["verursachten", "verursachenden", "verursacht", "verursachend"],
+                "correctIndex": 0,
+                "explanation": "被动完成且修饰复数四格名词 Mehrkosten：die ... verursachten Mehrkosten。"
+            },
+            {
+                "id": "B2_L02_Q4",
+                "type": "LISTENING_MCQ",
+                "question": "“Beide Delegationen einigten sich auf eine schrittweise Anpassung der Lieferkonditionen.” 意味着：",
+                "options": ["双方代表团就分阶段逐步调整供货条款达成一致。", "谈判因分歧严重破裂。", "买方拒绝接受任何交货调整。", "供货协议被无条件终止。"],
+                "correctIndex": 0,
+                "explanation": "sich einigen auf = 就…达成一致，schrittweise = 分阶段逐步，Lieferkonditionen = 供货交付条款。"
+            },
+            {
+                "id": "B2_L02_Q5",
+                "type": "SENTENCE_BUILDER",
+                "question": "重组商业信函表达：“stehen wir Ihnen / Für weitere Verhandlungen / jederzeit gern zur Verfügung”",
+                "options": ["Für weitere Verhandlungen stehen wir Ihnen jederzeit gern zur Verfügung.", "Jederzeit gern zur Verfügung für weitere Verhandlungen stehen wir Ihnen.", "Für weitere Verhandlungen wir Ihnen jederzeit gern stehen zur Verfügung.", "Wir stehen für weitere Verhandlungen zur Verfügung jederzeit gern."],
+                "correctIndex": 0,
+                "explanation": "标准商务德语固定客套句：介词短语放句首 + 动词 stehen + 主语 wir + 补足语。"
+            }
+        ],
+        "words": [
+            ("die Verhandlung", "die", "Nomen", "-en", "商务谈判，磋商", "Die Verhandlungen dauerten bis tief in die Nacht an.", "商务谈判一直持续到了深夜时分。"),
+            ("der Vertrag", "der", "Nomen", "-e", "商务合同，契约", "Der Liefervertrag wurde von beiden Vorständen unterzeichnet.", "双方董事会成员共同正式签署了长期供货合同。"),
+            ("die Klausel", "die", "Nomen", "-n", "合同条款，细则", "Die Salvatorische Klausel sichert die Gültigkeit des Restvertrags.", "保全条款确保了合同其余条款在个别条款无效时的法律效力。"),
+            ("das Protokoll", "das", "Nomen", "-e", "会议纪要", "Das Protokoll der Aufsichtsratssitzung wird vertraulich behandelt.", "监事会会议纪要被作为核心商业秘密予以严格保密。"),
+            ("die Agenda", "die", "Nomen", "Agenden", "议程，议事日程", "Punkt drei auf der Agenda betrifft die Übernahme des Konkurrenten.", "议事日程上的第三项专门聚焦于针对竞争对手的并购重组。"),
+            ("die Delegation", "die", "Nomen", "-en", "商务代表团", "Die deutsche Delegation traf heute zu Verhandlungen in Peking ein.", "德国高级商务代表团于今日飞抵北京展开战略经贸磋商。"),
+            ("der Partner", "der", "Nomen", "-", "商业伙伴（男）", "Zuverlässige Partner sind das Fundament eines stabilen Vertriebsnetzes.", "守信可托的商业合作伙伴是维系稳固销售渠道网络的奠基之石。"),
+            ("die Partnerschaft", "die", "Nomen", "-en", "战略合作伙伴关系", "Beide Konzerne vereinbarten eine langfristige strategische Partnerschaft.", "两大工业巨头集团就建立长期全面的战略合作伙伴关系签署了备忘录。"),
+            ("das Joint-Venture", "das", "Nomen", "-s", "合资企业", "Das deutsch-chinesische Joint-Venture produziert moderne Batteriezellen.", "该中德合资企业在图林根州专注投产世界领先的先进动力电池电芯。"),
+            ("die Fusion", "die", "Nomen", "-en", "企业合并，企业兼并", "Die geplante Fusion bedarf der Genehmigung durch das Kartellamt.", "该项备受瞩目的巨头合并案必须通过反垄断反不正当竞争局的严格审查。"),
+            ("die Übernahme", "die", "Nomen", "-n", "企业收购，兼并", "Die feindliche Übernahme konnte in letzter Sekunde abgewendet werden.", "这场恶意敌意收购企图在千钧一发的最后一刻被成功化解粉碎。"),
+            ("der Vorstand", "der", "Nomen", "-e", "执行董事会，董事", "Der Vorstand präsentierte den Aktionären ein Rekordergebnis.", "执行董事会向全体出席股东大会的股东交出了一份创历史新高的亮眼答卷。"),
+            ("der Aufsichtsrat", "der", "Nomen", "-e", "监事会", "Der Aufsichtsrat beruft und kontrolliert den Vorstand des Konzerns.", "股份公司监事会依据公司法负责依法任命并严密监督执行董事会。"),
+            ("der Geschäftsführer", "der", "Nomen", "-", "总经理，执行总裁", "Der Geschäftsführer haftet persönlich für steuerliche Pflichtverletzungen.", "有限责任公司总经理在严重失职偷漏税款时须承担个人无限连带责任。"),
+            ("der Vertrieb", "der", "Nomen", "-e", "销售部门，分销通路", "Der weltweite Vertrieb wurde durch neue Digitalplattformen gestärkt.", "依托全新搭建的数字化电商生态平台，全球分销网络实力大增。"),
+            ("die Beschaffung", "die", "Nomen", "unz.", "物料采购，供应链管理", "Nachhaltige Beschaffung verringert ökologische und soziale Risiken.", "推行负责任的可持续绿色供应链物料采购能够大幅规避外部系统性风险。"),
+            ("die Logistik", "die", "Nomen", "unz.", "物流仓储", "Eine reibungslose Logistik sichert die just-in-time-Fertigung.", "畅通无阻、分秒不差的现代化物流系统全力保障了零库存准时制生产。"),
+            ("die Lieferkette", "die", "Nomen", "-n", "供应链", "Das Lieferkettengesetz verpflichtet Unternehmen zur Einhaltung von Menschenrechten.", "《供应链尽职调查法》强制要求各大跨国企业全面捍卫沿线人权与环保红线。"),
+            ("der Engpass", "der", "Nomen", "-e", "瓶颈，供应短缺", "Lieferengpässe bei Halbleitern bremsten die weltweite Automobilproduktion.", "车规级半导体芯片在全球范围内的断供瓶颈严重遏制了汽车产业产能。"),
+            ("die Frist", "die", "Nomen", "-en", "交货期限，履约宽限期", "Die Frist zur Nachbesserung läuft am kommenden Freitag unwiderruflich ab.", "责令补正质量瑕疵的法定宽限期将于下周五下班前不可撤销地到期。"),
+            ("der Verzug", "der", "Nomen", "unz.", "违约延迟，给付迟延", "Bei Zahlungsverzug werden marktübliche Verzugszinsen in Rechnung gestellt.", "一旦发生应收货款给付迟延，本司将依法按行业通行标准加收滞纳金。"),
+            ("die Konventionalstrafe", "die", "Nomen", "-n", "违约金，罚款", "Im Falle einer verspäteten Fertigstellung droht eine saftige Konventionalstrafe.", "假若发生工期无端严重拖延，总包方将面临承担天价合同惩罚性违约金。"),
+            ("die Reklamation", "die", "Nomen", "-en", "售后投诉，索赔要求", "Die Abteilung für Qualitätskontrolle bearbeitet jede Reklamation unverzüglich.", "全面质量管理风控部门会在第一时间严肃彻查并妥善处理每一单客户索赔。"),
+            ("die Gewährleistung", "die", "Nomen", "-en", "法定质量瑕疵担保责任", "Die gesetzliche Gewährleistung beträgt bei Neuwaren grundsätzlich zwei Jahre.", "根据德国民法典规定，全新商品买卖的法定瑕疵担保期原则上固定为两年。"),
+            ("die Garantie", "die", "Nomen", "-n", "原厂品质保证，商业保修", "Der Hersteller gewährt eine fünfjährige Garantie gegen Durchrostung.", "汽车制造厂商向广大购车车主提供长达整整五年的车身防锈穿品质质保。"),
+            ("die Kulanz", "die", "Nomen", "unz.", "通融处理，酌情善意照顾", "Aus Kulanz übernahm das Autohaus die vollen Reparaturkosten.", "出于维护大客户长远客情关系的通融善意，4S店全额免除了此次维修开支。"),
+            ("der Umsatz", "der", "Nomen", "-e", "营业额，销售收入", "Der Konzern steigerte seinen weltweiten Umsatz um acht Prozent.", "该跨国集团将其在海外各大主力市场的全年营业总额强势拉升了八个百分点。"),
+            ("der Gewinn", "der", "Nomen", "-e", "净利润，盈利盈余", "Der operative Gewinn vor Steuern übertraf die Erwartungen der Analysten.", "扣除税费前的企业核心经常性营业利润大幅超越了华尔街资深分析师预期。"),
+            ("die Marge", "die", "Nomen", "-n", "利润率，毛利率", "Durch Prozessoptimierung konnte die operative Marge spürbar verbessert werden.", "通过全流程精益生产流程再造优化，工厂的经常性营业毛利率得到显著提振。"),
+            ("die Liquidität", "die", "Nomen", "unz.", "流动性，现金流资金储备", "Ausreichende Liquidität sichert das Überleben des Mittelständlers in der Krise.", "充沛健康的现金流储备是中小型隐形冠军企业在经济逆风寒冬中活下去的定海神针。"),
+            ("die Bonität", "die", "Nomen", "unz.", "商业信用评级，履约偿债能力", "Vor Vergabe des Großkredits prüfte die Bank die Bonität des Schuldners.", "在正式审批发放这笔巨额银团信贷前，经办银行严密穿透审查了借款人的资信。"),
+            ("die Rendite", "die", "Nomen", "-n", "资本投资回报率", "Investoren achten bei Technologieaktien auf ein attraktives Chance-Rendite-Profil.", "机构风险投资者在评估前沿科技成长股时极其注重潜在收益与风险的匹配度。"),
+            ("das Portfolio", "das", "Nomen", "-s", "投资组合，产品矩阵", "Das Unternehmen bereinigte sein Portfolio um unrentable Randsparten.", "该企业大刀阔斧剥离亏损边缘板块，对核心产品矩阵实施了聚焦瘦身。"),
+            ("die Akquise", "die", "Nomen", "-n", "大客户开拓，获客招揽", "Die erfolgreiche Akquise renommierter Neukunden kurbelte das Wachstum an.", "面向行业头部大客户的高效商务破冰开拓为公司业绩重回高增注入了强心剂。"),
+            ("der Rabatt", "der", "Nomen", "-e", "商业折扣，优惠让利", "Bei Abnahme von Großmengen gewähren wir einen gestaffelten Mengenrabatt.", "对于单笔下单采购达到超大批量的战略客户，我们执行梯次阶梯式批量折扣。"),
+            ("die Skonto", "die", "Nomen", "Skonti", "现金折扣（提前付款折让）", "Zwei Prozent Skonto werden gewährt bei Begleichung innerhalb von zehn Tagen.", "凡在发票开具之日起十个工作日内火速完成货款电汇者，享受2%现金结算折让。"),
+            ("die Überweisung", "die", "Nomen", "-en", "银行转账，电子汇款", "Die internationale Überweisung wurde per SWIFT-System abgewickelt.", "这笔跨国大宗战略经贸结算汇款全部通过环球银行金融电信协会系统实时结清。"),
+            ("die Rechnung", "die", "Nomen", "-en", "商业发票，账单", "Die ordnungsgemäße Rechnung muss Steuernummer und USt-IdNr. ausweisen.", "符合财税合规标准的商业增值税发票必须依法完整载明纳税人识别号与税号。"),
+            ("die Mahnung", "die", "Nomen", "-en", "催款函，督促通知", "Die dritte Mahnung droht unmissverständlich mit gerichtlichen Schritten.", "发出的第三道具有法律效力的正式催款函明确通告将依法启动强制诉讼程序。"),
+            ("die Insolvenz", "die", "Nomen", "-en", "破产倒闭，无力偿债", "Wegen Zahlungsunfähigkeit musste die Tochtergesellschaft Insolvenz anmelden.", "由于资不抵债且出现流动性枯竭断裂，该海外子公司被迫依法申请破产清算。"),
+            ("verhandeln", "kein", "Verb", "verhandelte, verhandelt", "协商谈判 (über)", "Wir verhandeln derzeit über verbesserte Zahlungskonditionen.", "我们目前正就进一步优化信用账期与支付结算条款与客商展开密集商务洽商。"),
+            ("abschließen", "kein", "Verb", "schloss ab, abgeschlossen", "订立，签署合同", "Nach monatelangen Vorgesprächen konnten wir das Großgeschäft abschließen.", "在历经长达数月之久的多轮预备性接洽后，我们终于成功拍板锁定了这桩大单。"),
+            ("kündigen", "kein", "Verb", "kündigte, gekündigt", "解除合同，辞职", "Wegen grober Pflichtverletzungen wurde der Dienstleistungsvertrag fristlos gekündigt.", "鉴于乙方存在令人震惊的严重违规失职行径，该长期综合服务协议被即刻单方解除。"),
+            ("einigen", "kein", "Verb", "einigte, geeinigt", "达成一致 (sich auf)", "Die Parteien konnten sich auf eine moderate Preiserhöhung von drei Prozent einigen.", "买卖双方最终各让一步，就每年温和上调3%基准采购指导价的折中案达成了一致。"),
+            ("vereinbaren", "kein", "Verb", "vereinbarte, vereinbart", "商定，达成协议", "Wir haben einen strengen Geheimhaltungsklausel-Katalog vereinbart.", "双方在正式签署的主框架协议中白纸黑字严格商定了巨细靡遗的商业保密清单。"),
+            ("überzeugen", "kein", "Verb", "überzeugte, überzeugt", "说服，使信服", "Der Key-Account-Manager überzeugte den Kunden durch Fachkompetenz.", "这位资深大客户总监凭借无人能及的深厚专业技术素养一举彻底折服了挑剔的甲方。"),
+            ("nachgeben", "kein", "Verb", "gab nach, nachgegeben", "让步，妥协", "In der Preisfrage wollte der erfahrene Einkäufer keinen einzigen Cent nachgeben.", "在关键基准单价的生死博弈中，老谋深算的集团首席采购总监不肯退让半步。"),
+            ("bestehen", "kein", "Verb", "bestand, bestanden", "坚持要求 (auf)", "Wir bestehen unnachgiebig auf der fristgerechten Erfüllung aller Pflichten.", "针对合同所白纸黑字载明的一切履约义务，我方始终毫不妥协地坚持必须按期兑现。"),
+            ("erzielen", "kein", "Verb", "erzielte, erzielt", "斩获，取得业绩", "Das Startup konnte im vierten Quartal einen operativen Überschuss erzielen.", "这家硬科技初创企业终于在第四季度成功实现了经常性营业现金流转正盈利。"),
+            ("optimieren", "kein", "Verb", "optimierte, optimiert", "优化，精益化", "Unternehmen müssen ihre Geschäftsprozesse kontinuierlich optimieren.", "现代敏捷型企业必须时刻对自身内部的端到端端业务协同流程实施常态化敏捷优化。"),
+            ("vertreiben", "kein", "Verb", "vertrieb, vertrieben", "分销，销售", "Das Pharmaunternehmen vertreibt patentierte Medikamente in über achtzig Ländern.", "该跨国生物制药巨头将其拥有自主知识产权的专利新药分销远销全球八十多个国家。"),
+            ("akquirieren", "kein", "Verb", "akquirierte, akquiriert", "招揽新客，并购", "Durch gezieltes Onlinemarketing akquirierte die Agentur zahlreiche Neukunden.", "凭借精准高效的数字化集客营销战役，该公关代理机构成功招揽了大量高净值客户。"),
+            ("kooperieren", "kein", "Verb", "kooperierte, kooperiert", "通力合作 (mit)", "Mittelständische Betriebe kooperieren oft bei Forschung und Entwicklung.", "大量专注于细分赛道的德语区隐形冠军中小企业在底层前沿研发领域紧密抱团合作。"),
+            ("expandieren", "kein", "Verb", "expandierte, expandiert", "扩张，开拓海外市场", "Die Einzelhandelskette plant, aggressiv nach Osteuropa zu expandieren.", "这家大型连锁跨国零售集团雄心勃勃地制定了激进挺进并深耕东欧市场的出海战略。"),
+            ("stagnieren", "kein", "Verb", "stagnierte, stagniert", "停滞不前", "Während der Absatz im Inland stagnierte, wuchs das Auslandsgeschäft rasant.", "正当其本土国内销售额陷入横盘停滞泥潭之际，其海外出海业务却迎来了爆发式增长。"),
+            ("einbrechen", "kein", "Verb", "brach ein, eingebrochen", "暴跌，骤降", "Infolge der geopolitischen Krise brachen die Rohölimporte dramatisch ein.", "受到错综复杂的地缘政治危机冲击波影响，原油大宗进口报关总量遭遇了断崖式暴跌。"),
+            ("florieren", "kein", "Verb", "florierte, floriert", "欣欣向荣，繁荣兴旺", "Der grenzüberschreitende E-Commerce floriert ungeachtet der Zölle.", "尽管关税壁垒与摩擦不断，跨国跨境电商贸易依然展现出极为顽强的蓬勃生机。"),
+            ("auslagern", "kein", "Verb", "lagerte aus, ausgelagert", "业务外包，离岸外包", "Routineaufgaben im Rechnungswesen wurden an einen externen Dienstleister ausgelagert.", "企业财务会计部门中的大批量机械日常基础核算工作已被整体剥离外包给专业服务商。"),
+            ("haftbar", "kein", "Adjektiv", "-", "负有赔偿责任的", "Der Geschäftsführer ist für vorsätzliche Pflichtverletzungen persönlich haftbar.", "公司执行总经理在存在故意失职侵害公司利益的行为时，依法须承担个人连带赔偿责任。"),
+            ("verbindlich", "kein", "Adjektiv", "-", "具有法律约束力的", "Das unterzeichnete Memorandum of Understanding ist rechtlich verbindlich.", "双方签字画押的战略合作谅解备忘录对于各签署缔约方具有完全严肃的法律约束力。"),
+            ("unverbindlich", "kein", "Adjektiv", "-", "不具约束力的，参考性的", "Wir unterbreiten Ihnen ein freibleibendes und unverbindliches Preisangebot.", "我们谨在此向贵方呈递一份供贵司内部测算参考、暂不具备排他约束力的新报价单。"),
+            ("fristgerecht", "kein", "Adjektiv", "-", "按期履约的，守时的", "Die fristgerechte Lieferung der Bauteile sicherte den pünktlichen Produktionsstart.", "关键核心零部件的如期按时交付彻底确保了整车总装车间准时点火投产。"),
+            ("rentabel", "kein", "Adjektiv", "-", "有利可图的，高收益的", "Die Investition in Solaranlagen erweist sich als hochgradig rentabel.", "事实证明，向分布式屋顶光伏与储能微电网领域注资被公认是一桩回报极高的投资。"),
+            ("lukrativ", "kein", "Adjektiv", "-", "报酬丰厚的，诱人的", "Der Softwarekonzern sicherte sich einen lukrativen Regierungsauftrag.", "该基础工业软件巨头凭借绝对实力将一份利润极其丰厚的联邦政府采购大单斩获囊中。"),
+            ("insolvent", "kein", "Adjektiv", "-", "资不抵债破产的", "Das ehemals marktbeherrschende Unternehmen ist seit gestern offiziell insolvent.", "这家曾在业内呼风唤雨、占据垄断地位的行业巨无霸自昨日起已正式宣告资不抵债破产。"),
+            ("solvent", "kein", "Adjektiv", "-", "具备充沛偿付能力的", "Nur solvente Kunden erhalten ein Zahlungsziel von bis zu sechzig Tagen.", "唯有那些通过严苛资信审查、现金流实力雄厚的优质大客方能获准享受长达60天的账期。"),
+            ("kompromissbereit", "kein", "Adjektiv", "-", "富有妥协诚意的", "In der strittigen Haftungsfrage zeigten sich beide Parteien kompromissbereit.", "在争议最大的不可抗力违约免责与追偿上限条款上，谈判双方均释放出了诚挚的妥协意愿。"),
+            ("hartnäckig", "kein", "Adjektiv", "-", "执着顽强的，毫不让步的", "Der Verhandlungsführer verteidigte seine Position mit hartnäckiger Disziplin.", "首席谈判代表以极具战略定力的沉着与毫不松口的顽强韧性死守住了我方的底线原则。"),
+            ("seriös", "kein", "Adjektiv", "-", "正规可靠的，信誉良好的", "Ein seriöses Unternehmen verzichtet auf versteckte Zusatzkosten im Kleingedruckten.", "一家真正堂堂正正、视商誉如生命的卓越正规名企绝不会在合同蝇头小字里暗藏隐形收费陷阱。"),
+            ("innovativ", "kein", "Adjektiv", "-", "创新引领的", "Innovative Produkte sichern den technologischen Vorsprung im harten Weltmarkt.", "持续迭代、颠覆传统的硬核创新产品是我们在惨烈国际市场厮杀中立于不败之地的利刃。")
+        ]
+    },
+
+    # LESSON 3
+    {
+        "id": "B2_L03",
+        "title": "第3课：宏观经济学、金融市场与国际贸易 (Makroökonomie & Welthandel)",
+        "summary": "掌握第二虚拟式进阶应用 (Konjunktiv II) 在宏观经济假定、商业预判与外交委婉语中的高阶用法",
+        "grammar": {
+            "title": "第二虚拟式的高级应用 (Erweiterter Konjunktiv II: Spekulation & Diplomatie)",
+            "sections": [
+                {
+                    "heading": "1. 经济预测与非现实假设分析：",
+                    "content": "• Würde die Europäische Zentralbank die Leitzinsen senken, so stiege die Inflation.\n• Hätte der Staat früher interveniert, wäre die Bankenkrise vermeidbar gewesen.\n• 在经济学术报告中，经常使用第二虚拟式对假设模型情景 (Szenarioanalyse) 进行推演。"
+                },
+                {
+                    "heading": "2. 商务磋商与外交谈判中的委婉客气与策略性建议：",
+                    "content": "• Es empföhle sich, die Risiken zu streuen. (= Es wäre ratsam...)\n• Wir fänden es vorteilhaft, wenn Sie den Termin vorverlegten."
+                }
+            ]
+        },
+        "quiz": [
+            {
+                "id": "B2_L03_Q1",
+                "type": "GRAMMAR_FILL",
+                "question": "Wenn die EZB die Zinsen nicht angehoben hätte, ______ (steigen) die Inflation noch dramatischer.",
+                "options": ["wäre gestiegen", "würde steigen", "ist gestiegen", "sei gestiegen", "hatte gestiegen"],
+                "correctIndex": 0,
+                "explanation": "过去非现实条件从句的过去完成时虚拟搭配：hätte angehoben ..., wäre gestiegen。"
+            },
+            {
+                "id": "B2_L03_Q2",
+                "type": "MEANING_SELECT",
+                "question": "“die Konjunktur” 在宏观经济学中的标准学术定义是：",
+                "options": ["宏观经济景气周期，商业周期", "微观产品价格波动", "公司破产重整", "法定最低薪酬"],
+                "correctIndex": 0,
+                "explanation": "die Konjunktur 指整体国民经济的周期性起伏与宏观景气循环。"
+            },
+            {
+                "id": "B2_L03_Q3",
+                "type": "GRAMMAR_FILL",
+                "question": "Es ______ (empfehlen) sich, die Währungsrisiken durch Termingeschäfte abzusichern.",
+                "options": ["empföhle", "empfiehlt", "empfohlen", "empfehle"],
+                "correctIndex": 0,
+                "explanation": "高阶第二虚拟式婉言表达：Es empföhle sich ... (建议……/……是明智之举)。"
+            },
+            {
+                "id": "B2_L03_Q4",
+                "type": "LISTENING_MCQ",
+                "question": "“Eine drohende Rezession veranlasst Unternehmen zu drastischen Investitionskürzungen.” 意味着：",
+                "options": ["迫在眉睫的经济衰退促使企业大幅削减投资开支。", "经济繁荣吸引大量资本涌入。", "企业正在大规模扩招技术员工。", "利率下降刺激了实体投资。"],
+                "correctIndex": 0,
+                "explanation": "Rezession = 经济衰退，drastisch = 严厉剧烈的，Investitionskürzungen = 削减投资。"
+            },
+            {
+                "id": "B2_L03_Q5",
+                "type": "SENTENCE_BUILDER",
+                "question": "重组宏观经济分析句：“führte / Ein Anstieg der Rohstoffpreise / unweigerlich / zu höherer Inflation”",
+                "options": ["Ein Anstieg der Rohstoffpreise führte unweigerlich zu höherer Inflation.", "Unweigerlich führte zu höherer Inflation ein Anstieg der Rohstoffpreise nicht.", "Zu höherer Inflation ein Anstieg der Rohstoffpreise unweigerlich führte.", "Führte ein Anstieg der Rohstoffpreise unweigerlich zu höherer Inflation."],
+                "correctIndex": 0,
+                "explanation": "主语(Ein Anstieg der Rohstoffpreise) + 谓语(führte) + 状语(unweigerlich) + 介词补足语(zu höherer Inflation)。"
+            }
+        ],
+        "words": [
+            ("die Ökonomie", "die", "Nomen", "unz.", "经济学，经济", "Die soziale Marktwirtschaft prägt die deutsche Ökonomie.", "社会市场经济模式深刻铸就了当代德国经济体系的灵魂。"),
+            ("die Makroökonomie", "die", "Nomen", "unz.", "宏观经济学", "In der Makroökonomie untersucht man Gesamtwirtschaft und Geldpolitik.", "宏观经济学专门着眼于国民经济总体运行与国家货币政策联动。"),
+            ("die Konjunktur", "die", "Nomen", "-en", "经济景气周期", "Die Konjunktur kühlt sich infolge steigender Zinsen spürbar ab.", "受各大央行基准利率持续走高的抑制，整体宏观经济景气周期明显降温。"),
+            ("der Aufschwung", "der", "Nomen", "-e", "经济复苏，繁荣上行", "Ein kräftiger wirtschaftlicher Aufschwung senkt die Arbeitslosigkeit.", "一轮强劲的国民经济复苏与繁荣上行将大幅压低全社会失业率。"),
+            ("der Abschwung", "der", "Nomen", "-e", "经济下行，回落", "Ökonomen warnen vor einem langanhaltenden wirtschaftlichen Abschwung.", "宏观经济学者纷纷发出预警，呼吁谨防实体经济陷入长期阴跌下行泥淖。"),
+            ("die Rezession", "die", "Nomen", "-en", "经济衰退", "Zwei aufeinanderfolgende Quartale mit negativem Wachstum bedeuten Rezession.", "国内生产总值连续两个季度录得负增长在统计学上即被严格定义为经济衰退。"),
+            ("die Depression", "die", "Nomen", "-en", "大萧条，严重危机", "Die Weltwirtschaftskrise von 1929 mündete in eine verheerende Depression.", "1929年爆发的全球资本主义经济大危机最终酿成了一场毁灭性的大萧条。"),
+            ("die Inflation", "die", "Nomen", "-en", "通货膨胀", "Die galoppierende Inflation entwertet die Ersparnisse der Bürger.", "恶性失控的恶性通货膨胀让普通老百姓辛勤积攒的储蓄购买力荡然无存。"),
+            ("die Deflation", "die", "Nomen", "unz.", "通货紧缩", "Deflation führt zu sinkenden Preisen und einer Lähmung der Investitionen.", "通货紧缩会诱发物价全线下挫，进而导致企业未来的实体追加投资陷入瘫痪。"),
+            ("das Bruttoinlandsprodukt", "das", "Nomen", "unz.", "国内生产总值 (BIP)", "Das Bruttoinlandsprodukt dient als zentraler Indikator für Wohlstand.", "国内生产总值被全球公认为衡量一个主权国家经济体量与财富的核心指标。"),
+            ("das Wachstum", "das", "Nomen", "unz.", "经济增长", "Nachhaltiges Wachstum muss ökologische Grenzen respektieren.", "真正具有长远生命力的可持续经济增长必须恪守生态环境承载力红线。"),
+            ("der Leitzins", "der", "Nomen", "-en", "基准利率", "Die Europäische Zentralbank beschloss eine Erhöhung der Leitzinsen.", "欧洲中央银行货币政策管理委员会通过决议，正式宣布再度上调核心基准利率。"),
+            ("die Zentralbank", "die", "Nomen", "-en", "中央银行", "Die Europäische Zentralbank wacht unerbittlich über die Preisstabilität.", "欧洲中央银行肩负着不惜一切代价捍卫欧元区物价水平总体稳定的法定神圣天职。"),
+            ("die Geldpolitik", "die", "Nomen", "unz.", "货币政策", "Eine restriktive Geldpolitik soll die Überhitzung der Märkte dämpfen.", "推行从紧稳健的货币收缩政策旨在抑制资产泡沫与资本市场的非理性过热。"),
+            ("die Finanzpolitik", "die", "Nomen", "unz.", "国家财政政策", "Solide Finanzpolitik erfordert den Abbau von Haushaltsdefiziten.", "推行负责任的稳健财政政策，当务之急在于大幅压降削减沉重财政赤字。"),
+            ("das Defizit", "das", "Nomen", "-e", "财政赤字，逆差", "Das staatliche Haushaltsdefizit überschritt die zulässige Obergrenze.", "该国政府的年度公共财政预算赤字率已严重突破了欧盟财政纪律警戒线。"),
+            ("die Schuldenbremse", "die", "Nomen", "-n", "债务刹车机制（宪政债务上限）", "Die grundgesetzliche Schuldenbremse begrenzt die Neuverschuldung des Bundes.", "德国载入根本大法的“债务刹车机制”从宪法层面刚性锁死了联邦新增国债规模。"),
+            ("die Staatsanleihe", "die", "Nomen", "-n", "国债，主权债券", "Deutsche Staatsanleihen gelten weltweit als sicherer Hafen für Anleger.", "德国联邦政府发行的主权基准国债被全球资本市场公认为抵御风暴的头号避风港。"),
+            ("die Börse", "die", "Nomen", "-n", "证券交易所", "An der Frankfurter Börse notieren führende internationale Blue-Chip-Konzerne.", "在法兰克福证券交易所的大盘挂牌交易着全球最具声誉的各行业蓝筹巨擘。"),
+            ("die Aktie", "die", "Nomen", "-n", "股票", "Aktionäre partizipieren über Dividenden am Geschäftserfolg der AG.", "全体股东通过依法按期获取丰厚年度现金红利分红，共享上市公司的经营成长硕果。"),
+            ("der Kurs", "der", "Nomen", "-e", "股价，汇率", "Der Aktienkurs stieg nach Bekanntgabe der Quartalszahlen um zehn Prozent.", "在该上市公司重磅披露喜人的季度财报数据后，其股票盘中价格直线拉升10%。"),
+            ("die Volatilität", "die", "Nomen", "-en", "波动率，动荡程度", "Geopolitische Spannungen erhöhen die Volatilität an den Devisenmärkten.", "日益复杂严峻的地缘政治博弈显著推升了全球跨境外汇市场的汇率波动率。"),
+            ("die Spekulation", "die", "Nomen", "-en", "资本投机", "Spekulationen auf Nahrungsmittelpreise gefährden die globale Ernährungssicherheit.", "针对国际大宗粮食农产品现货与期货的恶意资本投机正严重威胁全球粮食安全。"),
+            ("die Blase", "die", "Nomen", "-n", "资产泡沫", "Das Platzen der Immobilienblase löste eine weltweite Finanzkrise aus.", "当年次级按揭抵押贷款房地产资产泡沫的突然破裂，瞬间诱发了全球海啸级金融危机。"),
+            ("der Crash", "der", "Nomen", "-s", "股市崩盘，暴跌", "Der historische Börsencrash von 1929 ging als 'Schwarzer Freitag' in die Geschichte ein.", "1929年爆发的具有毁灭性破坏力的纽约股市大崩盘作为“黑色星期五”载入了人类史册。"),
+            ("die Währung", "die", "Nomen", "-en", "货币，本国通货", "Der Euro ist die gemeinsame Währung von zwanzig EU-Staaten.", "欧元是迄今欧洲联盟二十个一体化成员国所通用的共同主权官方货币。"),
+            ("der Wechselkurs", "der", "Nomen", "-e", "外汇汇率", "Starke Schwankungen beim Wechselkurs erschweren die Exportplanung.", "双边本外币汇率的大起大落给我国外向型外贸企业的出海出口长远锁单带来了极大困扰。"),
+            ("die Aufwertung", "die", "Nomen", "-en", "货币升值", "Eine Aufwertung der eigenen Währung verbilligt zwar Importe, bremst aber Exporte.", "本币汇率的单边持续升值固然降低了海外进口成本，但却会沉重打击出口外贸引擎。"),
+            ("die Abwertung", "die", "Nomen", "-en", "货币贬值", "Entwicklungsländer nutzen mitunter gezielte Abwertungen zur Exportförderung.", "部分发展中经济体有时会通过主动适度引导本币贬值来刺激本土加工业出海抢单。"),
+            ("der Export", "der", "Nomen", "-e", "出口贸易，输出", "Deutschland verdankt seinen Wohlstand zu einem beträchtlichen Teil dem Export.", "德国能够积累起傲视全球的庞大国家财富，其最关键命脉正是发达的外向型出口制造业。"),
+            ("der Import", "der", "Nomen", "-e", "进口贸易，输入", "Der Import teurer fossiler Brennstoffe belastet die nationale Handelsbilanz.", "高额采购并进口海外昂贵的化石能源严重恶化了国家全年的外贸国际收支平衡表。"),
+            ("der Außenhandel", "der", "Nomen", "unz.", "对外贸易，进出口", "Der Außenhandel mit Schwellenländern expandiert seit Jahrzehnten überdurchschnittlich.", "三十年来我国与全球新兴市场经济体之间的双向经贸往来保持着超常的高速扩张势头。"),
+            ("der Zoll", "der", "Nomen", "-e", "关税", "Strafzölle verzerren den internationalen Wettbewerb und schaden Verbrauchern.", "个别国家单方面滥施单边惩罚性保护主义关税，扭曲了国际公平竞争并坑害了消费者。"),
+            ("das Freihandelsabkommen", "das", "Nomen", "-", "自由贸易协定 (FTA)", "Das Freihandelsabkommen baut tarifäre und nichttarifäre Handelshemmnisse ab.", "双边自贸协定的正式生效实施全面拆除了包括关税与非关税在内的全部跨国贸易壁垒。"),
+            ("das Embargo", "das", "Nomen", "-s", "全面禁运，贸易封锁", "Der UN-Sicherheitsrat verhängte ein multilaterales Waffenembargo.", "联合国安全理事会通过正式决议，对冲突当事各方依法实施多边强制武器全面禁运。"),
+            ("die Sanktion", "die", "Nomen", "-en", "经济制裁", "Wirtschaftliche Sanktionen zielen darauf ab, den Aggressor politisch zu isolieren.", "推行多方位的经济金融制裁措施旨在切断侵略方的经济来源并在国际上予以孤立。"),
+            ("das Protektionismus", "das", "Nomen", "unz.", "贸易保护主义", "Zunehmender Protektionismus bedroht die Grundlagen des freien Welthandels.", "愈演愈烈的单边贸易保护主义沉渣泛起，正严重动摇以世贸组织为核心的自由贸易基石。"),
+            ("die Globalisierung", "die", "Nomen", "unz.", "经济全球化", "Die Globalisierung vernetzte Märkte, Produktionsketten und Arbeitswelten.", "经济全球化大潮以前所未有的深度将全球资本市场、产业链布局与职场生态连成一体。"),
+            ("die Deindustrialisierung", "die", "Nomen", "unz.", "去工业化危机", "Hohe Energiepreise schüren die Furcht vor einer schleichenden Deindustrialisierung.", "持续高企的工业能源用电用气成本加剧了制造业出现渐进式“去工业化”空心化的恐慌。"),
+            ("die Standortqualität", "die", "Nomen", "-en", "投资营商环境质量", "Bürokratieabbau und digitale Ämter stärken die deutsche Standortqualität.", "破除繁琐官僚审批作风并全力提速数字政府建设，能够切实提升德国的营商环境竞争力。"),
+            ("investieren", "kein", "Verb", "investierte, investiert", "投资 (in)", "Der Fonds investiert vorzugsweise in erneuerbare Energien und Zukunftstechnologien.", "该国家主权主权投资基金优先将数千亿资本投向清洁可再生能源与颠覆性未来技术。"),
+            ("subventionieren", "kein", "Verb", "subventionierte, subventioniert", "财政补贴", "Der Staat subventioniert den Bau moderner Halbleiterfabriken mit Milliardenbeträgen.", "联邦政府豪掷数以百亿计的巨额国家财政专项补贴，鼎力支持本土先进制程芯片工厂开工。"),
+            ("deregulieren", "kein", "Verb", "deregulierte, dereguliert", "放松行业管制", "Manche Volkswirte fordern, den starren Arbeitsmarkt weiter zu deregulieren.", "部分自由派经济学者呼吁应当进一步打破藩篱，对僵化教条的劳动力雇佣市场放松行政管制。"),
+            ("privatisieren", "kein", "Verb", "privatisierte, privatisiert", "私有化", "Die Privatisierung staatlicher Bahnunternehmen bleibt gesellschaftlich umstritten.", "针对关乎国计民生基础设施的国家铁路运输企业推行全面私有化至今依然备受广泛争议。"),
+            ("verstaatlichen", "kein", "Verb", "verstaatlichte, verstaatlicht", "国有化，公有化", "In schweren Krisen sah sich die Regierung gezwungen, systemrelevante Banken zu verstaatlichen.", "在狂风骤雨般的严重流动性危机中，政府被迫雷厉风行对大而不能倒的系统重要性银行实行国有化接管。"),
+            ("fluktuieren", "kein", "Verb", "fluktuierte, fluktuiert", "剧烈波动，流转", "Die Rohstoffpreise an den Londoner Metallbörsen fluktuieren derzeit extrem.", "伦敦金属交易所的国际有色金属大宗商品结算挂牌价格目前呈现出惊心动魄的剧烈上蹿下跳。"),
+            ("intervenieren", "kein", "Verb", "intervenierte, interveniert", "政府干预，央行入场干预", "Die Notenbank intervenierte am Devisenmarkt, um den Verfall der Währung zu stoppen.", "面对本币汇率的无底线恐慌性阴跌，中央银行终于果断动用数千亿外汇储备入场实施铁腕干预。"),
+            ("spekulieren", "kein", "Verb", "spekulierte, spekuliert", "投机炒作 (auf)", "Hedgefonds spekulierten aggressiv auf den Niedergang des Immobilienkonzerns.", "跨国对冲基金巨头通过构筑大规模看跌期权组合，极其凶悍地做空狙击这家高杠杆房企。"),
+            ("stimulieren", "kein", "Verb", "stimulierte, stimuliert", "刺激经济，提振", "Umfangreiche Steuersenkungen sollen den privaten Binnenkonsum nachhaltig stimulieren.", "大幅度、普惠性的税费减免让利政策旨在为提振低迷疲软的居民家庭私人国内大宗消费提供充沛动力。"),
+            ("drosseln", "kein", "Verb", "drosselte, gedrosselt", "调低，压减产能", "Die Organisation Erdöl exportierender Länder drosselt die tägliche Fördermenge.", "石油输出国组织欧佩克及其同盟通过决议，正式对外宣布大幅压减日均原油原产开采配额。"),
+            ("makroökonomisch", "kein", "Adjektiv", "-", "宏观经济维度的", "Die Studie analysiert die makroökonomischen Auswirkungen des demografischen Wandels.", "该权威调研深度剖析了人口深度老龄化少子化变迁对国家宏观经济肌体所构成的全方位深层冲击。"),
+            ("fiskalisch", "kein", "Adjektiv", "-", "财税的，国家金库的", "Fiskalische Anreize können Investitionen in grüne Spitzentechnologien beschleunigen.", "精准有效的财政贴息与税收抵免激励杠杆能够极大撬动并加速全社会向绿色低碳前沿硬科技注资。"),
+            ("monetär", "kein", "Adjektiv", "-", "货币金融的", "Der Internationale Währungsfonds wacht über die Stabilität des globalen monetären Systems.", "国际货币基金组织依照其根本宗旨肩负着全力捍卫全球主权货币金融清算体系稳定的崇高职责。"),
+            ("zyklisch", "kein", "Adjektiv", "-", "周期性的", "Die Stahlbranche unterliegt traditionell extrem ausgeprägten zyklischen Schwankungen.", "特种钢铁与重载装备制造等传统重工业自古以来便极易遭受异常剧烈的宏观景气周期性波动的摆布。"),
+            ("antizyklisch", "kein", "Adjektiv", "-", "逆周期的", "Keynes empfahl eine antizyklische Finanzpolitik mit staatlichen Konjunkturprogrammen.", "宏观经济学鼻祖凯恩斯坚定开出药方：力主政府在经济低谷期果断祭出逆周期扩张性公共投资托底方案。"),
+            ("volatil", "kein", "Adjektiv", "-", "动荡不安的，波动率极大的", "Kryptowährungen gelten an den globalen Finanzmärkten als hochgradig volatil und riskant.", "加密数字虚拟资产在当前全球金融衍生品市场上被公认为波动率极度失控、投机风险极高的赌博品种。"),
+            ("spekulativ", "kein", "Adjektiv", "-", "投机性的", "Banken wurden durch strengere Gesetze von hochspekulativen Eigenhandelsgeschäften abgehalten.", "日益完备严格的金融监管防火墙法案明令禁止商业银行动用储户存款从事高风险投机性自营证券买卖。"),
+            ("kapitalkräftig", "kein", "Adjektiv", "-", "资金雄厚的，资本实力坚实的", "Kapitalkräftige Staatsfonds investieren antizyklisch in unterbewertete Industrieperlen.", "资金弹药充沛、资本实力极度雄厚的主权财富基金往往擅长逆向出击抄底被错杀低估的工业皇冠明珠。"),
+            ("wettbewerbsfähig", "kein", "Adjektiv", "-", "具备核心国际竞争力的", "Deutsche Hochpräzisionsmaschinen bleiben auf dem anspruchsvollen Weltmarkt wettbewerbsfähig.", "德国制造的超高精密数控机床与自动化母机在挑剔严苛的全球顶级制造业供应链上依然牢牢占据核心竞争力。"),
+            ("protektionistisch", "kein", "Adjektiv", "-", "贸易保护主义色彩的", "Protektionistische Zölle schotten den Binnenmarkt ab und ersticken Innovationen im Keim.", "大搞贸易保护主义的排他性壁垒不仅将国内市场人为割裂孤立，更会从根本上扼杀本土产业的技术创新生机。")
+        ]
+    },
+
+    # LESSON 4
+    {
+        "id": "B2_L04",
+        "title": "第4课：法律德语、契约精神与司法公正 (Rechtssprache & Justiz)",
+        "summary": "掌握带情态含义的被动态替代形式 (Passiversatzformen: sein + zu + Inf., sich lassen, -bar, -lich) 与法律德语核心词汇",
+        "grammar": {
+            "title": "被动态替代形式 (Passiversatzformen mit Modalbedeutung)",
+            "sections": [
+                {
+                    "heading": "1. sein + zu + 不定式（表示必须 müssen 或可能 können + 被动）：",
+                    "content": "• Die Vertragsbedingungen sind strikt einzuhalten. (= müssen strikt eingehalten werden)\n• Der Schaden ist nicht mehr zu beheben. (= kann nicht mehr behoben werden)\n• 是法律条文、合同起草与官方行政规章中极高频的高分句式。"
+                },
+                {
+                    "heading": "2. sich lassen + 不定式 & 形容词词尾 -bar / -lich（表示能够 können + 被动）：",
+                    "content": "• Das Urteil lässt sich nicht anfechten. (= Das Urteil kann nicht angefochten werden)\n• Die Klausel ist unanfechtbar. (= Die Klausel kann nicht angefochten werden)"
+                }
+            ]
+        },
+        "quiz": [
+            {
+                "id": "B2_L04_Q1",
+                "type": "GRAMMAR_FILL",
+                "question": "Die strittigen Punkte des Vertrags ______ (müssen... klären) bis morgen zu klären.",
+                "options": ["sind", "haben", "lassen", "werden"],
+                "correctIndex": 0,
+                "explanation": "sein + zu + 不定式 表示必须被做：Die strittigen Punkte sind bis morgen zu klären。"
+            },
+            {
+                "id": "B2_L04_Q2",
+                "type": "MEANING_SELECT",
+                "question": "“die Unschuldsvermutung” 作为现代刑事诉讼法的基石，中文含义是：",
+                "options": ["无罪推定原则", "罪刑法定原则", "证据排除规则", "一事不再理"],
+                "correctIndex": 0,
+                "explanation": "die Unschuldsvermutung 表示在法庭终审宣判有罪之前人人依法享有“无罪推定”。"
+            },
+            {
+                "id": "B2_L04_Q3",
+                "type": "GRAMMAR_FILL",
+                "question": "Diese schwerwiegenden Vorwürfe lassen sich nicht länger ______ (ignorieren).",
+                "options": ["ignorieren", "zu ignorieren", "ignoriert", "ignorierend"],
+                "correctIndex": 0,
+                "explanation": "sich lassen + 不定式（不带 zu）表示“能够被……”，后接纯动词原形 ignorieren。"
+            },
+            {
+                "id": "B2_L04_Q4",
+                "type": "LISTENING_MCQ",
+                "question": "“Das Gericht wies die Klage aus Mangel an stichhaltigen Beweisen vollumfänglich ab.” 的裁决结果是：",
+                "options": ["法院因缺乏确凿证据全面驳回了原告的诉讼请求。", "被告被当庭判处全额赔偿。", "案件被移交上级法院重审。", "双方达成庭外和解。"],
+                "correctIndex": 0,
+                "explanation": "Klage abweisen = 驳回诉讼请求，aus Mangel an Beweisen = 因缺乏证据，vollumfänglich = 全面地。"
+            },
+            {
+                "id": "B2_L04_Q5",
+                "type": "SENTENCE_BUILDER",
+                "question": "重组法治宪政原则表述：“sind an Recht und Gesetz / Alle staatlichen Organe / gebunden”",
+                "options": ["Alle staatlichen Organe sind an Recht und Gesetz gebunden.", "An Recht und Gesetz sind alle staatlichen gebunden Organe.", "Alle Organe staatlichen gebunden sind an Recht und Gesetz.", "Gebunden sind alle staatlichen Organe nicht an Recht und Gesetz."],
+                "correctIndex": 0,
+                "explanation": "基本法核心法治国原则：所有国家权力机关均受宪法与现行法律的严格约束 (an Recht und Gesetz gebunden sein)。"
+            }
+        ],
+        "words": [
+            ("das Recht", "das", "Nomen", "-e", "法律体系，正义，权利", "Das römische Recht bildete die historische Wurzel europäischer Rechtsordnungen.", "古罗马法构成了后世整个欧陆法系各主权国家现代法律秩序的共同历史母体。"),
+            ("die Justiz", "die", "Nomen", "unz.", "司法，司法机关", "Eine unabhängige Justiz ist der wichtigste Eckpfeiler des demokratischen Rechtsstaates.", "坚决维护司法的崇高独立性是现代宪政民主法治国安邦定国不可动摇的最核心基石。"),
+            ("die Rechtsordnung", "die", "Nomen", "-en", "法律秩序，法制体系", "Die Einhaltung der freiheitlich-demokratischen Rechtsordnung ist für alle Bürger verbindlich.", "自觉捍卫自由民主法治秩序是宪法赋予每一位公民必须一体遵行的法定义务。"),
+            ("das Gesetzbuch", "das", "Nomen", "-er", "法典", "Das Bürgerliche Gesetzbuch (BGB) regelt das Zivilrecht in Deutschland seit 1900.", "《德国民法典》(BGB)自1900年正式施行起便全面确立并规范了德国私法领域的基本法律关系。"),
+            ("der Paragraph", "der", "Nomen", "-en", "法条，款项 (§)", "Gemäß Paragraph 823 haftet derjenige, der vorsätzlich fremdes Eigentum verletzt.", "依据德国民法典第823条之规定，任何故意侵犯他人合法财产权者均须承担全部侵权民事赔偿责任。"),
+            ("der Absatz", "der", "Nomen", "-e", "条款中的款/段 (Abs.)", "In Absatz 2 des Gesetzesartikels werden wichtige Ausnahmetatbestände geregelt.", "在《基本法》该法条的第二款中，立法者对几项关键的例外阻却违法事由作出了巨细靡遗的严密界定。"),
+            ("die Klausel", "die", "Nomen", "-n", "合同条款，特别约定", "Die Schiedsgerichtsklausel schließt den ordentlichen Rechtsweg zu staatlichen Gerichten aus.", "合同中载明的排他性商事仲裁条款，依法彻底排除了当事人向普通公立法院提起诉讼的救济途径。"),
+            ("der Vertrag", "der", "Nomen", "-e", "民商事契约，合同", "Pacta sunt servanda: Geschlossene Verträge sind von allen Beteiligten treu zu erfüllen.", "“契约必须信守”：依法订立的民商事有效合同对于所有立约当事各方均具有不可违逆的强制履行力。"),
+            ("die Verfassung", "die", "Nomen", "-en", "根本大法，宪法", "Die Verfassung garantiert jedem Angeklagten das fundamentale Recht auf ein faires Gerichtsverfahren.", "宪法神圣保障任何受到刑事指控的被告人均享有获取程序正义与公开公正法庭审理的根本人权。"),
+            ("das Bundesverfassungsgericht", "das", "Nomen", "unz.", "联邦宪法法院", "Das Bundesverfassungsgericht in Karlsruhe ist der unbestrittene Hüter des deutschen Grundgesetzes.", "常驻卡尔斯鲁厄的联邦宪法法院是德国宪政体制内被全社会公认的最高根本大法神圣守护者。"),
+            ("das Gericht", "das", "Nomen", "-e", "审判机关，法院", "Das zuständige Landgericht eröffnete heute das Hauptverfahren gegen die mutmaßlichen Betrüger.", "依法享有地域管辖权的地方法院于今日正式裁定对涉嫌巨额金融诈骗的被告人开启庭审实体审判。"),
+            ("die Kammer", "die", "Nomen", "-n", "审判庭", "Die Erste Große Strafkammer des Landgerichts verhandelt den aufsehenerregenden Fall.", "地方法院第一重大刑事犯罪专业审判庭即日起正式开庭公开审理这桩引发全国轰动的重特大案件。"),
+            ("der Richter", "der", "Nomen", "-", "审判员，法官（男）", "Richter sind in der Ausübung ihres Amtes sachlich und persönlich vollkommen unabhängig.", "人民法官在依法行使国家司法裁判大权时，在业务实体裁量与人身独立保障上均享有至高无上的独立。"),
+            ("die Richterin", "die", "Nomen", "-nen", "法官（女）", "Die vorsitzende Richterin ermahnte das Publikum zu absoluter Ruhe im Verhandlungssaal.", "主审审判长当庭敲击法槌，极其严肃地严令旁听席全体听众在公开法庭审理全程必须保持绝对肃静。"),
+            ("der Staatsanwalt", "der", "Nomen", "-e", "国家公诉人，检察官（男）", "Der Staatsanwalt plädierte auf eine lebenslange Freiheitsstrafe wegen heimtückischen Mordes.", "国家公诉人在法庭辩论阶段代表国家庄严发表公诉意见，以手段极其残忍的谋杀罪求处被告人无期徒刑。"),
+            ("die Staatsanwaltschaft", "die", "Nomen", "-en", "检察院，公诉机关", "Die Staatsanwaltschaft leitete ein förmliches Ermittlungsverfahren wegen Untreue ein.", "检察机关在掌握确凿线索后，依法对涉案公司高管涉嫌职务侵占与背信背德罪展开正式刑事侦查。"),
+            ("der Verteidiger", "der", "Nomen", "-", "刑事辩护人，辩护律师", "Der erfahrene Strafverteidiger forderte den sofortigen Freispruch seines Mandanten.", "经验老到、身经百战的资深刑事辩护大律师以指控事实不清为由，在辩护词中坚决主张当庭无罪释放当事人。"),
+            ("der Anwalt", "der", "Nomen", "-e", "执业律师", "Jeder Bürger hat das unantastbare Recht, einen Anwalt seines Vertrauens zu konsultieren.", "每一位合法国家公民在遭遇法律纠纷时，均享有随时聘请并委托其信任的执业律师提供法律帮助的权利。"),
+            ("die Kanzlei", "die", "Nomen", "-en", "律师事务所", "Die renommierte Kanzlei ist auf internationales Wirtschafts- und Patentrecht spezialisiert.", "该家享有崇高行业声誉的红圈律师事务所长期专注于涉外国际商事仲裁与高价值跨国专利纠纷诉讼业务。"),
+            ("der Mandant", "der", "Nomen", "-en", "律所当事人，委托人", "Zwischen dem Anwalt und seinem Mandanten herrscht eine gesetzlich geschützte Schweigepflicht.", "在执业律师与委托当事人之间，法律明确赋予了至高无上、受国家强制力保护的保密特权豁免义务。"),
+            ("der Kläger", "der", "Nomen", "-", "民事原告", "Der Kläger fordert Schadensersatz in Höhe von einer halben Million Euro für den erlittenen Verlust.", "民事原告在向法庭递交的起诉状中明确要求被告就其所遭受的直接与间接财产损失全额赔付五十万欧元。"),
+            ("der Beklagte", "der", "Nomen", "-n", "民事被告", "Der Beklagte wies alle erhobenen Schadensersatzforderungen als unbegründet zurück.", "民事被告当庭委托代理律师递交答辩状，严正驳斥原告所提出的全部侵权损害赔偿请求系无稽之谈。"),
+            ("der Angeklagte", "der", "Nomen", "-n", "刑事被告人", "Der Angeklagte machte vor Gericht von seinem Recht auf Aussageverweigerung Gebrauch.", "刑事被告人在合议庭法庭调查阶段依法行使了刑事诉讼法赋予其的沉默权，拒绝回答公诉人的讯问。"),
+            ("das Opfer", "das", "Nomen", "-", "被害人，受害者", "Der Opferschutzverband bietet Kriminalitätsopfern juristische und psychologische Hilfe an.", "国家受害者保护与法律援助联合会向各类刑事犯罪被害人提供全程无偿的专业维权诉讼与心理疏导支持。"),
+            ("der Zeuge", "der", "Nomen", "-n", "关键证人", "Der Zeuge schwor vor Gericht, die reine Wahrheit zu sagen und nichts zu verschweigen.", "出庭关键证人在宣誓席上庄严宣誓：保证当庭如实陈述案发经过，绝不作伪证，亦绝不隐匿任何案情。"),
+            ("die Aussage", "die", "Nomen", "-n", "法庭证词，陈述", "Ihre detailgenaue Aussage deckte sich exakt mit den forensischen Ermittlungsergebnissen.", "出庭证人所给出的巨细靡遗的证人证言，与国家刑事科学技术鉴定中心出具的法医物证结论完全吻合。"),
+            ("der Beweis", "der", "Nomen", "-e", "证据，司法证据", "Fingerabdrücke und DNA-Spuren am Tatort dienten der Kriminalpolizei als schlagender Beweis.", "在案发现场勘验提取到的犯罪嫌疑人指纹残留与DNA微量生物检材，构成了刑侦警方最为铁证如山的真凭实据。"),
+            ("die Indizien", "die", "Nomen (Pl.)", "Pl.", "间接证据，情况证据", "Der Prozess stützte sich weitgehend auf eine erdrückende Kette von Indizien.", "整场庭审的定罪逻辑主要建构在由无数互相关联的微观间接证据所浇筑而成的铁锁般的客观证据链之上。"),
+            ("das Urteil", "das", "Nomen", "-e", "法院裁判，刑事判决", "Im Namen des Volkes verkündete der Richter nach dreistündiger Beratung das Urteil.", "在历经长达整整三个小时的合议庭闭门严密合议之后，主审审判长起立庄严宣读判词：“以人民的名义宣判”。"),
+            ("der Freispruch", "der", "Nomen", "-e", "宣判无罪，当庭无罪释放", "In dubio pro reo: Da Zweifel an der Schuld bestanden, endete der Prozess mit Freispruch.", "“疑罪从无”：鉴于在案证据在证明被告人有罪的排他性上存在合理怀疑，法庭当庭依法判决宣告被告人无罪。"),
+            ("die Strafe", "die", "Nomen", "-n", "刑罚，法律制裁", "Das Strafmaß reichte von empfindlichen Geldstrafen bis zu langjährigen Freiheitsstrafen.", "法条所设定的法定刑跨度极大，涵盖了从伤筋动骨的巨额罚金刑直至长达数十年剥夺人身自由的有期徒刑。"),
+            ("die Bewährung", "die", "Nomen", "unz.", "缓刑", "Das Gericht setzte die zweijährige Haftstrafe zur Bewährung aus.", "法庭鉴于被告人认罪悔罪态度诚恳且系初犯偶犯，依法判处其有期徒刑两年并宣告适用缓刑考察期。"),
+            ("die Haft", "die", "Nomen", "unz.", "拘留，监禁", "Der Untersuchungsrichter ordnete gegen den Tatverdächtigen sofortige Untersuchungshaft an.", "预审法官在提审之后，鉴于犯罪嫌疑人存在极高串供毁灭证据与潜逃海外的现实风险，依法签发了逮捕令执行羁押。"),
+            ("die Kaution", "die", "Nomen", "-en", "保释金，保证金", "Gegen Zahlung einer Kaution in Millionenhöhe wurde der Geschäftsmann vorläufig auf freien Fuß gesetzt.", "在由其家属向法院指定账户全额缴纳了数以百万欧元的巨额司法保释金后，涉案商人获准依法暂时取保候审。"),
+            ("die Revision", "die", "Nomen", "-en", "上诉，法律审复核", "Die Verteidigung legte gegen das fehlerhafte Urteil sofort förmliche Revision beim Bundesgerichtshof ein.", "辩护律师团针对一审法院在适用法律与程序审查上存在的重大硬伤，第一时间向联邦最高法院提起法律审上诉。"),
+            ("die Berufung", "die", "Nomen", "-en", "事实审上诉", "In der Berufungsinstanz werden sowohl Rechts- als auch Sachfragen vom Gericht neu verhandelt.", "在二审事实审程序启动之后，二审法院合议庭将对全案的实体事实查明与法条适用两方面展开全面的重新开庭审理。"),
+            ("die Klage", "die", "Nomen", "-n", "诉讼，起诉状", "Die Gewerkschaft reichte beim Arbeitsgericht Klage gegen die unrechtmäßigen Kündigungen ein.", "行业工会在接受广大被裁职工集体授权后，依法正式向劳动法庭递交诉状指控资方的暴力裁员行为完全违法无效。"),
+            ("der Vergleich", "der", "Nomen", "-e", "诉讼和解，调解协议", "Um einen jahrelangen kostspieligen Rechtsstreit zu vermeiden, schlossen die Parteien einen Vergleich.", "为了避免卷入一场耗时数年、劳民伤财的无休止跨国诉讼泥潭，双方当事人最终在法官主持下达成了民事调解和解协议。"),
+            ("der Anspruch", "der", "Nomen", "-e", "法律请求权，主张", "Der Anspruch auf Urlaubsabgeltung verjährt nach deutschem Recht grundsätzlich nach drei Jahren.", "依据德国劳动私法之明确规定，劳动者针对未休带薪年休假折算经济补偿金的法定请求权诉讼时效原则上为三年。"),
+            ("die Verjährung", "die", "Nomen", "-en", "诉讼时效届满", "Wegen eingetretener Verjährung konnte die alte Forderung gerichtlich nicht mehr durchgesetzt werden.", "鉴于该笔陈年债权的法定诉讼时效早已届满，债权人即便通过强制诉讼救济程序亦已无法获得法院的胜诉判决保护。"),
+            ("anklagen", "kein", "Verb", "klagte an, angeklagt", "提起公诉，指控 (wegen)", "Die Justiz klagte den Manager wegen schwerer Steuerhinterziehung und Betrugs an.", "国家检察机关依法以涉嫌特大偷逃税款罪以及团伙商业诈骗罪，将涉案跨国集团核心财务高管正式送上被告席。"),
+            ("verurteilen", "kein", "Verb", "verurteilte, verurteilt", "定罪判决 (zu)", "Der Richter verurteilte den Serienbrandstifter zu fünf Jahren Haft ohne Bewährung.", "主审法官经过严密论证，依法判处这名在全城多处连续纵火作案的狂徒有期徒刑五年，且坚决不予适用缓刑。"),
+            ("freisprechen", "kein", "Verb", "sprach frei, freigesprochen", "宣告无罪 (von)", "Aus Mangel an eindeutigen Sachbeweisen sprach die Kammer den Angeklagten von allen Vorwürfen frei.", "鉴于控方提交的全部实物证据在证明力上均无法达到排他标准，合议庭依法当庭判决宣告被告人无罪释放。"),
+            ("begehen", "kein", "Verb", "beging, begangen", "实施，触犯犯罪", "Wer im Zustand der Schuldunfähigkeit eine Straftat begeht, handelt ohne strafrechtliche Schuld.", "任何人在完全丧失辨认自己行为性质与控制自己行为能力的精神障碍状态下实施刑法危害行为，不负刑事责任。"),
+            ("verjähren", "kein", "Verb", "verjährte, verjährt", "罹于时效，过期失效", "Mord verjährt im deutschen Strafrecht nach Paragraf 78 Absatz 2 grundsätzlich niemals.", "依据德国刑法典第78条第2款之铁律规定，极其严重的故意剥夺他人生命的谋杀罪在德国刑法上永远不适用追诉时效。"),
+            ("haften", "kein", "Verb", "haftete, gehaftet", "承担赔偿责任 (für)", "Eltern haften für ihre minderjährigen Kinder nur bei grober Verletzung der Aufsichtspflicht.", "为人父母者唯有在存在令人发指的严重疏忽放弃未成年监护照看职责的极端情况下，方须就子女侵权对外担责。"),
+            ("vollstrecken", "kein", "Verb", "vollstreckte, vollstreckt", "强制执行", "Der Gerichtsvollzieher vollstreckt den rechtskräftigen Titel im Wege der Zwangsvollstreckung.", "人民法院专职司法执行官依据已经发生法律效力的胜诉确定判决执行名义，依法对失信被执行人启动强制执行。"),
+            ("anfechten", "kein", "Verb", "focht an, angefochten", "撤销，提起异议抗辩", "Wegen arglistiger Täuschung focht der Käufer den geschlossenen Kaufvertrag unverzüglich an.", "因遭遇了卖方在关键重大车况瑕疵上处心积虑的蓄意欺诈，买家在得知真相后第一时间依法行使意思表示撤销权。"),
+            ("wahrnehmen", "kein", "Verb", "nahm wahr, wahrgenommen", "行使权利，出席", "Der Beschuldigte nahm den Anhörungstermin in Begleitung seines Rechtsbeistands wahr.", "犯罪嫌疑人在其指定专职辩护律师的陪同下，准时出席了由检察院依法安排的正式听证讯问程序。"),
+            ("verstoßen", "kein", "Verb", "verstieß, verstoßen", "违反，抵触违逆 (gegen)", "Die gesetzliche Neuregelung verstößt nach Ansicht vieler Staatsrechtler gegen das Grundgesetz.", "在众多权威宪法学者眼中，该项由联邦议院仓促通过的单项法律新规直接在本质上严重违背抵触了根本法精神。"),
+            ("rechtskräftig", "kein", "Adjektiv", "-", "发生法律确定力不可撤销的", "Das Urteil des Bundesarbeitsgerichts ist höchstrichterlich bestätigt und somit rechtskräftig.", "联邦最高劳工法院作出的终审判决已由合议庭白纸黑字盖印确认，该司法裁决自即日起正式生效并具终局确定力。"),
+            ("schuldig", "kein", "Adjektiv", "-", "有罪的，负有责任的", "Die Geschworenen befanden den Angeklagten in allen Anklagepunkten für einstimmig schuldig.", "法庭全体陪审员经过充分闭门评议，最终达成完全一致意见，裁决认定被告人在受指控的全部罪名上均告成立。"),
+            ("unschuldig", "kein", "Adjektiv", "-", "无罪的，无辜的", "Ein unschuldig Verurteilter hat nach Wiederaufnahme des Verfahrens Anspruch auf staatliche Entschädigung.", "任何蒙冤入狱、被错误定罪判刑的无辜公民，在案件经法定程序启动再审平反昭雪后，均依法享有申领巨额国家赔偿金的绝对权利。"),
+            ("fahrlässig", "kein", "Adjektiv", "-", "过失的，疏忽大意的", "Fahrlässige Tötung im Straßenverkehr wird mit Geldstrafe oder Freiheitsstrafe geahndet.", "在城市道路机动车驾驶过程中因疏忽大意严重过失致人死亡的，依法将被从严追究交通肇事过失致人死亡罪刑事责任。"),
+            ("vorsätzlich", "kein", "Adjektiv", "-", "蓄意的，故意的", "Für vorsätzliche Sachbeschädigung übernimmt die private Haftpflichtversicherung keinerlei Deckung.", "针对投保当事人明知故犯、蓄意实施破坏公共或他人合法财产的恶意故意犯罪行径，任何个人第三方责任商业保险均不予赔付理赔。"),
+            ("einstimmig", "kein", "Adjektiv", "-", "全票一致通过的", "Der Beschluss der Richterkammer über die Eröffnung der Hauptverhandlung fiel einstimmig aus.", "专业审判庭全体合议庭法官就是否裁定对该特大经济大案正式移交开庭实体审理的表决最终以全票赞成全员通过。"),
+            ("unanfechtbar", "kein", "Adjektiv", "-", "不可撤销争辩的，终局确定的", "Die Entscheidungen des Bundesverfassungsgerichts sind für alle Verfassungsorgane bindend und unanfechtbar.", "联邦宪法法院依法作出的每一份具有普遍约束力的宪法裁判，对于共和国全体国家权力机关均具有终局性且不可抗辩。"),
+            ("strafbar", "kein", "Adjektiv", "-", "触犯刑律应受刑事制裁的", "Der Versuch einer schweren Straftat ist nach den Vorschriften des StGB grundsätzlich strafbar.", "依据德国刑法总则之核心法理，任何蓄意企图实施严重重罪犯罪的未遂形态，原则上一律成立犯罪并受刑罚惩处。"),
+            ("zulässig", "kein", "Adjektiv", "-", "诉讼合法的，符合受理程序的", "Das Gericht prüft vor der materiellen Begründetheit zunächst, ob die Klage formell zulässig ist.", "法庭在对实体权利义务关系是否站得住脚展开深度审理之前，首当其冲必须在立案阶段严格排查起诉在程序法上是否合规准入。"),
+            ("unzulässig", "kein", "Adjektiv", "-", "程序违规不予受理的", "Wegen Fristversäumnis wurde der verspätet eingereichte Einspruch als unzulässig verworfen.", "鉴于当事人已彻底超过法定期限才慌忙递交异议申请，法院依法直接将其异议审查请求以不合程序为由予以程序性驳回。")
+        ]
+    },
+
+    # LESSON 5
+    {
+        "id": "B2_L05",
+        "title": "第5课：生命伦理学、现代医学前沿与基因工程 (Bioethik & Gentechnik)",
+        "summary": "掌握第二格高阶学术介词 (Genitiv-Präpositionen: angesichts, anlässlich, infolge, ungeachtet, zwecks) 与生物伦理词汇",
+        "grammar": {
+            "title": "第二格高阶介词体系 (Gehobene Genitiv-Präpositionen)",
+            "sections": [
+                {
+                    "heading": "1. 表示因果与事实前提的第二格介词：",
+                    "content": "• angesichts (+Gen.): 鉴于，面对 (Angesichts rasanter Fortschritte in der Gentechnik...)\n• anlässlich (+Gen.): 值此…之际 (Anlässlich des Bioethik-Kongresses...)\n• infolge (+Gen.): 由于，作为…的结果 (Infolge mutierter Gene...)\n• mangels (+Gen.): 由于缺乏 (Mangels klinischer Langzeitstudien...)"
+                },
+                {
+                    "heading": "2. 表示让步、目的与维度的第二格介词：",
+                    "content": "• ungeachtet (+Gen.): 不顾，尽管 (Ungeachtet ethischer Bedenken...)\n• zwecks (+Gen.): 为了，旨在 (Zwecks Heilung seltener Erbkrankheiten...)\n• hinsichtlich (+Gen.): 关于，鉴于…方面 (Hinsichtlich der Risiken...)"
+                }
+            ]
+        },
+        "quiz": [
+            {
+                "id": "B2_L05_Q1",
+                "type": "GRAMMAR_FILL",
+                "question": "______ (Angesichts / Zwecks / Ungeachtet) ethischer Bedenken trieb das Labor die Klonversuche voran.",
+                "options": ["Ungeachtet", "Angesichts", "Zwecks", "Anlässlich"],
+                "correctIndex": 0,
+                "explanation": "ungeachtet 表示让步关系“尽管/不顾……”，符合句意“不顾伦理方面的重重疑虑”。"
+            },
+            {
+                "id": "B2_L05_Q2",
+                "type": "MEANING_SELECT",
+                "question": "“die CRISPR-Genschere” 在现代分子生物学中的突破性功能是：",
+                "options": ["精准定点基因组编辑技术", "化疗药物分子靶向递送", "干细胞培养基杀菌剂", "传统疫苗灭活助剂"],
+                "correctIndex": 0,
+                "explanation": "CRISPR-Cas9 是一种革命性的高精度基因组定点靶向修饰剪切技术。"
+            },
+            {
+                "id": "B2_L05_Q3",
+                "type": "GRAMMAR_FILL",
+                "question": "______ (Zwecks) der Vermeidung schwerer Erbkrankheiten forschen Genetiker an Therapien.",
+                "options": ["Zwecks", "Trotz", "Während", "Entlang"],
+                "correctIndex": 0,
+                "explanation": "zwecks (+Gen.) 表示目的：“为了避免严重遗传病……”。"
+            },
+            {
+                "id": "B2_L05_Q4",
+                "type": "LISTENING_MCQ",
+                "question": "“Der Deutsche Ethikrat mahnt zu strikten regulatorischen Grenzen bei Keimbahneingriffen.” 表达的核心主张是：",
+                "options": ["德国伦理理事会告诫必须对人类生殖系基因干预划定极其严格的监管红线。", "基因编辑生殖细胞已被全面合法化。", "伦理委员会已批准所有临床试验。", "基因干预对后代没有任何遗传风险。"],
+                "correctIndex": 0,
+                "explanation": "Deutscher Ethikrat = 德国伦理委员会，Keimbahneingriff = 生殖系基因干预，strikte Grenzen = 严格界限。"
+            },
+            {
+                "id": "B2_L05_Q5",
+                "type": "SENTENCE_BUILDER",
+                "question": "重组生物技术伦理命题：“erfordert / Die Manipulation menschlicher DNA / eine tiefgehende ethische Debatte”",
+                "options": ["Die Manipulation menschlicher DNA erfordert eine tiefgehende ethische Debatte.", "Eine ethische Debatte tiefgehende erfordert die Manipulation menschlicher DNA.", "Die Manipulation DNA menschlicher erfordert tiefgehende eine Debatte.", "Erfordert eine tiefgehende ethische Debatte die Manipulation menschlicher DNA nicht."],
+                "correctIndex": 0,
+                "explanation": "主语 (Die Manipulation menschlicher DNA) + 谓语动词 (erfordert) + 宾语 (eine tiefgehende ethische Debatte)。"
+            }
+        ],
+        "words": [
+            ("die Biologie", "die", "Nomen", "unz.", "生物学", "Die Molekularbiologie entschlüsselt die Grundbausteine des Lebens.", "分子生物学从微观层面上正在逐一破译生命最原始底层的基本构筑密码。"),
+            ("die Genetik", "die", "Nomen", "unz.", "遗传学", "Die klassische Genetik wurde durch moderne Genomforschung revolutioniert.", "建立在孟德尔定律之上的传统经典遗传学已被全基因组高通量测序彻底颠覆。"),
+            ("die Bioethik", "die", "Nomen", "unz.", "生命伦理学", "Die Bioethik setzt sich kritisch mit den Grenzen des Machbaren auseinander.", "生命伦理学旗帜鲜明地就科学技术“能够做到”与人类良知“应当被允许去做”划清界限。"),
+            ("der Ethikrat", "der", "Nomen", "-e", "国家伦理委员会", "Der Deutsche Ethikrat berät Bundestag und Bundesregierung unabhängig.", "德国国家伦理委员会以高度独立的学术与法律专业精神为联邦议院与内阁提供权威咨询。"),
+            ("die DNA", "die", "Nomen", "unz.", "脱氧核糖核酸 (DNS)", "Die DNA speichert die gesamte genetische Information eines Lebewesens.", "脱氧核糖核酸双螺旋结构完整编码并忠实封存了任何生物机体全部的微观遗传指令。"),
+            ("das Genom", "das", "Nomen", "-e", "基因组，染色体组", "Das menschliche Genom besteht aus über drei Milliarden Basenpaaren.", "完整的人类全基因组序列由分布在染色体上的超过三十亿对碱基对精密序列拼接构筑而成。"),
+            ("das Gen", "das", "Nomen", "-e", "基因，遗传因子", "Defekte Gene können für seltene hereditäre Krankheiten verantwortlich sein.", "染色体关键位点突变受损的致病遗传基因，往往是导致极其罕见先天性恶性遗传病的祸根。"),
+            ("das Chromosom", "das", "Nomen", "-en", "染色体", "Menschliche Körperzellen besitzen im Normalfall 46 Chromosomen.", "人体正常健康体细胞的细胞核内，终身固定完整拥有二十三对即四十六条染色体。"),
+            ("die Mutation", "die", "Nomen", "-en", "基因突变，变异", "Spontane Mutationen treiben die Evolution voran, bergen aber auch Risiken.", "在自然界漫长岁月里自发发生的随机基因突变固然驱动了物种演化，但同样暗藏致病危机。"),
+            ("die Gensequenz", "die", "Nomen", "-en", "基因序列", "Moderne Hochdurchsatz-Sequenzierer analysieren Gensequenzen in wenigen Stunden.", "现代超高速通量基因组测序分析仪仅耗费短短数个小时便能完成整套基因序列的自动化解析。"),
+            ("die Genschere", "die", "Nomen", "-n", "基因剪刀 (CRISPR/Cas9)", "Die Entdeckung der Genschere CRISPR/Cas9 wurde mit dem Nobelpreis gekürt.", "革命性基因魔剪CRISPR/Cas9定点靶向修饰技术的横空出世，毫无争议地荣膺诺贝尔化学奖。"),
+            ("der Keimbahn", "die", "Nomen", "-en", "生殖系，种系 (die Keimbahn)", "Eingriffe in die menschliche Keimbahn sind in Deutschland gesetzlich verboten.", "任何对人类生殖细胞受精卵进行的所谓“生殖系基因改造修饰”，在德国均被法律明令绝对禁止。"),
+            ("der Embryo", "der", "Nomen", "Embryonen", "早期胚胎", "Das Embryonenschutzgesetz schützt menschliches Leben von der Befruchtung an.", "德国《胚胎保护法》在宪法精神指引下，对处于精卵结合受精最初瞬间起的人类生命予以无死角保护。"),
+            ("die Stammzelle", "die", "Nomen", "-n", "干细胞，多能干细胞", "Pluripotente Stammzellen können sich in fast alle Zelltypen des Körpers differenzieren.", "诱导多能干细胞在极其精密的细胞培养因子调控下，具备全能分化为人体几乎所有成熟组织细胞的神奇潜力。"),
+            ("das Klonen", "das", "Nomen", "unz.", "克隆，无性繁殖", "Das Klonen von menschlichen Individuen verstößt fundamental gegen die Menschenwürde.", "为了满足特定目的而妄图从事克隆人体的罪恶行径，被国际公义一致定性为对人的尊严的严重践踏。"),
+            ("die In-vitro-Fertilisation", "die", "Nomen", "unz.", "体外受精，试管婴儿 (IVF)", "Die In-vitro-Fertilisation verhalf Millionen Paaren mit Kinderwunsch zum Nachwuchs.", "成熟规范的体外受精人工辅助生殖医学技术，已帮助全球数以百万计面临生育困境的夫妇圆了为人父母的梦想。"),
+            ("die Pränataldiagnostik", "die", "Nomen", "unz.", "产前筛查诊断", "Die Pränataldiagnostik wirft ethisch hochsensible Fragen bezüglich Selektion auf.", "产前无创基因筛查与高精度遗传学诊断的广泛普及，在如何防范胚胎人为筛选优生上引发了高度敏感的伦理激辩。"),
+            ("die Organspende", "die", "Nomen", "-n", "器官捐献", "In Deutschland wird intensiv über die Einführung der Widerspruchslösung bei Organspende debattiert.", "在德国联邦议院，朝野各派正就全面推行“如生前无明确书面异议即视为默认同意”的器官捐献新规展开白热化辩论。"),
+            ("die Transplantation", "die", "Nomen", "-en", "器官移植", "Die erfolgreiche Transplantation des Spenderherzens rettete dem Patienten das Leben.", "这台历经十数个小时鏖战的供体心脏原位移植手术的圆满成功，在悬崖边将垂危患者从死神手中抢了回来。"),
+            ("das Hirntodkriterium", "das", "Nomen", "unz.", "脑死亡临床诊断判定标准", "Der irreversible Hirntod gilt in vielen Ländern als definitive Todesgrenze.", "脑干反射彻底丧失、不可逆转的深度脑死亡判定标准，在当今国际医学界被普遍确立为界定个体生命终结的权威法定底线。"),
+            ("die Sterbehilfe", "die", "Nomen", "unz.", "安乐死，临终协助自决", "Die Debatte über assistierten Suizid und aktive Sterbehilfe berührt existenzielle Grundfragen.", "围绕医生协助自杀免除痛苦与积极安乐死合法化边界的立法博弈，深深触及了人类对于生命自主抉择权的终极追问。"),
+            ("die Palliativmedizin", "die", "Nomen", "unz.", "姑息疗法，临终关怀医学", "Die Palliativmedizin lindert Schmerzen unheilbar kranker Menschen am Lebensende.", "姑息缓和医学致力于运用最先进的镇痛理念与全方位人文照护，最大限度抚平绝症患者在生命晚期的身心痛苦。"),
+            ("die Menschenwürde", "die", "Nomen", "unz.", "人的尊严", "Die Unantastbarkeit der Menschenwürde setzt aller Forschung unüberwindbare Schranken.", "人类生命尊严的神圣不可侵犯性，在伦理哲学上为任何前沿尖端实验与科学探索划定了坚不可摧的终极永恒边界。"),
+            ("die Selbstbestimmung", "die", "Nomen", "unz.", "知情自决权，个人自主权", "Das Recht auf informationelle und körperliche Selbstbestimmung ist ein Grundpfeiler des Rechts.", "公民依法享有的身体自主支配权与个人信息自决权，是现代宪政法律大厦不可动摇的奠基支柱。"),
+            ("das Wohlergehen", "das", "Nomen", "unz.", "福祉，身心安康", "Das Wohl des Patienten muss immer vor ökonomischen Profitinteressen rangieren.", "在神圣的医患关系中，患者个体的生命健康与综合福祉必须永远凌驾于任何医疗机构的商业经济利润考量之上。"),
+            ("das Dilemma", "das", "Nomen", "Dilemmata", "两难困境，道德悖论", "Ärzte stehen in Katastrophenfällen oft vor einem qualvollen moralischen Dilemma.", "在遭遇特大突发公共卫生灾难、救治资源出现极端挤兑时，一线急救医护往往被迫面对撕心裂肺的道德两难抉择。"),
+            ("die Triage", "die", "Nomen", "unz.", "战伤/急诊伤情检伤分类", "Das Bundesverfassungsgericht forderte klare gesetzliche Vorgaben für die Triage.", "联邦宪法法院作出重磅裁决：强制要求联邦立法机关必须为医疗机构在极端挤兑下的伤员检伤分类设定刚性法治红线。"),
+            ("die Selektion", "die", "Nomen", "-en", "人为挑选，优胜劣汰", "Jede Form von genetischer Selektion von Nachkommen stößt auf schärfste ethische Ablehnung.", "出于特定主观偏好而妄图对后代基因表征进行人工定制与人为选择的行径，遭到国际伦理学界最严厉的谴责与唾弃。"),
+            ("die Diskriminierung", "die", "Nomen", "-en", "歧视，差别对待", "Gentests dürfen am Arbeitsplatz nicht zur Diskriminierung von Bewerbern führen.", "用人单位在招聘录用流程中强制要求应聘者提交基因筛查报告以图预后排斥的做法，构成了赤裸裸的非法基因歧视。"),
+            ("die Zulassung", "die", "Nomen", "-en", "上市行政审批，准入许可", "Vor der Markteinführung muss jedes neuartige Gentherapeutikum strenge Zulassungsverfahren durchlaufen.", "任何一款旨在上市流通的突破性前沿基因治疗新药，在正式投入临床前必须接受国家药品审评监管机构严苛的准入许可。"),
+            ("das Placebo", "das", "Nomen", "-s", "安慰剂", "In doppelblinden klinischen Studien erhält die Kontrollgruppe ein wirkstofffreies Placebo.", "在设计严密的金标准双盲随机对照临床试验中，对照组受试者在全程知情同意下严格服用不含任何活性成分的安慰剂。"),
+            ("die Nebenwirkung", "die", "Nomen", "-en", "不良反应，药物副作用", "Mögliche unerwünschte Nebenwirkungen müssen im Beipackzettel lückenlos deklariert werden.", "新药在临床各阶段所被监测记录到的一切潜在药物毒副作用，必须在法定药品说明书中给予不折不扣的完整详细披露。"),
+            ("die Resistenz", "die", "Nomen", "-en", "耐药性，抗药性", "Die übermäßige Verabreichung von Reserveantibiotika begünstigt gefährliche bakterielle Resistenzen.", "在医疗和畜牧业中长期过度滥用顶级广谱抗生素，正在全球范围内催生出对现有一切药物具备全面免疫力的致命超级耐药细菌。"),
+            ("die Zelle", "die", "Nomen", "-n", "生物细胞", "Die Zellmembran schützt das Innere der Zelle und reguliert den Stoffaustausch.", "细胞膜如同一道坚实的微观城墙，在守护细胞内部生命代谢的同时精准调控着与外界环境之间的物质与能量交互。"),
+            ("das Gewebe", "das", "Nomen", "-", "生物组织", "Durch Tissue Engineering können Forscher heute künstliches Hautgewebe im Labor züchten.", "依托前沿生物组织工程支架再生技术，如今科学家们已经在实验室中成功批量诱导培育出了可用于临床移植的人造活性皮肤组织。"),
+            ("das Organ", "das", "Nomen", "-e", "人体器官", "Die Nieren filtern Tag für Tag ununterbrochen Stoffwechselabfälle aus dem Blut.", "两侧肾脏日夜不停、不知疲倦地高效过滤并清除人体血液中循环积蓄的各类有毒代谢废物。"),
+            ("die Epigenetik", "die", "Nomen", "unz.", "表观遗传学", "Die Epigenetik erforscht, wie Umweltfaktoren das An- und Abschalten von Genen steuern.", "前沿表观遗传学深刻揭示了后天环境刺激、情绪压力与饮食生活方式是如何在不改变DNA双链序列的前提下调控基因表达开关的。"),
+            ("die Immuntherapie", "die", "Nomen", "-n", "肿瘤免疫治疗", "Die personalisierte Immuntherapie gilt als Meilenstein im weltweiten Kampf gegen Krebs.", "量身定制的个体化肿瘤CAR-T细胞免疫治疗技术，被国际肿瘤医学界公认为人类攻克晚期恶性实体肿瘤历史进程中的划时代里程碑。"),
+            ("die Chemotherapie", "die", "Nomen", "-n", "化学治疗，化疗", "Moderne Begleitmedikamente lindern die schweren Belastungen einer Chemotherapie beträchtlich.", "各类靶向止吐与升白新药的协同联用，已大幅减轻了晚期肿瘤患者在接受大剂量全身化疗打击时所承受的躯体痛苦。"),
+            ("das Antikörper", "das", "Nomen", "-", "特异性抗体", "Monoklonale Antikörper binden hochspezifisch an pathologische Zielstrukturen auf Tumorzellen.", "人工单克隆抗体能够以近乎“生物导弹”般的超高靶向特异性，牢牢锚定并结合在恶性肿瘤细胞表面的特定病理受体蛋白靶点上。"),
+            ("modifizieren", "kein", "Verb", "modifizierte, modifiziert", "基因修饰，改造", "Wissenschaftler modifizierten das Erbgut der Pflanze, um sie resistent gegen Dürre zu machen.", "农业生物科学家借助高精度基因工程修饰了农作物的底层遗传物质，使其在遭遇极端干旱肆虐时仍能保持顽强的保产能力。"),
+            ("sequenzieren", "kein", "Verb", "sequenzierte, sequenziert", "对…进行测序", "Forscher sequenzierten das gesamte Erbgut des neuartigen Erregers in Rekordzeit.", "在突发不明原因疫情后，国家疾病预防控制科研攻关团队仅用创纪录的十数个小时便成功对全新病原体的全基因组实施了精准测序。"),
+            ("transplantieren", "kein", "Verb", "transplantierte, transplantiert", "实施器官移植", "Chirurgen transplantierten die gespendete Niere in einer fünfstündigen Operation.", "多学科器官移植顶尖外科专家团队在长达五个多小时的紧密协作中，圆满将供体志愿捐献的健康肾脏顺利缝合移植入受体体内。"),
+            ("manipulieren", "kein", "Verb", "manipulierte, manipuliert", "非法操纵，恶意篡改", "Der Biologe wurde dafür verurteilt, das menschliche Erbgut unerlaubt manipuliert zu haben.", "这名擅自突破国际学术公理与监管禁令、非法从事人类受精卵基因魔改实验的疯狂生物学者最终依法被国家司法机关判处重刑。"),
+            ("züchten", "kein", "Verb", "züchtete, gezüchtet", "实验室培养，克隆培育", "Im Reagenzglas züchteten Biologen dreidimensionale zelluläre Mini-Organe für Arzneimitteltests.", "在无菌微流控试管中，组织工程专家成功体外诱导培育出了可完美替代活体动物进行新药筛选与心脏毒性初筛的三维人源化类器官。"),
+            ("eindämmen", "kein", "Verb", "dämmte ein, eingedämmt", "遏制，阻断传播", "Quarantänemaßnahmen halfen, den tödlichen viralen Seuchenausbruch lokal wirksam einzudämmen.", "坚决果断落实流行病学集中隔离阻断与密接追踪，帮助各级疾控机构在发源地现场将这场致命病毒性恶性传染病疫情成功扼杀封堵。"),
+            ("erachten", "kein", "Verb", "erachtete, erachtet", "认为，评定为 (für)", "Der Deutsche Ethikrat erachtet die absolute Keimbahnmanipulation für moralisch unvertretbar.", "德国伦理委员会在经过历时数月的跨学科论证后，正式出具立场报告：明确认定实施任何形式的人类生殖系胚胎基因改造在道德上均绝对不可被接受。"),
+            ("respektieren", "kein", "Verb", "respektierte, respektiert", "恪守，敬畏尊重", "Wissenschaftler müssen die verfassungsrechtlich verankerten ethischen Grenzen respektieren.", "从事前沿生命科技探索的全体科研工作者，必须时刻将敬畏法律与恪守宪法赋予的伦理红线牢牢熔铸在自己每一项实验构思的核心底层。"),
+            ("selektieren", "kein", "Verb", "selektierte, selektiert", "优生筛选", "Es ist unethisch, Embryonen nach physischen Wunschmerkmalen wie Augenfarbe zu selektieren.", "出于为人父母者狭隘虚荣的个人主观偏好而妄图在试管阶段根据眼睛颜色等外貌表征进行受精卵的人工优生筛选，被公认为极度丧失人伦公理。"),
+            ("abwägen", "kein", "Verb", "wog ab, abgewogen", "伦理权衡，仔细斟酌", "Ethiker müssen die Chancen therapeutischer Heilung gegen unabsehbare Risiken abwägen.", "前沿生命伦理哲学家必须将基因治疗所能带来的拯救万千绝症患者的伟大临床机遇，与对人类基因库可能构成的难以逆料的代际遗传系统性潜在风险进行极其沉重审慎的综合权衡。"),
+            ("ethisch", "kein", "Adjektiv", "-", "伦理道德的", "Die Forschung an geklonten embryonalen Stammzellen wirft fundamentale ethische Fragen auf.", "围绕克隆人胚胎干细胞提取与全能分化机制研究所诱发的一系列根本性深层生命伦理公理质问，数十年来始终萦绕在全人类的精神世界深处。"),
+            ("genetisch", "kein", "Adjektiv", "-", "遗传学的，基因的", "Manche Herzkrankheiten beruhen auf einer nachweisbaren erblichen genetischen Veranlagung.", "临床上相当一部分突发恶性心律失常与心肌病猝死悲剧，其深层发病诱因往往深植于患者家族世代相传、确凿可查的隐性单基因缺陷突变遗传病理基础之中。"),
+            ("pluripotent", "kein", "Adjektiv", "-", "多能分化的，全能潜力的", "Pluripotente Stammzellen bergen ein immenses Potenzial für die moderne regenerative Medizin.", "具备全能组织分化魔力的人类多能干细胞技术，为攻克人类脊髓截瘫损伤修复、脑卒中后遗症神经再生等世界性医学死结展现出了无限宽广的颠覆性前景。"),
+            ("kontrovers", "kein", "Adjektiv", "-", "充满激烈争议交锋的", "Das Thema der aktiven Sterbehilfe wird im Plenum des Deutschen Bundestages kontrovers diskutiert.", "关于是否应当在刑法上放开积极协助临终自绝这一沉重立法议题，在德意志联邦议院国家立法大厅内引发了跨党派、跨意识形态阵营数十年来罕见的针锋相对的激烈交锋。"),
+            ("irreversibel", "kein", "Adjektiv", "-", "不可逆转的", "Der irreversible Ausfall aller integrativen Hirnstammfunktionen markiert den biologischen Tod.", "包括自主呼吸在内的人脑脑干一切整合性神经调节中枢功能的不可逆彻底停摆丧失，在现代重症急救医学与法医学上被盖棺定论为个体有机生物学生命的最终熄灭。"),
+            ("hereditär", "kein", "Adjektiv", "-", "先天遗传而来的", "Hämophilie ist eine hereditäre Blutgerinnungsstörung, die primär das männliche Geschlecht betrifft.", "血友病是一种典型的伴X染色体隐性发病的先天遗传性血液凝血因子严重匮乏障碍症，其主要临床高危发病受害者历来集中于男性群体。"),
+            ("therapeutisch", "kein", "Adjektiv", "-", "临床治疗性的，医治的", "Wissenschaftler unterscheiden scharf zwischen therapeutischem und reproduktivem Klonen.", "严肃的生物医学界在技术路线与法规范畴上，始终将以治病救人为唯一旨归的局部组织细胞治疗性克隆，与意在培育人工婴儿的恶性克隆人行为予以截然区分。"),
+            ("letal", "kein", "Adjektiv", "-", "致命的，致死性的", "Eine letale Dosis des toxischen Erregers führt ohne Gegenmittel binnen weniger Stunden zum Tode.", "一旦在毫不知情下摄入达到致命致死剂量的烈性生物外毒素，若在黄金救援抢救窗口期内无法及时足量注入特异性抗毒素血清，中毒机体必死无疑。"),
+            ("transgen", "kein", "Adjektiv", "-", "转基因的，跨物种转录的", "Transgene Nutzpflanzen müssen in der Europäischen Union einer rigorosen Sicherheitsprüfung unterzogen werden.", "在欧洲联盟全境范围内，任何企图获准规模化商业化种植上市的外源基因导入转基因农副经济作物，均必须无条件接受长达数年、历经多代动物喂养毒理测试的极其严苛的安全审查。"),
+            ("regulatorisch", "kein", "Adjektiv", "-", "监管法规层面的", "Klare regulatorische Leitplanken schaffen Rechts- und Investitionssicherheit für die gesamte Life-Science-Branche.", "唯有由国家立法机关出台界限清晰、严谨负责、尊重公义的顶层监管法规制度红线与安全护栏，方能为整个生命科学前沿大健康与创新医药产业构筑起可预期的投资与研发避风港。")
+        ]
+    }
+]
+'''
+
+with open("tools/data/b2_part1.py", "w", encoding="utf-8") as f:
+    f.write(content.strip() + "\n")
+
+print("Created tools/data/b2_part1.py successfully!")

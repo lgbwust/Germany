@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DeutschMeister 德语大师 - 歌德 A1-B2 学习系统开发预览工具</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-layout">
+    <!-- Top Bar -->
+    <header class="top-nav">
+      <div class="brand">
+        <span class="flag-icon">🇩🇪</span>
+        <h1>DeutschMeister <span>德语大师 · 歌德通 (A1-B2)</span></h1>
+      </div>
+      <div class="header-actions">
+        <span class="badge" id="stats-badge">加载中...</span>
+        <button id="tts-toggle-btn" class="btn btn-secondary">🔊 测试德语语音</button>
+      </div>
+    </header>
+
+    <div class="main-body">
+      <!-- Sidebar Navigation: Levels & Lessons -->
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <h3>学习大纲导航</h3>
+          <p class="sub">严格对标歌德学院 CEFR 考纲</p>
+        </div>
+        <div class="level-tabs" id="level-tabs">
+          <!-- Populated by JS -->
+        </div>
+        <div class="lesson-list" id="lesson-list">
+          <!-- Populated by JS -->
+        </div>
+      </aside>
+
+      <!-- Main Content Area -->
+      <main class="content-panel">
+        <div class="lesson-header" id="lesson-header">
+          <div class="lesson-tag" id="lesson-level-tag">LEVEL A1</div>
+          <h2 id="lesson-title">请选择左侧课时开始预览</h2>
+          <p id="lesson-summary" class="summary-text"></p>
+        </div>
+
+        <!-- Mode Tabs: 词汇 | 语法 | 测验 -->
+        <div class="mode-tabs">
+          <button class="mode-tab active" data-tab="words">📖 核心考纲词汇 (<span id="words-count">0</span>)</button>
+          <button class="mode-tab" data-tab="grammar">📝 语法精讲与句型</button>
+          <button class="mode-tab" data-tab="quiz">🎯 互动实战测验 (<span id="quiz-count">0</span>)</button>
+        </div>
+
+        <!-- Tab 1: Words -->
+        <section id="tab-words" class="tab-pane active">
+          <div class="words-legend">
+            <span>冠词记忆法则：</span>
+            <span class="chip chip-der">der 阳性 (蓝色)</span>
+            <span class="chip chip-die">die 阴性 (红色)</span>
+            <span class="chip chip-das">das 中性 (绿色)</span>
+            <span class="chip chip-other">动词/形容词</span>
+          </div>
+          <div class="words-grid" id="words-grid">
+            <!-- Words will be rendered here -->
+          </div>
+        </section>
+
+        <!-- Tab 2: Grammar -->
+        <section id="tab-grammar" class="tab-pane">
+          <div class="grammar-container" id="grammar-container">
+            <!-- Grammar sections rendered here -->
+          </div>
+        </section>
+
+        <!-- Tab 3: Quiz -->
+        <section id="tab-quiz" class="tab-pane">
+          <div class="quiz-container" id="quiz-container">
+            <!-- Quiz questions rendered here -->
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

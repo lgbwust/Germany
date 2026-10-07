@@ -1,0 +1,12 @@
+<resources>
+    <color name="primary">#D97706</color>
+    <color name="primary_dark">#B45309</color>
+    <color name="accent">#F59E0B</color>
+    <color name="bg_dark">#0F172A</color>
+    <color name="surface_dark">#1E293B</color>
+    <color name="der_blue">#38BDF8</color>
+    <color name="die_red">#F43F5E</color>
+    <color name="das_green">#10B981</color>
+    <color name="plural_amber">#F59E0B</color>
+    <color name="ic_launcher_background">#151B26</color>
+</resources>

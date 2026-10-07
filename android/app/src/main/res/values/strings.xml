@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeutschMeister</string>
+    <string name="app_sub_name">德语大师 (歌德A1-B2全通)</string>
+    <string name="nav_home">学习大纲</string>
+    <string name="nav_notebook">生词与错题</string>
+    <string name="nav_search">查词与语法</string>
+    <string name="nav_settings">设置与工具</string>
+</resources>
