@@ -20,3 +20,7 @@ android/.gradle
 android/build
 android/app/build
 android/local.properties
+tools/*.u8
+tools/german_decks.json
+tools/words_final.json
+tools/data/candidates_all.json

@@ -733,6 +733,206 @@
           "meaning": "楷模，榜样",
           "example": "Seine Großmutter war stets sein großes Vorbild.",
           "exampleCn": "他的祖母一直是他心中的大榜样。"
+        },
+        {
+          "word": "passiert",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈpassiːrt]",
+          "plural": "-",
+          "meaning": "发生了",
+          "example": "Ist sonst noch etwas passiert?",
+          "exampleCn": "还发生什么别的事了吗？"
+        },
+        {
+          "word": "war",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈvar]",
+          "plural": "-",
+          "meaning": "（当时）是，在",
+          "example": "Der Zug war sehr bequem.",
+          "exampleCn": "火车很舒适。"
+        },
+        {
+          "word": "hatte",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈhatte]",
+          "plural": "-",
+          "meaning": "（当时）有",
+          "example": "Wir hatten leider keine Zeit.",
+          "exampleCn": "我们可惜没有时间。"
+        },
+        {
+          "word": "letzte Woche",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈletste voxe]",
+          "plural": "-",
+          "meaning": "上周",
+          "example": "Letzte Woche war ich krank.",
+          "exampleCn": "上周我生病了。"
+        },
+        {
+          "word": "letztes Wochenende",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈletstes voxenende]",
+          "plural": "-",
+          "meaning": "上周末",
+          "example": "Letztes Wochenende bin ich nach Dresden gefahren.",
+          "exampleCn": "上周末我去了德累斯顿。"
+        },
+        {
+          "word": "letztes Jahr",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈletstes jaːr]",
+          "plural": "-",
+          "meaning": "去年",
+          "example": "Letztes Jahr war ich in China.",
+          "exampleCn": "去年我在中国。"
+        },
+        {
+          "word": "aufräumen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈaʊfrɔɪmn̩]",
+          "plural": "-",
+          "meaning": "收拾，打扫",
+          "example": "Am Wochenende räume ich die Wohnung auf.",
+          "exampleCn": "周末我打扫房子。"
+        },
+        {
+          "word": "mitkommen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈmitkommn̩]",
+          "plural": "-",
+          "meaning": "一起来，一起去",
+          "example": "Kommst du heute Abend mit?",
+          "exampleCn": "你今晚要一起来吗？"
+        },
+        {
+          "word": "der Tagesablauf",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈtagesablaʊf]",
+          "plural": "Tagesabläufe",
+          "meaning": "日常作息，一天的安排",
+          "example": "Wie ist dein Tagesablauf?",
+          "exampleCn": "你的日常作息是怎样的？"
+        },
+        {
+          "word": "normalerweise",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈnormalervaɪse]",
+          "plural": "-",
+          "meaning": "通常，一般来说",
+          "example": "Normalerweise stehe ich um sieben auf.",
+          "exampleCn": "我通常七点起床。"
+        },
+        {
+          "word": "meistens",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈmaɪʃtens]",
+          "plural": "-",
+          "meaning": "大多数时候",
+          "example": "Meistens kaufe ich nach der Arbeit ein.",
+          "exampleCn": "我大多下班后去购物。"
+        },
+        {
+          "word": "eingekauft",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈaɪngekaʊft]",
+          "plural": "-",
+          "meaning": "买过东西了",
+          "example": "Ich habe eingekauft.",
+          "exampleCn": "我买东西了。"
+        },
+        {
+          "word": "angerufen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈangerufn̩]",
+          "plural": "-",
+          "meaning": "打过电话了",
+          "example": "Ich habe meine Mutter angerufen.",
+          "exampleCn": "我给我妈妈打了电话。"
+        },
+        {
+          "word": "aufgeräumt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈaʊfgerɔɪmt]",
+          "plural": "-",
+          "meaning": "收拾过了",
+          "example": "Ich habe die Wohnung aufgeräumt.",
+          "exampleCn": "我打扫了房子。"
+        },
+        {
+          "word": "ferngesehen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈferngeseːn̩]",
+          "plural": "-",
+          "meaning": "看过电视了",
+          "example": "Gestern habe ich lange ferngesehen.",
+          "exampleCn": "昨天我看了很久电视。"
+        },
+        {
+          "word": "abgeholt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈabgeːolt]",
+          "plural": "-",
+          "meaning": "接过，取过了",
+          "example": "Ich habe die Kinder abgeholt.",
+          "exampleCn": "我接了孩子。"
+        },
+        {
+          "word": "aufgestanden",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈaʊfgeʃtandn̩]",
+          "plural": "-",
+          "meaning": "起床了",
+          "example": "Ich bin heute früh aufgestanden.",
+          "exampleCn": "我今天起得很早。"
+        },
+        {
+          "word": "mitgekommen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈmitgekommn̩]",
+          "plural": "-",
+          "meaning": "一起来过，一起去过",
+          "example": "Jonas ist leider nicht mitgekommen.",
+          "exampleCn": "Jonas 可惜没有一起来。"
+        },
+        {
+          "word": "angefangen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈangefangn̩]",
+          "plural": "-",
+          "meaning": "开始了",
+          "example": "Die Arbeit hat um neun angefangen.",
+          "exampleCn": "工作九点开始了。"
+        },
+        {
+          "word": "aufgehört",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈaʊfgeːøːrt]",
+          "plural": "-",
+          "meaning": "结束了，停止了",
+          "example": "Ich habe um fünf aufgehört.",
+          "exampleCn": "我五点下班了（结束了）。"
         }
       ],
       "quiz": [
@@ -1597,6 +1797,206 @@
           "meaning": "奖学金",
           "example": "Sie bewarb sich erfolgreich um ein Stipendium.",
           "exampleCn": "她成功申领到了一笔求学奖学金。"
+        },
+        {
+          "word": "die Anmeldung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈanmeldung]",
+          "plural": "Anmeldungen",
+          "meaning": "（住址）登记，报到",
+          "example": "Ich brauche einen Termin für die Anmeldung.",
+          "exampleCn": "我需要一个登记的预约。"
+        },
+        {
+          "word": "der Antrag",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈantrag]",
+          "plural": "Anträge",
+          "meaning": "申请，申请表",
+          "example": "Ich möchte einen Antrag stellen.",
+          "exampleCn": "我想提交一份申请。"
+        },
+        {
+          "word": "die Bescheinigung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈbeʃaɪnigung]",
+          "plural": "Bescheinigungen",
+          "meaning": "证明，证明文件",
+          "example": "Sie bekommen die Bescheinigung per Post.",
+          "exampleCn": "您会收到邮寄的证明。"
+        },
+        {
+          "word": "gültig",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgyːltɪç]",
+          "plural": "-",
+          "meaning": "有效的",
+          "example": "Der Ausweis ist noch gültig.",
+          "exampleCn": "这个证件还有效。"
+        },
+        {
+          "word": "der Nachweis",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈnaxvaɪs]",
+          "plural": "Nachweise",
+          "meaning": "证明材料，凭证",
+          "example": "Sie brauchen einen Nachweis über Ihre Adresse.",
+          "exampleCn": "您需要一个地址证明。"
+        },
+        {
+          "word": "hiermit",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈhiːrmit]",
+          "plural": "-",
+          "meaning": "特此，兹（官方文书开头常用）",
+          "example": "Hiermit bestätigen wir Ihre Anmeldung.",
+          "exampleCn": "我们特此确认您的登记。"
+        },
+        {
+          "word": "bitte beachten Sie",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈbitte beaxten siː]",
+          "plural": "-",
+          "meaning": "请注意",
+          "example": "Bitte beachten Sie die Frist.",
+          "exampleCn": "请注意截止日期。"
+        },
+        {
+          "word": "spätestens bis",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈʃpɛːteʃtens bis]",
+          "plural": "-",
+          "meaning": "最晚到……为止",
+          "example": "Bitte antworten Sie spätestens bis zum 30. Juni.",
+          "exampleCn": "请最晚在6月30日前回复。"
+        },
+        {
+          "word": "Sehr geehrte(r) ...",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈseːr geeːrte(r) ...]",
+          "plural": "-",
+          "meaning": "尊敬的……（正式信件称呼）",
+          "example": "Sehr geehrter Herr Wei,",
+          "exampleCn": "尊敬的 Wei 先生，"
+        },
+        {
+          "word": "die Behörde",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈbeːøːrde]",
+          "plural": "Behörden",
+          "meaning": "官方机构，行政部门",
+          "example": "Ich habe einen Brief von der Behörde bekommen.",
+          "exampleCn": "我收到了一封行政部门的来信。"
+        },
+        {
+          "word": "der Bescheid",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈbeʃaɪd]",
+          "plural": "Bescheide",
+          "meaning": "（官方）通知，批复",
+          "example": "Sie erhalten einen schriftlichen Bescheid.",
+          "exampleCn": "您会收到一份书面通知。"
+        },
+        {
+          "word": "der Anrufbeantworter",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈanrufbeantvortɐ]",
+          "plural": "Anrufbeantworter",
+          "meaning": "电话答录机",
+          "example": "Ich habe eine Nachricht auf dem Anrufbeantworter hinterlassen.",
+          "exampleCn": "我在答录机上留了言。"
+        },
+        {
+          "word": "zurückrufen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈtsuryːckrufn̩]",
+          "plural": "-",
+          "meaning": "回电话",
+          "example": "Ich rufe Sie später zurück.",
+          "exampleCn": "我稍后给您回电话。"
+        },
+        {
+          "word": "der Rückruf",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈryːckruf]",
+          "plural": "Rückrufe",
+          "meaning": "回电（名词）",
+          "example": "Ich warte auf Ihren Rückruf.",
+          "exampleCn": "我在等您的回电。"
+        },
+        {
+          "word": "verbinden",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈferbindn̩]",
+          "plural": "-",
+          "meaning": "转接（电话）",
+          "example": "Ich verbinde Sie mit Frau Schmidt.",
+          "exampleCn": "我帮您转接给施密特女士。"
+        },
+        {
+          "word": "eine Nachricht hinterlassen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈaɪne naxriçt hinterlassn̩]",
+          "plural": "-",
+          "meaning": "留言",
+          "example": "Möchten Sie eine Nachricht hinterlassen?",
+          "exampleCn": "您想留言吗？"
+        },
+        {
+          "word": "auflegen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈaʊflegn̩]",
+          "plural": "-",
+          "meaning": "挂断（电话）",
+          "example": "Bitte legen Sie nicht auf!",
+          "exampleCn": "请不要挂断！"
+        },
+        {
+          "word": "Könnten Sie...?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈkøːnnten siː...?]",
+          "plural": "-",
+          "meaning": "您能不能……（礼貌请求）",
+          "example": "Könnten Sie mir helfen?",
+          "exampleCn": "您能帮我一下吗？"
+        },
+        {
+          "word": "Ich würde gern...",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈiç vyːrde gern...]",
+          "plural": "-",
+          "meaning": "我想……（礼貌表达意愿）",
+          "example": "Ich würde gern einen Termin vereinbaren.",
+          "exampleCn": "我想约一个时间。"
+        },
+        {
+          "word": "der Betreff",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈbetreff]",
+          "plural": "Betreffe",
+          "meaning": "邮件主题",
+          "example": "Betreff: Kaputte Heizung",
+          "exampleCn": "主题：暖气坏了"
         }
       ],
       "quiz": [
@@ -2461,6 +2861,206 @@
           "meaning": "建议，提议",
           "example": "Was schlagen Sie als nächsten Schritt vor?",
           "exampleCn": "关于下一步骤推进，您有何建议？"
+        },
+        {
+          "word": "mitteilen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈmittaɪln̩]",
+          "plural": "-",
+          "meaning": "告知，通知",
+          "example": "Ich möchte Ihnen mitteilen: Die Heizung ist kaputt.",
+          "exampleCn": "我想通知您：暖气坏了。"
+        },
+        {
+          "word": "Sehr geehrte Frau / Sehr geehrter Herr",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈseːr geeːrte fraʊ / seːr geeːrter herr]",
+          "plural": "-",
+          "meaning": "尊敬的女士/先生（正式邮件称呼）",
+          "example": "Sehr geehrte Frau Hoffmann,",
+          "exampleCn": "尊敬的 Hoffmann 女士，"
+        },
+        {
+          "word": "Liebe(r) ...",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈliːbe(r) ...]",
+          "plural": "-",
+          "meaning": "亲爱的……（熟人间称呼）",
+          "example": "Liebe Anna,",
+          "exampleCn": "亲爱的 Anna，"
+        },
+        {
+          "word": "Mit freundlichen Grüßen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈmit frɔɪndliçen gryːsn̩]",
+          "plural": "-",
+          "meaning": "此致敬礼（正式邮件结束语）",
+          "example": "Mit freundlichen Grüßen – Wei",
+          "exampleCn": "此致敬礼——Wei"
+        },
+        {
+          "word": "Viele Grüße",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈfiːle gryːse]",
+          "plural": "-",
+          "meaning": "问候（熟人间结束语，较随意）",
+          "example": "Viele Grüße aus Leipzig!",
+          "exampleCn": "来自莱比锡的问候！"
+        },
+        {
+          "word": "die Richtung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈriçtung]",
+          "plural": "Richtungen",
+          "meaning": "方向",
+          "example": "Die Richtung ist falsch.",
+          "exampleCn": "方向错了。"
+        },
+        {
+          "word": "das Rathaus",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈrathaʊs]",
+          "plural": "Rathäuser",
+          "meaning": "市政厅",
+          "example": "Das Rathaus steht am Markt.",
+          "exampleCn": "市政厅坐落在市场广场旁。"
+        },
+        {
+          "word": "gegenüber von",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgegenyːber fon]",
+          "plural": "-",
+          "meaning": "在……对面",
+          "example": "Der Platz liegt gegenüber vom Bahnhof.",
+          "exampleCn": "广场就在火车站对面。"
+        },
+        {
+          "word": "in der Nähe von",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈin der nɛːhe fon]",
+          "plural": "-",
+          "meaning": "在……附近",
+          "example": "Die Kirche ist in der Nähe vom Markt.",
+          "exampleCn": "教堂就在市场附近。"
+        },
+        {
+          "word": "stecken",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈʃteckn̩]",
+          "plural": "-",
+          "meaning": "插进，塞进",
+          "example": "Ich stecke den Schlüssel in die Tasche.",
+          "exampleCn": "我把钥匙放进包里。"
+        },
+        {
+          "word": "das Geld zurückbekommen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈgeld tsuryːckbekommn̩]",
+          "plural": "-",
+          "meaning": "拿回退款",
+          "example": "Bekomme ich mein Geld zurück?",
+          "exampleCn": "我能拿回我的钱吗？"
+        },
+        {
+          "word": "innerhalb von",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈinnerhalb fon]",
+          "plural": "-",
+          "meaning": "在……以内（+ Dativ）",
+          "example": "Sie können es innerhalb von 14 Tagen umtauschen.",
+          "exampleCn": "您可以在14天以内换货。"
+        },
+        {
+          "word": "zu Gast sein",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈtsu gast saɪn]",
+          "plural": "-",
+          "meaning": "做客，当客人",
+          "example": "Wir sind heute bei Anna zu Gast.",
+          "exampleCn": "我们今天在 Anna 家做客。"
+        },
+        {
+          "word": "Prost!",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈprost!]",
+          "plural": "-",
+          "meaning": "干杯！",
+          "example": "Prost, Anna!",
+          "exampleCn": "干杯，Anna！"
+        },
+        {
+          "word": "Guten Appetit!",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈguten appetit!]",
+          "plural": "-",
+          "meaning": "祝你好胃口（开动吧）！",
+          "example": "Guten Appetit, alle zusammen!",
+          "exampleCn": "大家好胃口！"
+        },
+        {
+          "word": "allergisch (gegen)",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈallergiʃ (gegen)]",
+          "plural": "-",
+          "meaning": "过敏的（对……）",
+          "example": "Ich bin allergisch gegen Nüsse.",
+          "exampleCn": "我对坚果过敏。"
+        },
+        {
+          "word": "die Nuss",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈnuss]",
+          "plural": "Nüsse",
+          "meaning": "坚果，果仁",
+          "example": "Die Nüsse schmecken gut.",
+          "exampleCn": "这些坚果很好吃。"
+        },
+        {
+          "word": "weil",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈvaɪl]",
+          "plural": "-",
+          "meaning": "因为（连接词，动词要移到句尾）",
+          "example": "Ich bleibe zu Hause, weil ich krank bin.",
+          "exampleCn": "我待在家里，因为我生病了。"
+        },
+        {
+          "word": "der Grund",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈgrund]",
+          "plural": "Gründe",
+          "meaning": "原因，理由",
+          "example": "Der Grund ist einfach.",
+          "exampleCn": "理由很简单。"
+        },
+        {
+          "word": "hin und zurück",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈhin und tsuryːck]",
+          "plural": "-",
+          "meaning": "往返（车票）",
+          "example": "Eine Fahrkarte hin und zurück, bitte.",
+          "exampleCn": "一张往返票，谢谢。"
         }
       ],
       "quiz": [
@@ -3325,6 +3925,206 @@
           "meaning": "安乐温馨的",
           "example": "Jetzt richten wir uns unser neues Zuhause gemütlich ein.",
           "exampleCn": "现在我们把新家布置得温馨而舒适。"
+        },
+        {
+          "word": "ausfallen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈaʊsfalln̩]",
+          "plural": "-",
+          "meaning": "（班次）取消",
+          "example": "Der Zug fällt aus.",
+          "exampleCn": "这趟车取消了。"
+        },
+        {
+          "word": "die Störung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈʃtøːrung]",
+          "plural": "Störungen",
+          "meaning": "故障，问题",
+          "example": "Es gibt eine technische Störung.",
+          "exampleCn": "出现了技术故障。"
+        },
+        {
+          "word": "umbuchen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈumbuxn̩]",
+          "plural": "-",
+          "meaning": "改签",
+          "example": "Kann ich meine Fahrkarte umbuchen?",
+          "exampleCn": "我能改签我的车票吗？"
+        },
+        {
+          "word": "die Auskunft",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈaʊskunft]",
+          "plural": "Auskünfte",
+          "meaning": "问讯，咨询处",
+          "example": "Ich frage mal bei der Auskunft.",
+          "exampleCn": "我去问讯处问问。"
+        },
+        {
+          "word": "kostenlos",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈkoʃtenlos]",
+          "plural": "-",
+          "meaning": "免费的",
+          "example": "Die Umbuchung ist kostenlos.",
+          "exampleCn": "改签是免费的。"
+        },
+        {
+          "word": "brauchen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈbraʊçn̩]",
+          "plural": "-",
+          "meaning": "需要",
+          "example": "Ich brauche noch Milch.",
+          "exampleCn": "我还需要牛奶。"
+        },
+        {
+          "word": "Urlaub nehmen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈurlaʊb neːmn̩]",
+          "plural": "-",
+          "meaning": "休假（动作）",
+          "example": "Ich möchte im August Urlaub nehmen.",
+          "exampleCn": "我想在八月休假。"
+        },
+        {
+          "word": "erledigen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈerledign̩]",
+          "plural": "-",
+          "meaning": "完成，处理（任务）",
+          "example": "Ich erledige die Aufgabe heute.",
+          "exampleCn": "我今天来完成这项任务。"
+        },
+        {
+          "word": "genehmigen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈgeneːmign̩]",
+          "plural": "-",
+          "meaning": "批准",
+          "example": "Der Chef genehmigt meinen Urlaub.",
+          "exampleCn": "老板批准了我的休假。"
+        },
+        {
+          "word": "die Genehmigung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈgeneːmigung]",
+          "plural": "Genehmigungen",
+          "meaning": "批准，许可",
+          "example": "Ich hoffe, dass ich die Genehmigung bekomme.",
+          "exampleCn": "我希望能拿到批准。"
+        },
+        {
+          "word": "die Abwesenheit",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈabvesenhaɪt]",
+          "plural": "Abwesenheiten",
+          "meaning": "缺席，不在",
+          "example": "Ich melde meine Abwesenheit.",
+          "exampleCn": "我报备我的缺席。"
+        },
+        {
+          "word": "denken",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈdenkn̩]",
+          "plural": "-",
+          "meaning": "认为，想",
+          "example": "Ich denke, dass das eine gute Idee ist.",
+          "exampleCn": "我觉得这是个好主意。"
+        },
+        {
+          "word": "glauben",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈglaʊbn̩]",
+          "plural": "-",
+          "meaning": "相信，认为",
+          "example": "Ich glaube, dass er heute nicht kommt.",
+          "exampleCn": "我觉得他今天不会来了。"
+        },
+        {
+          "word": "hoffen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈhoffn̩]",
+          "plural": "-",
+          "meaning": "希望",
+          "example": "Ich hoffe, dass alles gut klappt.",
+          "exampleCn": "我希望一切顺利。"
+        },
+        {
+          "word": "gesetzlich",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgesetsliç]",
+          "plural": "-",
+          "meaning": "法定的",
+          "example": "Ich bin gesetzlich versichert.",
+          "exampleCn": "我是法定医保。"
+        },
+        {
+          "word": "privat",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈprifat]",
+          "plural": "-",
+          "meaning": "私人的",
+          "example": "Er ist privat versichert.",
+          "exampleCn": "他是私人医保。"
+        },
+        {
+          "word": "die Fachärztin",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈfaxɛːrtstin]",
+          "plural": "Fachärztinnen",
+          "meaning": "专科医生（女）",
+          "example": "Die Fachärztin untersucht mich nächste Woche.",
+          "exampleCn": "专科医生下周给我做检查。"
+        },
+        {
+          "word": "das Wartezimmer",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈvartetsimmɐ]",
+          "plural": "Wartezimmer",
+          "meaning": "候诊室",
+          "example": "Ich warte im Wartezimmer.",
+          "exampleCn": "我在候诊室等着。"
+        },
+        {
+          "word": "sich kümmern um",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈkyːmmern um]",
+          "plural": "-",
+          "meaning": "照顾，负责（+ Akkusativ）",
+          "example": "Ich kümmere mich um meine Kollegin.",
+          "exampleCn": "我来照顾我的同事。"
+        },
+        {
+          "word": "sich erholen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈerholn̩]",
+          "plural": "-",
+          "meaning": "恢复，休养",
+          "example": "Ich muss mich jetzt erholen.",
+          "exampleCn": "我现在得好好恢复一下。"
         }
       ],
       "quiz": [
@@ -4189,6 +4989,206 @@
           "meaning": "力荐，推荐",
           "example": "Ich kann dieses Produkt uneingeschränkt weiterempfehlen.",
           "exampleCn": "我毫无保留地向所有身边朋友力荐该款好物。"
+        },
+        {
+          "word": "sich Sorgen machen um",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈsorgen maxen um]",
+          "plural": "-",
+          "meaning": "担心（+ Akkusativ）",
+          "example": "Mach dir keine Sorgen!",
+          "exampleCn": "别担心！"
+        },
+        {
+          "word": "sich verabreden",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈferabredn̩]",
+          "plural": "-",
+          "meaning": "约定见面",
+          "example": "Wir verabreden uns für Samstag.",
+          "exampleCn": "我们约好周六见面。"
+        },
+        {
+          "word": "die Verabredung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈferabredung]",
+          "plural": "Verabredungen",
+          "meaning": "约会，约定",
+          "example": "Ich habe heute eine Verabredung mit Anna.",
+          "exampleCn": "我今天和 Anna 有个约会。"
+        },
+        {
+          "word": "enttäuscht",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈenttɔɪʃt]",
+          "plural": "-",
+          "meaning": "失望的",
+          "example": "Ich bin ein bisschen enttäuscht.",
+          "exampleCn": "我有点失望。"
+        },
+        {
+          "word": "gespannt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgeʃpannt]",
+          "plural": "-",
+          "meaning": "期待的，紧张期待的",
+          "example": "Ich bin gespannt auf den Film.",
+          "exampleCn": "我很期待这部电影。"
+        },
+        {
+          "word": "Schade!",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈʃade!]",
+          "plural": "-",
+          "meaning": "太遗憾了，可惜！",
+          "example": "Schade, dass du nicht kommen kannst!",
+          "exampleCn": "真可惜你来不了！"
+        },
+        {
+          "word": "trösten",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈtrøːʃtn̩]",
+          "plural": "-",
+          "meaning": "安慰",
+          "example": "Anna ist traurig, aber ich tröste sie.",
+          "exampleCn": "Anna 很难过，但我安慰了她。"
+        },
+        {
+          "word": "nicht schlimm",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈniçt ʃlimm]",
+          "plural": "-",
+          "meaning": "没关系",
+          "example": "Das ist doch nicht schlimm.",
+          "exampleCn": "这没什么关系。"
+        },
+        {
+          "word": "nachholen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈnaxholn̩]",
+          "plural": "-",
+          "meaning": "补上，补做",
+          "example": "Wir holen den Filmabend nach.",
+          "exampleCn": "我们把这次电影之夜补上。"
+        },
+        {
+          "word": "der Bericht",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈberiçt]",
+          "plural": "Berichte",
+          "meaning": "报道",
+          "example": "Der Bericht steht in der Zeitung.",
+          "exampleCn": "这篇报道登在报纸上。"
+        },
+        {
+          "word": "berichten",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈberiçtn̩]",
+          "plural": "-",
+          "meaning": "报道",
+          "example": "Die Zeitung berichtet über den Streik.",
+          "exampleCn": "报纸报道了这次罢工。"
+        },
+        {
+          "word": "aktuell",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈaktuell]",
+          "plural": "-",
+          "meaning": "最新的，当前的",
+          "example": "Die Meldung ist aktuell.",
+          "exampleCn": "这条消息是最新的。"
+        },
+        {
+          "word": "lokal",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈlokal]",
+          "plural": "-",
+          "meaning": "本地的",
+          "example": "Die Zeitung berichtet vor allem lokal.",
+          "exampleCn": "这份报纸主要报道本地新闻。"
+        },
+        {
+          "word": "die Wirtschaft",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈvirtʃaft]",
+          "plural": "-",
+          "meaning": "经济",
+          "example": "Die Zeitung berichtet über die Wirtschaft.",
+          "exampleCn": "报纸报道经济方面的新闻。"
+        },
+        {
+          "word": "bauen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈbaʊn̩]",
+          "plural": "-",
+          "meaning": "建造",
+          "example": "Die Brücke wird gebaut.",
+          "exampleCn": "这座桥正在被建造。"
+        },
+        {
+          "word": "schließen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈʃliːsn̩]",
+          "plural": "-",
+          "meaning": "关闭",
+          "example": "Das Geschäft wird geschlossen.",
+          "exampleCn": "这家店正在被关闭。"
+        },
+        {
+          "word": "verboten",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈferbotn̩]",
+          "plural": "-",
+          "meaning": "被禁止的",
+          "example": "Rauchen ist hier verboten.",
+          "exampleCn": "这里禁止吸烟。"
+        },
+        {
+          "word": "erlaubt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈerlaʊbt]",
+          "plural": "-",
+          "meaning": "被允许的",
+          "example": "Ist das hier erlaubt?",
+          "exampleCn": "这里允许这样做吗？"
+        },
+        {
+          "word": "renoviert",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈrenofiːrt]",
+          "plural": "-",
+          "meaning": "装修/翻新过的",
+          "example": "Der Bahnhof wird renoviert.",
+          "exampleCn": "火车站正在被翻新。"
+        },
+        {
+          "word": "der Werdegang",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈverdegang]",
+          "plural": "Werdegänge",
+          "meaning": "职业经历，履历",
+          "example": "Erzählen Sie von Ihrem Werdegang.",
+          "exampleCn": "请讲讲您的职业经历。"
         }
       ],
       "quiz": [
@@ -5053,6 +6053,206 @@
           "meaning": "多层室内停车楼",
           "example": "Das moderne Parkhaus ist videoüberwacht und hell.",
           "exampleCn": "这座现代化的室内停车楼配有全景监控且敞亮。"
+        },
+        {
+          "word": "die Kenntnisse",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈkenntnisse]",
+          "plural": "-",
+          "meaning": "知识，技能（常用复数）",
+          "example": "Ich habe gute Kenntnisse in Biologie.",
+          "exampleCn": "我在生物学方面有扎实的知识。"
+        },
+        {
+          "word": "zuständig (für)",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈtsuʃtɛːndig (fyːr)]",
+          "plural": "-",
+          "meaning": "负责……的",
+          "example": "Wer ist für dieses Projekt zuständig?",
+          "exampleCn": "谁负责这个项目？"
+        },
+        {
+          "word": "kennenlernen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈkennenlernn̩]",
+          "plural": "-",
+          "meaning": "认识，结识",
+          "example": "Ich möchte den neuen Kollegen kennenlernen.",
+          "exampleCn": "我想认识一下这位新同事。"
+        },
+        {
+          "word": "meiner Meinung nach",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈmaɪner maɪnung nax]",
+          "plural": "-",
+          "meaning": "依我看，我认为",
+          "example": "Meiner Meinung nach ist das eine gute Idee.",
+          "exampleCn": "依我看，这是个好主意。"
+        },
+        {
+          "word": "dafür sein / dagegen sein",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈdafyːr saɪn / dagegen saɪn]",
+          "plural": "-",
+          "meaning": "赞成/反对",
+          "example": "Ich bin dafür, aber sie ist dagegen.",
+          "exampleCn": "我赞成，但她反对。"
+        },
+        {
+          "word": "die Idee",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈidee]",
+          "plural": "Ideen",
+          "meaning": "主意，想法",
+          "example": "Das ist eine gute Idee.",
+          "exampleCn": "这是个好主意。"
+        },
+        {
+          "word": "interessant",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈinteressant]",
+          "plural": "-",
+          "meaning": "有趣的，有意思的",
+          "example": "Er hat ein interessantes Projekt.",
+          "exampleCn": "他有个有趣的项目。"
+        },
+        {
+          "word": "sich wünschen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈvyːnʃn̩]",
+          "plural": "-",
+          "meaning": "希望，渴望（+ Akkusativ）",
+          "example": "Ich wünsche mir mehr freie Zeit.",
+          "exampleCn": "我希望能有更多自由时间。"
+        },
+        {
+          "word": "eigentlich",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈaɪgentliç]",
+          "plural": "-",
+          "meaning": "其实，本来（说实话）",
+          "example": "Eigentlich hätte ich gern mehr Zeit.",
+          "exampleCn": "其实我想有更多时间。"
+        },
+        {
+          "word": "stattdessen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈʃtattdessn̩]",
+          "plural": "-",
+          "meaning": "而是，作为替代",
+          "example": "Ich fahre nicht ans Meer, ich bleibe stattdessen zu Hause.",
+          "exampleCn": "我不去海边了，而是待在家里。"
+        },
+        {
+          "word": "träumen (von)",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈtrɔɪmen (fon)]",
+          "plural": "-",
+          "meaning": "梦想，向往（+ von 接 Dativ）",
+          "example": "Ich träume von einem langen Urlaub.",
+          "exampleCn": "我梦想着一次长假。"
+        },
+        {
+          "word": "an deiner Stelle",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈan daɪner ʃtelle]",
+          "plural": "-",
+          "meaning": "要是我是你的话",
+          "example": "An deiner Stelle würde ich das ansprechen.",
+          "exampleCn": "要是我是你，我会提出来。"
+        },
+        {
+          "word": "raten",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈratn̩]",
+          "plural": "-",
+          "meaning": "建议（某人，+ Dativ）",
+          "example": "Ich rate dir, mit ihm zu sprechen.",
+          "exampleCn": "我建议你和他谈谈。"
+        },
+        {
+          "word": "die Buchmesse",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈbuxmesse]",
+          "plural": "Buchmessen",
+          "meaning": "书展，图书博览会",
+          "example": "Die Leipziger Buchmesse findet jedes Jahr im März statt.",
+          "exampleCn": "莱比锡书展每年三月举办。"
+        },
+        {
+          "word": "stattfinden",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈʃtattfindn̩]",
+          "plural": "-",
+          "meaning": "举行，举办（活动）",
+          "example": "Das Konzert findet im Gewandhaus statt.",
+          "exampleCn": "音乐会在 Gewandhaus 举行。"
+        },
+        {
+          "word": "die Lesung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈlesung]",
+          "plural": "Lesungen",
+          "meaning": "朗读会，读书会",
+          "example": "Die Autorin hält heute eine Lesung.",
+          "exampleCn": "这位作家今天有一场朗读会。"
+        },
+        {
+          "word": "signieren",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈsigniːrn̩]",
+          "plural": "-",
+          "meaning": "（给书）签名",
+          "example": "Der Autor signiert heute seine Bücher.",
+          "exampleCn": "这位作者今天签售他的书。"
+        },
+        {
+          "word": "der Autor / die Autorin",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈaʊtor / diː aʊtorin]",
+          "plural": "Autoren/Autorinnen",
+          "meaning": "作者",
+          "example": "Die Autorin ist sehr bekannt.",
+          "exampleCn": "这位女作者很有名。"
+        },
+        {
+          "word": "hausgemacht",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈhaʊsgemaxt]",
+          "plural": "-",
+          "meaning": "自制的，家常的",
+          "example": "Der Kuchen ist hausgemacht.",
+          "exampleCn": "这个蛋糕是自制的。"
+        },
+        {
+          "word": "das Bewerbungsschreiben",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈbeverbungsʃraɪbn̩]",
+          "plural": "Bewerbungsschreiben",
+          "meaning": "求职信",
+          "example": "Das Bewerbungsschreiben sollte nicht länger als eine Seite sein.",
+          "exampleCn": "求职信不应该超过一页。"
         }
       ],
       "quiz": [
@@ -5917,6 +7117,206 @@
           "meaning": "留念凭信，纪念品",
           "example": "Dieses Holzschnitzwerk ist ein schönes Andenken.",
           "exampleCn": "这尊精美木雕是此番阿尔卑斯山之旅的珍贵留念。"
+        },
+        {
+          "word": "der Arbeitgeber / die Arbeitgeberin",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈarbaɪtgeber / diː arbaɪtgeberin]",
+          "plural": "Arbeitgeber/Arbeitgeberinnen",
+          "meaning": "雇主",
+          "example": "Mein zukünftiger Arbeitgeber legt Wert auf Teamarbeit.",
+          "exampleCn": "我未来的雇主很看重团队合作。"
+        },
+        {
+          "word": "sich bewerben um",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈbeverben um]",
+          "plural": "-",
+          "meaning": "申请（某职位）",
+          "example": "Ich bewerbe mich um die Stelle als Laborleiterin.",
+          "exampleCn": "我在申请实验室主管这个职位。"
+        },
+        {
+          "word": "die Berufserfahrung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈberufserfaːrung]",
+          "plural": "-",
+          "meaning": "工作经验",
+          "example": "Sie bringt fünf Jahre Berufserfahrung mit.",
+          "exampleCn": "她带来了五年的工作经验。"
+        },
+        {
+          "word": "der Vorstellungstermin",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈforʃtellungʃtermin]",
+          "plural": "Vorstellungstermine",
+          "meaning": "面试预约时间",
+          "example": "Der Vorstellungstermin ist am Donnerstag um zehn Uhr.",
+          "exampleCn": "面试预约在周四十点。"
+        },
+        {
+          "word": "einstellen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈaɪnʃtelln̩]",
+          "plural": "-",
+          "meaning": "雇佣，录用",
+          "example": "Die Firma hat letztes Jahr zehn neue Leute eingestellt.",
+          "exampleCn": "这家公司去年录用了十个新人。"
+        },
+        {
+          "word": "verantwortlich sein für",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈferantvortliç saɪn fyːr]",
+          "plural": "-",
+          "meaning": "对……负责",
+          "example": "In meiner letzten Stelle war ich für das Team verantwortlich.",
+          "exampleCn": "在我上一份工作里我负责这个团队。"
+        },
+        {
+          "word": "verloren gehen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈferloren geːn̩]",
+          "plural": "-",
+          "meaning": "丢失，遗失",
+          "example": "Mein Koffer ist leider verloren gegangen.",
+          "exampleCn": "我的箱子很不幸丢了。"
+        },
+        {
+          "word": "die Fundsachen",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈfundsaxn̩]",
+          "plural": "-",
+          "meaning": "失物招领（处）",
+          "example": "Ich muss zu den Fundsachen gehen.",
+          "exampleCn": "我得去失物招领处一趟。"
+        },
+        {
+          "word": "deshalb",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈdeshalb]",
+          "plural": "-",
+          "meaning": "所以，因此",
+          "example": "Der Zug hatte Verspätung, deshalb habe ich den Anschluss verpasst.",
+          "exampleCn": "火车晚点了，所以我错过了转乘。"
+        },
+        {
+          "word": "trotzdem",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈtrotsdem]",
+          "plural": "-",
+          "meaning": "尽管如此",
+          "example": "Der Zug hatte Verspätung, trotzdem habe ich den Anschluss geschafft.",
+          "exampleCn": "火车晚点了，尽管如此我还是赶上了转乘。"
+        },
+        {
+          "word": "obwohl",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈobvoːl]",
+          "plural": "-",
+          "meaning": "虽然，尽管",
+          "example": "Obwohl der Zug Verspätung hatte, blieb ich ruhig.",
+          "exampleCn": "虽然火车晚点了，我还是保持冷静。"
+        },
+        {
+          "word": "sich beschweren",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈbeʃvern̩]",
+          "plural": "-",
+          "meaning": "投诉，抱怨",
+          "example": "Ich beschwere mich über die Verspätung.",
+          "exampleCn": "我要为这次延误投诉。"
+        },
+        {
+          "word": "die Entschädigung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈentʃɛːdigung]",
+          "plural": "Entschädigungen",
+          "meaning": "赔偿",
+          "example": "Bei über 60 Minuten Verspätung gibt es eine Entschädigung.",
+          "exampleCn": "延误超过 60 分钟就有赔偿。"
+        },
+        {
+          "word": "der Schaden",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈʃadn̩]",
+          "plural": "Schäden",
+          "meaning": "损失，损害",
+          "example": "Der Schaden am Koffer war zum Glück klein.",
+          "exampleCn": "幸好行李箱的损坏不大。"
+        },
+        {
+          "word": "die Ursache",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈursaxe]",
+          "plural": "Ursachen",
+          "meaning": "起因，原因",
+          "example": "Die Ursache der Verspätung war unklar.",
+          "exampleCn": "延误的原因不明。"
+        },
+        {
+          "word": "wegen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈvegn̩]",
+          "plural": "-",
+          "meaning": "因为，由于（+Genitiv）",
+          "example": "Wegen einer technischen Störung kam der Zug später an.",
+          "exampleCn": "由于一次技术故障，火车晚到了。"
+        },
+        {
+          "word": "das Croissant",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈcroissant]",
+          "plural": "Croissants",
+          "meaning": "牛角包",
+          "example": "Ich hätte gern ein Croissant.",
+          "exampleCn": "我想要一个牛角包。"
+        },
+        {
+          "word": "das Stück",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈʃtyːck]",
+          "plural": "Stücke",
+          "meaning": "一块，一件",
+          "example": "Ein Stück Kuchen, bitte.",
+          "exampleCn": "请给我一块蛋糕。"
+        },
+        {
+          "word": "zum Mitnehmen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈtsum mitneːmn̩]",
+          "plural": "-",
+          "meaning": "带走（外带）",
+          "example": "Einen Kaffee zum Mitnehmen, bitte.",
+          "exampleCn": "一杯咖啡带走，谢谢。"
+        },
+        {
+          "word": "zum Hier-Essen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈtsum hiːr-essn̩]",
+          "plural": "-",
+          "meaning": "在这里吃（堂食）",
+          "example": "Zum Hier-Essen, bitte.",
+          "exampleCn": "在这里吃，谢谢。"
         }
       ],
       "quiz": [
@@ -6781,6 +8181,206 @@
           "meaning": "自我爱护，保重静养",
           "example": "Schonen Sie nach dem Eingriff bitte Ihren Kreislauf!",
           "exampleCn": "术后请务必注意卧床休息，避免心血管负担过重！"
+        },
+        {
+          "word": "mit Milch",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈmit milç]",
+          "plural": "-",
+          "meaning": "加牛奶",
+          "example": "Ein Kaffee mit Milch, bitte.",
+          "exampleCn": "请来一杯加奶咖啡。"
+        },
+        {
+          "word": "ohne Zucker",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈoːne tsuckɐ]",
+          "plural": "-",
+          "meaning": "不加糖",
+          "example": "Ein Tee ohne Zucker, bitte.",
+          "exampleCn": "请来一杯不加糖的茶。"
+        },
+        {
+          "word": "Was darf’s sein?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈvas darf’s saɪn?]",
+          "plural": "-",
+          "meaning": "您要点什么？（店员招呼语）",
+          "example": "Guten Tag! Was darf’s sein?",
+          "exampleCn": "您好！您要点什么？"
+        },
+        {
+          "word": "Das wär’s",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈdas vɛːr’s]",
+          "plural": "-",
+          "meaning": "就这些了（顾客表示点完了）",
+          "example": "Ein Kaffee, das wär’s.",
+          "exampleCn": "一杯咖啡，就这些了。"
+        },
+        {
+          "word": "Noch etwas?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈnox etvas?]",
+          "plural": "-",
+          "meaning": "还要别的吗？",
+          "example": "Noch etwas? Nein, danke.",
+          "exampleCn": "还要别的吗？不用了，谢谢。"
+        },
+        {
+          "word": "die Work-Life-Balance",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈvork-life-balance]",
+          "plural": "-",
+          "meaning": "工作生活平衡",
+          "example": "Viele Deutsche legen Wert auf die Work-Life-Balance.",
+          "exampleCn": "很多德国人很看重工作生活平衡。"
+        },
+        {
+          "word": "behaupten",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈbeːaʊptn̩]",
+          "plural": "-",
+          "meaning": "声称，断言",
+          "example": "Er behauptet, dass er recht hat.",
+          "exampleCn": "他声称自己是对的。"
+        },
+        {
+          "word": "der Ansicht sein",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈansiçt saɪn]",
+          "plural": "-",
+          "meaning": "持……观点，认为",
+          "example": "Ich bin der Ansicht, dass wir handeln müssen.",
+          "exampleCn": "我认为我们必须采取行动。"
+        },
+        {
+          "word": "angeblich",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈangebliç]",
+          "plural": "-",
+          "meaning": "据说的，号称的（暗示存疑）",
+          "example": "Er ist angeblich krank, aber ich habe ihn joggen gesehen.",
+          "exampleCn": "他据说病了，但我看见他在跑步。"
+        },
+        {
+          "word": "diskutieren",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈdiskutiːrn̩]",
+          "plural": "-",
+          "meaning": "讨论",
+          "example": "Wir diskutieren gerade über die Work-Life-Balance.",
+          "exampleCn": "我们正在讨论工作生活平衡的话题。"
+        },
+        {
+          "word": "einerseits...andererseits",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈaɪnersaɪts...anderersaɪts]",
+          "plural": "-",
+          "meaning": "一方面……另一方面……",
+          "example": "Einerseits spare ich Zeit, andererseits fehlt mir der Kontakt zu Kollegen.",
+          "exampleCn": "一方面我省了时间，另一方面我缺少和同事的接触。"
+        },
+        {
+          "word": "die Tatsache",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈtatsaxe]",
+          "plural": "Tatsachen",
+          "meaning": "事实",
+          "example": "Das ist eine Tatsache, kein Gerücht.",
+          "exampleCn": "这是事实，不是谣言。"
+        },
+        {
+          "word": "die Behauptung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈbeːaʊptung]",
+          "plural": "Behauptungen",
+          "meaning": "声称，断言",
+          "example": "Diese Behauptung ist noch nicht bewiesen.",
+          "exampleCn": "这个说法还没有被证实。"
+        },
+        {
+          "word": "veröffentlichen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈferøːffentliçn̩]",
+          "plural": "-",
+          "meaning": "发布，公开发表",
+          "example": "Die Zeitung veröffentlicht den Artikel morgen.",
+          "exampleCn": "这家报纸明天发表这篇文章。"
+        },
+        {
+          "word": "objektiv",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈobjektif]",
+          "plural": "-",
+          "meaning": "客观的",
+          "example": "Die Nachricht ist objektiv geschrieben.",
+          "exampleCn": "这条新闻写得很客观。"
+        },
+        {
+          "word": "überprüfen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈyːberpryːfn̩]",
+          "plural": "-",
+          "meaning": "核实，核查",
+          "example": "Man sollte die Fakten immer überprüfen.",
+          "exampleCn": "应该总是核实这些事实。"
+        },
+        {
+          "word": "glaubwürdig",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈglaʊbvyːrdɪç]",
+          "plural": "-",
+          "meaning": "可信的",
+          "example": "Ist diese Quelle glaubwürdig?",
+          "exampleCn": "这个消息来源可信吗？"
+        },
+        {
+          "word": "die Falschmeldung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈfalʃmeldung]",
+          "plural": "Falschmeldungen",
+          "meaning": "假消息，虚假报道",
+          "example": "Das war leider eine Falschmeldung.",
+          "exampleCn": "可惜那是一条假消息。"
+        },
+        {
+          "word": "vermuten",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈfermutn̩]",
+          "plural": "-",
+          "meaning": "推测，猜测",
+          "example": "Man vermutet, dass das Gesetz bald geändert wird.",
+          "exampleCn": "据推测，这项法律很快会被修改。"
+        },
+        {
+          "word": "die Auswirkung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈaʊsvirkung]",
+          "plural": "Auswirkungen",
+          "meaning": "影响，后果",
+          "example": "Die Auswirkungen des Gesetzes sind noch unklar.",
+          "exampleCn": "这项法律的影响目前还不明朗。"
         }
       ],
       "quiz": [
@@ -7645,6 +9245,206 @@
           "meaning": "做东宴请，慷慨请客",
           "example": "Heute Abend übernehme ich die Zeche und lade euch alle herzlich ein!",
           "exampleCn": "今天晚上这顿算我的由我来做东埋单，诚挚邀请大家敞开痛快吃！"
+        },
+        {
+          "word": "der Anteil",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈantaɪl]",
+          "plural": "Anteile",
+          "meaning": "比例，份额",
+          "example": "Der Anteil ist in den letzten Jahren gestiegen.",
+          "exampleCn": "这个比例近几年上升了。"
+        },
+        {
+          "word": "steigen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈʃtaɪgn̩]",
+          "plural": "-",
+          "meaning": "上升",
+          "example": "Die Zahlen steigen seit Monaten.",
+          "exampleCn": "这些数字已经上升了好几个月。"
+        },
+        {
+          "word": "sinken",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈsinkn̩]",
+          "plural": "-",
+          "meaning": "下降",
+          "example": "Die Preise sinken selten.",
+          "exampleCn": "价格很少下降。"
+        },
+        {
+          "word": "mittlerweile",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈmittlervaɪle]",
+          "plural": "-",
+          "meaning": "如今，与此同时",
+          "example": "Mittlerweile wurde das Problem gelöst.",
+          "exampleCn": "如今这个问题已经被解决了。"
+        },
+        {
+          "word": "der Eindruck",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈaɪndruck]",
+          "plural": "Eindrücke",
+          "meaning": "印象",
+          "example": "Ich hatte den falschen Eindruck.",
+          "exampleCn": "我当时的印象是错的。"
+        },
+        {
+          "word": "die Absicht",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈabsiçt]",
+          "plural": "Absichten",
+          "meaning": "意图，本意",
+          "example": "Das war nicht meine Absicht.",
+          "exampleCn": "那不是我的本意。"
+        },
+        {
+          "word": "beabsichtigen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈbeabsiçtign̩]",
+          "plural": "-",
+          "meaning": "打算，意图是",
+          "example": "Ich habe das wirklich nicht beabsichtigt.",
+          "exampleCn": "我真的不是故意的。"
+        },
+        {
+          "word": "sich entschuldigen (bei + Dat., für + Akk.)",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈentʃuldigen (baɪ + dat., fyːr + akk.)]",
+          "plural": "-",
+          "meaning": "道歉（复现）",
+          "example": "Ich möchte mich bei dir entschuldigen.",
+          "exampleCn": "我想向你道歉。"
+        },
+        {
+          "word": "der Unterschied",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈunterʃiːd]",
+          "plural": "Unterschiede",
+          "meaning": "区别，差异",
+          "example": "Der Unterschied ist manchmal ziemlich groß.",
+          "exampleCn": "这种差异有时候相当大。"
+        },
+        {
+          "word": "direkt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈdirekt]",
+          "plural": "-",
+          "meaning": "直接的",
+          "example": "Deutsche kommunizieren oft direkter als Chinesen.",
+          "exampleCn": "德国人交流通常比中国人更直接。"
+        },
+        {
+          "word": "indirekt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈindirekt]",
+          "plural": "-",
+          "meaning": "间接的",
+          "example": "In China ist Kritik oft indirekter formuliert.",
+          "exampleCn": "在中国，批评通常表达得更间接。"
+        },
+        {
+          "word": "taktvoll",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈtaktfoll]",
+          "plural": "-",
+          "meaning": "有分寸的，得体的",
+          "example": "Er hat das sehr taktvoll gesagt.",
+          "exampleCn": "他说得很有分寸。"
+        },
+        {
+          "word": "im Nachhinein",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈim naxhinaɪn]",
+          "plural": "-",
+          "meaning": "事后（回想起来）",
+          "example": "Im Nachhinein hätte ich anders reagiert.",
+          "exampleCn": "事后想想，我当时会有不同的反应。"
+        },
+        {
+          "word": "bedauern",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈbedaʊern]",
+          "plural": "-",
+          "meaning": "遗憾，后悔",
+          "example": "Ich bedauere, was ich gesagt habe.",
+          "exampleCn": "我为自己说过的话感到遗憾。"
+        },
+        {
+          "word": "rückblickend",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈryːckblickend]",
+          "plural": "-",
+          "meaning": "回顾起来地",
+          "example": "Rückblickend war das keine gute Idee.",
+          "exampleCn": "回顾起来，那不是个好主意。"
+        },
+        {
+          "word": "der Ratschlag",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈratʃlag]",
+          "plural": "Ratschläge",
+          "meaning": "建议，忠告（复现 der Rat）",
+          "example": "Danke für den guten Ratschlag.",
+          "exampleCn": "谢谢你的好建议。"
+        },
+        {
+          "word": "die Herausforderung",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈheraʊsforderung]",
+          "plural": "Herausforderungen",
+          "meaning": "挑战",
+          "example": "Der Umzug war eine große Herausforderung.",
+          "exampleCn": "搬家是一次很大的挑战。"
+        },
+        {
+          "word": "bewältigen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈbevɛːltign̩]",
+          "plural": "-",
+          "meaning": "克服，应付（挑战/任务）",
+          "example": "Ich habe die Herausforderung gut bewältigt.",
+          "exampleCn": "我很好地克服了这个挑战。"
+        },
+        {
+          "word": "der Ablauf",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈablaʊf]",
+          "plural": "Abläufe",
+          "meaning": "流程，过程",
+          "example": "Der Ablauf beim Bürgeramt war diesmal einfacher.",
+          "exampleCn": "这次在市民办事处的流程简单多了。"
+        },
+        {
+          "word": "reibungslos",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈraɪbungslos]",
+          "plural": "-",
+          "meaning": "顺利的，没有摩擦的",
+          "example": "Diesmal lief leider nicht alles reibungslos.",
+          "exampleCn": "这次可惜不是一切都很顺利。"
         }
       ],
       "quiz": [
@@ -8509,6 +10309,206 @@
           "meaning": "香水精油，名贵芳香",
           "example": "Ein Hauch von edlem Parfüm verströmt eine unaufdringliche Note.",
           "exampleCn": "喷洒在锁骨与耳后的一抹淡雅高级小众香水散发着若隐若现的芬芳。"
+        },
+        {
+          "word": "der Umgang (mit + Dat.)",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈumgang (mit + dat.)]",
+          "plural": "-",
+          "meaning": "应对，打交道（与……）",
+          "example": "Der Umgang mit Behörden fällt mir jetzt viel leichter.",
+          "exampleCn": "现在跟官方机构打交道对我来说容易多了。"
+        },
+        {
+          "word": "zusammenfassend",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈtsusammenfassend]",
+          "plural": "-",
+          "meaning": "总而言之，总结来说",
+          "example": "Zusammenfassend kann ich sagen, dass ich viel gelernt habe.",
+          "exampleCn": "总而言之，我可以说自己学到了很多。"
+        },
+        {
+          "word": "insgesamt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈinsgesamt]",
+          "plural": "-",
+          "meaning": "总体上，总共",
+          "example": "Insgesamt war das ein sehr guter Kurs.",
+          "exampleCn": "总体上这是一门很棒的课程。"
+        },
+        {
+          "word": "der Rückblick",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈryːckblick]",
+          "plural": "Rückblicke",
+          "meaning": "回顾，回想",
+          "example": "Im Rückblick war die erste Zeit am schwersten.",
+          "exampleCn": "回顾起来，最初那段时间是最难的。"
+        },
+        {
+          "word": "die Sicherheit",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈsiçerhaɪt]",
+          "plural": "-",
+          "meaning": "把握感，自信（语言运用上的）",
+          "example": "Ich habe viel Sicherheit im Deutschen gewonnen.",
+          "exampleCn": "我在德语运用上获得了很强的把握感。"
+        },
+        {
+          "word": "die Routine",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈroutine]",
+          "plural": "Routinen",
+          "meaning": "常规，熟练度",
+          "example": "Deutsch ist Teil meiner Routine geworden.",
+          "exampleCn": "德语已经成为我日常习惯的一部分。"
+        },
+        {
+          "word": "Wie geht’s?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈviː geːt’s?]",
+          "plural": "-",
+          "meaning": "你好吗？最近怎么样？（对 du）",
+          "example": "Hallo! Wie geht’s?",
+          "exampleCn": "你好！最近怎么样？"
+        },
+        {
+          "word": "Wie geht es Ihnen?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈviː geːt es ihnen?]",
+          "plural": "-",
+          "meaning": "您好吗？（对 Sie，正式）",
+          "example": "Guten Tag, Frau Schmidt! Wie geht es Ihnen?",
+          "exampleCn": "您好，施密特女士！您好吗？"
+        },
+        {
+          "word": "Gut, danke",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgut, danke]",
+          "plural": "-",
+          "meaning": "挺好的，谢谢",
+          "example": "Gut, danke! Und dir?",
+          "exampleCn": "挺好的，谢谢！你呢？"
+        },
+        {
+          "word": "Sehr gut",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈseːr gut]",
+          "plural": "-",
+          "meaning": "非常好",
+          "example": "Sehr gut, danke!",
+          "exampleCn": "非常好，谢谢！"
+        },
+        {
+          "word": "Es geht",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈes geːt]",
+          "plural": "-",
+          "meaning": "还行，一般般",
+          "example": "Es geht, und dir?",
+          "exampleCn": "还行吧，你呢？"
+        },
+        {
+          "word": "Nicht so gut",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈniçt so gut]",
+          "plural": "-",
+          "meaning": "不太好",
+          "example": "Nicht so gut heute.",
+          "exampleCn": "今天不太好。"
+        },
+        {
+          "word": "Und dir?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈund dir?]",
+          "plural": "-",
+          "meaning": "你呢？（对 du）",
+          "example": "Gut, und dir?",
+          "exampleCn": "挺好，你呢？"
+        },
+        {
+          "word": "Und Ihnen?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈund ihnen?]",
+          "plural": "-",
+          "meaning": "您呢？（对 Sie）",
+          "example": "Gut, danke. Und Ihnen?",
+          "exampleCn": "挺好，谢谢。您呢？"
+        },
+        {
+          "word": "Es regnet",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈes regnet]",
+          "plural": "-",
+          "meaning": "在下雨",
+          "example": "Es regnet heute.",
+          "exampleCn": "今天在下雨。"
+        },
+        {
+          "word": "Bis Montag!",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈbis montag!]",
+          "plural": "-",
+          "meaning": "周一见！",
+          "example": "Tschüss, bis Montag!",
+          "exampleCn": "再见，周一见！"
+        },
+        {
+          "word": "Schönes Wochenende!",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈʃøːnes voxenende!]",
+          "plural": "-",
+          "meaning": "周末愉快！",
+          "example": "Schönes Wochenende, Anna!",
+          "exampleCn": "周末愉快，Anna！"
+        },
+        {
+          "word": "Wie bitte?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈviː bitte?]",
+          "plural": "-",
+          "meaning": "您说什么？（没听清，请对方重复）",
+          "example": "Wie bitte? Ich verstehe nicht.",
+          "exampleCn": "您说什么？我没听懂。"
+        },
+        {
+          "word": "Können Sie das bitte wiederholen?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈkøːnnen siː das bitte viːderholen?]",
+          "plural": "-",
+          "meaning": "您能再说一遍吗？",
+          "example": "Entschuldigung, können Sie das bitte wiederholen?",
+          "exampleCn": "不好意思，您能再说一遍吗？"
+        },
+        {
+          "word": "Langsamer, bitte",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈlangsamer, bitte]",
+          "plural": "-",
+          "meaning": "请说慢一点",
+          "example": "Wie bitte? Langsamer, bitte.",
+          "exampleCn": "您说什么？请说慢一点。"
         }
       ],
       "quiz": [
@@ -9373,6 +11373,206 @@
           "meaning": "寓教于乐生动有趣的",
           "example": "Ein heiterer und ungemein unterhaltsamer Abend im Kabarett.",
           "exampleCn": "在政治讽刺喜剧小品秀剧场里度过了一个捧腹且妙趣横生的欢快夜晚。"
+        },
+        {
+          "word": "Ich verstehe nicht",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈiç ferʃteːe niçt]",
+          "plural": "-",
+          "meaning": "我没听懂，我不明白",
+          "example": "Entschuldigung, ich verstehe nicht.",
+          "exampleCn": "不好意思，我没听懂。"
+        },
+        {
+          "word": "Ich spreche nur ein bisschen Deutsch",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈiç spreçe nur aɪn bisʃen dɔɪtʃ]",
+          "plural": "-",
+          "meaning": "我只会说一点点德语",
+          "example": "Entschuldigung, ich spreche nur ein bisschen Deutsch.",
+          "exampleCn": "不好意思，我只会说一点点德语。"
+        },
+        {
+          "word": "Sprechen Sie Englisch?",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈspreçen siː engliʃ?]",
+          "plural": "-",
+          "meaning": "您会说英语吗？",
+          "example": "Entschuldigung, sprechen Sie Englisch?",
+          "exampleCn": "不好意思，您会说英语吗？"
+        },
+        {
+          "word": "Kein Problem",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈkaɪn problem]",
+          "plural": "-",
+          "meaning": "没问题",
+          "example": "Kein Problem, danke!",
+          "exampleCn": "没问题，谢谢！"
+        },
+        {
+          "word": "Moment, bitte",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈmoment, bitte]",
+          "plural": "-",
+          "meaning": "请稍等",
+          "example": "Einen Moment, bitte!",
+          "exampleCn": "请稍等一下！"
+        },
+        {
+          "word": "die Linie",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈliniː]",
+          "plural": "Linien",
+          "meaning": "线路",
+          "example": "Ich nehme die Linie drei.",
+          "exampleCn": "我坐3路。"
+        },
+        {
+          "word": "Nächste Haltestelle: ...",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈnɛːçʃte halteʃtelle: ...]",
+          "plural": "-",
+          "meaning": "下一站是……",
+          "example": "Nächste Haltestelle: Hauptbahnhof.",
+          "exampleCn": "下一站：中央火车站。"
+        },
+        {
+          "word": "Zurückbleiben, bitte!",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈtsuryːckblaɪben, bitte!]",
+          "plural": "-",
+          "meaning": "请退后！（车门关闭前的提示）",
+          "example": "Türen schließen. Zurückbleiben, bitte!",
+          "exampleCn": "车门关闭，请退后！"
+        },
+        {
+          "word": "der Eingang",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈaɪngang]",
+          "plural": "Eingänge",
+          "meaning": "入口",
+          "example": "Wo ist der Eingang?",
+          "exampleCn": "入口在哪儿？"
+        },
+        {
+          "word": "der Ausgang",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈaʊsgang]",
+          "plural": "Ausgänge",
+          "meaning": "出口",
+          "example": "Der Ausgang ist dort.",
+          "exampleCn": "出口在那边。"
+        },
+        {
+          "word": "der Notausgang",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈnotaʊsgang]",
+          "plural": "Notausgänge",
+          "meaning": "紧急出口",
+          "example": "Der Notausgang ist links.",
+          "exampleCn": "紧急出口在左边。"
+        },
+        {
+          "word": "ziehen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈtsiːhn̩]",
+          "plural": "-",
+          "meaning": "拉（门上常见标识）",
+          "example": "Bitte ziehen.",
+          "exampleCn": "请拉。"
+        },
+        {
+          "word": "drücken",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈdryːckn̩]",
+          "plural": "-",
+          "meaning": "推（门上常见标识）",
+          "example": "Bitte drücken.",
+          "exampleCn": "请推。"
+        },
+        {
+          "word": "geöffnet",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgeøːffnet]",
+          "plural": "-",
+          "meaning": "营业中，开着的",
+          "example": "Die Bäckerei ist geöffnet.",
+          "exampleCn": "面包店营业中。"
+        },
+        {
+          "word": "geschlossen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈgeʃlossn̩]",
+          "plural": "-",
+          "meaning": "已关门，打烊",
+          "example": "Der Supermarkt ist geschlossen.",
+          "exampleCn": "超市已经打烊了。"
+        },
+        {
+          "word": "gesperrt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgeʃperrt]",
+          "plural": "-",
+          "meaning": "封闭的，禁止通行的",
+          "example": "Die Straße ist gesperrt.",
+          "exampleCn": "这条路封闭了。"
+        },
+        {
+          "word": "mindestens haltbar bis",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈmindeʃtens haltbar bis]",
+          "plural": "-",
+          "meaning": "最佳赏味期至……（标签上常缩写 MHD）",
+          "example": "Mindestens haltbar bis Freitag.",
+          "exampleCn": "最佳赏味期至周五。"
+        },
+        {
+          "word": "bio",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈbio]",
+          "plural": "-",
+          "meaning": "有机的",
+          "example": "Der Apfel ist bio.",
+          "exampleCn": "这个苹果是有机的。"
+        },
+        {
+          "word": "das Getränk",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈgetrɛːnk]",
+          "plural": "Getränke",
+          "meaning": "饮料",
+          "example": "Das Getränk ist kalt.",
+          "exampleCn": "这杯饮料是冰的。"
+        },
+        {
+          "word": "übermorgen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈyːbermorgn̩]",
+          "plural": "-",
+          "meaning": "后天",
+          "example": "Übermorgen ist Freitag.",
+          "exampleCn": "后天是星期五。"
         }
       ],
       "quiz": [
@@ -10237,6 +12437,206 @@
           "meaning": "公众心智认知，认同感",
           "example": "Das Umweltbewusstsein in der Bevölkerung ist in den letzten Jahren gewachsen.",
           "exampleCn": "全社会普通百姓心中对绿色低碳与环境保护的心智认同感近年来显著跃升。"
+        },
+        {
+          "word": "nächste Woche",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈnɛːçʃte voxe]",
+          "plural": "-",
+          "meaning": "下周",
+          "example": "Nächste Woche habe ich viel Zeit.",
+          "exampleCn": "下周我有很多时间。"
+        },
+        {
+          "word": "der Frisör",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈfrisøːr]",
+          "plural": "Frisöre",
+          "meaning": "理发师，理发店",
+          "example": "Ich brauche einen Termin beim Frisör.",
+          "exampleCn": "我需要一个理发的预约。"
+        },
+        {
+          "word": "die Frisörin",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈfrisøːrin]",
+          "plural": "Frisörinnen",
+          "meaning": "女理发师",
+          "example": "Die Frisörin ist sehr nett.",
+          "exampleCn": "这位理发师很亲切。"
+        },
+        {
+          "word": "der Salon",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈsalon]",
+          "plural": "Salons",
+          "meaning": "（理发/美容）店",
+          "example": "Der Salon öffnet um neun Uhr.",
+          "exampleCn": "理发店九点开门。"
+        },
+        {
+          "word": "Moment mal",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈmoment mal]",
+          "plural": "-",
+          "meaning": "稍等一下",
+          "example": "Moment mal, wie spät ist es?",
+          "exampleCn": "稍等一下，现在几点了？"
+        },
+        {
+          "word": "na klar",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈna klar]",
+          "plural": "-",
+          "meaning": "当然啦",
+          "example": "Na klar, das passt!",
+          "exampleCn": "当然啦，这个时间没问题！"
+        },
+        {
+          "word": "wunderbar",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈvunderbar]",
+          "plural": "-",
+          "meaning": "太好了，棒极了",
+          "example": "Wunderbar, bis Donnerstag!",
+          "exampleCn": "太好了，周四见！"
+        },
+        {
+          "word": "spätestens",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈʃpɛːteʃtens]",
+          "plural": "-",
+          "meaning": "最晚，至迟",
+          "example": "Ich komme spätestens um zehn Uhr.",
+          "exampleCn": "我最晚十点到。"
+        },
+        {
+          "word": "das Einzelkind",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈaɪntselkind]",
+          "plural": "Einzelkinder",
+          "meaning": "独生子女",
+          "example": "Ich bin Einzelkind.",
+          "exampleCn": "我是独生子女。"
+        },
+        {
+          "word": "der Neffe",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈneffe]",
+          "plural": "Neffen",
+          "meaning": "侄子，外甥",
+          "example": "Mein Neffe ist drei Jahre alt.",
+          "exampleCn": "我侄子三岁。"
+        },
+        {
+          "word": "die Nichte",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈniçte]",
+          "plural": "Nichten",
+          "meaning": "侄女，外甥女",
+          "example": "Meine Nichte ist noch klein.",
+          "exampleCn": "我侄女还很小。"
+        },
+        {
+          "word": "die Verwandten",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈfervandtn̩]",
+          "plural": "-",
+          "meaning": "亲戚们（只有复数）",
+          "example": "Meine Verwandten wohnen alle in China.",
+          "exampleCn": "我的亲戚都住在中国。"
+        },
+        {
+          "word": "kein",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈkaɪn]",
+          "plural": "-",
+          "meaning": "没有（否定名词，随性数变化）",
+          "example": "Ich habe kein Auto.",
+          "exampleCn": "我没有车。"
+        },
+        {
+          "word": "doch",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈdox]",
+          "plural": "-",
+          "meaning": "（对否定问题作肯定回答时）不，恰恰相反",
+          "example": "Doch, ich bin verheiratet!",
+          "exampleCn": "不，我结婚了！"
+        },
+        {
+          "word": "gar nicht",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgar niçt]",
+          "plural": "-",
+          "meaning": "一点也不，完全不",
+          "example": "Der Kaffee ist gar nicht teuer.",
+          "exampleCn": "这咖啡一点也不贵。"
+        },
+        {
+          "word": "möchten",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈmøːçtn̩]",
+          "plural": "-",
+          "meaning": "想要（礼貌）",
+          "example": "Ich möchte Deutsch lernen.",
+          "exampleCn": "我想学德语。"
+        },
+        {
+          "word": "können",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈkøːnnn̩]",
+          "plural": "-",
+          "meaning": "能，会",
+          "example": "Kannst du schwimmen?",
+          "exampleCn": "你会游泳吗？"
+        },
+        {
+          "word": "müssen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈmyːssn̩]",
+          "plural": "-",
+          "meaning": "必须",
+          "example": "Ich muss heute arbeiten.",
+          "exampleCn": "我今天必须工作。"
+        },
+        {
+          "word": "der Deutschkurs",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈdɔɪtʃkurs]",
+          "plural": "Deutschkurse",
+          "meaning": "德语课",
+          "example": "Ich muss am Samstag zum Deutschkurs.",
+          "exampleCn": "我周六得去上德语课。"
+        },
+        {
+          "word": "das Fitnessstudio",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈfitnessʃtudio]",
+          "plural": "Fitnessstudios",
+          "meaning": "健身房",
+          "example": "Ich möchte heute Abend ins Fitnessstudio gehen.",
+          "exampleCn": "我今晚想去健身房。"
         }
       ],
       "quiz": [
@@ -11101,6 +13501,206 @@
           "meaning": "全行业新闻出版舆论界",
           "example": "Die freie Presse erfüllt als vierte Gewalt eine unverzichtbare Kontrollfunktion.",
           "exampleCn": "崇尚独立客观的自由新闻舆论界作为社会公器担负着不可或缺的监督把关之职。"
+        },
+        {
+          "word": "Sport machen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈʃport maxn̩]",
+          "plural": "-",
+          "meaning": "做运动",
+          "example": "Kannst du am Wochenende Sport machen?",
+          "exampleCn": "你周末能运动吗？"
+        },
+        {
+          "word": "Zeit haben",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈtsaɪt habn̩]",
+          "plural": "-",
+          "meaning": "有时间",
+          "example": "Hast du heute Zeit?",
+          "exampleCn": "你今天有时间吗？"
+        },
+        {
+          "word": "frei sein",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈfraɪ saɪn]",
+          "plural": "-",
+          "meaning": "有空的，空闲的",
+          "example": "Bist du am Freitag frei?",
+          "exampleCn": "你周五有空吗？"
+        },
+        {
+          "word": "heute Abend",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈhɔɪte abend]",
+          "plural": "-",
+          "meaning": "今晚",
+          "example": "Was machst du heute Abend?",
+          "exampleCn": "你今晚做什么？"
+        },
+        {
+          "word": "dieses Wochenende",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈdiːses voxenende]",
+          "plural": "-",
+          "meaning": "这个周末",
+          "example": "Dieses Wochenende möchte ich joggen gehen.",
+          "exampleCn": "这个周末我想去慢跑。"
+        },
+        {
+          "word": "vielleicht",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈfiːllaɪçt]",
+          "plural": "-",
+          "meaning": "也许",
+          "example": "Vielleicht können wir zusammen joggen.",
+          "exampleCn": "也许我们可以一起慢跑。"
+        },
+        {
+          "word": "dürfen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈdyːrfn̩]",
+          "plural": "-",
+          "meaning": "可以，被允许",
+          "example": "Hier darf man nicht rauchen.",
+          "exampleCn": "这里不允许吸烟。"
+        },
+        {
+          "word": "wollen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈvolln̩]",
+          "plural": "-",
+          "meaning": "想要（比 möchten 更直接）",
+          "example": "Ich will nach Hause.",
+          "exampleCn": "我想回家。"
+        },
+        {
+          "word": "sollen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈsolln̩]",
+          "plural": "-",
+          "meaning": "应该，被要求",
+          "example": "Der Arzt sagt, ich soll mehr Wasser trinken.",
+          "exampleCn": "医生说我应该多喝水。"
+        },
+        {
+          "word": "das Picknick",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈpicknick]",
+          "plural": "Picknicks",
+          "meaning": "野餐",
+          "example": "Wir machen am Sonntag ein Picknick.",
+          "exampleCn": "我们周日野餐。"
+        },
+        {
+          "word": "Lust haben (auf)",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈlust haben (aʊf)]",
+          "plural": "-",
+          "meaning": "对……有兴趣，想做……",
+          "example": "Hast du Lust auf ein Picknick?",
+          "exampleCn": "你想去野餐吗？"
+        },
+        {
+          "word": "leider",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈlaɪdɐ]",
+          "plural": "-",
+          "meaning": "可惜，遗憾的是",
+          "example": "Ich habe leider keine Zeit.",
+          "exampleCn": "我很遗憾没有时间。"
+        },
+        {
+          "word": "ein anderes Mal",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈaɪn anderes mal]",
+          "plural": "-",
+          "meaning": "下次，改天",
+          "example": "Können wir ein anderes Mal joggen gehen?",
+          "exampleCn": "我们可以改天去慢跑吗？"
+        },
+        {
+          "word": "schade",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈʃade]",
+          "plural": "-",
+          "meaning": "可惜",
+          "example": "Schade! Vielleicht ein anderes Mal.",
+          "exampleCn": "真可惜！那就改天吧。"
+        },
+        {
+          "word": "klingt gut",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈklingt gut]",
+          "plural": "-",
+          "meaning": "听起来不错",
+          "example": "Das klingt gut, aber ich kann leider nicht.",
+          "exampleCn": "听起来不错，但我恐怕不行。"
+        },
+        {
+          "word": "draußen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈdraʊsn̩]",
+          "plural": "-",
+          "meaning": "在外面，户外",
+          "example": "Wir können draußen essen.",
+          "exampleCn": "我们可以在外面吃。"
+        },
+        {
+          "word": "drinnen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈdrinnn̩]",
+          "plural": "-",
+          "meaning": "在里面，室内",
+          "example": "Heute möchte ich drinnen bleiben.",
+          "exampleCn": "今天我想待在室内。"
+        },
+        {
+          "word": "gerade",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgerade]",
+          "plural": "-",
+          "meaning": "恰好",
+          "example": "Die Linie ist gerade.",
+          "exampleCn": "这条线很直。"
+        },
+        {
+          "word": "erst",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈerst]",
+          "plural": "-",
+          "meaning": "先前",
+          "example": "Ich komme erst um fünf Uhr.",
+          "exampleCn": "我五点钟才到。"
+        },
+        {
+          "word": "lassen",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈlassn̩]",
+          "plural": "-",
+          "meaning": "使能够",
+          "example": "Lass mich gehen!",
+          "exampleCn": "让我走吧！"
         }
       ],
       "quiz": [
@@ -11965,6 +14565,206 @@
           "meaning": "祝度过祥和欢快的节期",
           "example": "Wir wünschen unserer geschätzten Kundschaft und ihren Familien besinnliche und frohe Festtage!",
           "exampleCn": "我们向长期以来给予信任支持的尊贵广大客户及其家人致以最祥和幸福的节日问候！"
+        },
+        {
+          "word": "wirklich",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈvirkliç]",
+          "plural": "-",
+          "meaning": "真的",
+          "example": "Das ist wirklich schön.",
+          "exampleCn": "这真的很好。"
+        },
+        {
+          "word": "bereits",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈberaɪts]",
+          "plural": "-",
+          "meaning": "即只",
+          "example": "Ich habe das bereits getan.",
+          "exampleCn": "我已经这样做了。"
+        },
+        {
+          "word": "die Welt",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈvelt]",
+          "plural": "-e",
+          "meaning": "世间",
+          "example": "Die Welt ist groß.",
+          "exampleCn": "世界很大。"
+        },
+        {
+          "word": "genau",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈgenaʊ]",
+          "plural": "-",
+          "meaning": "恰好",
+          "example": "Das ist genau das, was ich brauche.",
+          "exampleCn": "这正是我所需要的。"
+        },
+        {
+          "word": "natürlich",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈnatyːrliç]",
+          "plural": "-",
+          "meaning": "素颜",
+          "example": "Das ist eine natürliche Reaktion.",
+          "exampleCn": "这是一种自然反应。"
+        },
+        {
+          "word": "klar",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈklar]",
+          "plural": "-",
+          "meaning": "洁",
+          "example": "Das ist ganz klar.",
+          "exampleCn": "这是很清楚的。"
+        },
+        {
+          "word": "das Paar",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈpaar]",
+          "plural": "-e",
+          "meaning": "双",
+          "example": "Sie sind ein glückliches Paar.",
+          "exampleCn": "他们是幸福的一对。"
+        },
+        {
+          "word": "einige",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈaɪnige]",
+          "plural": "-",
+          "meaning": "啲",
+          "example": "Ich habe einige Bücher gelesen.",
+          "exampleCn": "我读了一些书。"
+        },
+        {
+          "word": "sicher",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈsiçɐ]",
+          "plural": "-",
+          "meaning": "泰",
+          "example": "Bist du sicher?",
+          "exampleCn": "你确定吗？"
+        },
+        {
+          "word": "letzt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈletst]",
+          "plural": "-",
+          "meaning": "最后",
+          "example": "Das ist das letzte Mal.",
+          "exampleCn": "这是最后一次了。"
+        },
+        {
+          "word": "sogar",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈsogar]",
+          "plural": "-",
+          "meaning": "甚至",
+          "example": "Er kann sogar Deutsch sprechen.",
+          "exampleCn": "他甚至会说德语。"
+        },
+        {
+          "word": "die Art",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈart]",
+          "plural": "-e",
+          "meaning": "品系",
+          "example": "Welche Art von Musik magst du?",
+          "exampleCn": "你喜欢什么样的音乐？"
+        },
+        {
+          "word": "die Liebe",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈliːbe]",
+          "plural": "-n",
+          "meaning": "爱心",
+          "example": "Die Liebe ist ein starkes Gefühl.",
+          "exampleCn": "爱是一种强烈的感觉。"
+        },
+        {
+          "word": "gehören",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈgeːøːrn̩]",
+          "plural": "-",
+          "meaning": "归",
+          "example": "Das Buch gehört mir.",
+          "exampleCn": "这本书是我的。"
+        },
+        {
+          "word": "anders",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈanders]",
+          "plural": "-",
+          "meaning": "异种",
+          "example": "Das ist ganz anders.",
+          "exampleCn": "这是完全不同的。"
+        },
+        {
+          "word": "der Dank",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈdank]",
+          "plural": "-e",
+          "meaning": "感谢",
+          "example": "Vielen Dank für Ihre Hilfe.",
+          "exampleCn": "谢谢你的帮助。"
+        },
+        {
+          "word": "ebenfalls",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈebenfalls]",
+          "plural": "-",
+          "meaning": "也是",
+          "example": "Ich komme ebenfalls mit.",
+          "exampleCn": "我也同意。"
+        },
+        {
+          "word": "lieb",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈliːb]",
+          "plural": "-",
+          "meaning": "臧",
+          "example": "Das ist sehr lieb von dir.",
+          "exampleCn": "这是你的恩惠。"
+        },
+        {
+          "word": "der Ort",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈort]",
+          "plural": "-e",
+          "meaning": "角落",
+          "example": "Das ist ein schöner Ort.",
+          "exampleCn": "这是一个美丽的地方。"
+        },
+        {
+          "word": "sofort",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈsofort]",
+          "plural": "-",
+          "meaning": "旋即",
+          "example": "Ich komme sofort.",
+          "exampleCn": "我马上就来。"
         }
       ],
       "quiz": [
@@ -12829,6 +15629,206 @@
           "meaning": "高分夺魁斩获大捷",
           "example": "Mit Gelassenheit, Ausdauer und diesem Training ist Ihnen der Erfolg sicher!",
           "exampleCn": "凭借这种沉着从容的心态、滴水穿石的坚毅与这套全真冲刺秘籍，你必将高分斩获大捷！"
+        },
+        {
+          "word": "danach",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈdanax]",
+          "plural": "-",
+          "meaning": "跟着",
+          "example": "Wir haben gegessen, und danach sind wir ins Kino gegangen.",
+          "exampleCn": "我们吃了晚饭，然后去看电影。"
+        },
+        {
+          "word": "endlich",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈendliç]",
+          "plural": "-",
+          "meaning": "有穷",
+          "example": "Endlich ist das Wochenende da!",
+          "exampleCn": "周末终于来了！"
+        },
+        {
+          "word": "egal",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈegal]",
+          "plural": "-",
+          "meaning": "无所谓",
+          "example": "Es ist mir egal.",
+          "exampleCn": "我不在乎。"
+        },
+        {
+          "word": "stark",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈʃtark]",
+          "plural": "-",
+          "meaning": "湍急",
+          "example": "Er ist ein starker Mann.",
+          "exampleCn": "他是个坚强的人。"
+        },
+        {
+          "word": "rund",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈrund]",
+          "plural": "-",
+          "meaning": "循环",
+          "example": "Der Tisch ist rund.",
+          "exampleCn": "桌子是圆的。"
+        },
+        {
+          "word": "bekannt",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈbekannt]",
+          "plural": "-",
+          "meaning": "坦白",
+          "example": "Er ist ein bekannter Schauspieler.",
+          "exampleCn": "他是一个著名的演员。"
+        },
+        {
+          "word": "los",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈlos]",
+          "plural": "-",
+          "meaning": "彩券",
+          "example": "Was ist los?",
+          "exampleCn": "发生了什么事？"
+        },
+        {
+          "word": "die Gruppe",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈgruppe]",
+          "plural": "-n",
+          "meaning": "夥",
+          "example": "Die Gruppe trifft sich um acht Uhr.",
+          "exampleCn": "这个小组8点开会。"
+        },
+        {
+          "word": "mehrere",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈmeːrere]",
+          "plural": "-",
+          "meaning": "多工",
+          "example": "Ich habe mehrere Bücher gelesen.",
+          "exampleCn": "我读过几本书。"
+        },
+        {
+          "word": "die Sache",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈsaxe]",
+          "plural": "-n",
+          "meaning": "玩艺",
+          "example": "Das ist eine komplizierte Sache.",
+          "exampleCn": "这是一个复杂的问题。"
+        },
+        {
+          "word": "das Prozent",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈprotsent]",
+          "plural": "-e",
+          "meaning": "百分",
+          "example": "Zehn Prozent der Bevölkerung sind Studenten.",
+          "exampleCn": "大约10%的人口是学生。"
+        },
+        {
+          "word": "die Form",
+          "article": "die",
+          "type": "n.",
+          "ipa": "[ˈform]",
+          "plural": "-en",
+          "meaning": "形体",
+          "example": "Die Form des Tisches ist rund.",
+          "exampleCn": "桌子的形状是圆的。"
+        },
+        {
+          "word": "passieren",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈpassiːrn̩]",
+          "plural": "-",
+          "meaning": "发生",
+          "example": "Was ist passiert?",
+          "exampleCn": "发生了什么事？"
+        },
+        {
+          "word": "ziemlich",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈtsiːmliç]",
+          "plural": "-",
+          "meaning": "颇",
+          "example": "Das Wetter ist heute ziemlich gut.",
+          "exampleCn": "今天天气相当不错。"
+        },
+        {
+          "word": "wieso",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈviːso]",
+          "plural": "-",
+          "meaning": "何以",
+          "example": "Wieso bist du so spät?",
+          "exampleCn": "你为什么这么晚？"
+        },
+        {
+          "word": "verschieden",
+          "article": "",
+          "type": "adj.",
+          "ipa": "[ˈferʃiːdn̩]",
+          "plural": "-",
+          "meaning": "杂",
+          "example": "Wir haben verschiedene Meinungen.",
+          "exampleCn": "我们有不同的意见。"
+        },
+        {
+          "word": "vorbei",
+          "article": "",
+          "type": "adv.",
+          "ipa": "[ˈforbaɪ]",
+          "plural": "-",
+          "meaning": "过去",
+          "example": "Der Zug fuhr am Bahnhof vorbei.",
+          "exampleCn": "火车驶过了火车站。"
+        },
+        {
+          "word": "reden",
+          "article": "",
+          "type": "v.",
+          "ipa": "[ˈredn̩]",
+          "plural": "-",
+          "meaning": "讲话",
+          "example": "Sie reden über das Wetter.",
+          "exampleCn": "他们正在谈论天气。"
+        },
+        {
+          "word": "das Video",
+          "article": "das",
+          "type": "n.",
+          "ipa": "[ˈfideo]",
+          "plural": "-s",
+          "meaning": "录像",
+          "example": "Ich schaue ein Video.",
+          "exampleCn": "我正在看一个视频。"
+        },
+        {
+          "word": "der Raum",
+          "article": "der",
+          "type": "n.",
+          "ipa": "[ˈraʊm]",
+          "plural": "-̈e",
+          "meaning": "拉削",
+          "example": "Das Wohnzimmer ist ein großer Raum.",
+          "exampleCn": "客厅是一个大房间。"
         }
       ],
       "quiz": [

@@ -1,0 +1,9110 @@
+[
+  {
+    "de": "Auge",
+    "art": "das",
+    "pl": "Augen",
+    "zh": "眼睛",
+    "en": "eye",
+    "ex": "Er hat braune Augen und dunkle Haare.",
+    "exZh": "他有一双棕色眼睛和深色头发。"
+  },
+  {
+    "de": "Nase",
+    "art": "die",
+    "pl": "Nasen",
+    "zh": "鼻子",
+    "en": "nose",
+    "ex": "Im Winter ist meine Nase oft kalt.",
+    "exZh": "冬天我的鼻子经常很冷。"
+  },
+  {
+    "de": "Mund",
+    "art": "der",
+    "pl": "Münder",
+    "zh": "嘴，嘴巴",
+    "en": "mouth",
+    "ex": "Mach den Mund auf und sag Ah!",
+    "exZh": "张开嘴说啊！"
+  },
+  {
+    "de": "Zahn",
+    "art": "der",
+    "pl": "Zähne",
+    "zh": "牙齿",
+    "en": "tooth",
+    "ex": "Ich putze mir jeden Abend die Zähne.",
+    "exZh": "我每天晚上刷牙。"
+  },
+  {
+    "de": "Hand",
+    "art": "die",
+    "pl": "Hände",
+    "zh": "手",
+    "en": "hand",
+    "ex": "Wasch deine Hände vor dem Essen!",
+    "exZh": "吃饭前先洗手！"
+  },
+  {
+    "de": "Finger",
+    "art": "der",
+    "pl": "Finger",
+    "zh": "手指",
+    "en": "finger",
+    "ex": "Der Finger tut mir seit heute weh.",
+    "exZh": "我的手指从今天起就疼。"
+  },
+  {
+    "de": "Fuß",
+    "art": "der",
+    "pl": "Füße",
+    "zh": "脚",
+    "en": "foot",
+    "ex": "Meine Füße tun nach dem Sport weh.",
+    "exZh": "运动后我的脚很疼。"
+  },
+  {
+    "de": "Knie",
+    "art": "das",
+    "pl": "Knie",
+    "zh": "膝盖",
+    "en": "knee",
+    "ex": "Er hat sich beim Fußball das Knie verletzt.",
+    "exZh": "他踢足球时伤了膝盖。"
+  },
+  {
+    "de": "Schulter",
+    "art": "die",
+    "pl": "Schultern",
+    "zh": "肩膀",
+    "en": "shoulder",
+    "ex": "Mir tut die rechte Schulter weh.",
+    "exZh": "我右肩疼。"
+  },
+  {
+    "de": "Haar",
+    "art": "das",
+    "pl": "Haare",
+    "zh": "头发",
+    "en": "hair",
+    "ex": "Anna hat lange und dunkle Haare.",
+    "exZh": "Anna 有一头乌黑的长发。"
+  },
+  {
+    "de": "Gesicht",
+    "art": "das",
+    "pl": "Gesichter",
+    "zh": "脸，面孔",
+    "en": "face",
+    "ex": "Er hat immer ein freundliches Gesicht.",
+    "exZh": "他总是一脸友善。"
+  },
+  {
+    "de": "Herz",
+    "art": "das",
+    "pl": "Herzen",
+    "zh": "心，心脏",
+    "en": "heart",
+    "ex": "Nach dem Laufen schlägt mein Herz schnell.",
+    "exZh": "跑步后我的心跳得很快。"
+  },
+  {
+    "de": "Sport",
+    "art": "der",
+    "pl": null,
+    "zh": "运动，体育",
+    "en": "sport",
+    "ex": "Ich mache dreimal pro Woche Sport.",
+    "exZh": "我每周锻炼三次。"
+  },
+  {
+    "de": "Fußball",
+    "art": "der",
+    "pl": null,
+    "zh": "足球",
+    "en": "football, soccer",
+    "ex": "Die Kinder spielen Fußball im Park.",
+    "exZh": "孩子们在公园里踢足球。"
+  },
+  {
+    "de": "Tennis",
+    "art": "das",
+    "pl": null,
+    "zh": "网球",
+    "en": "tennis",
+    "ex": "Spielst du am Wochenende gern Tennis?",
+    "exZh": "你周末喜欢打网球吗？"
+  },
+  {
+    "de": "Schwimmbad",
+    "art": "das",
+    "pl": "Schwimmbäder",
+    "zh": "游泳池，游泳馆",
+    "en": "swimming pool",
+    "ex": "Das Schwimmbad ist im Sommer sehr voll.",
+    "exZh": "这个游泳馆夏天总是很拥挤。"
+  },
+  {
+    "de": "Mannschaft",
+    "art": "die",
+    "pl": "Mannschaften",
+    "zh": "队，球队",
+    "en": "team",
+    "ex": "Unsere Mannschaft hat das Spiel gewonnen.",
+    "exZh": "我们队赢了这场比赛。"
+  },
+  {
+    "de": "trainieren",
+    "art": null,
+    "pl": null,
+    "zh": "训练，锻炼",
+    "en": "to train",
+    "ex": "Ich trainiere jeden Morgen eine Stunde.",
+    "exZh": "我每天早上训练一个小时。"
+  },
+  {
+    "de": "Training",
+    "art": "das",
+    "pl": null,
+    "zh": "训练，培训",
+    "en": "training",
+    "ex": "Das Training beginnt heute um sechs Uhr.",
+    "exZh": "训练今天六点开始。"
+  },
+  {
+    "de": "Wettkampf",
+    "art": "der",
+    "pl": "Wettkämpfe",
+    "zh": "比赛，竞赛",
+    "en": "competition",
+    "ex": "Der Wettkampf findet am Samstag statt.",
+    "exZh": "比赛在周六举行。"
+  },
+  {
+    "de": "Fahrrad",
+    "art": "das",
+    "pl": "Fahrräder",
+    "zh": "自行车",
+    "en": "bicycle",
+    "ex": "Ich fahre jeden Tag mit dem Fahrrad.",
+    "exZh": "我每天骑自行车。"
+  },
+  {
+    "de": "laufen",
+    "art": null,
+    "pl": null,
+    "zh": "跑步，走",
+    "en": "to run, to walk",
+    "ex": "Er läuft jeden Abend im Park.",
+    "exZh": "他每天晚上在公园跑步。"
+  },
+  {
+    "de": "Sieger",
+    "art": "der",
+    "pl": "Sieger",
+    "zh": "获胜者，冠军",
+    "en": "winner",
+    "ex": "Wer ist der Sieger von diesem Spiel?",
+    "exZh": "这场比赛的获胜者是谁？"
+  },
+  {
+    "de": "verlieren",
+    "art": null,
+    "pl": null,
+    "zh": "输，输掉",
+    "en": "to lose",
+    "ex": "Unsere Mannschaft hat das Spiel leider verloren.",
+    "exZh": "我们队很遗憾输了这场比赛。"
+  },
+  {
+    "de": "Muskel",
+    "art": "der",
+    "pl": "Muskeln",
+    "zh": "肌肉",
+    "en": "muscle",
+    "ex": "Nach dem Training tun meine Muskeln weh.",
+    "exZh": "训练后我浑身肌肉疼。"
+  },
+  {
+    "de": "fit",
+    "art": null,
+    "pl": null,
+    "zh": "健康的，健美的",
+    "en": "fit",
+    "ex": "Wei ist sehr fit, weil er oft Sport macht.",
+    "exZh": "Wei 很健康，因为他经常运动。"
+  },
+  {
+    "de": "Berg",
+    "art": "der",
+    "pl": "Berge",
+    "zh": "山",
+    "en": "mountain",
+    "ex": "Im Sommer wandern wir gern in den Bergen.",
+    "exZh": "夏天我们喜欢在山里徒步。"
+  },
+  {
+    "de": "Tal",
+    "art": "das",
+    "pl": "Täler",
+    "zh": "山谷",
+    "en": "valley",
+    "ex": "Das Dorf liegt in einem kleinen Tal.",
+    "exZh": "这个村子坐落在一个小山谷里。"
+  },
+  {
+    "de": "Fluss",
+    "art": "der",
+    "pl": "Flüsse",
+    "zh": "河流",
+    "en": "river",
+    "ex": "Die Elbe ist ein langer Fluss.",
+    "exZh": "易北河是一条很长的河。"
+  },
+  {
+    "de": "See",
+    "art": "der",
+    "pl": "Seen",
+    "zh": "湖",
+    "en": "lake",
+    "ex": "Wir schwimmen im Sommer oft im See.",
+    "exZh": "夏天我们经常在湖里游泳。"
+  },
+  {
+    "de": "Meer",
+    "art": "das",
+    "pl": "Meere",
+    "zh": "海，海洋",
+    "en": "sea",
+    "ex": "Im Urlaub fahren wir ans Meer.",
+    "exZh": "假期我们要去海边。"
+  },
+  {
+    "de": "Wald",
+    "art": "der",
+    "pl": "Wälder",
+    "zh": "森林",
+    "en": "forest",
+    "ex": "Der Wald hinter dem Haus ist sehr grün.",
+    "exZh": "房子后面的树林很茂密。"
+  },
+  {
+    "de": "Wiese",
+    "art": "die",
+    "pl": "Wiesen",
+    "zh": "草地，草坪",
+    "en": "meadow",
+    "ex": "Die Kinder spielen gern auf der Wiese.",
+    "exZh": "孩子们喜欢在草地上玩耍。"
+  },
+  {
+    "de": "Insel",
+    "art": "die",
+    "pl": "Inseln",
+    "zh": "岛屿",
+    "en": "island",
+    "ex": "Rügen ist die größte Insel Deutschlands.",
+    "exZh": "吕根岛是德国最大的岛屿。"
+  },
+  {
+    "de": "Küste",
+    "art": "die",
+    "pl": "Küsten",
+    "zh": "海岸",
+    "en": "coast",
+    "ex": "Die Küste ist im Winter oft windig.",
+    "exZh": "海岸在冬天经常刮风。"
+  },
+  {
+    "de": "Hund",
+    "art": "der",
+    "pl": "Hunde",
+    "zh": "狗",
+    "en": "dog",
+    "ex": "Unser Hund läuft jeden Tag im Park.",
+    "exZh": "我们家的狗每天在公园里跑。"
+  },
+  {
+    "de": "Katze",
+    "art": "die",
+    "pl": "Katzen",
+    "zh": "猫",
+    "en": "cat",
+    "ex": "Die Katze schläft den ganzen Tag.",
+    "exZh": "这只猫睡了一整天。"
+  },
+  {
+    "de": "Vogel",
+    "art": "der",
+    "pl": "Vögel",
+    "zh": "鸟",
+    "en": "bird",
+    "ex": "Im Frühling singen die Vögel wieder.",
+    "exZh": "春天鸟儿又开始歌唱了。"
+  },
+  {
+    "de": "Pferd",
+    "art": "das",
+    "pl": "Pferde",
+    "zh": "马",
+    "en": "horse",
+    "ex": "Anna reitet jedes Wochenende ein Pferd.",
+    "exZh": "Anna 每个周末都骑马。"
+  },
+  {
+    "de": "Kuh",
+    "art": "die",
+    "pl": "Kühe",
+    "zh": "奶牛，母牛",
+    "en": "cow",
+    "ex": "Auf dem Bauernhof stehen viele Kühe.",
+    "exZh": "农场里有很多奶牛。"
+  },
+  {
+    "de": "Fisch",
+    "art": "der",
+    "pl": "Fische",
+    "zh": "鱼",
+    "en": "fish",
+    "ex": "Im Fluss schwimmen viele kleine Fische.",
+    "exZh": "河里游着很多小鱼。"
+  },
+  {
+    "de": "Gras",
+    "art": "das",
+    "pl": null,
+    "zh": "草",
+    "en": "grass",
+    "ex": "Das Gras im Garten ist noch nass.",
+    "exZh": "花园里的草还是湿的。"
+  },
+  {
+    "de": "Blatt",
+    "art": "das",
+    "pl": "Blätter",
+    "zh": "叶子",
+    "en": "leaf",
+    "ex": "Im Herbst fallen die Blätter von den Bäumen.",
+    "exZh": "秋天树叶从树上落下来。"
+  },
+  {
+    "de": "Regen",
+    "art": "der",
+    "pl": null,
+    "zh": "雨",
+    "en": "rain",
+    "ex": "Der Regen hört bald wieder auf.",
+    "exZh": "雨很快就会停了。"
+  },
+  {
+    "de": "Schnee",
+    "art": "der",
+    "pl": null,
+    "zh": "雪",
+    "en": "snow",
+    "ex": "Im Winter liegt hier viel Schnee.",
+    "exZh": "冬天这里的雪很厚。"
+  },
+  {
+    "de": "Wind",
+    "art": "der",
+    "pl": null,
+    "zh": "风",
+    "en": "wind",
+    "ex": "Heute weht draußen ein kalter Wind.",
+    "exZh": "今天外面刮着冷风。"
+  },
+  {
+    "de": "Sonne",
+    "art": "die",
+    "pl": null,
+    "zh": "太阳",
+    "en": "sun",
+    "ex": "Die Sonne scheint heute den ganzen Tag.",
+    "exZh": "今天太阳照了一整天。"
+  },
+  {
+    "de": "Wolke",
+    "art": "die",
+    "pl": "Wolken",
+    "zh": "云",
+    "en": "cloud",
+    "ex": "Am Himmel sind heute viele Wolken.",
+    "exZh": "今天天上有很多云。"
+  },
+  {
+    "de": "Gewitter",
+    "art": "das",
+    "pl": "Gewitter",
+    "zh": "雷雨",
+    "en": "thunderstorm",
+    "ex": "Nach dem Gewitter wird die Luft frisch.",
+    "exZh": "雷雨过后空气变得清新。"
+  },
+  {
+    "de": "Nebel",
+    "art": "der",
+    "pl": null,
+    "zh": "雾",
+    "en": "fog",
+    "ex": "Heute Morgen war dichter Nebel in der Stadt.",
+    "exZh": "今天早上城里雾很大。"
+  },
+  {
+    "de": "Sturm",
+    "art": "der",
+    "pl": "Stürme",
+    "zh": "暴风，暴风雨",
+    "en": "storm",
+    "ex": "Der Sturm hat einen Baum umgeworfen.",
+    "exZh": "暴风雨刮倒了一棵树。"
+  },
+  {
+    "de": "Temperatur",
+    "art": "die",
+    "pl": "Temperaturen",
+    "zh": "气温，温度",
+    "en": "temperature",
+    "ex": "Die Temperatur fällt heute Abend stark.",
+    "exZh": "今晚气温会大幅下降。"
+  },
+  {
+    "de": "Bibliothek",
+    "art": "die",
+    "pl": "Bibliotheken",
+    "zh": "图书馆",
+    "en": "library",
+    "ex": "Ich lerne oft in der Bibliothek.",
+    "exZh": "我经常在图书馆学习。"
+  },
+  {
+    "de": "Krankenhaus",
+    "art": "das",
+    "pl": "Krankenhäuser",
+    "zh": "医院",
+    "en": "hospital",
+    "ex": "Das Krankenhaus ist ganz in der Nähe.",
+    "exZh": "医院离这儿很近。"
+  },
+  {
+    "de": "Bahnhof",
+    "art": "der",
+    "pl": "Bahnhöfe",
+    "zh": "火车站",
+    "en": "train station",
+    "ex": "Der Bahnhof liegt direkt neben dem Park.",
+    "exZh": "火车站就在公园旁边。"
+  },
+  {
+    "de": "Flughafen",
+    "art": "der",
+    "pl": "Flughäfen",
+    "zh": "机场",
+    "en": "airport",
+    "ex": "Der Flughafen ist eine Stunde von hier entfernt.",
+    "exZh": "机场离这里一个小时车程。"
+  },
+  {
+    "de": "Parkplatz",
+    "art": "der",
+    "pl": "Parkplätze",
+    "zh": "停车场",
+    "en": "parking lot",
+    "ex": "Der Parkplatz vor dem Gebäude ist meistens voll.",
+    "exZh": "大楼前的停车场通常都是满的。"
+  },
+  {
+    "de": "Marktplatz",
+    "art": "der",
+    "pl": "Marktplätze",
+    "zh": "集市广场",
+    "en": "market square",
+    "ex": "Samstags ist auf dem Marktplatz ein Markt.",
+    "exZh": "周六市场广场上有集市。"
+  },
+  {
+    "de": "Tankstelle",
+    "art": "die",
+    "pl": "Tankstellen",
+    "zh": "加油站",
+    "en": "gas station",
+    "ex": "An der Tankstelle kann man auch einkaufen.",
+    "exZh": "在加油站也可以买东西。"
+  },
+  {
+    "de": "Polizei",
+    "art": "die",
+    "pl": null,
+    "zh": "警察，警方",
+    "en": "police",
+    "ex": "Ruf bitte sofort die Polizei an!",
+    "exZh": "请马上报警！"
+  },
+  {
+    "de": "Feuerwehr",
+    "art": "die",
+    "pl": null,
+    "zh": "消防队",
+    "en": "fire department",
+    "ex": "Die Feuerwehr kam heute sehr schnell.",
+    "exZh": "消防队今天来得很快。"
+  },
+  {
+    "de": "Gebäude",
+    "art": "das",
+    "pl": "Gebäude",
+    "zh": "建筑，楼房",
+    "en": "building",
+    "ex": "Dieses Gebäude ist über hundert Jahre alt.",
+    "exZh": "这栋楼已经有一百多年历史了。"
+  },
+  {
+    "de": "Stockwerk",
+    "art": "das",
+    "pl": "Stockwerke",
+    "zh": "楼层",
+    "en": "floor, storey",
+    "ex": "Unsere Wohnung liegt im dritten Stockwerk.",
+    "exZh": "我们家在三楼。"
+  },
+  {
+    "de": "Aufzug",
+    "art": "der",
+    "pl": "Aufzüge",
+    "zh": "电梯",
+    "en": "elevator",
+    "ex": "Der Aufzug ist heute leider kaputt.",
+    "exZh": "电梯今天很不巧坏了。"
+  },
+  {
+    "de": "Treppe",
+    "art": "die",
+    "pl": "Treppen",
+    "zh": "楼梯",
+    "en": "stairs",
+    "ex": "Wir nehmen lieber die Treppe als den Aufzug.",
+    "exZh": "我们更愿意走楼梯而不是坐电梯。"
+  },
+  {
+    "de": "Dach",
+    "art": "das",
+    "pl": "Dächer",
+    "zh": "屋顶",
+    "en": "roof",
+    "ex": "Die Katze sitzt oben auf dem Dach.",
+    "exZh": "猫坐在屋顶上面。"
+  },
+  {
+    "de": "Keller",
+    "art": "der",
+    "pl": "Keller",
+    "zh": "地下室",
+    "en": "basement, cellar",
+    "ex": "Die alten Möbel stehen unten im Keller.",
+    "exZh": "旧家具放在地下室里。"
+  },
+  {
+    "de": "Garten",
+    "art": "der",
+    "pl": "Gärten",
+    "zh": "花园",
+    "en": "garden",
+    "ex": "Im Garten wachsen Tomaten und Blumen.",
+    "exZh": "花园里种着西红柿和花。"
+  },
+  {
+    "de": "Hof",
+    "art": "der",
+    "pl": "Höfe",
+    "zh": "院子",
+    "en": "courtyard, yard",
+    "ex": "Die Kinder spielen im Hof hinter dem Haus.",
+    "exZh": "孩子们在房子后面的院子里玩。"
+  },
+  {
+    "de": "Norden",
+    "art": "der",
+    "pl": null,
+    "zh": "北方",
+    "en": "north",
+    "ex": "Im Norden ist es meistens kühler.",
+    "exZh": "北边通常更凉快一些。"
+  },
+  {
+    "de": "Süden",
+    "art": "der",
+    "pl": null,
+    "zh": "南方",
+    "en": "south",
+    "ex": "Im Süden ist das Wetter oft wärmer.",
+    "exZh": "南边的天气通常更暖和。"
+  },
+  {
+    "de": "Osten",
+    "art": "der",
+    "pl": null,
+    "zh": "东方",
+    "en": "east",
+    "ex": "Die Sonne geht im Osten auf.",
+    "exZh": "太阳从东边升起。"
+  },
+  {
+    "de": "Westen",
+    "art": "der",
+    "pl": null,
+    "zh": "西方",
+    "en": "west",
+    "ex": "Die Sonne geht im Westen unter.",
+    "exZh": "太阳在西边落下。"
+  },
+  {
+    "de": "Turm",
+    "art": "der",
+    "pl": "Türme",
+    "zh": "塔",
+    "en": "tower",
+    "ex": "Der alte Turm ist das Wahrzeichen der Stadt.",
+    "exZh": "这座古塔是这座城市的地标。"
+  },
+  {
+    "de": "Denkmal",
+    "art": "das",
+    "pl": "Denkmäler",
+    "zh": "纪念碑",
+    "en": "monument",
+    "ex": "Vor dem Rathaus steht ein altes Denkmal.",
+    "exZh": "市政厅前立着一座古老的纪念碑。"
+  },
+  {
+    "de": "Fußgängerzone",
+    "art": "die",
+    "pl": "Fußgängerzonen",
+    "zh": "步行街",
+    "en": "pedestrian zone",
+    "ex": "In der Fußgängerzone dürfen keine Autos fahren.",
+    "exZh": "步行街上不允许汽车通行。"
+  },
+  {
+    "de": "Innenstadt",
+    "art": "die",
+    "pl": "Innenstädte",
+    "zh": "市中心",
+    "en": "city centre",
+    "ex": "Die Innenstadt ist am Wochenende sehr voll.",
+    "exZh": "市中心周末总是很拥挤。"
+  },
+  {
+    "de": "Vorort",
+    "art": "der",
+    "pl": "Vororte",
+    "zh": "郊区",
+    "en": "suburb",
+    "ex": "Wir wohnen in einem ruhigen Vorort.",
+    "exZh": "我们住在一个安静的郊区。"
+  },
+  {
+    "de": "Schule",
+    "art": "die",
+    "pl": "Schulen",
+    "zh": "学校",
+    "en": "school",
+    "ex": "Die Schule beginnt hier um acht Uhr.",
+    "exZh": "这里学校八点开始上课。"
+  },
+  {
+    "de": "Lehrer",
+    "art": "der",
+    "pl": "Lehrer",
+    "zh": "老师（男）",
+    "en": "teacher (male)",
+    "ex": "Unser Lehrer erklärt die Grammatik sehr gut.",
+    "exZh": "我们老师把语法讲得很清楚。"
+  },
+  {
+    "de": "Lehrerin",
+    "art": "die",
+    "pl": "Lehrerinnen",
+    "zh": "老师（女）",
+    "en": "teacher (female)",
+    "ex": "Die Lehrerin ist heute leider krank.",
+    "exZh": "这位女老师今天很不巧生病了。"
+  },
+  {
+    "de": "Schüler",
+    "art": "der",
+    "pl": "Schüler",
+    "zh": "学生（男）",
+    "en": "pupil (male)",
+    "ex": "In der Klasse sind zwanzig Schüler.",
+    "exZh": "这个班有二十个学生。"
+  },
+  {
+    "de": "Schülerin",
+    "art": "die",
+    "pl": "Schülerinnen",
+    "zh": "学生（女）",
+    "en": "pupil (female)",
+    "ex": "Die neue Schülerin kommt aus Polen.",
+    "exZh": "这位新来的女学生来自波兰。"
+  },
+  {
+    "de": "Klasse",
+    "art": "die",
+    "pl": "Klassen",
+    "zh": "班级",
+    "en": "class",
+    "ex": "Meine Klasse hat insgesamt dreißig Schüler.",
+    "exZh": "我们班一共有三十个学生。"
+  },
+  {
+    "de": "Klassenzimmer",
+    "art": "das",
+    "pl": "Klassenzimmer",
+    "zh": "教室",
+    "en": "classroom",
+    "ex": "Das Klassenzimmer hat viele bunte Bilder.",
+    "exZh": "教室里挂着很多彩色的图画。"
+  },
+  {
+    "de": "Unterricht",
+    "art": "der",
+    "pl": null,
+    "zh": "课，教学",
+    "en": "lessons, classes",
+    "ex": "Der Unterricht dauert heute nur eine Stunde.",
+    "exZh": "今天的课只上一个小时。"
+  },
+  {
+    "de": "Hausaufgabe",
+    "art": "die",
+    "pl": "Hausaufgaben",
+    "zh": "作业",
+    "en": "homework",
+    "ex": "Ich mache meine Hausaufgaben immer nach dem Essen.",
+    "exZh": "我总是吃完饭后做作业。"
+  },
+  {
+    "de": "Prüfung",
+    "art": "die",
+    "pl": "Prüfungen",
+    "zh": "考试",
+    "en": "exam",
+    "ex": "Die Prüfung findet nächste Woche statt.",
+    "exZh": "考试将在下周举行。"
+  },
+  {
+    "de": "Note",
+    "art": "die",
+    "pl": "Noten",
+    "zh": "成绩，分数",
+    "en": "grade, mark",
+    "ex": "Er hat eine gute Note bekommen.",
+    "exZh": "他得了一个好成绩。"
+  },
+  {
+    "de": "Zeugnis",
+    "art": "das",
+    "pl": "Zeugnisse",
+    "zh": "成绩单，证书",
+    "en": "report card, certificate",
+    "ex": "Am Freitag bekommen die Schüler ihr Zeugnis.",
+    "exZh": "周五学生们会拿到成绩单。"
+  },
+  {
+    "de": "Fach",
+    "art": "das",
+    "pl": "Fächer",
+    "zh": "科目",
+    "en": "subject",
+    "ex": "Deutsch ist für mich ein schwieriges Fach.",
+    "exZh": "德语对我来说是一门难学的科目。"
+  },
+  {
+    "de": "Mathematik",
+    "art": "die",
+    "pl": null,
+    "zh": "数学",
+    "en": "mathematics",
+    "ex": "Mathematik ist leider nicht mein Lieblingsfach.",
+    "exZh": "数学很遗憾不是我最喜欢的科目。"
+  },
+  {
+    "de": "Universität",
+    "art": "die",
+    "pl": "Universitäten",
+    "zh": "大学",
+    "en": "university",
+    "ex": "Er studiert Medizin an der Universität Leipzig.",
+    "exZh": "他在莱比锡大学学医。"
+  },
+  {
+    "de": "Stundenplan",
+    "art": "der",
+    "pl": "Stundenpläne",
+    "zh": "课表",
+    "en": "timetable",
+    "ex": "Mein Stundenplan ist dieses Semester sehr voll.",
+    "exZh": "我这学期的课表排得很满。"
+  },
+  {
+    "de": "Ferien",
+    "art": "die",
+    "pl": null,
+    "zh": "假期（学校）",
+    "en": "school holidays",
+    "ex": "In den Ferien fahren wir zu den Großeltern.",
+    "exZh": "假期我们要去看望祖父母。"
+  },
+  {
+    "de": "Semester",
+    "art": "das",
+    "pl": "Semester",
+    "zh": "学期",
+    "en": "semester",
+    "ex": "Das neue Semester beginnt im Oktober.",
+    "exZh": "新学期十月开始。"
+  },
+  {
+    "de": "Vorlesung",
+    "art": "die",
+    "pl": "Vorlesungen",
+    "zh": "讲座，大学课程",
+    "en": "lecture",
+    "ex": "Die Vorlesung heute war sehr interessant.",
+    "exZh": "今天的讲座很有意思。"
+  },
+  {
+    "de": "Seminar",
+    "art": "das",
+    "pl": "Seminare",
+    "zh": "研讨课",
+    "en": "seminar",
+    "ex": "Am Mittwoch habe ich ein Seminar.",
+    "exZh": "我周三有一节研讨课。"
+  },
+  {
+    "de": "bestehen",
+    "art": null,
+    "pl": null,
+    "zh": "通过（考试）",
+    "en": "to pass (an exam)",
+    "ex": "Sie hat die Prüfung mit Erfolg bestanden.",
+    "exZh": "她成功通过了考试。"
+  },
+  {
+    "de": "durchfallen",
+    "art": null,
+    "pl": null,
+    "zh": "（考试）不及格",
+    "en": "to fail (an exam)",
+    "ex": "Er ist bei der Prüfung leider durchgefallen.",
+    "exZh": "他很遗憾考试没有通过。"
+  },
+  {
+    "de": "wiederholen",
+    "art": null,
+    "pl": null,
+    "zh": "重复，复习",
+    "en": "to repeat",
+    "ex": "Bitte wiederholen Sie den Satz noch einmal.",
+    "exZh": "请把这句话再说一遍。"
+  },
+  {
+    "de": "unterrichten",
+    "art": null,
+    "pl": null,
+    "zh": "教，讲课",
+    "en": "to teach",
+    "ex": "Frau Klein unterrichtet seit zehn Jahren Deutsch.",
+    "exZh": "Klein 女士教德语已经十年了。"
+  },
+  {
+    "de": "Aufsatz",
+    "art": "der",
+    "pl": "Aufsätze",
+    "zh": "作文，短文",
+    "en": "essay",
+    "ex": "Wir schreiben heute einen kurzen Aufsatz.",
+    "exZh": "我们今天要写一篇短文。"
+  },
+  {
+    "de": "Abitur",
+    "art": "das",
+    "pl": null,
+    "zh": "高中毕业考试",
+    "en": "German high-school diploma",
+    "ex": "Nach dem Abitur möchte er studieren.",
+    "exZh": "高中毕业后他想上大学。"
+  },
+  {
+    "de": "Koffer",
+    "art": "der",
+    "pl": "Koffer",
+    "zh": "行李箱",
+    "en": "suitcase",
+    "ex": "Mein Koffer ist viel zu schwer.",
+    "exZh": "我的行李箱太重了。"
+  },
+  {
+    "de": "Rucksack",
+    "art": "der",
+    "pl": "Rucksäcke",
+    "zh": "背包",
+    "en": "backpack",
+    "ex": "Ich packe meinen Rucksack für die Reise.",
+    "exZh": "我在为这次旅行收拾背包。"
+  },
+  {
+    "de": "Reisepass",
+    "art": "der",
+    "pl": "Reisepässe",
+    "zh": "护照",
+    "en": "passport",
+    "ex": "Vergiss deinen Reisepass nicht im Hotel!",
+    "exZh": "别把护照忘在酒店里！"
+  },
+  {
+    "de": "Visum",
+    "art": "das",
+    "pl": "Visa",
+    "zh": "签证",
+    "en": "visa",
+    "ex": "Für diese Reise brauche ich kein Visum.",
+    "exZh": "这次旅行我不需要签证。"
+  },
+  {
+    "de": "Grenze",
+    "art": "die",
+    "pl": "Grenzen",
+    "zh": "边境，边界",
+    "en": "border",
+    "ex": "An der Grenze warten wir manchmal lange.",
+    "exZh": "在边境我们有时要等很久。"
+  },
+  {
+    "de": "Zoll",
+    "art": "der",
+    "pl": null,
+    "zh": "海关",
+    "en": "customs",
+    "ex": "Am Zoll muss man manchmal den Koffer öffnen.",
+    "exZh": "过海关时有时要打开行李箱。"
+  },
+  {
+    "de": "Flug",
+    "art": "der",
+    "pl": "Flüge",
+    "zh": "航班",
+    "en": "flight",
+    "ex": "Unser Flug hat heute leider Verspätung.",
+    "exZh": "我们的航班今天很不巧延误了。"
+  },
+  {
+    "de": "Flugzeug",
+    "art": "das",
+    "pl": "Flugzeuge",
+    "zh": "飞机",
+    "en": "airplane",
+    "ex": "Das Flugzeug landet in zwei Stunden.",
+    "exZh": "飞机将在两小时后降落。"
+  },
+  {
+    "de": "Hotel",
+    "art": "das",
+    "pl": "Hotels",
+    "zh": "酒店",
+    "en": "hotel",
+    "ex": "Wir übernachten drei Nächte in diesem Hotel.",
+    "exZh": "我们要在这家酒店住三晚。"
+  },
+  {
+    "de": "Doppelzimmer",
+    "art": "das",
+    "pl": "Doppelzimmer",
+    "zh": "双人房",
+    "en": "double room",
+    "ex": "Wir möchten ein Doppelzimmer mit Blick aufs Meer.",
+    "exZh": "我们想要一间能看到海景的双人房。"
+  },
+  {
+    "de": "Einzelzimmer",
+    "art": "das",
+    "pl": "Einzelzimmer",
+    "zh": "单人房",
+    "en": "single room",
+    "ex": "Ein Einzelzimmer ist für mich genug.",
+    "exZh": "一间单人房对我来说就够了。"
+  },
+  {
+    "de": "Rezeption",
+    "art": "die",
+    "pl": null,
+    "zh": "前台，接待处",
+    "en": "reception desk",
+    "ex": "Die Rezeption ist rund um die Uhr besetzt.",
+    "exZh": "前台是24小时都有人的。"
+  },
+  {
+    "de": "übernachten",
+    "art": null,
+    "pl": null,
+    "zh": "过夜，住宿",
+    "en": "to stay overnight",
+    "ex": "Wir übernachten heute in einer Jugendherberge.",
+    "exZh": "我们今晚住在青年旅舍。"
+  },
+  {
+    "de": "Sehenswürdigkeit",
+    "art": "die",
+    "pl": "Sehenswürdigkeiten",
+    "zh": "景点",
+    "en": "sight, attraction",
+    "ex": "Die Stadt hat viele schöne Sehenswürdigkeiten.",
+    "exZh": "这座城市有很多漂亮的景点。"
+  },
+  {
+    "de": "Reiseführer",
+    "art": "der",
+    "pl": "Reiseführer",
+    "zh": "旅行指南",
+    "en": "travel guidebook",
+    "ex": "Ich lese immer den Reiseführer vor der Reise.",
+    "exZh": "我总是在旅行前读旅行指南。"
+  },
+  {
+    "de": "Landkarte",
+    "art": "die",
+    "pl": "Landkarten",
+    "zh": "地图",
+    "en": "map",
+    "ex": "Wir brauchen eine Landkarte für die Wanderung.",
+    "exZh": "我们徒步需要一张地图。"
+  },
+  {
+    "de": "Bordkarte",
+    "art": "die",
+    "pl": "Bordkarten",
+    "zh": "登机牌",
+    "en": "boarding pass",
+    "ex": "Zeigen Sie bitte Ihre Bordkarte am Gate.",
+    "exZh": "请在登机口出示您的登机牌。"
+  },
+  {
+    "de": "Zelt",
+    "art": "das",
+    "pl": "Zelte",
+    "zh": "帐篷",
+    "en": "tent",
+    "ex": "Wir bauen unser Zelt am See auf.",
+    "exZh": "我们在湖边搭起帐篷。"
+  },
+  {
+    "de": "campen",
+    "art": null,
+    "pl": null,
+    "zh": "露营",
+    "en": "to camp",
+    "ex": "Im Sommer campen wir gern in den Bergen.",
+    "exZh": "夏天我们喜欢在山里露营。"
+  },
+  {
+    "de": "Jugendherberge",
+    "art": "die",
+    "pl": "Jugendherbergen",
+    "zh": "青年旅舍",
+    "en": "youth hostel",
+    "ex": "Die Jugendherberge liegt direkt am Bahnhof.",
+    "exZh": "这家青年旅舍就在火车站旁边。"
+  },
+  {
+    "de": "Passkontrolle",
+    "art": "die",
+    "pl": "Passkontrollen",
+    "zh": "护照检查",
+    "en": "passport control",
+    "ex": "Die Passkontrolle am Flughafen dauert oft lange.",
+    "exZh": "机场的护照检查经常要等很久。"
+  },
+  {
+    "de": "Strand",
+    "art": "der",
+    "pl": "Strände",
+    "zh": "沙滩，海滩",
+    "en": "beach",
+    "ex": "Wir liegen den ganzen Tag am Strand.",
+    "exZh": "我们一整天都躺在沙滩上。"
+  },
+  {
+    "de": "Anreise",
+    "art": "die",
+    "pl": null,
+    "zh": "前往，抵达行程",
+    "en": "arrival journey",
+    "ex": "Die Anreise mit dem Zug dauert fünf Stunden.",
+    "exZh": "坐火车去要五个小时。"
+  },
+  {
+    "de": "Abreise",
+    "art": "die",
+    "pl": null,
+    "zh": "出发，离开",
+    "en": "departure",
+    "ex": "Unsere Abreise ist am Sonntagmorgen früh.",
+    "exZh": "我们周日一早就出发离开。"
+  },
+  {
+    "de": "Reiseziel",
+    "art": "das",
+    "pl": "Reiseziele",
+    "zh": "旅行目的地",
+    "en": "destination",
+    "ex": "Italien ist unser Reiseziel für diesen Sommer.",
+    "exZh": "意大利是我们今年夏天的旅行目的地。"
+  },
+  {
+    "de": "Sonnencreme",
+    "art": "die",
+    "pl": null,
+    "zh": "防晒霜",
+    "en": "sunscreen",
+    "ex": "Vergiss die Sonnencreme für den Strand nicht!",
+    "exZh": "别忘了带去海滩的防晒霜！"
+  },
+  {
+    "de": "putzen",
+    "art": null,
+    "pl": null,
+    "zh": "打扫，清洁",
+    "en": "to clean",
+    "ex": "Ich putze samstags immer die Wohnung.",
+    "exZh": "我总是在周六打扫房子。"
+  },
+  {
+    "de": "kochen",
+    "art": null,
+    "pl": null,
+    "zh": "做饭，烹饪",
+    "en": "to cook",
+    "ex": "Wei kocht heute Abend für uns alle.",
+    "exZh": "Wei 今晚要给我们大家做饭。"
+  },
+  {
+    "de": "waschen",
+    "art": null,
+    "pl": null,
+    "zh": "洗，清洗",
+    "en": "to wash",
+    "ex": "Ich wasche meine Kleidung immer am Samstag.",
+    "exZh": "我总是在周六洗衣服。"
+  },
+  {
+    "de": "spülen",
+    "art": null,
+    "pl": null,
+    "zh": "冲洗，洗（碗）",
+    "en": "to rinse, to wash dishes",
+    "ex": "Nach dem Essen spüle ich das Geschirr.",
+    "exZh": "吃完饭后我洗碗。"
+  },
+  {
+    "de": "bügeln",
+    "art": null,
+    "pl": null,
+    "zh": "熨（衣服）",
+    "en": "to iron",
+    "ex": "Ich bügle meine Hemden jeden Sonntag.",
+    "exZh": "我每周日熨我的衬衫。"
+  },
+  {
+    "de": "fegen",
+    "art": null,
+    "pl": null,
+    "zh": "扫，打扫",
+    "en": "to sweep",
+    "ex": "Bitte fegen Sie den Boden in der Küche!",
+    "exZh": "请把厨房地板扫一下！"
+  },
+  {
+    "de": "wischen",
+    "art": null,
+    "pl": null,
+    "zh": "擦，抹",
+    "en": "to wipe",
+    "ex": "Ich wische jede Woche den Boden.",
+    "exZh": "我每周拖一次地。"
+  },
+  {
+    "de": "saugen",
+    "art": null,
+    "pl": null,
+    "zh": "吸尘",
+    "en": "to vacuum",
+    "ex": "Am Wochenende sauge ich die ganze Wohnung.",
+    "exZh": "周末我把整个房子都吸尘一遍。"
+  },
+  {
+    "de": "Waschmaschine",
+    "art": "die",
+    "pl": "Waschmaschinen",
+    "zh": "洗衣机",
+    "en": "washing machine",
+    "ex": "Unsere Waschmaschine ist seit gestern kaputt.",
+    "exZh": "我们的洗衣机从昨天起就坏了。"
+  },
+  {
+    "de": "Spülmaschine",
+    "art": "die",
+    "pl": "Spülmaschinen",
+    "zh": "洗碗机",
+    "en": "dishwasher",
+    "ex": "Wir haben leider keine Spülmaschine in der Küche.",
+    "exZh": "我们厨房里很遗憾没有洗碗机。"
+  },
+  {
+    "de": "Staubsauger",
+    "art": "der",
+    "pl": "Staubsauger",
+    "zh": "吸尘器",
+    "en": "vacuum cleaner",
+    "ex": "Der Staubsauger steht immer im Schrank.",
+    "exZh": "吸尘器一直放在柜子里。"
+  },
+  {
+    "de": "Bügeleisen",
+    "art": "das",
+    "pl": "Bügeleisen",
+    "zh": "熨斗",
+    "en": "iron (appliance)",
+    "ex": "Das Bügeleisen ist noch sehr heiß.",
+    "exZh": "熨斗现在还很烫。"
+  },
+  {
+    "de": "Besen",
+    "art": "der",
+    "pl": "Besen",
+    "zh": "扫帚",
+    "en": "broom",
+    "ex": "Der Besen steht hinter der Tür.",
+    "exZh": "扫帚放在门后面。"
+  },
+  {
+    "de": "Mülleimer",
+    "art": "der",
+    "pl": "Mülleimer",
+    "zh": "垃圾桶",
+    "en": "trash can",
+    "ex": "Bring bitte den Mülleimer nach draußen!",
+    "exZh": "请把垃圾桶拿到外面去！"
+  },
+  {
+    "de": "Handtuch",
+    "art": "das",
+    "pl": "Handtücher",
+    "zh": "毛巾",
+    "en": "towel",
+    "ex": "Nimm dir ein sauberes Handtuch aus dem Schrank!",
+    "exZh": "从柜子里拿一条干净的毛巾！"
+  },
+  {
+    "de": "Decke",
+    "art": "die",
+    "pl": "Decken",
+    "zh": "毯子",
+    "en": "blanket",
+    "ex": "Im Winter brauche ich eine warme Decke.",
+    "exZh": "冬天我需要一条暖和的毯子。"
+  },
+  {
+    "de": "Topf",
+    "art": "der",
+    "pl": "Töpfe",
+    "zh": "锅",
+    "en": "pot",
+    "ex": "Der Topf auf dem Herd ist sehr heiß.",
+    "exZh": "炉子上的锅现在很烫。"
+  },
+  {
+    "de": "Pfanne",
+    "art": "die",
+    "pl": "Pfannen",
+    "zh": "平底锅",
+    "en": "pan",
+    "ex": "Wei brät das Gemüse in der Pfanne.",
+    "exZh": "Wei 在平底锅里炒蔬菜。"
+  },
+  {
+    "de": "Herd",
+    "art": "der",
+    "pl": null,
+    "zh": "炉灶",
+    "en": "stove",
+    "ex": "Der Herd in der Küche ist neu.",
+    "exZh": "厨房里的炉灶是新的。"
+  },
+  {
+    "de": "Geschirr",
+    "art": "das",
+    "pl": null,
+    "zh": "碗碟，餐具",
+    "en": "dishes, tableware",
+    "ex": "Das Geschirr steht noch in der Spüle.",
+    "exZh": "碗碟还放在水槽里没洗。"
+  },
+  {
+    "de": "Besteck",
+    "art": "das",
+    "pl": null,
+    "zh": "刀叉餐具",
+    "en": "cutlery",
+    "ex": "Das Besteck liegt in der obersten Schublade.",
+    "exZh": "餐具放在最上面的抽屉里。"
+  },
+  {
+    "de": "Gabel",
+    "art": "die",
+    "pl": "Gabeln",
+    "zh": "叉子",
+    "en": "fork",
+    "ex": "Kannst du mir bitte eine Gabel geben?",
+    "exZh": "你能给我一把叉子吗？"
+  },
+  {
+    "de": "Löffel",
+    "art": "der",
+    "pl": "Löffel",
+    "zh": "勺子，汤匙",
+    "en": "spoon",
+    "ex": "Ich brauche noch einen Löffel für die Suppe.",
+    "exZh": "我还需要一把喝汤的勺子。"
+  },
+  {
+    "de": "Messer",
+    "art": "das",
+    "pl": "Messer",
+    "zh": "刀",
+    "en": "knife",
+    "ex": "Das Messer ist sehr scharf, pass auf!",
+    "exZh": "这把刀很锋利，小心点！"
+  },
+  {
+    "de": "Werkzeug",
+    "art": "das",
+    "pl": "Werkzeuge",
+    "zh": "工具",
+    "en": "tool",
+    "ex": "Das Werkzeug liegt im Keller im Regal.",
+    "exZh": "工具放在地下室的架子上。"
+  },
+  {
+    "de": "Hammer",
+    "art": "der",
+    "pl": "Hämmer",
+    "zh": "锤子",
+    "en": "hammer",
+    "ex": "Ich brauche einen Hammer für das Regal.",
+    "exZh": "我组装架子需要一把锤子。"
+  },
+  {
+    "de": "Klima",
+    "art": "das",
+    "pl": null,
+    "zh": "气候",
+    "en": "climate",
+    "ex": "Das Klima verändert sich in den letzten Jahrzehnten deutlich.",
+    "exZh": "近几十年气候发生了明显变化。"
+  },
+  {
+    "de": "Umweltschutz",
+    "art": "der",
+    "pl": null,
+    "zh": "环境保护",
+    "en": "environmental protection",
+    "ex": "Wei interessiert sich sehr für Umweltschutz und Nachhaltigkeit.",
+    "exZh": "Wei 对环保和可持续发展很感兴趣。"
+  },
+  {
+    "de": "Nachhaltigkeit",
+    "art": "die",
+    "pl": null,
+    "zh": "可持续性",
+    "en": "sustainability",
+    "ex": "Nachhaltigkeit ist für viele junge Leute ein wichtiges Thema.",
+    "exZh": "可持续发展对许多年轻人来说是个重要话题。"
+  },
+  {
+    "de": "Energie",
+    "art": "die",
+    "pl": "Energien",
+    "zh": "能源，能量",
+    "en": "energy",
+    "ex": "Deutschland investiert viel Geld in erneuerbare Energien.",
+    "exZh": "德国在可再生能源上投入了很多资金。"
+  },
+  {
+    "de": "Windenergie",
+    "art": "die",
+    "pl": null,
+    "zh": "风能",
+    "en": "wind energy",
+    "ex": "In Norddeutschland wird viel Windenergie produziert.",
+    "exZh": "德国北部生产了很多风能。"
+  },
+  {
+    "de": "Kohle",
+    "art": "die",
+    "pl": null,
+    "zh": "煤炭",
+    "en": "coal",
+    "ex": "Kohle schadet dem Klima mehr als Windenergie.",
+    "exZh": "煤炭对气候的危害比风能大。"
+  },
+  {
+    "de": "Strom",
+    "art": "der",
+    "pl": null,
+    "zh": "电，电力",
+    "en": "electricity",
+    "ex": "Wir sollten im Alltag weniger Strom verbrauchen.",
+    "exZh": "我们在日常生活中应该少用电。"
+  },
+  {
+    "de": "Mülltrennung",
+    "art": "die",
+    "pl": null,
+    "zh": "垃圾分类",
+    "en": "waste separation",
+    "ex": "Die Mülltrennung ist in Deutschland sehr wichtig.",
+    "exZh": "垃圾分类在德国非常重要。"
+  },
+  {
+    "de": "Mülltonne",
+    "art": "die",
+    "pl": "Mülltonnen",
+    "zh": "垃圾桶",
+    "en": "trash bin",
+    "ex": "Die blaue Mülltonne ist nur für Papier.",
+    "exZh": "蓝色垃圾桶只用来装纸张。"
+  },
+  {
+    "de": "Verpackung",
+    "art": "die",
+    "pl": "Verpackungen",
+    "zh": "包装",
+    "en": "packaging",
+    "ex": "Zu viel Verpackung landet leider im Müll.",
+    "exZh": "太多包装很遗憾最终都进了垃圾桶。"
+  },
+  {
+    "de": "Plastiktüte",
+    "art": "die",
+    "pl": "Plastiktüten",
+    "zh": "塑料袋",
+    "en": "plastic bag",
+    "ex": "Im Supermarkt kostet eine Plastiktüte zehn Cent.",
+    "exZh": "超市里一个塑料袋要十分钱。"
+  },
+  {
+    "de": "Emission",
+    "art": "die",
+    "pl": "Emissionen",
+    "zh": "排放（物）",
+    "en": "emission",
+    "ex": "Autos verursachen einen großen Teil der Emissionen.",
+    "exZh": "汽车造成了很大一部分排放。"
+  },
+  {
+    "de": "Treibhauseffekt",
+    "art": "der",
+    "pl": null,
+    "zh": "温室效应",
+    "en": "greenhouse effect",
+    "ex": "Der Treibhauseffekt erwärmt langsam unsere ganze Erde.",
+    "exZh": "温室效应正在慢慢使我们的地球变暖。"
+  },
+  {
+    "de": "Naturschutz",
+    "art": "der",
+    "pl": null,
+    "zh": "自然保护",
+    "en": "nature conservation",
+    "ex": "Dieser Wald steht seit Jahren unter Naturschutz.",
+    "exZh": "这片森林多年来一直受自然保护。"
+  },
+  {
+    "de": "Abgas",
+    "art": "das",
+    "pl": "Abgase",
+    "zh": "尾气，废气",
+    "en": "exhaust gas",
+    "ex": "Die Abgase der alten Autos schaden der Luft.",
+    "exZh": "老旧汽车的尾气会污染空气。"
+  },
+  {
+    "de": "Elektroauto",
+    "art": "das",
+    "pl": "Elektroautos",
+    "zh": "电动汽车",
+    "en": "electric car",
+    "ex": "Ein Elektroauto fährt ohne Benzin und Abgase.",
+    "exZh": "电动汽车不用汽油，也没有尾气。"
+  },
+  {
+    "de": "recyceln",
+    "art": null,
+    "pl": null,
+    "zh": "回收利用",
+    "en": "to recycle",
+    "ex": "Wir recyceln zu Hause Papier, Glas und Plastik.",
+    "exZh": "我们在家回收纸张、玻璃和塑料。"
+  },
+  {
+    "de": "trennen",
+    "art": null,
+    "pl": null,
+    "zh": "分开，分类",
+    "en": "to separate",
+    "ex": "Bitte trenne den Müll nach der Farbe der Tonne.",
+    "exZh": "请按垃圾桶的颜色分类垃圾。"
+  },
+  {
+    "de": "sparen",
+    "art": null,
+    "pl": null,
+    "zh": "节约，省",
+    "en": "to save",
+    "ex": "Mit einer Dusche statt Bad sparst du Wasser.",
+    "exZh": "淋浴代替泡澡能帮你省水。"
+  },
+  {
+    "de": "schützen",
+    "art": null,
+    "pl": null,
+    "zh": "保护",
+    "en": "to protect",
+    "ex": "Wir müssen unsere Umwelt für die Zukunft schützen.",
+    "exZh": "我们必须为了未来保护我们的环境。"
+  },
+  {
+    "de": "verschmutzen",
+    "art": null,
+    "pl": null,
+    "zh": "污染",
+    "en": "to pollute",
+    "ex": "Plastik im Meer verschmutzt das Wasser stark.",
+    "exZh": "海里的塑料严重污染了水质。"
+  },
+  {
+    "de": "reduzieren",
+    "art": null,
+    "pl": null,
+    "zh": "减少",
+    "en": "to reduce",
+    "ex": "Die Firma will ihre Emissionen deutlich reduzieren.",
+    "exZh": "这家公司想大幅减少它的排放量。"
+  },
+  {
+    "de": "nachhaltig",
+    "art": null,
+    "pl": null,
+    "zh": "可持续的",
+    "en": "sustainable",
+    "ex": "Anna kauft gern nachhaltige Produkte ohne viel Verpackung.",
+    "exZh": "Anna 喜欢买包装很少的可持续产品。"
+  },
+  {
+    "de": "erneuerbar",
+    "art": null,
+    "pl": null,
+    "zh": "可再生的",
+    "en": "renewable",
+    "ex": "Erneuerbare Energien werden in Zukunft immer wichtiger.",
+    "exZh": "可再生能源在未来会越来越重要。"
+  },
+  {
+    "de": "umweltfreundlich",
+    "art": null,
+    "pl": null,
+    "zh": "环保的",
+    "en": "environmentally friendly",
+    "ex": "Das neue Waschmittel ist umweltfreundlich und ziemlich günstig.",
+    "exZh": "这款新洗涤剂既环保又相当便宜。"
+  },
+  {
+    "de": "schädlich",
+    "art": null,
+    "pl": null,
+    "zh": "有害的",
+    "en": "harmful",
+    "ex": "Zu viel Feinstaub ist schädlich für die Gesundheit.",
+    "exZh": "太多细颗粒物对健康有害。"
+  },
+  {
+    "de": "Internet",
+    "art": "das",
+    "pl": null,
+    "zh": "互联网",
+    "en": "internet",
+    "ex": "Ohne Internet kann Wei nicht richtig arbeiten.",
+    "exZh": "没有网络 Wei 就没法好好工作。"
+  },
+  {
+    "de": "Netz",
+    "art": "das",
+    "pl": "Netze",
+    "zh": "网络",
+    "en": "net, network",
+    "ex": "Im Netz findet man fast alle Informationen.",
+    "exZh": "在网上几乎能找到所有信息。"
+  },
+  {
+    "de": "Bildschirm",
+    "art": "der",
+    "pl": "Bildschirme",
+    "zh": "屏幕",
+    "en": "screen",
+    "ex": "Der Bildschirm von meinem Laptop ist zu klein.",
+    "exZh": "我笔记本电脑的屏幕太小了。"
+  },
+  {
+    "de": "Gerät",
+    "art": "das",
+    "pl": "Geräte",
+    "zh": "设备，装置",
+    "en": "device",
+    "ex": "Jonas hat drei digitale Geräte auf dem Tisch.",
+    "exZh": "Jonas 桌上放着三个数码设备。"
+  },
+  {
+    "de": "Passwort",
+    "art": "das",
+    "pl": "Passwörter",
+    "zh": "密码",
+    "en": "password",
+    "ex": "Ich habe mein Passwort leider schon wieder vergessen.",
+    "exZh": "我很不巧又把密码忘了。"
+  },
+  {
+    "de": "Datenschutz",
+    "art": "der",
+    "pl": null,
+    "zh": "数据保护",
+    "en": "data protection",
+    "ex": "Der Datenschutz ist vielen Deutschen sehr wichtig.",
+    "exZh": "数据保护对很多德国人来说非常重要。"
+  },
+  {
+    "de": "Daten",
+    "art": "die",
+    "pl": null,
+    "zh": "数据",
+    "en": "data",
+    "ex": "Die App speichert viele persönliche Daten von Nutzern.",
+    "exZh": "这款应用保存了很多用户的个人数据。"
+  },
+  {
+    "de": "Werbung",
+    "art": "die",
+    "pl": null,
+    "zh": "广告",
+    "en": "advertising",
+    "ex": "Auf dieser Webseite gibt es zu viel Werbung.",
+    "exZh": "这个网站上的广告太多了。"
+  },
+  {
+    "de": "App",
+    "art": "die",
+    "pl": "Apps",
+    "zh": "应用程序",
+    "en": "app",
+    "ex": "Anna hat sich gerade eine neue App heruntergeladen.",
+    "exZh": "Anna 刚给自己下载了一个新应用。"
+  },
+  {
+    "de": "Software",
+    "art": "die",
+    "pl": null,
+    "zh": "软件",
+    "en": "software",
+    "ex": "Diese Software ist leider nicht mehr aktuell.",
+    "exZh": "这款软件很遗憾已经不是最新版了。"
+  },
+  {
+    "de": "Suchmaschine",
+    "art": "die",
+    "pl": "Suchmaschinen",
+    "zh": "搜索引擎",
+    "en": "search engine",
+    "ex": "Welche Suchmaschine benutzt du am liebsten?",
+    "exZh": "你最喜欢用哪个搜索引擎？"
+  },
+  {
+    "de": "Webseite",
+    "art": "die",
+    "pl": "Webseiten",
+    "zh": "网站，网页",
+    "en": "website",
+    "ex": "Diese Webseite lädt heute sehr langsam.",
+    "exZh": "这个网站今天加载得很慢。"
+  },
+  {
+    "de": "Link",
+    "art": "der",
+    "pl": "Links",
+    "zh": "链接",
+    "en": "link",
+    "ex": "Klick bitte auf den Link in der E-Mail.",
+    "exZh": "请点击邮件里的那个链接。"
+  },
+  {
+    "de": "Update",
+    "art": "das",
+    "pl": "Updates",
+    "zh": "更新",
+    "en": "update",
+    "ex": "Mein Handy braucht dringend ein neues Update.",
+    "exZh": "我的手机急需一个新的更新。"
+  },
+  {
+    "de": "Virus",
+    "art": "der",
+    "pl": "Viren",
+    "zh": "病毒",
+    "en": "virus",
+    "ex": "Ein Virus hat gestern seinen Computer zerstört.",
+    "exZh": "一个病毒昨天把他的电脑毁了。"
+  },
+  {
+    "de": "Akku",
+    "art": "der",
+    "pl": "Akkus",
+    "zh": "电池，蓄电池",
+    "en": "battery",
+    "ex": "Der Akku von meinem Handy ist schon leer.",
+    "exZh": "我手机的电池已经没电了。"
+  },
+  {
+    "de": "herunterladen",
+    "art": null,
+    "pl": null,
+    "zh": "下载",
+    "en": "to download",
+    "ex": "Ich lade mir gerade ein neues Update herunter.",
+    "exZh": "我正在给自己下载一个新更新。"
+  },
+  {
+    "de": "hochladen",
+    "art": null,
+    "pl": null,
+    "zh": "上传",
+    "en": "to upload",
+    "ex": "Jonas lädt seine Urlaubsfotos gerade ins Netz hoch.",
+    "exZh": "Jonas 正在把他的度假照片上传到网上。"
+  },
+  {
+    "de": "speichern",
+    "art": null,
+    "pl": null,
+    "zh": "保存",
+    "en": "to save",
+    "ex": "Speicherst du das Dokument bitte auf dem Computer?",
+    "exZh": "你能把这份文件保存在电脑上吗？"
+  },
+  {
+    "de": "löschen",
+    "art": null,
+    "pl": null,
+    "zh": "删除",
+    "en": "to delete",
+    "ex": "Sie hat die alte Nachricht sofort gelöscht.",
+    "exZh": "她马上删除了那条旧消息。"
+  },
+  {
+    "de": "teilen",
+    "art": null,
+    "pl": null,
+    "zh": "分享",
+    "en": "to share",
+    "ex": "Wei teilt den Artikel gern mit seinen Kollegen.",
+    "exZh": "Wei 喜欢和同事们分享这篇文章。"
+  },
+  {
+    "de": "klicken",
+    "art": null,
+    "pl": null,
+    "zh": "点击",
+    "en": "to click",
+    "ex": "Bitte klicken Sie hier für weitere Informationen.",
+    "exZh": "请点击这里查看更多信息。"
+  },
+  {
+    "de": "aufladen",
+    "art": null,
+    "pl": null,
+    "zh": "充电",
+    "en": "to charge",
+    "ex": "Kannst du mein Handy kurz für mich aufladen?",
+    "exZh": "你能帮我把手机充一下电吗？"
+  },
+  {
+    "de": "digital",
+    "art": null,
+    "pl": null,
+    "zh": "数字的",
+    "en": "digital",
+    "ex": "Viele Formulare kann man heute digital ausfüllen.",
+    "exZh": "现在很多表格都可以在线填写。"
+  },
+  {
+    "de": "online",
+    "art": null,
+    "pl": null,
+    "zh": "在线的",
+    "en": "online",
+    "ex": "Dieses Buch bestelle ich lieber online.",
+    "exZh": "这本书我更愿意在网上订购。"
+  },
+  {
+    "de": "offline",
+    "art": null,
+    "pl": null,
+    "zh": "离线的",
+    "en": "offline",
+    "ex": "Im Zug ist mein Handy meistens offline.",
+    "exZh": "在火车上我的手机通常没有网络。"
+  },
+  {
+    "de": "sozial",
+    "art": null,
+    "pl": null,
+    "zh": "社交的，社会的",
+    "en": "social",
+    "ex": "Junge Leute nutzen soziale Medien fast täglich.",
+    "exZh": "年轻人几乎每天都用社交媒体。"
+  },
+  {
+    "de": "Wahl",
+    "art": "die",
+    "pl": "Wahlen",
+    "zh": "选举",
+    "en": "election",
+    "ex": "Die nächste Wahl findet im Herbst statt.",
+    "exZh": "下一次选举将在秋天举行。"
+  },
+  {
+    "de": "Partei",
+    "art": "die",
+    "pl": "Parteien",
+    "zh": "政党",
+    "en": "political party",
+    "ex": "In Deutschland gibt es mehrere große Parteien.",
+    "exZh": "德国有好几个大党派。"
+  },
+  {
+    "de": "Bürger",
+    "art": "der",
+    "pl": "Bürger",
+    "zh": "公民",
+    "en": "citizen",
+    "ex": "Jeder Bürger darf ab achtzehn Jahren wählen.",
+    "exZh": "每位公民年满十八岁就可以投票。"
+  },
+  {
+    "de": "Gesetz",
+    "art": "das",
+    "pl": "Gesetze",
+    "zh": "法律",
+    "en": "law",
+    "ex": "Dieses Gesetz wurde vor zwei Jahren geändert.",
+    "exZh": "这项法律两年前被修改了。"
+  },
+  {
+    "de": "Regierung",
+    "art": "die",
+    "pl": "Regierungen",
+    "zh": "政府",
+    "en": "government",
+    "ex": "Die Regierung plant eine Reform der Bildung.",
+    "exZh": "政府正计划一项教育改革。"
+  },
+  {
+    "de": "Kanzler",
+    "art": "der",
+    "pl": "Kanzler",
+    "zh": "总理",
+    "en": "chancellor",
+    "ex": "Der Kanzler spricht heute Abend im Fernsehen.",
+    "exZh": "总理今晚要在电视上讲话。"
+  },
+  {
+    "de": "Demokratie",
+    "art": "die",
+    "pl": "Demokratien",
+    "zh": "民主（制度）",
+    "en": "democracy",
+    "ex": "Eine Demokratie lebt vom Engagement ihrer Bürger.",
+    "exZh": "民主制度依靠公民的参与才能存续。"
+  },
+  {
+    "de": "Gesellschaft",
+    "art": "die",
+    "pl": "Gesellschaften",
+    "zh": "社会",
+    "en": "society",
+    "ex": "Unsere Gesellschaft verändert sich in den letzten Jahren schnell.",
+    "exZh": "我们的社会近几年变化得很快。"
+  },
+  {
+    "de": "Bevölkerung",
+    "art": "die",
+    "pl": null,
+    "zh": "人口，居民",
+    "en": "population",
+    "ex": "Die Bevölkerung der Stadt wächst jedes Jahr.",
+    "exZh": "这座城市的人口每年都在增长。"
+  },
+  {
+    "de": "Mehrheit",
+    "art": "die",
+    "pl": "Mehrheiten",
+    "zh": "多数",
+    "en": "majority",
+    "ex": "Die Mehrheit der Bürger hat für das Gesetz gestimmt.",
+    "exZh": "大多数公民都投票支持了这项法律。"
+  },
+  {
+    "de": "Recht",
+    "art": "das",
+    "pl": "Rechte",
+    "zh": "权利",
+    "en": "right",
+    "ex": "Jeder Mensch hat das Recht auf Bildung.",
+    "exZh": "每个人都有受教育的权利。"
+  },
+  {
+    "de": "Pflicht",
+    "art": "die",
+    "pl": "Pflichten",
+    "zh": "义务",
+    "en": "duty",
+    "ex": "Wählen ist ein Recht, aber keine Pflicht.",
+    "exZh": "投票是一项权利，而不是义务。"
+  },
+  {
+    "de": "Gleichberechtigung",
+    "art": "die",
+    "pl": null,
+    "zh": "平等（权）",
+    "en": "equality",
+    "ex": "Gleichberechtigung von Mann und Frau ist wichtig.",
+    "exZh": "男女平等很重要。"
+  },
+  {
+    "de": "Flüchtling",
+    "art": "der",
+    "pl": "Flüchtlinge",
+    "zh": "难民",
+    "en": "refugee",
+    "ex": "Die Stadt hilft vielen Flüchtlingen bei der Integration.",
+    "exZh": "这座城市在融入方面帮助了很多难民。"
+  },
+  {
+    "de": "Verfassung",
+    "art": "die",
+    "pl": "Verfassungen",
+    "zh": "宪法",
+    "en": "constitution",
+    "ex": "Die Verfassung schützt die Rechte aller Bürger.",
+    "exZh": "宪法保护所有公民的权利。"
+  },
+  {
+    "de": "Kandidat",
+    "art": "der",
+    "pl": "Kandidaten",
+    "zh": "候选人",
+    "en": "candidate",
+    "ex": "Der Kandidat hat gestern eine wichtige Rede gehalten.",
+    "exZh": "这位候选人昨天发表了一场重要演讲。"
+  },
+  {
+    "de": "wählen",
+    "art": null,
+    "pl": null,
+    "zh": "选举，投票",
+    "en": "to vote, to elect",
+    "ex": "Bei der nächsten Wahl wähle ich zum ersten Mal.",
+    "exZh": "下次选举我将第一次投票。"
+  },
+  {
+    "de": "abstimmen",
+    "art": null,
+    "pl": null,
+    "zh": "表决，投票决定",
+    "en": "to vote (on a decision)",
+    "ex": "Am Sonntag stimmen die Bürger über das Gesetz ab.",
+    "exZh": "周日公民们将就这项法律进行表决。"
+  },
+  {
+    "de": "protestieren",
+    "art": null,
+    "pl": null,
+    "zh": "抗议",
+    "en": "to protest",
+    "ex": "Viele Studenten protestieren gegen die neue Regel.",
+    "exZh": "很多学生在抗议这项新规定。"
+  },
+  {
+    "de": "sich engagieren für",
+    "art": null,
+    "pl": null,
+    "zh": "致力于，投身于",
+    "en": "to be committed to",
+    "ex": "Anna engagiert sich seit Jahren für den Naturschutz.",
+    "exZh": "Anna 多年来一直投身于自然保护事业。"
+  },
+  {
+    "de": "gelten",
+    "art": null,
+    "pl": null,
+    "zh": "有效，适用",
+    "en": "to apply, to be valid",
+    "ex": "Dieses Gesetz gilt für alle Bürger gleich.",
+    "exZh": "这项法律对所有公民一律适用。"
+  },
+  {
+    "de": "diskriminieren",
+    "art": null,
+    "pl": null,
+    "zh": "歧视",
+    "en": "to discriminate",
+    "ex": "Niemand darf wegen seiner Herkunft diskriminiert werden.",
+    "exZh": "任何人都不应因出身而受到歧视。"
+  },
+  {
+    "de": "politisch",
+    "art": null,
+    "pl": null,
+    "zh": "政治的",
+    "en": "political",
+    "ex": "Jonas interessiert sich kaum für politische Themen.",
+    "exZh": "Jonas 几乎不关心政治话题。"
+  },
+  {
+    "de": "gesellschaftlich",
+    "art": null,
+    "pl": null,
+    "zh": "社会的",
+    "en": "social, societal",
+    "ex": "Klimawandel ist heute ein wichtiges gesellschaftliches Thema.",
+    "exZh": "气候变化如今是一个重要的社会议题。"
+  },
+  {
+    "de": "gleichberechtigt",
+    "art": null,
+    "pl": null,
+    "zh": "平等的",
+    "en": "equal, with equal rights",
+    "ex": "Männer und Frauen sollen gleichberechtigt behandelt werden.",
+    "exZh": "男性和女性应该受到平等对待。"
+  },
+  {
+    "de": "demokratisch",
+    "art": null,
+    "pl": null,
+    "zh": "民主的",
+    "en": "democratic",
+    "ex": "Die Wahl war frei und völlig demokratisch.",
+    "exZh": "这次选举自由且完全民主。"
+  },
+  {
+    "de": "Gefühl",
+    "art": "das",
+    "pl": "Gefühle",
+    "zh": "感觉，情感",
+    "en": "feeling",
+    "ex": "Er zeigt seine Gefühle nur sehr selten.",
+    "exZh": "他很少表露自己的情感。"
+  },
+  {
+    "de": "Angst",
+    "art": "die",
+    "pl": "Ängste",
+    "zh": "害怕，恐惧",
+    "en": "fear",
+    "ex": "Jonas hat große Angst vor Prüfungen.",
+    "exZh": "Jonas 非常害怕考试。"
+  },
+  {
+    "de": "Wut",
+    "art": "die",
+    "pl": null,
+    "zh": "愤怒",
+    "en": "anger, rage",
+    "ex": "Seine Wut verschwand nach einer kurzen Pause.",
+    "exZh": "他的怒气在短暂休息后就消失了。"
+  },
+  {
+    "de": "Eifersucht",
+    "art": "die",
+    "pl": null,
+    "zh": "嫉妒",
+    "en": "jealousy",
+    "ex": "Eifersucht kann eine Freundschaft schnell kaputt machen.",
+    "exZh": "嫉妒能很快毁掉一段友谊。"
+  },
+  {
+    "de": "Stolz",
+    "art": "der",
+    "pl": null,
+    "zh": "自豪，骄傲",
+    "en": "pride",
+    "ex": "Mit Stolz zeigte sie uns ihr neues Zeugnis.",
+    "exZh": "她自豪地把她的新成绩单给我们看。"
+  },
+  {
+    "de": "Langeweile",
+    "art": "die",
+    "pl": null,
+    "zh": "无聊",
+    "en": "boredom",
+    "ex": "Aus Langeweile hat Jonas ein altes Buch gelesen.",
+    "exZh": "Jonas 出于无聊读了一本旧书。"
+  },
+  {
+    "de": "Erleichterung",
+    "art": "die",
+    "pl": null,
+    "zh": "如释重负，宽慰",
+    "en": "relief",
+    "ex": "Nach der Prüfung spürte Anna große Erleichterung.",
+    "exZh": "考试后 Anna 感到如释重负。"
+  },
+  {
+    "de": "Sehnsucht",
+    "art": "die",
+    "pl": "Sehnsüchte",
+    "zh": "思念，渴望",
+    "en": "longing",
+    "ex": "Wei hat manchmal Sehnsucht nach seiner Heimat.",
+    "exZh": "Wei 有时会思念他的家乡。"
+  },
+  {
+    "de": "sich ärgern über",
+    "art": null,
+    "pl": null,
+    "zh": "生气，恼火",
+    "en": "to be annoyed about",
+    "ex": "Anna ärgert sich oft über kleine Probleme.",
+    "exZh": "Anna 经常为小问题生气。"
+  },
+  {
+    "de": "sich schämen für",
+    "art": null,
+    "pl": null,
+    "zh": "感到羞愧",
+    "en": "to be ashamed of",
+    "ex": "Er schämt sich für seinen Fehler im Meeting.",
+    "exZh": "他为自己在会议上的错误感到羞愧。"
+  },
+  {
+    "de": "sich fürchten vor",
+    "art": null,
+    "pl": null,
+    "zh": "害怕，畏惧",
+    "en": "to be afraid of",
+    "ex": "Viele Kinder fürchten sich vor der Dunkelheit.",
+    "exZh": "很多孩子害怕黑暗。"
+  },
+  {
+    "de": "vertrauen",
+    "art": null,
+    "pl": null,
+    "zh": "信任",
+    "en": "to trust",
+    "ex": "Ich vertraue meinen Freunden hier in Leipzig.",
+    "exZh": "我信任我在莱比锡的这些朋友。"
+  },
+  {
+    "de": "sich entspannen",
+    "art": null,
+    "pl": null,
+    "zh": "放松",
+    "en": "to relax",
+    "ex": "Am Wochenende entspannt sich Wei gern im Park.",
+    "exZh": "周末 Wei 喜欢在公园里放松。"
+  },
+  {
+    "de": "überraschen",
+    "art": null,
+    "pl": null,
+    "zh": "使惊讶",
+    "en": "to surprise",
+    "ex": "Die gute Note hat Jonas total überrascht.",
+    "exZh": "这个好成绩让 Jonas 大吃一惊。"
+  },
+  {
+    "de": "beeindrucken",
+    "art": null,
+    "pl": null,
+    "zh": "给…留下印象",
+    "en": "to impress",
+    "ex": "Sein ruhiges Auftreten hat alle sehr beeindruckt.",
+    "exZh": "他沉着的表现给所有人都留下了深刻印象。"
+  },
+  {
+    "de": "geduldig",
+    "art": null,
+    "pl": null,
+    "zh": "有耐心的",
+    "en": "patient",
+    "ex": "Unser Deutschlehrer ist immer sehr geduldig.",
+    "exZh": "我们的德语老师总是非常有耐心。"
+  },
+  {
+    "de": "ungeduldig",
+    "art": null,
+    "pl": null,
+    "zh": "没耐心的",
+    "en": "impatient",
+    "ex": "Wei wird ungeduldig, wenn der Bus zu spät kommt.",
+    "exZh": "公交车太晚到时 Wei 就会变得不耐烦。"
+  },
+  {
+    "de": "ehrlich",
+    "art": null,
+    "pl": null,
+    "zh": "诚实的",
+    "en": "honest",
+    "ex": "Sag mir bitte ehrlich deine Meinung dazu.",
+    "exZh": "请你诚实地告诉我你对此的看法。"
+  },
+  {
+    "de": "zuverlässig",
+    "art": null,
+    "pl": null,
+    "zh": "可靠的",
+    "en": "reliable",
+    "ex": "Anna ist eine sehr zuverlässige Kollegin für alle.",
+    "exZh": "Anna 对大家来说都是一位非常可靠的同事。"
+  },
+  {
+    "de": "egoistisch",
+    "art": null,
+    "pl": null,
+    "zh": "自私的",
+    "en": "selfish",
+    "ex": "So ein egoistisches Verhalten mag hier niemand.",
+    "exZh": "这里没有人喜欢这种自私的行为。"
+  },
+  {
+    "de": "großzügig",
+    "art": null,
+    "pl": null,
+    "zh": "大方的，慷慨的",
+    "en": "generous",
+    "ex": "Der Gastgeber war beim Essen sehr großzügig.",
+    "exZh": "主人在这顿饭上非常大方。"
+  },
+  {
+    "de": "schüchtern",
+    "art": null,
+    "pl": null,
+    "zh": "害羞的",
+    "en": "shy",
+    "ex": "Früher war Jonas ziemlich schüchtern in Gruppen.",
+    "exZh": "Jonas 以前在人群中相当害羞。"
+  },
+  {
+    "de": "selbstbewusst",
+    "art": null,
+    "pl": null,
+    "zh": "自信的",
+    "en": "self-confident",
+    "ex": "Nach dem Kurs wirkt sie viel selbstbewusster.",
+    "exZh": "上完这门课后她显得自信多了。"
+  },
+  {
+    "de": "neugierig",
+    "art": null,
+    "pl": null,
+    "zh": "好奇的",
+    "en": "curious",
+    "ex": "Kinder sind meistens sehr neugierig auf alles Neue.",
+    "exZh": "孩子们通常对所有新事物都很好奇。"
+  },
+  {
+    "de": "gelassen",
+    "art": null,
+    "pl": null,
+    "zh": "淡定的，从容的",
+    "en": "calm, composed",
+    "ex": "Wei bleibt auch bei Stress ziemlich gelassen.",
+    "exZh": "即使有压力 Wei 也相当淡定。"
+  },
+  {
+    "de": "mutig",
+    "art": null,
+    "pl": null,
+    "zh": "勇敢的",
+    "en": "brave",
+    "ex": "Es war mutig, allein nach Deutschland zu ziehen.",
+    "exZh": "独自搬来德国是很勇敢的一件事。"
+  },
+  {
+    "de": "Konto",
+    "art": "das",
+    "pl": "Konten",
+    "zh": "账户",
+    "en": "bank account",
+    "ex": "Ich möchte bei dieser Bank ein Konto eröffnen.",
+    "exZh": "我想在这家银行开一个账户。"
+  },
+  {
+    "de": "Kontoauszug",
+    "art": "der",
+    "pl": "Kontoauszüge",
+    "zh": "银行对账单",
+    "en": "bank statement",
+    "ex": "Meinen Kontoauszug bekomme ich einmal im Monat.",
+    "exZh": "我的银行对账单每月收到一次。"
+  },
+  {
+    "de": "Kreditkarte",
+    "art": "die",
+    "pl": "Kreditkarten",
+    "zh": "信用卡",
+    "en": "credit card",
+    "ex": "Zahlst du lieber mit Kreditkarte oder bar?",
+    "exZh": "你更愿意用信用卡还是现金付款？"
+  },
+  {
+    "de": "Bargeld",
+    "art": "das",
+    "pl": null,
+    "zh": "现金",
+    "en": "cash",
+    "ex": "Ich habe leider kein Bargeld mehr dabei.",
+    "exZh": "我很遗憾身上没带现金了。"
+  },
+  {
+    "de": "Zahlung",
+    "art": "die",
+    "pl": "Zahlungen",
+    "zh": "支付，付款",
+    "en": "payment",
+    "ex": "Die Zahlung kommt meistens am Monatsanfang an.",
+    "exZh": "付款通常在月初到账。"
+  },
+  {
+    "de": "Vertrag",
+    "art": "der",
+    "pl": "Verträge",
+    "zh": "合同",
+    "en": "contract",
+    "ex": "Bitte lies den Vertrag genau, bevor du unterschreibst.",
+    "exZh": "请在签字前仔细读一下这份合同。"
+  },
+  {
+    "de": "Kredit",
+    "art": "der",
+    "pl": "Kredite",
+    "zh": "贷款",
+    "en": "loan, credit",
+    "ex": "Für das Auto hat er einen Kredit aufgenommen.",
+    "exZh": "他为了买车申请了一笔贷款。"
+  },
+  {
+    "de": "Zins",
+    "art": "der",
+    "pl": "Zinsen",
+    "zh": "利息",
+    "en": "interest",
+    "ex": "Die Zinsen für dieses Konto sind sehr niedrig.",
+    "exZh": "这个账户的利息很低。"
+  },
+  {
+    "de": "Versicherung",
+    "art": "die",
+    "pl": "Versicherungen",
+    "zh": "保险",
+    "en": "insurance",
+    "ex": "Ohne Versicherung darf man hier nicht Auto fahren.",
+    "exZh": "没有保险在这里不允许开车。"
+  },
+  {
+    "de": "Steuer",
+    "art": "die",
+    "pl": "Steuern",
+    "zh": "税",
+    "en": "tax",
+    "ex": "Jedes Jahr im Mai zahlen wir unsere Steuern.",
+    "exZh": "我们每年五月要交税。"
+  },
+  {
+    "de": "Gebühr",
+    "art": "die",
+    "pl": "Gebühren",
+    "zh": "费用",
+    "en": "fee",
+    "ex": "Für die Überweisung fällt keine Gebühr an.",
+    "exZh": "这笔转账不收取任何费用。"
+  },
+  {
+    "de": "Geldautomat",
+    "art": "der",
+    "pl": "Geldautomaten",
+    "zh": "自动取款机",
+    "en": "ATM",
+    "ex": "Am Geldautomaten kann ich schnell Geld abheben.",
+    "exZh": "我可以在自动取款机上很快取钱。"
+  },
+  {
+    "de": "Sparkonto",
+    "art": "das",
+    "pl": "Sparkonten",
+    "zh": "储蓄账户",
+    "en": "savings account",
+    "ex": "Für die Reise habe ich ein Sparkonto eröffnet.",
+    "exZh": "为了这次旅行我开了一个储蓄账户。"
+  },
+  {
+    "de": "Bankfiliale",
+    "art": "die",
+    "pl": "Bankfilialen",
+    "zh": "银行网点",
+    "en": "bank branch",
+    "ex": "Die nächste Bankfiliale ist ganz in der Nähe.",
+    "exZh": "最近的银行网点就在附近。"
+  },
+  {
+    "de": "Kaution",
+    "art": "die",
+    "pl": "Kautionen",
+    "zh": "押金",
+    "en": "deposit",
+    "ex": "Die Kaution für die Wohnung war ziemlich hoch.",
+    "exZh": "这套公寓的押金相当高。"
+  },
+  {
+    "de": "überweisen",
+    "art": null,
+    "pl": null,
+    "zh": "转账，汇款",
+    "en": "to transfer (money)",
+    "ex": "Kannst du mir das Geld heute noch überweisen?",
+    "exZh": "你今天还能把钱转给我吗？"
+  },
+  {
+    "de": "abheben",
+    "art": null,
+    "pl": null,
+    "zh": "取（钱）",
+    "en": "to withdraw (money)",
+    "ex": "Ich muss noch schnell etwas Geld abheben.",
+    "exZh": "我还得快去取点钱。"
+  },
+  {
+    "de": "einzahlen",
+    "art": null,
+    "pl": null,
+    "zh": "存（钱）",
+    "en": "to deposit (money)",
+    "ex": "Sie zahlt jeden Monat etwas Geld ein.",
+    "exZh": "她每个月都会存入一些钱。"
+  },
+  {
+    "de": "versichern",
+    "art": null,
+    "pl": null,
+    "zh": "给…投保",
+    "en": "to insure",
+    "ex": "Wir haben unsere Wohnung gegen Feuer versichert.",
+    "exZh": "我们已经为公寓投了火灾保险。"
+  },
+  {
+    "de": "abbuchen",
+    "art": null,
+    "pl": null,
+    "zh": "（从账户）扣款",
+    "en": "to debit",
+    "ex": "Die Miete wird automatisch vom Konto abgebucht.",
+    "exZh": "房租会自动从账户中扣除。"
+  },
+  {
+    "de": "verlängern",
+    "art": null,
+    "pl": null,
+    "zh": "延长，续约",
+    "en": "to extend, to renew",
+    "ex": "Wir müssen unseren Vertrag im Mai verlängern.",
+    "exZh": "我们五月必须续签合同。"
+  },
+  {
+    "de": "finanziell",
+    "art": null,
+    "pl": null,
+    "zh": "经济上的，财务上的",
+    "en": "financial",
+    "ex": "Nach dem Studium war er finanziell unabhängig.",
+    "exZh": "毕业后他在经济上独立了。"
+  },
+  {
+    "de": "monatlich",
+    "art": null,
+    "pl": null,
+    "zh": "每月的",
+    "en": "monthly",
+    "ex": "Die monatliche Miete zahlen wir immer pünktlich.",
+    "exZh": "我们总是按时支付每月的房租。"
+  },
+  {
+    "de": "kostenpflichtig",
+    "art": null,
+    "pl": null,
+    "zh": "收费的",
+    "en": "chargeable, not free",
+    "ex": "Dieser Service ist leider seit letztem Jahr kostenpflichtig.",
+    "exZh": "这项服务很遗憾从去年起开始收费。"
+  },
+  {
+    "de": "gebührenfrei",
+    "art": null,
+    "pl": null,
+    "zh": "免费的（不收手续费）",
+    "en": "free of charge",
+    "ex": "Bei dieser Bank ist das Konto gebührenfrei.",
+    "exZh": "在这家银行开户是免费的。"
+  },
+  {
+    "de": "Kunst",
+    "art": "die",
+    "pl": null,
+    "zh": "艺术",
+    "en": "art",
+    "ex": "Anna interessiert sich sehr für moderne Kunst.",
+    "exZh": "Anna 对现代艺术很感兴趣。"
+  },
+  {
+    "de": "Künstler",
+    "art": "der",
+    "pl": "Künstler",
+    "zh": "艺术家",
+    "en": "artist",
+    "ex": "Dieser Künstler stellt seine Bilder oft in Leipzig aus.",
+    "exZh": "这位艺术家经常在莱比锡展出他的画作。"
+  },
+  {
+    "de": "Gemälde",
+    "art": "das",
+    "pl": "Gemälde",
+    "zh": "油画，画作",
+    "en": "painting",
+    "ex": "Das Gemälde im Museum ist über hundert Jahre alt.",
+    "exZh": "博物馆里的这幅画已经有一百多年历史了。"
+  },
+  {
+    "de": "Skulptur",
+    "art": "die",
+    "pl": "Skulpturen",
+    "zh": "雕塑",
+    "en": "sculpture",
+    "ex": "Vor dem Rathaus steht eine moderne Skulptur.",
+    "exZh": "市政厅前立着一座现代雕塑。"
+  },
+  {
+    "de": "Galerie",
+    "art": "die",
+    "pl": "Galerien",
+    "zh": "画廊",
+    "en": "gallery",
+    "ex": "Die kleine Galerie zeigt Werke junger Künstler.",
+    "exZh": "这家小画廊展出年轻艺术家的作品。"
+  },
+  {
+    "de": "Literatur",
+    "art": "die",
+    "pl": null,
+    "zh": "文学",
+    "en": "literature",
+    "ex": "Wei liest gern klassische deutsche Literatur.",
+    "exZh": "Wei 喜欢读德国古典文学。"
+  },
+  {
+    "de": "Roman",
+    "art": "der",
+    "pl": "Romane",
+    "zh": "长篇小说",
+    "en": "novel",
+    "ex": "Diesen Roman habe ich schon zweimal gelesen.",
+    "exZh": "这本小说我已经读过两遍了。"
+  },
+  {
+    "de": "Gedicht",
+    "art": "das",
+    "pl": "Gedichte",
+    "zh": "诗",
+    "en": "poem",
+    "ex": "In der Schule mussten wir ein Gedicht auswendig lernen.",
+    "exZh": "我们在学校必须背一首诗。"
+  },
+  {
+    "de": "Theater",
+    "art": "das",
+    "pl": "Theater",
+    "zh": "话剧，剧院",
+    "en": "theatre",
+    "ex": "Am Samstag gehen wir zusammen ins Theater.",
+    "exZh": "周六我们要一起去看话剧。"
+  },
+  {
+    "de": "Schauspieler",
+    "art": "der",
+    "pl": "Schauspieler",
+    "zh": "演员",
+    "en": "actor",
+    "ex": "Der Schauspieler hat seine Rolle wirklich gut gespielt.",
+    "exZh": "这位演员真的把角色演绎得很好。"
+  },
+  {
+    "de": "Regisseur",
+    "art": "der",
+    "pl": "Regisseure",
+    "zh": "导演",
+    "en": "director",
+    "ex": "Der Regisseur dieses Films kommt aus Leipzig.",
+    "exZh": "这部电影的导演来自莱比锡。"
+  },
+  {
+    "de": "Orchester",
+    "art": "das",
+    "pl": "Orchester",
+    "zh": "乐团，管弦乐队",
+    "en": "orchestra",
+    "ex": "Das Orchester spielt heute Abend ein bekanntes Stück.",
+    "exZh": "这个乐团今晚要演奏一首知名曲目。"
+  },
+  {
+    "de": "Instrument",
+    "art": "das",
+    "pl": "Instrumente",
+    "zh": "乐器",
+    "en": "instrument",
+    "ex": "Spielst du ein Instrument, zum Beispiel Klavier?",
+    "exZh": "你会演奏乐器吗，比如钢琴？"
+  },
+  {
+    "de": "Vorstellung",
+    "art": "die",
+    "pl": "Vorstellungen",
+    "zh": "演出，表演",
+    "en": "performance",
+    "ex": "Die Vorstellung beginnt heute schon um sieben.",
+    "exZh": "今天的演出七点就开始了。"
+  },
+  {
+    "de": "Publikum",
+    "art": "das",
+    "pl": null,
+    "zh": "观众",
+    "en": "audience",
+    "ex": "Das Publikum hat lange begeistert applaudiert.",
+    "exZh": "观众们热情鼓掌了很久。"
+  },
+  {
+    "de": "malen",
+    "art": null,
+    "pl": null,
+    "zh": "画（画）",
+    "en": "to paint",
+    "ex": "Anna malt seit ihrer Kindheit sehr gern.",
+    "exZh": "Anna 从小就非常喜欢画画。"
+  },
+  {
+    "de": "komponieren",
+    "art": null,
+    "pl": null,
+    "zh": "作曲",
+    "en": "to compose",
+    "ex": "Er komponiert seit Jahren eigene kleine Lieder.",
+    "exZh": "他多年来一直在创作自己的小曲子。"
+  },
+  {
+    "de": "auftreten",
+    "art": null,
+    "pl": null,
+    "zh": "演出，登台",
+    "en": "to perform, to appear on stage",
+    "ex": "Die Band tritt am Freitag in Leipzig auf.",
+    "exZh": "这支乐队周五将在莱比锡演出。"
+  },
+  {
+    "de": "aufführen",
+    "art": null,
+    "pl": null,
+    "zh": "上演，演出（剧目）",
+    "en": "to stage, to put on",
+    "ex": "Das Theater führt dieses Stück zum ersten Mal auf.",
+    "exZh": "这家剧院首次上演这部剧。"
+  },
+  {
+    "de": "interpretieren",
+    "art": null,
+    "pl": null,
+    "zh": "诠释，解读",
+    "en": "to interpret",
+    "ex": "Jeder Leser interpretiert das Gedicht ein bisschen anders.",
+    "exZh": "每位读者对这首诗的解读都略有不同。"
+  },
+  {
+    "de": "begeistern",
+    "art": null,
+    "pl": null,
+    "zh": "使兴奋，使着迷",
+    "en": "to thrill, to enthuse",
+    "ex": "Das Konzert hat das ganze Publikum begeistert.",
+    "exZh": "这场音乐会让全场观众都感到兴奋。"
+  },
+  {
+    "de": "künstlerisch",
+    "art": null,
+    "pl": null,
+    "zh": "艺术性的",
+    "en": "artistic",
+    "ex": "Sein künstlerisches Talent zeigte sich schon früh.",
+    "exZh": "他的艺术天赋很早就显露出来了。"
+  },
+  {
+    "de": "klassisch",
+    "art": null,
+    "pl": null,
+    "zh": "古典的",
+    "en": "classical",
+    "ex": "Jonas hört abends gern klassische Musik.",
+    "exZh": "Jonas 晚上喜欢听古典音乐。"
+  },
+  {
+    "de": "kreativ",
+    "art": null,
+    "pl": null,
+    "zh": "有创意的",
+    "en": "creative",
+    "ex": "Diese Ausstellung ist wirklich sehr kreativ gestaltet.",
+    "exZh": "这个展览设计得真的很有创意。"
+  },
+  {
+    "de": "talentiert",
+    "art": null,
+    "pl": null,
+    "zh": "有才华的",
+    "en": "talented",
+    "ex": "Diese junge Schauspielerin ist wirklich sehr talentiert.",
+    "exZh": "这位年轻女演员真的很有才华。"
+  },
+  {
+    "de": "berühmt",
+    "art": null,
+    "pl": null,
+    "zh": "著名的",
+    "en": "famous",
+    "ex": "Dieses Gemälde ist auf der ganzen Welt berühmt.",
+    "exZh": "这幅画在全世界都很有名。"
+  },
+  {
+    "de": "Karriere",
+    "art": "die",
+    "pl": "Karrieren",
+    "zh": "职业生涯",
+    "en": "career",
+    "ex": "Wei möchte in der Forschung Karriere machen.",
+    "exZh": "Wei 想在科研领域有所发展。"
+  },
+  {
+    "de": "Beförderung",
+    "art": "die",
+    "pl": "Beförderungen",
+    "zh": "晋升",
+    "en": "promotion",
+    "ex": "Nach zwei Jahren bekam Anna endlich ihre Beförderung.",
+    "exZh": "两年后 Anna 终于得到了她的晋升。"
+  },
+  {
+    "de": "Kündigung",
+    "art": "die",
+    "pl": "Kündigungen",
+    "zh": "辞职，解雇",
+    "en": "resignation, termination",
+    "ex": "Seine Kündigung kam für alle sehr überraschend.",
+    "exZh": "他的辞职让所有人都感到意外。"
+  },
+  {
+    "de": "Aufstieg",
+    "art": "der",
+    "pl": null,
+    "zh": "晋升，上升",
+    "en": "advancement",
+    "ex": "Für den beruflichen Aufstieg braucht man oft Geduld.",
+    "exZh": "职业晋升往往需要耐心。"
+  },
+  {
+    "de": "Arbeitsvertrag",
+    "art": "der",
+    "pl": "Arbeitsverträge",
+    "zh": "劳动合同",
+    "en": "employment contract",
+    "ex": "Ihr neuer Arbeitsvertrag gilt ab dem ersten März.",
+    "exZh": "她的新劳动合同从三月一日起生效。"
+  },
+  {
+    "de": "Führungskraft",
+    "art": "die",
+    "pl": "Führungskräfte",
+    "zh": "管理者，领导层",
+    "en": "executive, manager",
+    "ex": "Als Führungskraft trägt man viel Verantwortung.",
+    "exZh": "作为管理者要承担很多责任。"
+  },
+  {
+    "de": "Mitarbeiter",
+    "art": "der",
+    "pl": "Mitarbeiter",
+    "zh": "员工",
+    "en": "employee",
+    "ex": "Die Firma sucht neue Mitarbeiter für das Projekt.",
+    "exZh": "公司正在为这个项目招聘新员工。"
+  },
+  {
+    "de": "Personalabteilung",
+    "art": "die",
+    "pl": "Personalabteilungen",
+    "zh": "人事部门",
+    "en": "HR department",
+    "ex": "Die Personalabteilung beantwortet Fragen zum Gehalt.",
+    "exZh": "人事部门负责解答薪资问题。"
+  },
+  {
+    "de": "Weiterbildung",
+    "art": "die",
+    "pl": "Weiterbildungen",
+    "zh": "进修，继续教育",
+    "en": "further training",
+    "ex": "Die Firma bietet regelmäßig Weiterbildung für alle Mitarbeiter.",
+    "exZh": "公司定期为所有员工提供进修培训。"
+  },
+  {
+    "de": "Gehaltserhöhung",
+    "art": "die",
+    "pl": "Gehaltserhöhungen",
+    "zh": "加薪",
+    "en": "pay raise",
+    "ex": "Nach der Beförderung bekam er eine Gehaltserhöhung.",
+    "exZh": "晋升后他获得了加薪。"
+  },
+  {
+    "de": "Probezeit",
+    "art": "die",
+    "pl": "Probezeiten",
+    "zh": "试用期",
+    "en": "probation period",
+    "ex": "Die Probezeit dauert bei uns sechs Monate.",
+    "exZh": "我们这里的试用期是六个月。"
+  },
+  {
+    "de": "Leistung",
+    "art": "die",
+    "pl": "Leistungen",
+    "zh": "表现，业绩",
+    "en": "performance",
+    "ex": "Der Chef lobte ihre Leistung im letzten Quartal.",
+    "exZh": "老板表扬了她上个季度的表现。"
+  },
+  {
+    "de": "Verantwortung",
+    "art": "die",
+    "pl": null,
+    "zh": "责任",
+    "en": "responsibility",
+    "ex": "Als Projektleiter übernimmt Wei viel Verantwortung.",
+    "exZh": "作为项目负责人 Wei 承担了很多责任。"
+  },
+  {
+    "de": "Homeoffice",
+    "art": "das",
+    "pl": null,
+    "zh": "居家办公",
+    "en": "home office",
+    "ex": "Mittwochs arbeitet Anna meistens im Homeoffice.",
+    "exZh": "Anna 周三通常在家办公。"
+  },
+  {
+    "de": "Überstunden",
+    "art": "die",
+    "pl": null,
+    "zh": "加班（时间）",
+    "en": "overtime",
+    "ex": "Diese Woche musste er viele Überstunden machen.",
+    "exZh": "这周他不得不加了很多班。"
+  },
+  {
+    "de": "befördern",
+    "art": null,
+    "pl": null,
+    "zh": "晋升，提拔",
+    "en": "to promote",
+    "ex": "Die Firma hat sie letzten Monat befördert.",
+    "exZh": "公司上个月晋升了她。"
+  },
+  {
+    "de": "wechseln",
+    "art": null,
+    "pl": null,
+    "zh": "更换",
+    "en": "to change, to switch",
+    "ex": "Er möchte nächstes Jahr die Stelle wechseln.",
+    "exZh": "他想明年换个工作岗位。"
+  },
+  {
+    "de": "übernehmen",
+    "art": null,
+    "pl": null,
+    "zh": "接手，承担",
+    "en": "to take over",
+    "ex": "Anna übernimmt ab Montag ein neues Projekt.",
+    "exZh": "Anna 从周一起要接手一个新项目。"
+  },
+  {
+    "de": "leiten",
+    "art": null,
+    "pl": null,
+    "zh": "领导，主管",
+    "en": "to lead, to manage",
+    "ex": "Wei leitet seit einem Jahr das kleine Team.",
+    "exZh": "Wei 一年来一直带领着这个小团队。"
+  },
+  {
+    "de": "delegieren",
+    "art": null,
+    "pl": null,
+    "zh": "委派，下放",
+    "en": "to delegate",
+    "ex": "Ein guter Chef delegiert Aufgaben an sein Team.",
+    "exZh": "一个好老板会把任务分派给团队。"
+  },
+  {
+    "de": "sich weiterbilden",
+    "art": null,
+    "pl": null,
+    "zh": "进修，继续深造",
+    "en": "to further educate oneself",
+    "ex": "Viele Mitarbeiter bilden sich am Wochenende weiter.",
+    "exZh": "很多员工会在周末继续进修。"
+  },
+  {
+    "de": "beruflich",
+    "art": null,
+    "pl": null,
+    "zh": "职业上的",
+    "en": "professional, career-related",
+    "ex": "Beruflich hat sich bei Anna dieses Jahr viel verändert.",
+    "exZh": "Anna 今年在职业上发生了很大变化。"
+  },
+  {
+    "de": "verantwortungsvoll",
+    "art": null,
+    "pl": null,
+    "zh": "责任重大的",
+    "en": "responsible (task)",
+    "ex": "Seine neue Aufgabe ist sehr verantwortungsvoll.",
+    "exZh": "他的新任务责任重大。"
+  },
+  {
+    "de": "überlastet",
+    "art": null,
+    "pl": null,
+    "zh": "负担过重的",
+    "en": "overloaded, overburdened",
+    "ex": "Vor der Prüfung fühlte sich Jonas ziemlich überlastet.",
+    "exZh": "考试前 Jonas 感觉相当负担过重。"
+  },
+  {
+    "de": "motiviert",
+    "art": null,
+    "pl": null,
+    "zh": "有干劲的",
+    "en": "motivated",
+    "ex": "Nach der Beförderung wirkt Anna sehr motiviert.",
+    "exZh": "晋升后 Anna 显得干劲十足。"
+  },
+  {
+    "de": "Miete",
+    "art": null,
+    "pl": null,
+    "zh": "房租（长 i）",
+    "en": "rent",
+    "ex": "Die Miete ist hoch.",
+    "exZh": "房租很高。"
+  },
+  {
+    "de": "Mitte",
+    "art": null,
+    "pl": null,
+    "zh": "中间（短 i）",
+    "en": "middle",
+    "ex": "in der Mitte",
+    "exZh": "在中间"
+  },
+  {
+    "de": "Ofen",
+    "art": null,
+    "pl": null,
+    "zh": "烤箱（长 o）",
+    "en": "oven",
+    "ex": "Der Ofen ist heiß.",
+    "exZh": "烤箱很烫。"
+  },
+  {
+    "de": "offen",
+    "art": null,
+    "pl": null,
+    "zh": "开着的（短 o）",
+    "en": "open",
+    "ex": "Die Tür ist offen.",
+    "exZh": "门开着。"
+  },
+  {
+    "de": "Staat",
+    "art": null,
+    "pl": null,
+    "zh": "国家（长 a）",
+    "en": "state/country",
+    "ex": "Das ist ein Staat.",
+    "exZh": "这是一个国家。"
+  },
+  {
+    "de": "Stadt",
+    "art": null,
+    "pl": null,
+    "zh": "城市（短 a）",
+    "en": "city",
+    "ex": "Leipzig ist eine schöne Stadt.",
+    "exZh": "莱比锡是座美丽的城市。"
+  },
+  {
+    "de": "Wasser",
+    "art": null,
+    "pl": null,
+    "zh": "水",
+    "en": "water",
+    "ex": "Ein Wasser, bitte.",
+    "exZh": "请来一杯水。"
+  },
+  {
+    "de": "vier",
+    "art": null,
+    "pl": null,
+    "zh": "4（v 读 f）",
+    "en": "four",
+    "ex": "Vier Brötchen, bitte.",
+    "exZh": "请给我四个小面包。"
+  },
+  {
+    "de": "sprechen",
+    "art": null,
+    "pl": null,
+    "zh": "说（sp 读 schp）",
+    "en": "to speak",
+    "ex": "Ich spreche Deutsch.",
+    "exZh": "我说德语。"
+  },
+  {
+    "de": "ich",
+    "art": null,
+    "pl": null,
+    "zh": "我（软 ch）",
+    "en": "I",
+    "ex": "Ich bin hier.",
+    "exZh": "我在这儿。"
+  },
+  {
+    "de": "Buch",
+    "art": null,
+    "pl": null,
+    "zh": "书（硬 ch）",
+    "en": "book",
+    "ex": "Das ist ein Buch.",
+    "exZh": "这是一本书。"
+  },
+  {
+    "de": "Straße",
+    "art": null,
+    "pl": null,
+    "zh": "街道",
+    "en": "street",
+    "ex": "Die Straße ist laut.",
+    "exZh": "这条街很吵。"
+  },
+  {
+    "de": "Hallo",
+    "art": null,
+    "pl": null,
+    "zh": "你好（随时可用，非正式）",
+    "en": "hello",
+    "ex": "Hallo! Ich bin Wei.",
+    "exZh": "你好！我是 Wei。"
+  },
+  {
+    "de": "Guten Morgen",
+    "art": null,
+    "pl": null,
+    "zh": "早上好（大约到10点前）",
+    "en": "good morning",
+    "ex": "Guten Morgen! Wie geht’s?",
+    "exZh": "早上好！你好吗？"
+  },
+  {
+    "de": "Guten Tag",
+    "art": null,
+    "pl": null,
+    "zh": "你好（白天，比较正式）",
+    "en": "good day",
+    "ex": "Guten Tag, Frau Schmidt.",
+    "exZh": "您好，施密特女士。"
+  },
+  {
+    "de": "Guten Abend",
+    "art": null,
+    "pl": null,
+    "zh": "晚上好（傍晚以后）",
+    "en": "good evening",
+    "ex": "Guten Abend, Anna!",
+    "exZh": "晚上好，Anna！"
+  },
+  {
+    "de": "Tschüss",
+    "art": null,
+    "pl": null,
+    "zh": "再见（非正式，日常最常用）",
+    "en": "bye",
+    "ex": "Tschüss, bis morgen!",
+    "exZh": "再见，明天见！"
+  },
+  {
+    "de": "Auf Wiedersehen",
+    "art": null,
+    "pl": null,
+    "zh": "再见（正式场合，比如办事、离店）",
+    "en": "goodbye",
+    "ex": "Auf Wiedersehen, Frau Schmidt.",
+    "exZh": "再见，施密特女士。"
+  },
+  {
+    "de": "ja",
+    "art": null,
+    "pl": null,
+    "zh": "是，对",
+    "en": "yes",
+    "ex": "Ja, genau.",
+    "exZh": "对，是的。"
+  },
+  {
+    "de": "nein",
+    "art": null,
+    "pl": null,
+    "zh": "不，不是",
+    "en": "no",
+    "ex": "Nein, danke.",
+    "exZh": "不，谢谢。"
+  },
+  {
+    "de": "danke",
+    "art": null,
+    "pl": null,
+    "zh": "谢谢",
+    "en": "thanks",
+    "ex": "Danke schön!",
+    "exZh": "非常感谢！"
+  },
+  {
+    "de": "Entschuldigung",
+    "art": "die",
+    "pl": "Entschuldigungen",
+    "zh": "不好意思，打扰了（引起注意/道歉）",
+    "en": "excuse me / sorry",
+    "ex": "Entschuldigung, wo ist die Toilette?",
+    "exZh": "打扰一下，请问洗手间在哪儿？"
+  },
+  {
+    "de": "heißen",
+    "art": null,
+    "pl": null,
+    "zh": "名叫……",
+    "en": "to be called",
+    "ex": "Ich heiße Wei.",
+    "exZh": "我叫 Wei。"
+  },
+  {
+    "de": "kommen aus",
+    "art": null,
+    "pl": null,
+    "zh": "来自……",
+    "en": "to come from",
+    "ex": "Ich komme aus China.",
+    "exZh": "我来自中国。"
+  },
+  {
+    "de": "wohnen in",
+    "art": null,
+    "pl": null,
+    "zh": "住在……",
+    "en": "to live in",
+    "ex": "Ich wohne in Leipzig.",
+    "exZh": "我住在莱比锡。"
+  },
+  {
+    "de": "Freut mich",
+    "art": null,
+    "pl": null,
+    "zh": "很高兴认识你（初次见面用语）",
+    "en": "nice to meet you",
+    "ex": "Freut mich, Wei!",
+    "exZh": "很高兴认识你，Wei！"
+  },
+  {
+    "de": "machen",
+    "art": null,
+    "pl": null,
+    "zh": "做，干",
+    "en": "to do/make",
+    "ex": "Was machst du hier?",
+    "exZh": "你在这儿做什么？"
+  },
+  {
+    "de": "arbeiten",
+    "art": null,
+    "pl": null,
+    "zh": "工作",
+    "en": "to work",
+    "ex": "Ich arbeite am Institut.",
+    "exZh": "我在研究所工作。"
+  },
+  {
+    "de": "lernen",
+    "art": null,
+    "pl": null,
+    "zh": "学习",
+    "en": "to learn",
+    "ex": "Ich lerne Deutsch.",
+    "exZh": "我在学德语。"
+  },
+  {
+    "de": "kommen",
+    "art": null,
+    "pl": null,
+    "zh": "来",
+    "en": "to come",
+    "ex": "Wann kommst du?",
+    "exZh": "你什么时候来？"
+  },
+  {
+    "de": "wohnen",
+    "art": null,
+    "pl": null,
+    "zh": "居住",
+    "en": "to live",
+    "ex": "Wo wohnst du?",
+    "exZh": "你住在哪儿？"
+  },
+  {
+    "de": "Deutsch",
+    "art": null,
+    "pl": null,
+    "zh": "德语",
+    "en": "German",
+    "ex": "Ich spreche Deutsch.",
+    "exZh": "我说德语。"
+  },
+  {
+    "de": "Englisch",
+    "art": null,
+    "pl": null,
+    "zh": "英语",
+    "en": "English",
+    "ex": "Ich spreche ein bisschen Englisch.",
+    "exZh": "我会说一点英语。"
+  },
+  {
+    "de": "Chinesisch",
+    "art": null,
+    "pl": null,
+    "zh": "汉语",
+    "en": "Chinese",
+    "ex": "Sprichst du Chinesisch?",
+    "exZh": "你会说中文吗？"
+  },
+  {
+    "de": "ein bisschen",
+    "art": null,
+    "pl": null,
+    "zh": "一点点",
+    "en": "a little",
+    "ex": "Ich spreche ein bisschen Deutsch.",
+    "exZh": "我会说一点德语。"
+  },
+  {
+    "de": "Arbeit",
+    "art": "die",
+    "pl": "Arbeiten",
+    "zh": "工作",
+    "en": "work/job",
+    "ex": "Die Arbeit ist interessant.",
+    "exZh": "这份工作很有意思。"
+  },
+  {
+    "de": "Institut",
+    "art": "das",
+    "pl": "Institute",
+    "zh": "研究所",
+    "en": "institute",
+    "ex": "Das Institut ist groß.",
+    "exZh": "这家研究所很大。"
+  },
+  {
+    "de": "jeden Tag",
+    "art": null,
+    "pl": null,
+    "zh": "每天",
+    "en": "every day",
+    "ex": "Ich lerne jeden Tag Deutsch.",
+    "exZh": "我每天都学德语。"
+  },
+  {
+    "de": "Kopf",
+    "art": "der",
+    "pl": "Köpfe",
+    "zh": "头",
+    "en": "head",
+    "ex": "Der Kopf tut mir seit gestern weh.",
+    "exZh": "我的头从昨天起就疼。"
+  },
+  {
+    "de": "Bauch",
+    "art": "der",
+    "pl": "Bäuche",
+    "zh": "肚子",
+    "en": "belly/stomach",
+    "ex": "Tut dir der Bauch weh?",
+    "exZh": "你肚子疼吗？"
+  },
+  {
+    "de": "Hals",
+    "art": "der",
+    "pl": "Hälse",
+    "zh": "喉咙，脖子",
+    "en": "throat/neck",
+    "ex": "Mein Hals tut auch weh.",
+    "exZh": "我的喉咙也疼。"
+  },
+  {
+    "de": "Rücken",
+    "art": "der",
+    "pl": "Rücken",
+    "zh": "背",
+    "en": "back",
+    "ex": "Ich habe Rückenschmerzen.",
+    "exZh": "我背疼。"
+  },
+  {
+    "de": "Arm",
+    "art": "der",
+    "pl": "Arme",
+    "zh": "胳膊",
+    "en": "arm",
+    "ex": "Der Arm tut mir weh.",
+    "exZh": "我胳膊疼。"
+  },
+  {
+    "de": "Bein",
+    "art": "das",
+    "pl": "Beine",
+    "zh": "腿",
+    "en": "leg",
+    "ex": "Das Bein tut mir weh.",
+    "exZh": "我腿疼。"
+  },
+  {
+    "de": "Ohr",
+    "art": "das",
+    "pl": "Ohren",
+    "zh": "耳朵",
+    "en": "ear",
+    "ex": "Die Ohren tun mir weh.",
+    "exZh": "我两只耳朵都疼。"
+  },
+  {
+    "de": "Fieber",
+    "art": "das",
+    "pl": null,
+    "zh": "发烧",
+    "en": "fever",
+    "ex": "Ich habe Fieber.",
+    "exZh": "我发烧了。"
+  },
+  {
+    "de": "Husten",
+    "art": "der",
+    "pl": null,
+    "zh": "咳嗽",
+    "en": "cough",
+    "ex": "Ich habe Husten und Schnupfen.",
+    "exZh": "我又咳嗽又流鼻涕。"
+  },
+  {
+    "de": "Schnupfen",
+    "art": "der",
+    "pl": null,
+    "zh": "流鼻涕，鼻塞",
+    "en": "runny nose",
+    "ex": "Haben Sie auch Schnupfen?",
+    "exZh": "您也流鼻涕吗？"
+  },
+  {
+    "de": "Schmerz",
+    "art": "der",
+    "pl": "Schmerzen",
+    "zh": "疼痛",
+    "en": "pain",
+    "ex": "Ich habe Kopfschmerzen.",
+    "exZh": "我头疼。"
+  },
+  {
+    "de": "krank",
+    "art": null,
+    "pl": null,
+    "zh": "生病的",
+    "en": "sick",
+    "ex": "Ich bin krank und bleibe zu Hause.",
+    "exZh": "我生病了，待在家里。"
+  },
+  {
+    "de": "gesund",
+    "art": null,
+    "pl": null,
+    "zh": "健康的",
+    "en": "healthy",
+    "ex": "Ich bin wieder gesund.",
+    "exZh": "我病好了。"
+  },
+  {
+    "de": "wehtun",
+    "art": null,
+    "pl": null,
+    "zh": "疼，痛",
+    "en": "to hurt",
+    "ex": "Der Kopf tut mir weh.",
+    "exZh": "我头疼。"
+  },
+  {
+    "de": "Sprechstunde",
+    "art": "die",
+    "pl": "Sprechstunden",
+    "zh": "（医生的）门诊时间",
+    "en": "office hours",
+    "ex": "Die Sprechstunde ist von neun bis zwölf.",
+    "exZh": "门诊时间是九点到十二点。"
+  },
+  {
+    "de": "Hausarzt",
+    "art": "der",
+    "pl": "Hausärzte",
+    "zh": "家庭医生（男）",
+    "en": "family doctor (male)",
+    "ex": "Mein Hausarzt ist sehr nett.",
+    "exZh": "我的家庭医生人很好。"
+  },
+  {
+    "de": "Hausärztin",
+    "art": "die",
+    "pl": "Hausärztinnen",
+    "zh": "家庭医生（女）",
+    "en": "family doctor (female)",
+    "ex": "Meine Hausärztin ist heute nicht da.",
+    "exZh": "我的家庭医生今天不在。"
+  },
+  {
+    "de": "Was fehlt Ihnen?",
+    "art": null,
+    "pl": null,
+    "zh": "您哪里不舒服？（医生问诊常用句）",
+    "en": "What’s wrong with you?",
+    "ex": "Guten Tag, was fehlt Ihnen denn?",
+    "exZh": "您好，您哪里不舒服？"
+  },
+  {
+    "de": "Apotheke",
+    "art": "die",
+    "pl": "Apotheken",
+    "zh": "药店",
+    "en": "pharmacy",
+    "ex": "Wo ist die nächste Apotheke?",
+    "exZh": "最近的药店在哪里？"
+  },
+  {
+    "de": "Medikament",
+    "art": "das",
+    "pl": "Medikamente",
+    "zh": "药，药物",
+    "en": "medication",
+    "ex": "Das Medikament ist rezeptfrei.",
+    "exZh": "这种药不需要处方。"
+  },
+  {
+    "de": "Rezept",
+    "art": "das",
+    "pl": "Rezepte",
+    "zh": "处方",
+    "en": "prescription",
+    "ex": "Brauche ich ein Rezept?",
+    "exZh": "我需要处方吗？"
+  },
+  {
+    "de": "Tablette",
+    "art": "die",
+    "pl": "Tabletten",
+    "zh": "药片",
+    "en": "tablet/pill",
+    "ex": "Nehmen Sie die Tablette nach dem Essen!",
+    "exZh": "请饭后服用这片药！"
+  },
+  {
+    "de": "Apotheker",
+    "art": "der",
+    "pl": "Apotheker",
+    "zh": "药剂师（男）",
+    "en": "pharmacist (male)",
+    "ex": "Der Apotheker ist sehr freundlich.",
+    "exZh": "药剂师很友善。"
+  },
+  {
+    "de": "Apothekerin",
+    "art": "die",
+    "pl": "Apothekerinnen",
+    "zh": "药剂师（女）",
+    "en": "pharmacist (female)",
+    "ex": "Fragen Sie die Apothekerin!",
+    "exZh": "请去问药剂师！"
+  },
+  {
+    "de": "einnehmen",
+    "art": null,
+    "pl": null,
+    "zh": "服用（药物）",
+    "en": "to take (medicine)",
+    "ex": "Nehmen Sie die Tablette dreimal täglich ein.",
+    "exZh": "请每天服用三次这个药片。"
+  },
+  {
+    "de": "krankschreiben",
+    "art": null,
+    "pl": null,
+    "zh": "开病假证明",
+    "en": "to sign off sick",
+    "ex": "Ich lasse mich krankschreiben.",
+    "exZh": "我要去开个病假证明。"
+  },
+  {
+    "de": "Krankmeldung",
+    "art": "die",
+    "pl": "Krankmeldungen",
+    "zh": "病假条，请病假通知",
+    "en": "sick note",
+    "ex": "Die Krankmeldung ist für meinen Chef.",
+    "exZh": "病假条是给我老板的。"
+  },
+  {
+    "de": "Erkältung",
+    "art": "die",
+    "pl": "Erkältungen",
+    "zh": "感冒",
+    "en": "a cold",
+    "ex": "Ich habe eine Erkältung.",
+    "exZh": "我感冒了。"
+  },
+  {
+    "de": "Gute Besserung!",
+    "art": null,
+    "pl": null,
+    "zh": "早日康复！",
+    "en": "Get well soon!",
+    "ex": "Gute Besserung, Wei!",
+    "exZh": "早日康复，Wei！"
+  },
+  {
+    "de": "Chef",
+    "art": "der",
+    "pl": "Chefs",
+    "zh": "老板，上司（男）",
+    "en": "boss (male)",
+    "ex": "Ich muss meinen Chef anrufen.",
+    "exZh": "我得给我老板打电话。"
+  },
+  {
+    "de": "Chefin",
+    "art": "die",
+    "pl": "Chefinnen",
+    "zh": "老板，上司（女）",
+    "en": "boss (female)",
+    "ex": "Meine Chefin hat heute keine Zeit.",
+    "exZh": "我老板今天没时间。"
+  },
+  {
+    "de": "trinken",
+    "art": null,
+    "pl": null,
+    "zh": "喝",
+    "en": "to drink",
+    "ex": "Trinken Sie viel Wasser!",
+    "exZh": "请多喝水！"
+  },
+  {
+    "de": "bleiben",
+    "art": null,
+    "pl": null,
+    "zh": "待着，留下",
+    "en": "to stay",
+    "ex": "Bleiben Sie ein paar Tage zu Hause!",
+    "exZh": "请在家待几天！"
+  },
+  {
+    "de": "essen",
+    "art": null,
+    "pl": null,
+    "zh": "吃",
+    "en": "to eat",
+    "ex": "Iss mehr Obst!",
+    "exZh": "多吃点水果！"
+  },
+  {
+    "de": "schlafen",
+    "art": null,
+    "pl": null,
+    "zh": "睡觉",
+    "en": "to sleep",
+    "ex": "Schlafen Sie viel!",
+    "exZh": "请多睡觉！"
+  },
+  {
+    "de": "Wohnung",
+    "art": "die",
+    "pl": "Wohnungen",
+    "zh": "住房，公寓",
+    "en": "apartment",
+    "ex": "Die Wohnung hat drei Zimmer.",
+    "exZh": "这套房子有三个房间。"
+  },
+  {
+    "de": "Zimmer",
+    "art": "das",
+    "pl": "Zimmer",
+    "zh": "房间",
+    "en": "room",
+    "ex": "Mein Zimmer ist hell und ruhig.",
+    "exZh": "我的房间明亮又安静。"
+  },
+  {
+    "de": "Küche",
+    "art": "die",
+    "pl": "Küchen",
+    "zh": "厨房",
+    "en": "kitchen",
+    "ex": "Die Küche ist klein, aber schön.",
+    "exZh": "厨房小，但很漂亮。"
+  },
+  {
+    "de": "Bad",
+    "art": "das",
+    "pl": "Bäder",
+    "zh": "浴室，卫生间",
+    "en": "bathroom",
+    "ex": "Wo ist das Bad?",
+    "exZh": "浴室在哪里？"
+  },
+  {
+    "de": "Wohnzimmer",
+    "art": "das",
+    "pl": "Wohnzimmer",
+    "zh": "客厅",
+    "en": "living room",
+    "ex": "Das Wohnzimmer ist groß und hell.",
+    "exZh": "客厅又大又亮。"
+  },
+  {
+    "de": "Schlafzimmer",
+    "art": "das",
+    "pl": "Schlafzimmer",
+    "zh": "卧室",
+    "en": "bedroom",
+    "ex": "Das Schlafzimmer ist ruhig.",
+    "exZh": "卧室很安静。"
+  },
+  {
+    "de": "Balkon",
+    "art": "der",
+    "pl": "Balkone",
+    "zh": "阳台",
+    "en": "balcony",
+    "ex": "Die Wohnung hat einen Balkon.",
+    "exZh": "这套房子有一个阳台。"
+  },
+  {
+    "de": "Möbel",
+    "art": "die",
+    "pl": null,
+    "zh": "家具（通常用复数）",
+    "en": "furniture",
+    "ex": "Gibt es schon Möbel?",
+    "exZh": "已经有家具了吗？"
+  },
+  {
+    "de": "Tisch",
+    "art": "der",
+    "pl": "Tische",
+    "zh": "桌子",
+    "en": "table",
+    "ex": "Der Tisch steht in der Küche.",
+    "exZh": "桌子在厨房里。"
+  },
+  {
+    "de": "Stuhl",
+    "art": "der",
+    "pl": "Stühle",
+    "zh": "椅子",
+    "en": "chair",
+    "ex": "Der Stuhl ist noch neu.",
+    "exZh": "这把椅子还是新的。"
+  },
+  {
+    "de": "Bett",
+    "art": "das",
+    "pl": "Betten",
+    "zh": "床",
+    "en": "bed",
+    "ex": "Das Bett steht im Schlafzimmer.",
+    "exZh": "床在卧室里。"
+  },
+  {
+    "de": "Schrank",
+    "art": "der",
+    "pl": "Schränke",
+    "zh": "柜子，衣柜",
+    "en": "wardrobe/cupboard",
+    "ex": "Der Schrank ist sehr groß.",
+    "exZh": "这个柜子很大。"
+  },
+  {
+    "de": "Regal",
+    "art": "das",
+    "pl": "Regale",
+    "zh": "架子，书架",
+    "en": "shelf",
+    "ex": "Meine Bücher stehen im Regal.",
+    "exZh": "我的书放在书架上。"
+  },
+  {
+    "de": "Lampe",
+    "art": "die",
+    "pl": "Lampen",
+    "zh": "灯",
+    "en": "lamp",
+    "ex": "Die Lampe steht auf dem Tisch.",
+    "exZh": "灯在桌子上。"
+  },
+  {
+    "de": "Sofa",
+    "art": "das",
+    "pl": "Sofas",
+    "zh": "沙发",
+    "en": "sofa",
+    "ex": "Das Sofa steht im Wohnzimmer.",
+    "exZh": "沙发在客厅里。"
+  },
+  {
+    "de": "groß",
+    "art": null,
+    "pl": null,
+    "zh": "大的",
+    "en": "big",
+    "ex": "Das Zimmer ist sehr groß.",
+    "exZh": "这个房间很大。"
+  },
+  {
+    "de": "klein",
+    "art": null,
+    "pl": null,
+    "zh": "小的",
+    "en": "small",
+    "ex": "Die Küche ist ein bisschen klein.",
+    "exZh": "厨房有点小。"
+  },
+  {
+    "de": "hell",
+    "art": null,
+    "pl": null,
+    "zh": "明亮的",
+    "en": "bright",
+    "ex": "Schön hell hier!",
+    "exZh": "这儿真亮堂！"
+  },
+  {
+    "de": "dunkel",
+    "art": null,
+    "pl": null,
+    "zh": "暗的",
+    "en": "dark",
+    "ex": "Das Bad ist leider dunkel.",
+    "exZh": "浴室可惜有点暗。"
+  },
+  {
+    "de": "ruhig",
+    "art": null,
+    "pl": null,
+    "zh": "安静的",
+    "en": "quiet",
+    "ex": "Die Wohnung ist sehr ruhig.",
+    "exZh": "这套房子非常安静。"
+  },
+  {
+    "de": "stehen",
+    "art": null,
+    "pl": null,
+    "zh": "站立，（家具）立着放",
+    "en": "to stand",
+    "ex": "Der Tisch steht im Wohnzimmer.",
+    "exZh": "桌子在客厅里。"
+  },
+  {
+    "de": "liegen",
+    "art": null,
+    "pl": null,
+    "zh": "躺，（物品）平放着",
+    "en": "to lie",
+    "ex": "Das Buch liegt auf dem Tisch.",
+    "exZh": "书在桌子上。"
+  },
+  {
+    "de": "hängen",
+    "art": null,
+    "pl": null,
+    "zh": "挂着",
+    "en": "to hang",
+    "ex": "Die Lampe hängt an der Decke.",
+    "exZh": "灯挂在天花板上。"
+  },
+  {
+    "de": "Ecke",
+    "art": "die",
+    "pl": "Ecken",
+    "zh": "角落",
+    "en": "corner",
+    "ex": "Der Schrank steht in der Ecke.",
+    "exZh": "柜子在角落里。"
+  },
+  {
+    "de": "Wand",
+    "art": "die",
+    "pl": "Wände",
+    "zh": "墙",
+    "en": "wall",
+    "ex": "Das Bild hängt an der Wand.",
+    "exZh": "画挂在墙上。"
+  },
+  {
+    "de": "Kleinanzeige",
+    "art": "die",
+    "pl": "Kleinanzeigen",
+    "zh": "分类广告（二手交易平台）",
+    "en": "classified ad",
+    "ex": "Es gibt viele Kleinanzeigen für Möbel.",
+    "exZh": "有很多卖家具的分类广告。"
+  },
+  {
+    "de": "verkaufen",
+    "art": null,
+    "pl": null,
+    "zh": "卖",
+    "en": "to sell",
+    "ex": "Ich verkaufe meinen Tisch.",
+    "exZh": "我要卖掉我的桌子。"
+  },
+  {
+    "de": "kaufen",
+    "art": null,
+    "pl": null,
+    "zh": "买",
+    "en": "to buy",
+    "ex": "Ich kaufe das Sofa für vierzig Euro.",
+    "exZh": "我花四十欧元买这张沙发。"
+  },
+  {
+    "de": "gebraucht",
+    "art": null,
+    "pl": null,
+    "zh": "二手的，用过的",
+    "en": "used/secondhand",
+    "ex": "Der Tisch ist gebraucht, aber gut.",
+    "exZh": "这张桌子是二手的，但很好。"
+  },
+  {
+    "de": "neu",
+    "art": null,
+    "pl": null,
+    "zh": "新的",
+    "en": "new",
+    "ex": "Ist das Regal neu oder gebraucht?",
+    "exZh": "这个架子是新的还是二手的？"
+  },
+  {
+    "de": "Zustand",
+    "art": "der",
+    "pl": "Zustände",
+    "zh": "状况，状态",
+    "en": "condition",
+    "ex": "in gutem Zustand",
+    "exZh": "状况良好"
+  },
+  {
+    "de": "günstig",
+    "art": null,
+    "pl": null,
+    "zh": "划算的，便宜的",
+    "en": "affordable",
+    "ex": "Vierzig Euro? Das ist günstig!",
+    "exZh": "四十欧元？真划算！"
+  },
+  {
+    "de": "abholen",
+    "art": null,
+    "pl": null,
+    "zh": "取，取走",
+    "en": "to pick up",
+    "ex": "Kann ich den Tisch heute abholen?",
+    "exZh": "我今天能来取这张桌子吗？"
+  },
+  {
+    "de": "Angebot",
+    "art": "das",
+    "pl": "Angebote",
+    "zh": "（出售）信息，报价",
+    "en": "offer/listing",
+    "ex": "Das Angebot ist wirklich günstig.",
+    "exZh": "这个报价真的很划算。"
+  },
+  {
+    "de": "gemacht",
+    "art": null,
+    "pl": null,
+    "zh": "做过，做了（做的过去分词）",
+    "en": "done/made",
+    "ex": "Ich habe am Wochenende viel gemacht.",
+    "exZh": "我周末做了很多事。"
+  },
+  {
+    "de": "gekauft",
+    "art": null,
+    "pl": null,
+    "zh": "买过，买了",
+    "en": "bought",
+    "ex": "Ich habe neue Schuhe gekauft.",
+    "exZh": "我买了新鞋。"
+  },
+  {
+    "de": "gelernt",
+    "art": null,
+    "pl": null,
+    "zh": "学过，学了",
+    "en": "learned/studied",
+    "ex": "Ich habe für den Deutschkurs gelernt.",
+    "exZh": "我为德语课学习了。"
+  },
+  {
+    "de": "gearbeitet",
+    "art": null,
+    "pl": null,
+    "zh": "工作过，工作了",
+    "en": "worked",
+    "ex": "Ich habe am Sonntag ein bisschen gearbeitet.",
+    "exZh": "我周日工作了一点。"
+  },
+  {
+    "de": "gesehen",
+    "art": null,
+    "pl": null,
+    "zh": "看过，看见了",
+    "en": "seen",
+    "ex": "Ich habe dort einen schönen Markt gesehen.",
+    "exZh": "我在那儿看到了一个漂亮的市场。"
+  },
+  {
+    "de": "getroffen",
+    "art": null,
+    "pl": null,
+    "zh": "见过，遇见了",
+    "en": "met",
+    "ex": "Ich habe meine Cousine Lin getroffen.",
+    "exZh": "我见了我表姐 Lin。"
+  },
+  {
+    "de": "gegessen",
+    "art": null,
+    "pl": null,
+    "zh": "吃过，吃了",
+    "en": "eaten",
+    "ex": "Wir haben zusammen zu Mittag gegessen.",
+    "exZh": "我们一起吃了午饭。"
+  },
+  {
+    "de": "getrunken",
+    "art": null,
+    "pl": null,
+    "zh": "喝过，喝了",
+    "en": "drunk",
+    "ex": "Danach haben wir Kaffee getrunken.",
+    "exZh": "之后我们喝了咖啡。"
+  },
+  {
+    "de": "gestern",
+    "art": null,
+    "pl": null,
+    "zh": "昨天",
+    "en": "yesterday",
+    "ex": "Gestern habe ich viel gearbeitet.",
+    "exZh": "昨天我工作了很多。"
+  },
+  {
+    "de": "schon",
+    "art": null,
+    "pl": null,
+    "zh": "已经",
+    "en": "already",
+    "ex": "Ich habe das schon gemacht.",
+    "exZh": "我已经做过了。"
+  },
+  {
+    "de": "noch nicht",
+    "art": null,
+    "pl": null,
+    "zh": "还没",
+    "en": "not yet",
+    "ex": "Ich habe noch nicht gegessen.",
+    "exZh": "我还没吃饭。"
+  },
+  {
+    "de": "gegangen",
+    "art": null,
+    "pl": null,
+    "zh": "走过去了，去了（走着）",
+    "en": "gone (on foot)",
+    "ex": "Wir sind viel zu Fuß gegangen.",
+    "exZh": "我们走了很多路。"
+  },
+  {
+    "de": "gefahren",
+    "art": null,
+    "pl": null,
+    "zh": "开车/坐车去了",
+    "en": "driven/gone (by vehicle)",
+    "ex": "Ich bin nach Dresden gefahren.",
+    "exZh": "我坐车去了德累斯顿。"
+  },
+  {
+    "de": "gekommen",
+    "art": null,
+    "pl": null,
+    "zh": "来了",
+    "en": "come",
+    "ex": "Wir sind erst spät abends gekommen.",
+    "exZh": "我们直到深夜才到。"
+  },
+  {
+    "de": "geblieben",
+    "art": null,
+    "pl": null,
+    "zh": "待着，留下了",
+    "en": "stayed",
+    "ex": "Ich bin dann zu Hause geblieben.",
+    "exZh": "之后我就一直待在家里。"
+  },
+  {
+    "de": "passiert",
+    "art": null,
+    "pl": null,
+    "zh": "发生了",
+    "en": "happened",
+    "ex": "Ist sonst noch etwas passiert?",
+    "exZh": "还发生什么别的事了吗？"
+  },
+  {
+    "de": "war",
+    "art": null,
+    "pl": null,
+    "zh": "（当时）是，在",
+    "en": "was",
+    "ex": "Der Zug war sehr bequem.",
+    "exZh": "火车很舒适。"
+  },
+  {
+    "de": "hatte",
+    "art": null,
+    "pl": null,
+    "zh": "（当时）有",
+    "en": "had",
+    "ex": "Wir hatten leider keine Zeit.",
+    "exZh": "我们可惜没有时间。"
+  },
+  {
+    "de": "letzte Woche",
+    "art": null,
+    "pl": null,
+    "zh": "上周",
+    "en": "last week",
+    "ex": "Letzte Woche war ich krank.",
+    "exZh": "上周我生病了。"
+  },
+  {
+    "de": "letztes Wochenende",
+    "art": null,
+    "pl": null,
+    "zh": "上周末",
+    "en": "last weekend",
+    "ex": "Letztes Wochenende bin ich nach Dresden gefahren.",
+    "exZh": "上周末我去了德累斯顿。"
+  },
+  {
+    "de": "letztes Jahr",
+    "art": null,
+    "pl": null,
+    "zh": "去年",
+    "en": "last year",
+    "ex": "Letztes Jahr war ich in China.",
+    "exZh": "去年我在中国。"
+  },
+  {
+    "de": "aufstehen",
+    "art": null,
+    "pl": null,
+    "zh": "起床",
+    "en": "to get up",
+    "ex": "Ich stehe um 7 Uhr auf.",
+    "exZh": "我七点起床。"
+  },
+  {
+    "de": "anfangen",
+    "art": null,
+    "pl": null,
+    "zh": "开始",
+    "en": "to begin",
+    "ex": "Die Arbeit fängt um 9 Uhr an.",
+    "exZh": "工作九点开始。"
+  },
+  {
+    "de": "aufhören",
+    "art": null,
+    "pl": null,
+    "zh": "停止，结束",
+    "en": "to stop/finish",
+    "ex": "Ich höre um 17 Uhr auf.",
+    "exZh": "我五点下班（结束工作）。"
+  },
+  {
+    "de": "einkaufen",
+    "art": null,
+    "pl": null,
+    "zh": "购物，采购",
+    "en": "to shop",
+    "ex": "Ich kaufe nach der Arbeit ein.",
+    "exZh": "我下班后去购物。"
+  },
+  {
+    "de": "anrufen",
+    "art": null,
+    "pl": null,
+    "zh": "打电话给……",
+    "en": "to call (someone)",
+    "ex": "Ich rufe meine Mutter an.",
+    "exZh": "我给我妈妈打电话。"
+  },
+  {
+    "de": "fernsehen",
+    "art": null,
+    "pl": null,
+    "zh": "看电视",
+    "en": "to watch TV",
+    "ex": "Abends sehe ich fern.",
+    "exZh": "晚上我看电视。"
+  },
+  {
+    "de": "aufräumen",
+    "art": null,
+    "pl": null,
+    "zh": "收拾，打扫",
+    "en": "to tidy up",
+    "ex": "Am Wochenende räume ich die Wohnung auf.",
+    "exZh": "周末我打扫房子。"
+  },
+  {
+    "de": "mitkommen",
+    "art": null,
+    "pl": null,
+    "zh": "一起来，一起去",
+    "en": "to come along",
+    "ex": "Kommst du heute Abend mit?",
+    "exZh": "你今晚要一起来吗？"
+  },
+  {
+    "de": "Tagesablauf",
+    "art": "der",
+    "pl": "Tagesabläufe",
+    "zh": "日常作息，一天的安排",
+    "en": "daily routine",
+    "ex": "Wie ist dein Tagesablauf?",
+    "exZh": "你的日常作息是怎样的？"
+  },
+  {
+    "de": "normalerweise",
+    "art": null,
+    "pl": null,
+    "zh": "通常，一般来说",
+    "en": "normally",
+    "ex": "Normalerweise stehe ich um sieben auf.",
+    "exZh": "我通常七点起床。"
+  },
+  {
+    "de": "meistens",
+    "art": null,
+    "pl": null,
+    "zh": "大多数时候",
+    "en": "mostly",
+    "ex": "Meistens kaufe ich nach der Arbeit ein.",
+    "exZh": "我大多下班后去购物。"
+  },
+  {
+    "de": "eingekauft",
+    "art": null,
+    "pl": null,
+    "zh": "买过东西了",
+    "en": "shopped",
+    "ex": "Ich habe eingekauft.",
+    "exZh": "我买东西了。"
+  },
+  {
+    "de": "angerufen",
+    "art": null,
+    "pl": null,
+    "zh": "打过电话了",
+    "en": "called",
+    "ex": "Ich habe meine Mutter angerufen.",
+    "exZh": "我给我妈妈打了电话。"
+  },
+  {
+    "de": "aufgeräumt",
+    "art": null,
+    "pl": null,
+    "zh": "收拾过了",
+    "en": "tidied up",
+    "ex": "Ich habe die Wohnung aufgeräumt.",
+    "exZh": "我打扫了房子。"
+  },
+  {
+    "de": "ferngesehen",
+    "art": null,
+    "pl": null,
+    "zh": "看过电视了",
+    "en": "watched TV",
+    "ex": "Gestern habe ich lange ferngesehen.",
+    "exZh": "昨天我看了很久电视。"
+  },
+  {
+    "de": "abgeholt",
+    "art": null,
+    "pl": null,
+    "zh": "接过，取过了",
+    "en": "picked up",
+    "ex": "Ich habe die Kinder abgeholt.",
+    "exZh": "我接了孩子。"
+  },
+  {
+    "de": "aufgestanden",
+    "art": null,
+    "pl": null,
+    "zh": "起床了",
+    "en": "gotten up",
+    "ex": "Ich bin heute früh aufgestanden.",
+    "exZh": "我今天起得很早。"
+  },
+  {
+    "de": "mitgekommen",
+    "art": null,
+    "pl": null,
+    "zh": "一起来过，一起去过",
+    "en": "come along",
+    "ex": "Jonas ist leider nicht mitgekommen.",
+    "exZh": "Jonas 可惜没有一起来。"
+  },
+  {
+    "de": "angefangen",
+    "art": null,
+    "pl": null,
+    "zh": "开始了",
+    "en": "begun",
+    "ex": "Die Arbeit hat um neun angefangen.",
+    "exZh": "工作九点开始了。"
+  },
+  {
+    "de": "aufgehört",
+    "art": null,
+    "pl": null,
+    "zh": "结束了，停止了",
+    "en": "stopped/finished",
+    "ex": "Ich habe um fünf aufgehört.",
+    "exZh": "我五点下班了（结束了）。"
+  },
+  {
+    "de": "Anmeldung",
+    "art": "die",
+    "pl": "Anmeldungen",
+    "zh": "（住址）登记，报到",
+    "en": "registration",
+    "ex": "Ich brauche einen Termin für die Anmeldung.",
+    "exZh": "我需要一个登记的预约。"
+  },
+  {
+    "de": "Formular",
+    "art": "das",
+    "pl": "Formulare",
+    "zh": "表格",
+    "en": "form",
+    "ex": "Bitte füllen Sie das Formular aus.",
+    "exZh": "请填写这张表格。"
+  },
+  {
+    "de": "ausfüllen",
+    "art": null,
+    "pl": null,
+    "zh": "填写",
+    "en": "to fill out",
+    "ex": "Ich habe das Formular schon ausgefüllt.",
+    "exZh": "我已经填好表格了。"
+  },
+  {
+    "de": "Unterschrift",
+    "art": "die",
+    "pl": "Unterschriften",
+    "zh": "签名",
+    "en": "signature",
+    "ex": "Ihre Unterschrift fehlt hier noch.",
+    "exZh": "这里还缺您的签名。"
+  },
+  {
+    "de": "unterschreiben",
+    "art": null,
+    "pl": null,
+    "zh": "签署，签字",
+    "en": "to sign",
+    "ex": "Unterschreiben Sie bitte hier.",
+    "exZh": "请在这里签字。"
+  },
+  {
+    "de": "Antrag",
+    "art": "der",
+    "pl": "Anträge",
+    "zh": "申请，申请表",
+    "en": "application",
+    "ex": "Ich möchte einen Antrag stellen.",
+    "exZh": "我想提交一份申请。"
+  },
+  {
+    "de": "beantragen",
+    "art": null,
+    "pl": null,
+    "zh": "申请（某事物）",
+    "en": "to apply for",
+    "ex": "Ich möchte eine Aufenthaltserlaubnis beantragen.",
+    "exZh": "我想申请一个居留许可。"
+  },
+  {
+    "de": "Bescheinigung",
+    "art": "die",
+    "pl": "Bescheinigungen",
+    "zh": "证明，证明文件",
+    "en": "certificate/confirmation",
+    "ex": "Sie bekommen die Bescheinigung per Post.",
+    "exZh": "您会收到邮寄的证明。"
+  },
+  {
+    "de": "Ausweis",
+    "art": "der",
+    "pl": "Ausweise",
+    "zh": "证件，身份证",
+    "en": "ID card",
+    "ex": "Bringen Sie bitte Ihren Ausweis mit.",
+    "exZh": "请带上您的证件。"
+  },
+  {
+    "de": "Frist",
+    "art": "die",
+    "pl": "Fristen",
+    "zh": "截止日期，期限",
+    "en": "deadline",
+    "ex": "Die Frist ist der 30. Juni.",
+    "exZh": "截止日期是6月30日。"
+  },
+  {
+    "de": "gültig",
+    "art": null,
+    "pl": null,
+    "zh": "有效的",
+    "en": "valid",
+    "ex": "Der Ausweis ist noch gültig.",
+    "exZh": "这个证件还有效。"
+  },
+  {
+    "de": "Nachweis",
+    "art": "der",
+    "pl": "Nachweise",
+    "zh": "证明材料，凭证",
+    "en": "proof/evidence",
+    "ex": "Sie brauchen einen Nachweis über Ihre Adresse.",
+    "exZh": "您需要一个地址证明。"
+  },
+  {
+    "de": "hiermit",
+    "art": null,
+    "pl": null,
+    "zh": "特此，兹（官方文书开头常用）",
+    "en": "hereby",
+    "ex": "Hiermit bestätigen wir Ihre Anmeldung.",
+    "exZh": "我们特此确认您的登记。"
+  },
+  {
+    "de": "bitte beachten Sie",
+    "art": null,
+    "pl": null,
+    "zh": "请注意",
+    "en": "please note",
+    "ex": "Bitte beachten Sie die Frist.",
+    "exZh": "请注意截止日期。"
+  },
+  {
+    "de": "spätestens bis",
+    "art": null,
+    "pl": null,
+    "zh": "最晚到……为止",
+    "en": "at the latest by",
+    "ex": "Bitte antworten Sie spätestens bis zum 30. Juni.",
+    "exZh": "请最晚在6月30日前回复。"
+  },
+  {
+    "de": "Sehr geehrte(r) ...",
+    "art": null,
+    "pl": null,
+    "zh": "尊敬的……（正式信件称呼）",
+    "en": "Dear ... (formal)",
+    "ex": "Sehr geehrter Herr Wei,",
+    "exZh": "尊敬的 Wei 先生，"
+  },
+  {
+    "de": "Behörde",
+    "art": "die",
+    "pl": "Behörden",
+    "zh": "官方机构，行政部门",
+    "en": "authority/agency",
+    "ex": "Ich habe einen Brief von der Behörde bekommen.",
+    "exZh": "我收到了一封行政部门的来信。"
+  },
+  {
+    "de": "Bescheid",
+    "art": "der",
+    "pl": "Bescheide",
+    "zh": "（官方）通知，批复",
+    "en": "official notice",
+    "ex": "Sie erhalten einen schriftlichen Bescheid.",
+    "exZh": "您会收到一份书面通知。"
+  },
+  {
+    "de": "Anrufbeantworter",
+    "art": "der",
+    "pl": "Anrufbeantworter",
+    "zh": "电话答录机",
+    "en": "answering machine",
+    "ex": "Ich habe eine Nachricht auf dem Anrufbeantworter hinterlassen.",
+    "exZh": "我在答录机上留了言。"
+  },
+  {
+    "de": "erreichen",
+    "art": null,
+    "pl": null,
+    "zh": "联系上，找到（某人）",
+    "en": "to reach (someone)",
+    "ex": "Sie erreichen mich am besten vormittags.",
+    "exZh": "您最好在上午联系我。"
+  },
+  {
+    "de": "zurückrufen",
+    "art": null,
+    "pl": null,
+    "zh": "回电话",
+    "en": "to call back",
+    "ex": "Ich rufe Sie später zurück.",
+    "exZh": "我稍后给您回电话。"
+  },
+  {
+    "de": "Rückruf",
+    "art": "der",
+    "pl": "Rückrufe",
+    "zh": "回电（名词）",
+    "en": "callback",
+    "ex": "Ich warte auf Ihren Rückruf.",
+    "exZh": "我在等您的回电。"
+  },
+  {
+    "de": "verbinden",
+    "art": null,
+    "pl": null,
+    "zh": "转接（电话）",
+    "en": "to connect/transfer (a call)",
+    "ex": "Ich verbinde Sie mit Frau Schmidt.",
+    "exZh": "我帮您转接给施密特女士。"
+  },
+  {
+    "de": "dringend",
+    "art": null,
+    "pl": null,
+    "zh": "紧急的，急迫的",
+    "en": "urgent",
+    "ex": "Es ist dringend, ich muss sie sprechen.",
+    "exZh": "这很紧急，我必须跟她说上话。"
+  },
+  {
+    "de": "eine Nachricht hinterlassen",
+    "art": null,
+    "pl": null,
+    "zh": "留言",
+    "en": "to leave a message",
+    "ex": "Möchten Sie eine Nachricht hinterlassen?",
+    "exZh": "您想留言吗？"
+  },
+  {
+    "de": "auflegen",
+    "art": null,
+    "pl": null,
+    "zh": "挂断（电话）",
+    "en": "to hang up",
+    "ex": "Bitte legen Sie nicht auf!",
+    "exZh": "请不要挂断！"
+  },
+  {
+    "de": "Könnten Sie...?",
+    "art": null,
+    "pl": null,
+    "zh": "您能不能……（礼貌请求）",
+    "en": "Could you...?",
+    "ex": "Könnten Sie mir helfen?",
+    "exZh": "您能帮我一下吗？"
+  },
+  {
+    "de": "Ich würde gern...",
+    "art": null,
+    "pl": null,
+    "zh": "我想……（礼貌表达意愿）",
+    "en": "I would like to...",
+    "ex": "Ich würde gern einen Termin vereinbaren.",
+    "exZh": "我想约一个时间。"
+  },
+  {
+    "de": "Betreff",
+    "art": "der",
+    "pl": "Betreffe",
+    "zh": "邮件主题",
+    "en": "subject line",
+    "ex": "Betreff: Kaputte Heizung",
+    "exZh": "主题：暖气坏了"
+  },
+  {
+    "de": "Anhang",
+    "art": "der",
+    "pl": "Anhänge",
+    "zh": "附件",
+    "en": "attachment",
+    "ex": "Im Anhang finden Sie ein Foto.",
+    "exZh": "附件里有一张照片。"
+  },
+  {
+    "de": "mitteilen",
+    "art": null,
+    "pl": null,
+    "zh": "告知，通知",
+    "en": "to inform",
+    "ex": "Ich möchte Ihnen mitteilen: Die Heizung ist kaputt.",
+    "exZh": "我想通知您：暖气坏了。"
+  },
+  {
+    "de": "Sehr geehrte Frau / Sehr geehrter Herr",
+    "art": null,
+    "pl": null,
+    "zh": "尊敬的女士/先生（正式邮件称呼）",
+    "en": "Dear Ms./Mr. (formal)",
+    "ex": "Sehr geehrte Frau Hoffmann,",
+    "exZh": "尊敬的 Hoffmann 女士，"
+  },
+  {
+    "de": "Liebe(r) ...",
+    "art": null,
+    "pl": null,
+    "zh": "亲爱的……（熟人间称呼）",
+    "en": "Dear ... (informal)",
+    "ex": "Liebe Anna,",
+    "exZh": "亲爱的 Anna，"
+  },
+  {
+    "de": "Mit freundlichen Grüßen",
+    "art": null,
+    "pl": null,
+    "zh": "此致敬礼（正式邮件结束语）",
+    "en": "Kind regards (formal)",
+    "ex": "Mit freundlichen Grüßen – Wei",
+    "exZh": "此致敬礼——Wei"
+  },
+  {
+    "de": "Viele Grüße",
+    "art": null,
+    "pl": null,
+    "zh": "问候（熟人间结束语，较随意）",
+    "en": "Best regards (informal)",
+    "ex": "Viele Grüße aus Leipzig!",
+    "exZh": "来自莱比锡的问候！"
+  },
+  {
+    "de": "Heizung",
+    "art": "die",
+    "pl": "Heizungen",
+    "zh": "暖气，供暖设备",
+    "en": "heating",
+    "ex": "Die Heizung ist kaputt.",
+    "exZh": "暖气坏了。"
+  },
+  {
+    "de": "kaputt",
+    "art": null,
+    "pl": null,
+    "zh": "坏了的，损坏的",
+    "en": "broken",
+    "ex": "Der Herd ist kaputt.",
+    "exZh": "炉子坏了。"
+  },
+  {
+    "de": "funktionieren",
+    "art": null,
+    "pl": null,
+    "zh": "运转，起作用",
+    "en": "to function/work",
+    "ex": "Die Heizung funktioniert nicht mehr.",
+    "exZh": "暖气不工作了。"
+  },
+  {
+    "de": "reparieren",
+    "art": null,
+    "pl": null,
+    "zh": "修理",
+    "en": "to repair",
+    "ex": "Können Sie die Heizung reparieren?",
+    "exZh": "您能修一下暖气吗？"
+  },
+  {
+    "de": "links",
+    "art": null,
+    "pl": null,
+    "zh": "向左，左边",
+    "en": "left",
+    "ex": "Gehen Sie links.",
+    "exZh": "您向左走。"
+  },
+  {
+    "de": "rechts",
+    "art": null,
+    "pl": null,
+    "zh": "向右，右边",
+    "en": "right",
+    "ex": "Gehen Sie rechts.",
+    "exZh": "您向右走。"
+  },
+  {
+    "de": "geradeaus",
+    "art": null,
+    "pl": null,
+    "zh": "直走",
+    "en": "straight ahead",
+    "ex": "Gehen Sie geradeaus.",
+    "exZh": "您一直往前走。"
+  },
+  {
+    "de": "Ampel",
+    "art": "die",
+    "pl": "Ampeln",
+    "zh": "红绿灯",
+    "en": "traffic light",
+    "ex": "Die Ampel ist noch rot.",
+    "exZh": "红绿灯还是红色的。"
+  },
+  {
+    "de": "Kreuzung",
+    "art": "die",
+    "pl": "Kreuzungen",
+    "zh": "十字路口",
+    "en": "intersection",
+    "ex": "Die Kreuzung ist sehr groß.",
+    "exZh": "这个十字路口很大。"
+  },
+  {
+    "de": "Brücke",
+    "art": "die",
+    "pl": "Brücken",
+    "zh": "桥",
+    "en": "bridge",
+    "ex": "Wir gehen über die Brücke.",
+    "exZh": "我们走过那座桥。"
+  },
+  {
+    "de": "Richtung",
+    "art": "die",
+    "pl": "Richtungen",
+    "zh": "方向",
+    "en": "direction",
+    "ex": "Die Richtung ist falsch.",
+    "exZh": "方向错了。"
+  },
+  {
+    "de": "Platz",
+    "art": "der",
+    "pl": "Plätze",
+    "zh": "广场",
+    "en": "square/plaza",
+    "ex": "Der Platz liegt neben der Kirche.",
+    "exZh": "这个广场在教堂旁边。"
+  },
+  {
+    "de": "Kirche",
+    "art": "die",
+    "pl": "Kirchen",
+    "zh": "教堂",
+    "en": "church",
+    "ex": "Die Kirche ist sehr alt.",
+    "exZh": "这座教堂很古老。"
+  },
+  {
+    "de": "Rathaus",
+    "art": "das",
+    "pl": "Rathäuser",
+    "zh": "市政厅",
+    "en": "town hall",
+    "ex": "Das Rathaus steht am Markt.",
+    "exZh": "市政厅坐落在市场广场旁。"
+  },
+  {
+    "de": "gegenüber von",
+    "art": null,
+    "pl": null,
+    "zh": "在……对面",
+    "en": "opposite of",
+    "ex": "Der Platz liegt gegenüber vom Bahnhof.",
+    "exZh": "广场就在火车站对面。"
+  },
+  {
+    "de": "in der Nähe von",
+    "art": null,
+    "pl": null,
+    "zh": "在……附近",
+    "en": "near",
+    "ex": "Die Kirche ist in der Nähe vom Markt.",
+    "exZh": "教堂就在市场附近。"
+  },
+  {
+    "de": "weit",
+    "art": null,
+    "pl": null,
+    "zh": "远的",
+    "en": "far",
+    "ex": "Ist das weit von hier?",
+    "exZh": "这离这儿远吗？"
+  },
+  {
+    "de": "nah",
+    "art": null,
+    "pl": null,
+    "zh": "近的",
+    "en": "near/close",
+    "ex": "Das ist ganz nah.",
+    "exZh": "那很近。"
+  },
+  {
+    "de": "legen",
+    "art": null,
+    "pl": null,
+    "zh": "放，放下（平放）",
+    "en": "to lay/put down",
+    "ex": "Ich lege das Buch auf den Tisch.",
+    "exZh": "我把书放在桌子上。"
+  },
+  {
+    "de": "stellen",
+    "art": null,
+    "pl": null,
+    "zh": "放，放下（立放）",
+    "en": "to put/stand something",
+    "ex": "Ich stelle die Flasche neben den Stuhl.",
+    "exZh": "我把瓶子放在椅子旁边。"
+  },
+  {
+    "de": "stecken",
+    "art": null,
+    "pl": null,
+    "zh": "插进，塞进",
+    "en": "to put into",
+    "ex": "Ich stecke den Schlüssel in die Tasche.",
+    "exZh": "我把钥匙放进包里。"
+  },
+  {
+    "de": "Schlüssel",
+    "art": "der",
+    "pl": "Schlüssel",
+    "zh": "钥匙",
+    "en": "key",
+    "ex": "Mein Schlüssel liegt auf dem Tisch.",
+    "exZh": "我的钥匙放在桌子上。"
+  },
+  {
+    "de": "Flasche",
+    "art": "die",
+    "pl": "Flaschen",
+    "zh": "瓶子",
+    "en": "bottle",
+    "ex": "Die Flasche steht auf dem Tisch.",
+    "exZh": "瓶子放在桌子上。"
+  },
+  {
+    "de": "Tasche",
+    "art": "die",
+    "pl": "Taschen",
+    "zh": "包，口袋",
+    "en": "bag/pocket",
+    "ex": "Ich stecke das Handy in die Tasche.",
+    "exZh": "我把手机放进包里。"
+  },
+  {
+    "de": "Tür",
+    "art": "die",
+    "pl": "Türen",
+    "zh": "门",
+    "en": "door",
+    "ex": "Die Tür ist zu.",
+    "exZh": "门关着。"
+  },
+  {
+    "de": "Fenster",
+    "art": "das",
+    "pl": "Fenster",
+    "zh": "窗户",
+    "en": "window",
+    "ex": "Das Fenster ist offen.",
+    "exZh": "窗户开着。"
+  },
+  {
+    "de": "Baum",
+    "art": "der",
+    "pl": "Bäume",
+    "zh": "树",
+    "en": "tree",
+    "ex": "Der Baum steht vor der Kirche.",
+    "exZh": "这棵树在教堂前面。"
+  },
+  {
+    "de": "Hemd",
+    "art": "das",
+    "pl": "Hemden",
+    "zh": "衬衫",
+    "en": "shirt",
+    "ex": "Das Hemd ist weiß.",
+    "exZh": "这件衬衫是白色的。"
+  },
+  {
+    "de": "Jacke",
+    "art": "die",
+    "pl": "Jacken",
+    "zh": "夹克，外套",
+    "en": "jacket",
+    "ex": "Die Jacke gefällt mir sehr.",
+    "exZh": "我很喜欢这件外套。"
+  },
+  {
+    "de": "Pullover",
+    "art": "der",
+    "pl": "Pullover",
+    "zh": "毛衣，套头衫",
+    "en": "pullover/sweater",
+    "ex": "Der Pullover ist warm.",
+    "exZh": "这件毛衣很暖和。"
+  },
+  {
+    "de": "Kleid",
+    "art": "das",
+    "pl": "Kleider",
+    "zh": "连衣裙",
+    "en": "dress",
+    "ex": "Das Kleid ist zu lang.",
+    "exZh": "这条连衣裙太长了。"
+  },
+  {
+    "de": "Rock",
+    "art": "der",
+    "pl": "Röcke",
+    "zh": "（半身）裙子",
+    "en": "skirt",
+    "ex": "Der Rock ist kurz.",
+    "exZh": "这条裙子很短。"
+  },
+  {
+    "de": "Größe",
+    "art": "die",
+    "pl": "Größen",
+    "zh": "尺码，尺寸",
+    "en": "size",
+    "ex": "Welche Größe brauchen Sie?",
+    "exZh": "您需要什么尺码？"
+  },
+  {
+    "de": "Farbe",
+    "art": "die",
+    "pl": "Farben",
+    "zh": "颜色",
+    "en": "color",
+    "ex": "Welche Farbe gefällt dir?",
+    "exZh": "你喜欢哪个颜色？"
+  },
+  {
+    "de": "Umkleidekabine",
+    "art": "die",
+    "pl": "Umkleidekabinen",
+    "zh": "试衣间",
+    "en": "fitting room",
+    "ex": "Die Umkleidekabine ist frei.",
+    "exZh": "试衣间没人用。"
+  },
+  {
+    "de": "anprobieren",
+    "art": null,
+    "pl": null,
+    "zh": "试穿",
+    "en": "to try on",
+    "ex": "Kann ich das anprobieren?",
+    "exZh": "我可以试穿这个吗？"
+  },
+  {
+    "de": "passen",
+    "art": null,
+    "pl": null,
+    "zh": "合身（新义）",
+    "en": "to fit",
+    "ex": "Passt die Hose?",
+    "exZh": "这条裤子合身吗？"
+  },
+  {
+    "de": "gefallen",
+    "art": null,
+    "pl": null,
+    "zh": "讨人喜欢，中意（+ Dativ）",
+    "en": "to please/like",
+    "ex": "Die Farbe gefällt mir nicht so.",
+    "exZh": "这个颜色我不太喜欢（字面：这个颜色不太讨我喜欢）。"
+  },
+  {
+    "de": "billig",
+    "art": null,
+    "pl": null,
+    "zh": "便宜的",
+    "en": "cheap",
+    "ex": "Der Pullover ist billig.",
+    "exZh": "这件毛衣很便宜。"
+  },
+  {
+    "de": "teuer",
+    "art": null,
+    "pl": null,
+    "zh": "贵的",
+    "en": "expensive",
+    "ex": "Die Jacke ist teuer.",
+    "exZh": "这件外套很贵。"
+  },
+  {
+    "de": "bequem",
+    "art": null,
+    "pl": null,
+    "zh": "舒适的",
+    "en": "comfortable",
+    "ex": "Die Schuhe sind bequem.",
+    "exZh": "这双鞋很舒服。"
+  },
+  {
+    "de": "eng",
+    "art": null,
+    "pl": null,
+    "zh": "紧的，窄的",
+    "en": "tight/narrow",
+    "ex": "Die Hose ist eng.",
+    "exZh": "这条裤子很紧。"
+  },
+  {
+    "de": "umtauschen",
+    "art": null,
+    "pl": null,
+    "zh": "换货",
+    "en": "to exchange",
+    "ex": "Ich möchte die Hose umtauschen.",
+    "exZh": "我想把这条裤子换一下。"
+  },
+  {
+    "de": "zurückgeben",
+    "art": null,
+    "pl": null,
+    "zh": "退货，还回去",
+    "en": "to give back/return",
+    "ex": "Kann ich das zurückgeben?",
+    "exZh": "我可以退货吗？"
+  },
+  {
+    "de": "Kassenbon",
+    "art": "der",
+    "pl": "Kassenbons",
+    "zh": "小票，收据",
+    "en": "receipt",
+    "ex": "Ich habe den Kassenbon verloren.",
+    "exZh": "我把收据弄丢了。"
+  },
+  {
+    "de": "das Geld zurückbekommen",
+    "art": null,
+    "pl": null,
+    "zh": "拿回退款",
+    "en": "to get one’s money back",
+    "ex": "Bekomme ich mein Geld zurück?",
+    "exZh": "我能拿回我的钱吗？"
+  },
+  {
+    "de": "innerhalb von",
+    "art": null,
+    "pl": null,
+    "zh": "在……以内（+ Dativ）",
+    "en": "within",
+    "ex": "Sie können es innerhalb von 14 Tagen umtauschen.",
+    "exZh": "您可以在14天以内换货。"
+  },
+  {
+    "de": "mitbringen",
+    "art": null,
+    "pl": null,
+    "zh": "带来（礼物等）",
+    "en": "to bring along",
+    "ex": "Was soll ich mitbringen?",
+    "exZh": "我该带点什么来？"
+  },
+  {
+    "de": "Gastgeber",
+    "art": "der",
+    "pl": "Gastgeber",
+    "zh": "男主人（招待客人的人）",
+    "en": "host",
+    "ex": "Der Gastgeber begrüßt die Gäste.",
+    "exZh": "主人问候客人们。"
+  },
+  {
+    "de": "Gastgeberin",
+    "art": "die",
+    "pl": "Gastgeberinnen",
+    "zh": "女主人",
+    "en": "hostess",
+    "ex": "Anna ist die Gastgeberin.",
+    "exZh": "Anna 是女主人。"
+  },
+  {
+    "de": "Geschenk",
+    "art": "das",
+    "pl": "Geschenke",
+    "zh": "礼物",
+    "en": "gift",
+    "ex": "Das Geschenk ist für Anna.",
+    "exZh": "这是给 Anna 的礼物。"
+  },
+  {
+    "de": "Blume",
+    "art": "die",
+    "pl": "Blumen",
+    "zh": "花",
+    "en": "flower",
+    "ex": "Ich bringe Blumen mit.",
+    "exZh": "我带了花来。"
+  },
+  {
+    "de": "Wein",
+    "art": "der",
+    "pl": "Weine",
+    "zh": "葡萄酒",
+    "en": "wine",
+    "ex": "Der Wein schmeckt gut.",
+    "exZh": "这酒很好喝。"
+  },
+  {
+    "de": "zu Gast sein",
+    "art": null,
+    "pl": null,
+    "zh": "做客，当客人",
+    "en": "to be a guest",
+    "ex": "Wir sind heute bei Anna zu Gast.",
+    "exZh": "我们今天在 Anna 家做客。"
+  },
+  {
+    "de": "Prost!",
+    "art": null,
+    "pl": null,
+    "zh": "干杯！",
+    "en": "Cheers!",
+    "ex": "Prost, Anna!",
+    "exZh": "干杯，Anna！"
+  },
+  {
+    "de": "Guten Appetit!",
+    "art": null,
+    "pl": null,
+    "zh": "祝你好胃口（开动吧）！",
+    "en": "Enjoy your meal!",
+    "ex": "Guten Appetit, alle zusammen!",
+    "exZh": "大家好胃口！"
+  },
+  {
+    "de": "vegetarisch",
+    "art": null,
+    "pl": null,
+    "zh": "素食的",
+    "en": "vegetarian",
+    "ex": "Das Essen ist vegetarisch.",
+    "exZh": "这道菜是素食的。"
+  },
+  {
+    "de": "vegan",
+    "art": null,
+    "pl": null,
+    "zh": "纯素的",
+    "en": "vegan",
+    "ex": "Der Kuchen ist vegan.",
+    "exZh": "这个蛋糕是纯素的。"
+  },
+  {
+    "de": "Allergie",
+    "art": "die",
+    "pl": "Allergien",
+    "zh": "过敏",
+    "en": "allergy",
+    "ex": "Ich habe eine Allergie gegen Nüsse.",
+    "exZh": "我对坚果过敏。"
+  },
+  {
+    "de": "schmecken",
+    "art": null,
+    "pl": null,
+    "zh": "好吃，尝起来（+ Dativ）",
+    "en": "to taste (good)",
+    "ex": "Das schmeckt mir sehr gut.",
+    "exZh": "这个我觉得很好吃。"
+  },
+  {
+    "de": "satt",
+    "art": null,
+    "pl": null,
+    "zh": "吃饱的",
+    "en": "full (not hungry)",
+    "ex": "Ich bin satt, danke.",
+    "exZh": "我吃饱了，谢谢。"
+  },
+  {
+    "de": "probieren",
+    "art": null,
+    "pl": null,
+    "zh": "尝，试吃",
+    "en": "to try/taste",
+    "ex": "Möchtest du das mal probieren?",
+    "exZh": "你想尝尝这个吗？"
+  },
+  {
+    "de": "Fleisch",
+    "art": "das",
+    "pl": null,
+    "zh": "肉",
+    "en": "meat",
+    "ex": "Ich esse kein Fleisch.",
+    "exZh": "我不吃肉。"
+  },
+  {
+    "de": "allergisch (gegen)",
+    "art": null,
+    "pl": null,
+    "zh": "过敏的（对……）",
+    "en": "allergic (to)",
+    "ex": "Ich bin allergisch gegen Nüsse.",
+    "exZh": "我对坚果过敏。"
+  },
+  {
+    "de": "Nuss",
+    "art": "die",
+    "pl": "Nüsse",
+    "zh": "坚果，果仁",
+    "en": "nut",
+    "ex": "Die Nüsse schmecken gut.",
+    "exZh": "这些坚果很好吃。"
+  },
+  {
+    "de": "Geschmack",
+    "art": "der",
+    "pl": "Geschmäcker",
+    "zh": "口味，味道",
+    "en": "taste",
+    "ex": "Der Geschmack gefällt mir nicht.",
+    "exZh": "我不喜欢这个味道。"
+  },
+  {
+    "de": "weil",
+    "art": null,
+    "pl": null,
+    "zh": "因为（连接词，动词要移到句尾）",
+    "en": "because",
+    "ex": "Ich bleibe zu Hause, weil ich krank bin.",
+    "exZh": "我待在家里，因为我生病了。"
+  },
+  {
+    "de": "Grund",
+    "art": "der",
+    "pl": "Gründe",
+    "zh": "原因，理由",
+    "en": "reason",
+    "ex": "Der Grund ist einfach.",
+    "exZh": "理由很简单。"
+  },
+  {
+    "de": "Umwelt",
+    "art": "die",
+    "pl": null,
+    "zh": "环境",
+    "en": "environment",
+    "ex": "Das ist gut für die Umwelt.",
+    "exZh": "这样对环境有好处。"
+  },
+  {
+    "de": "Tier",
+    "art": "das",
+    "pl": "Tiere",
+    "zh": "动物",
+    "en": "animal",
+    "ex": "Ich mag Tiere.",
+    "exZh": "我喜欢动物。"
+  },
+  {
+    "de": "Fahrkarte",
+    "art": "die",
+    "pl": "Fahrkarten",
+    "zh": "车票",
+    "en": "ticket",
+    "ex": "Ich kaufe eine Fahrkarte nach Dresden.",
+    "exZh": "我买一张去德累斯顿的车票。"
+  },
+  {
+    "de": "Gleis",
+    "art": "das",
+    "pl": "Gleise",
+    "zh": "站台，轨道号",
+    "en": "track/platform number",
+    "ex": "Der Zug fährt von Gleis 5 ab.",
+    "exZh": "这趟车从5号站台发车。"
+  },
+  {
+    "de": "Abfahrt",
+    "art": "die",
+    "pl": "Abfahrten",
+    "zh": "出发，发车",
+    "en": "departure",
+    "ex": "Die Abfahrt ist um 9:15 Uhr.",
+    "exZh": "发车时间是9点15分。"
+  },
+  {
+    "de": "Ankunft",
+    "art": "die",
+    "pl": "Ankünfte",
+    "zh": "到达",
+    "en": "arrival",
+    "ex": "Die Ankunft ist um 11:40 Uhr.",
+    "exZh": "到达时间是11点40分。"
+  },
+  {
+    "de": "abfahren",
+    "art": null,
+    "pl": null,
+    "zh": "发车，出发",
+    "en": "to depart",
+    "ex": "Der Zug fährt gleich ab.",
+    "exZh": "这趟车马上就要发车了。"
+  },
+  {
+    "de": "ankommen",
+    "art": null,
+    "pl": null,
+    "zh": "到达",
+    "en": "to arrive",
+    "ex": "Wann kommt der Zug an?",
+    "exZh": "这趟车什么时候到？"
+  },
+  {
+    "de": "Anschluss",
+    "art": "der",
+    "pl": "Anschlüsse",
+    "zh": "换乘车次，衔接",
+    "en": "connection",
+    "ex": "Ich habe meinen Anschluss verpasst.",
+    "exZh": "我错过了换乘车次。"
+  },
+  {
+    "de": "Reservierung",
+    "art": "die",
+    "pl": "Reservierungen",
+    "zh": "（座位）预订",
+    "en": "reservation",
+    "ex": "Brauche ich eine Reservierung?",
+    "exZh": "我需要预订座位吗？"
+  },
+  {
+    "de": "einfach",
+    "art": null,
+    "pl": null,
+    "zh": "单程（车票）",
+    "en": "one-way",
+    "ex": "Einfach oder hin und zurück?",
+    "exZh": "单程还是往返？"
+  },
+  {
+    "de": "hin und zurück",
+    "art": null,
+    "pl": null,
+    "zh": "往返（车票）",
+    "en": "round trip",
+    "ex": "Eine Fahrkarte hin und zurück, bitte.",
+    "exZh": "一张往返票，谢谢。"
+  },
+  {
+    "de": "ausfallen",
+    "art": null,
+    "pl": null,
+    "zh": "（班次）取消",
+    "en": "to be cancelled",
+    "ex": "Der Zug fällt aus.",
+    "exZh": "这趟车取消了。"
+  },
+  {
+    "de": "verpassen",
+    "art": null,
+    "pl": null,
+    "zh": "错过",
+    "en": "to miss",
+    "ex": "Ich habe meinen Anschluss verpasst.",
+    "exZh": "我错过了换乘车次。"
+  },
+  {
+    "de": "Störung",
+    "art": "die",
+    "pl": "Störungen",
+    "zh": "故障，问题",
+    "en": "malfunction/disruption",
+    "ex": "Es gibt eine technische Störung.",
+    "exZh": "出现了技术故障。"
+  },
+  {
+    "de": "umbuchen",
+    "art": null,
+    "pl": null,
+    "zh": "改签",
+    "en": "to rebook",
+    "ex": "Kann ich meine Fahrkarte umbuchen?",
+    "exZh": "我能改签我的车票吗？"
+  },
+  {
+    "de": "Auskunft",
+    "art": "die",
+    "pl": "Auskünfte",
+    "zh": "问讯，咨询处",
+    "en": "information (desk)",
+    "ex": "Ich frage mal bei der Auskunft.",
+    "exZh": "我去问讯处问问。"
+  },
+  {
+    "de": "kostenlos",
+    "art": null,
+    "pl": null,
+    "zh": "免费的",
+    "en": "free of charge",
+    "ex": "Die Umbuchung ist kostenlos.",
+    "exZh": "改签是免费的。"
+  },
+  {
+    "de": "Apfel",
+    "art": "der",
+    "pl": "Äpfel",
+    "zh": "苹果",
+    "en": "apple",
+    "ex": "Ich kaufe drei Äpfel.",
+    "exZh": "我买三个苹果。"
+  },
+  {
+    "de": "Banane",
+    "art": "die",
+    "pl": "Bananen",
+    "zh": "香蕉",
+    "en": "banana",
+    "ex": "Ich kaufe Bananen.",
+    "exZh": "我买香蕉。"
+  },
+  {
+    "de": "Milch",
+    "art": "die",
+    "pl": null,
+    "zh": "牛奶",
+    "en": "milk",
+    "ex": "Wo finde ich die Milch?",
+    "exZh": "牛奶在哪儿？"
+  },
+  {
+    "de": "Brot",
+    "art": "das",
+    "pl": "Brote",
+    "zh": "面包（大个的，整条）",
+    "en": "bread",
+    "ex": "Ich esse Brot.",
+    "exZh": "我吃面包。"
+  },
+  {
+    "de": "Ei",
+    "art": "das",
+    "pl": "Eier",
+    "zh": "鸡蛋",
+    "en": "egg",
+    "ex": "Ich esse ein Ei.",
+    "exZh": "我吃一个鸡蛋。"
+  },
+  {
+    "de": "Käse",
+    "art": "der",
+    "pl": null,
+    "zh": "奶酪，芝士",
+    "en": "cheese",
+    "ex": "Ich brauche Käse.",
+    "exZh": "我需要奶酪。"
+  },
+  {
+    "de": "Butter",
+    "art": "die",
+    "pl": null,
+    "zh": "黄油",
+    "en": "butter",
+    "ex": "Ich kaufe Butter.",
+    "exZh": "我买黄油。"
+  },
+  {
+    "de": "Reis",
+    "art": "der",
+    "pl": null,
+    "zh": "米，米饭",
+    "en": "rice",
+    "ex": "Ich esse Reis.",
+    "exZh": "我吃米饭。"
+  },
+  {
+    "de": "Tomate",
+    "art": "die",
+    "pl": "Tomaten",
+    "zh": "西红柿",
+    "en": "tomato",
+    "ex": "Ich brauche Tomaten.",
+    "exZh": "我需要西红柿。"
+  },
+  {
+    "de": "Kartoffel",
+    "art": "die",
+    "pl": "Kartoffeln",
+    "zh": "土豆",
+    "en": "potato",
+    "ex": "Ich kaufe Kartoffeln.",
+    "exZh": "我买土豆。"
+  },
+  {
+    "de": "Obst",
+    "art": "das",
+    "pl": null,
+    "zh": "水果（统称，不可数）",
+    "en": "fruit",
+    "ex": "Ich esse viel Obst.",
+    "exZh": "我吃很多水果。"
+  },
+  {
+    "de": "Gemüse",
+    "art": "das",
+    "pl": null,
+    "zh": "蔬菜（统称，不可数）",
+    "en": "vegetable",
+    "ex": "Ich esse viel Gemüse.",
+    "exZh": "我吃很多蔬菜。"
+  },
+  {
+    "de": "brauchen",
+    "art": null,
+    "pl": null,
+    "zh": "需要",
+    "en": "to need",
+    "ex": "Ich brauche noch Milch.",
+    "exZh": "我还需要牛奶。"
+  },
+  {
+    "de": "Supermarkt",
+    "art": "der",
+    "pl": "Supermärkte",
+    "zh": "超市",
+    "en": "supermarket",
+    "ex": "Wo ist der Supermarkt?",
+    "exZh": "超市在哪儿？"
+  },
+  {
+    "de": "Kasse",
+    "art": "die",
+    "pl": "Kassen",
+    "zh": "收银台",
+    "en": "checkout",
+    "ex": "Die Kasse ist da vorne.",
+    "exZh": "收银台在前面。"
+  },
+  {
+    "de": "bezahlen",
+    "art": null,
+    "pl": null,
+    "zh": "付款",
+    "en": "to pay",
+    "ex": "Ich bezahle mit Karte.",
+    "exZh": "我刷卡付款。"
+  },
+  {
+    "de": "bar",
+    "art": null,
+    "pl": null,
+    "zh": "现金（地）",
+    "en": "in cash",
+    "ex": "Ich zahle bar.",
+    "exZh": "我付现金。"
+  },
+  {
+    "de": "Karte",
+    "art": "die",
+    "pl": "Karten",
+    "zh": "卡（银行卡等）",
+    "en": "card",
+    "ex": "Ich zahle mit Karte.",
+    "exZh": "我刷卡付款。"
+  },
+  {
+    "de": "Geld",
+    "art": "das",
+    "pl": null,
+    "zh": "钱",
+    "en": "money",
+    "ex": "Ich brauche Geld.",
+    "exZh": "我需要钱。"
+  },
+  {
+    "de": "Pfand",
+    "art": "das",
+    "pl": null,
+    "zh": "押金（瓶子/罐子回收押金）",
+    "en": "deposit",
+    "ex": "Die Flasche hat Pfand.",
+    "exZh": "这个瓶子有押金。"
+  },
+  {
+    "de": "Tüte",
+    "art": "die",
+    "pl": "Tüten",
+    "zh": "袋子",
+    "en": "bag",
+    "ex": "Ich brauche eine Tüte.",
+    "exZh": "我需要一个袋子。"
+  },
+  {
+    "de": "Kassenzettel",
+    "art": "der",
+    "pl": "Kassenzettel",
+    "zh": "小票，收据",
+    "en": "receipt",
+    "ex": "Hier ist der Kassenzettel.",
+    "exZh": "这是您的小票。"
+  },
+  {
+    "de": "kosten",
+    "art": null,
+    "pl": null,
+    "zh": "花费，值……钱",
+    "en": "to cost",
+    "ex": "Was kostet das?",
+    "exZh": "这个多少钱？"
+  },
+  {
+    "de": "Besprechung",
+    "art": "die",
+    "pl": "Besprechungen",
+    "zh": "（工作）会议，讨论",
+    "en": "meeting/discussion",
+    "ex": "Ich konnte nicht zur Besprechung kommen.",
+    "exZh": "我没能去开会。"
+  },
+  {
+    "de": "Kollegin",
+    "art": "die",
+    "pl": "Kolleginnen",
+    "zh": "同事（女）",
+    "en": "colleague (female)",
+    "ex": "Meine Kollegin hilft mir.",
+    "exZh": "我的同事在帮我。"
+  },
+  {
+    "de": "Aufgabe",
+    "art": "die",
+    "pl": "Aufgaben",
+    "zh": "任务",
+    "en": "task",
+    "ex": "Die Aufgabe ist schwierig.",
+    "exZh": "这项任务很难。"
+  },
+  {
+    "de": "Projekt",
+    "art": "das",
+    "pl": "Projekte",
+    "zh": "项目",
+    "en": "project",
+    "ex": "Das Projekt hat eine Deadline.",
+    "exZh": "这个项目有截止日期。"
+  },
+  {
+    "de": "Urlaub",
+    "art": "der",
+    "pl": null,
+    "zh": "休假，年假",
+    "en": "vacation",
+    "ex": "Ich nehme nächste Woche Urlaub.",
+    "exZh": "我下周休假。"
+  },
+  {
+    "de": "Urlaub nehmen",
+    "art": null,
+    "pl": null,
+    "zh": "休假（动作）",
+    "en": "to take time off",
+    "ex": "Ich möchte im August Urlaub nehmen.",
+    "exZh": "我想在八月休假。"
+  },
+  {
+    "de": "erledigen",
+    "art": null,
+    "pl": null,
+    "zh": "完成，处理（任务）",
+    "en": "to take care of/complete",
+    "ex": "Ich erledige die Aufgabe heute.",
+    "exZh": "我今天来完成这项任务。"
+  },
+  {
+    "de": "Pause",
+    "art": "die",
+    "pl": "Pausen",
+    "zh": "休息，间歇",
+    "en": "break",
+    "ex": "Machst du jetzt Pause?",
+    "exZh": "你现在要休息一下吗？"
+  },
+  {
+    "de": "genehmigen",
+    "art": null,
+    "pl": null,
+    "zh": "批准",
+    "en": "to approve",
+    "ex": "Der Chef genehmigt meinen Urlaub.",
+    "exZh": "老板批准了我的休假。"
+  },
+  {
+    "de": "Genehmigung",
+    "art": "die",
+    "pl": "Genehmigungen",
+    "zh": "批准，许可",
+    "en": "approval",
+    "ex": "Ich hoffe, dass ich die Genehmigung bekomme.",
+    "exZh": "我希望能拿到批准。"
+  },
+  {
+    "de": "Abwesenheit",
+    "art": "die",
+    "pl": "Abwesenheiten",
+    "zh": "缺席，不在",
+    "en": "absence",
+    "ex": "Ich melde meine Abwesenheit.",
+    "exZh": "我报备我的缺席。"
+  },
+  {
+    "de": "finden",
+    "art": null,
+    "pl": null,
+    "zh": "认为，觉得",
+    "en": "to think/find",
+    "ex": "Ich finde, dass die Regel wichtig ist.",
+    "exZh": "我觉得这条规定很重要。"
+  },
+  {
+    "de": "denken",
+    "art": null,
+    "pl": null,
+    "zh": "认为，想",
+    "en": "to think",
+    "ex": "Ich denke, dass das eine gute Idee ist.",
+    "exZh": "我觉得这是个好主意。"
+  },
+  {
+    "de": "glauben",
+    "art": null,
+    "pl": null,
+    "zh": "相信，认为",
+    "en": "to believe/think",
+    "ex": "Ich glaube, dass er heute nicht kommt.",
+    "exZh": "我觉得他今天不会来了。"
+  },
+  {
+    "de": "hoffen",
+    "art": null,
+    "pl": null,
+    "zh": "希望",
+    "en": "to hope",
+    "ex": "Ich hoffe, dass alles gut klappt.",
+    "exZh": "我希望一切顺利。"
+  },
+  {
+    "de": "Krankenversicherung",
+    "art": "die",
+    "pl": "Krankenversicherungen",
+    "zh": "医疗保险",
+    "en": "health insurance",
+    "ex": "In Deutschland braucht jeder eine Krankenversicherung.",
+    "exZh": "在德国每个人都需要医疗保险。"
+  },
+  {
+    "de": "gesetzlich",
+    "art": null,
+    "pl": null,
+    "zh": "法定的",
+    "en": "statutory/public",
+    "ex": "Ich bin gesetzlich versichert.",
+    "exZh": "我是法定医保。"
+  },
+  {
+    "de": "privat",
+    "art": null,
+    "pl": null,
+    "zh": "私人的",
+    "en": "private",
+    "ex": "Er ist privat versichert.",
+    "exZh": "他是私人医保。"
+  },
+  {
+    "de": "Versichertenkarte",
+    "art": "die",
+    "pl": "Versichertenkarten",
+    "zh": "医保卡",
+    "en": "health insurance card",
+    "ex": "Haben Sie Ihre Versichertenkarte dabei?",
+    "exZh": "您带医保卡了吗？"
+  },
+  {
+    "de": "Überweisung",
+    "art": "die",
+    "pl": "Überweisungen",
+    "zh": "转诊单",
+    "en": "referral",
+    "ex": "Der Arzt schreibt mir eine Überweisung.",
+    "exZh": "医生给我开一张转诊单。"
+  },
+  {
+    "de": "Facharzt",
+    "art": "der",
+    "pl": "Fachärzte",
+    "zh": "专科医生（男）",
+    "en": "specialist doctor",
+    "ex": "Ich brauche einen Termin beim Facharzt.",
+    "exZh": "我需要约一位专科医生。"
+  },
+  {
+    "de": "Fachärztin",
+    "art": "die",
+    "pl": "Fachärztinnen",
+    "zh": "专科医生（女）",
+    "en": "specialist doctor (female)",
+    "ex": "Die Fachärztin untersucht mich nächste Woche.",
+    "exZh": "专科医生下周给我做检查。"
+  },
+  {
+    "de": "Praxis",
+    "art": "die",
+    "pl": "Praxen",
+    "zh": "诊所",
+    "en": "doctor’s practice",
+    "ex": "Die Praxis öffnet um acht Uhr.",
+    "exZh": "诊所八点开门。"
+  },
+  {
+    "de": "Wartezimmer",
+    "art": "das",
+    "pl": "Wartezimmer",
+    "zh": "候诊室",
+    "en": "waiting room",
+    "ex": "Ich warte im Wartezimmer.",
+    "exZh": "我在候诊室等着。"
+  },
+  {
+    "de": "Symptom",
+    "art": "das",
+    "pl": "Symptome",
+    "zh": "症状",
+    "en": "symptom",
+    "ex": "Der Arzt fragt nach meinen Symptomen.",
+    "exZh": "医生询问我的症状。"
+  },
+  {
+    "de": "untersuchen",
+    "art": null,
+    "pl": null,
+    "zh": "检查（身体）",
+    "en": "to examine",
+    "ex": "Der Arzt untersucht mich.",
+    "exZh": "医生给我做检查。"
+  },
+  {
+    "de": "sich kümmern um",
+    "art": null,
+    "pl": null,
+    "zh": "照顾，负责（+ Akkusativ）",
+    "en": "to take care of",
+    "ex": "Ich kümmere mich um meine Kollegin.",
+    "exZh": "我来照顾我的同事。"
+  },
+  {
+    "de": "sich erholen",
+    "art": null,
+    "pl": null,
+    "zh": "恢复，休养",
+    "en": "to recover",
+    "ex": "Ich muss mich jetzt erholen.",
+    "exZh": "我现在得好好恢复一下。"
+  },
+  {
+    "de": "sich Sorgen machen um",
+    "art": null,
+    "pl": null,
+    "zh": "担心（+ Akkusativ）",
+    "en": "to worry about",
+    "ex": "Mach dir keine Sorgen!",
+    "exZh": "别担心！"
+  },
+  {
+    "de": "sich verabreden",
+    "art": null,
+    "pl": null,
+    "zh": "约定见面",
+    "en": "to arrange to meet",
+    "ex": "Wir verabreden uns für Samstag.",
+    "exZh": "我们约好周六见面。"
+  },
+  {
+    "de": "Verabredung",
+    "art": "die",
+    "pl": "Verabredungen",
+    "zh": "约会，约定",
+    "en": "appointment/date (social)",
+    "ex": "Ich habe heute eine Verabredung mit Anna.",
+    "exZh": "我今天和 Anna 有个约会。"
+  },
+  {
+    "de": "Kino",
+    "art": "das",
+    "pl": "Kinos",
+    "zh": "电影院",
+    "en": "cinema",
+    "ex": "Wir gehen am Samstag ins Kino.",
+    "exZh": "我们周六去看电影。"
+  },
+  {
+    "de": "Konzert",
+    "art": "das",
+    "pl": "Konzerte",
+    "zh": "音乐会",
+    "en": "concert",
+    "ex": "Das Konzert beginnt um acht Uhr.",
+    "exZh": "音乐会八点开始。"
+  },
+  {
+    "de": "Vorschlag",
+    "art": "der",
+    "pl": "Vorschläge",
+    "zh": "建议",
+    "en": "suggestion",
+    "ex": "Dein Vorschlag gefällt mir.",
+    "exZh": "我喜欢你的建议。"
+  },
+  {
+    "de": "vorschlagen",
+    "art": null,
+    "pl": null,
+    "zh": "提议",
+    "en": "to suggest",
+    "ex": "Ich schlage einen Kinoabend vor.",
+    "exZh": "我提议一起看场电影。"
+  },
+  {
+    "de": "enttäuscht",
+    "art": null,
+    "pl": null,
+    "zh": "失望的",
+    "en": "disappointed",
+    "ex": "Ich bin ein bisschen enttäuscht.",
+    "exZh": "我有点失望。"
+  },
+  {
+    "de": "gespannt",
+    "art": null,
+    "pl": null,
+    "zh": "期待的，紧张期待的",
+    "en": "excited/curious",
+    "ex": "Ich bin gespannt auf den Film.",
+    "exZh": "我很期待这部电影。"
+  },
+  {
+    "de": "Schade!",
+    "art": null,
+    "pl": null,
+    "zh": "太遗憾了，可惜！",
+    "en": "What a pity!",
+    "ex": "Schade, dass du nicht kommen kannst!",
+    "exZh": "真可惜你来不了！"
+  },
+  {
+    "de": "trösten",
+    "art": null,
+    "pl": null,
+    "zh": "安慰",
+    "en": "to comfort/console",
+    "ex": "Anna ist traurig, aber ich tröste sie.",
+    "exZh": "Anna 很难过，但我安慰了她。"
+  },
+  {
+    "de": "nicht schlimm",
+    "art": null,
+    "pl": null,
+    "zh": "没关系",
+    "en": "no big deal",
+    "ex": "Das ist doch nicht schlimm.",
+    "exZh": "这没什么关系。"
+  },
+  {
+    "de": "nachholen",
+    "art": null,
+    "pl": null,
+    "zh": "补上，补做",
+    "en": "to make up for",
+    "ex": "Wir holen den Filmabend nach.",
+    "exZh": "我们把这次电影之夜补上。"
+  },
+  {
+    "de": "Nachricht",
+    "art": "die",
+    "pl": "Nachrichten",
+    "zh": "消息，新闻",
+    "en": "news",
+    "ex": "Hast du die Nachricht schon gelesen?",
+    "exZh": "你看过这条消息了吗？"
+  },
+  {
+    "de": "Schlagzeile",
+    "art": "die",
+    "pl": "Schlagzeilen",
+    "zh": "新闻标题",
+    "en": "headline",
+    "ex": "Die Schlagzeile ist heute interessant.",
+    "exZh": "今天的新闻标题很有意思。"
+  },
+  {
+    "de": "Bericht",
+    "art": "der",
+    "pl": "Berichte",
+    "zh": "报道",
+    "en": "report",
+    "ex": "Der Bericht steht in der Zeitung.",
+    "exZh": "这篇报道登在报纸上。"
+  },
+  {
+    "de": "berichten",
+    "art": null,
+    "pl": null,
+    "zh": "报道",
+    "en": "to report",
+    "ex": "Die Zeitung berichtet über den Streik.",
+    "exZh": "报纸报道了这次罢工。"
+  },
+  {
+    "de": "Meldung",
+    "art": "die",
+    "pl": "Meldungen",
+    "zh": "简讯，消息",
+    "en": "news item/report",
+    "ex": "Die Meldung kommt aus Leipzig.",
+    "exZh": "这条简讯来自莱比锡。"
+  },
+  {
+    "de": "Zeitung",
+    "art": "die",
+    "pl": "Zeitungen",
+    "zh": "报纸",
+    "en": "newspaper",
+    "ex": "Ich lese morgens die Zeitung.",
+    "exZh": "我早上看报纸。"
+  },
+  {
+    "de": "laut",
+    "art": null,
+    "pl": null,
+    "zh": "据……（介词 + Dativ）",
+    "en": "according to",
+    "ex": "Laut der Zeitung kommt der Zug pünktlich.",
+    "exZh": "据报纸报道，这趟车会准点到。"
+  },
+  {
+    "de": "aktuell",
+    "art": null,
+    "pl": null,
+    "zh": "最新的，当前的",
+    "en": "current",
+    "ex": "Die Meldung ist aktuell.",
+    "exZh": "这条消息是最新的。"
+  },
+  {
+    "de": "lokal",
+    "art": null,
+    "pl": null,
+    "zh": "本地的",
+    "en": "local",
+    "ex": "Die Zeitung berichtet vor allem lokal.",
+    "exZh": "这份报纸主要报道本地新闻。"
+  },
+  {
+    "de": "Politik",
+    "art": "die",
+    "pl": null,
+    "zh": "政治",
+    "en": "politics",
+    "ex": "Wir sprechen oft über Politik.",
+    "exZh": "我们经常谈论政治。"
+  },
+  {
+    "de": "Wirtschaft",
+    "art": "die",
+    "pl": null,
+    "zh": "经济",
+    "en": "economy",
+    "ex": "Die Zeitung berichtet über die Wirtschaft.",
+    "exZh": "报纸报道经济方面的新闻。"
+  },
+  {
+    "de": "bauen",
+    "art": null,
+    "pl": null,
+    "zh": "建造",
+    "en": "to build",
+    "ex": "Die Brücke wird gebaut.",
+    "exZh": "这座桥正在被建造。"
+  },
+  {
+    "de": "eröffnen",
+    "art": null,
+    "pl": null,
+    "zh": "开业，开通",
+    "en": "to open",
+    "ex": "Der Bahnhof wird bald eröffnet.",
+    "exZh": "这座车站很快就要开通了。"
+  },
+  {
+    "de": "schließen",
+    "art": null,
+    "pl": null,
+    "zh": "关闭",
+    "en": "to close",
+    "ex": "Das Geschäft wird geschlossen.",
+    "exZh": "这家店正在被关闭。"
+  },
+  {
+    "de": "verboten",
+    "art": null,
+    "pl": null,
+    "zh": "被禁止的",
+    "en": "forbidden",
+    "ex": "Rauchen ist hier verboten.",
+    "exZh": "这里禁止吸烟。"
+  },
+  {
+    "de": "erlaubt",
+    "art": null,
+    "pl": null,
+    "zh": "被允许的",
+    "en": "allowed",
+    "ex": "Ist das hier erlaubt?",
+    "exZh": "这里允许这样做吗？"
+  },
+  {
+    "de": "renoviert",
+    "art": null,
+    "pl": null,
+    "zh": "装修/翻新过的",
+    "en": "renovated",
+    "ex": "Der Bahnhof wird renoviert.",
+    "exZh": "火车站正在被翻新。"
+  },
+  {
+    "de": "Lebenslauf",
+    "art": "der",
+    "pl": "Lebensläufe",
+    "zh": "简历",
+    "en": "CV / résumé",
+    "ex": "Ich habe meinen Lebenslauf aktualisiert.",
+    "exZh": "我更新了我的简历。"
+  },
+  {
+    "de": "Ausbildung",
+    "art": "die",
+    "pl": "Ausbildungen",
+    "zh": "职业培训，教育经历",
+    "en": "vocational training",
+    "ex": "Sie hat eine Ausbildung als Krankenschwester gemacht.",
+    "exZh": "她接受了护士职业培训。"
+  },
+  {
+    "de": "Studium",
+    "art": "das",
+    "pl": "Studien",
+    "zh": "大学学业，进修",
+    "en": "(university) studies",
+    "ex": "Mein Studium hat vier Jahre gedauert.",
+    "exZh": "我的大学学业持续了四年。"
+  },
+  {
+    "de": "Abschluss",
+    "art": "der",
+    "pl": "Abschlüsse",
+    "zh": "学位，毕业",
+    "en": "degree / graduation",
+    "ex": "Sie hat ihren Abschluss mit Auszeichnung gemacht.",
+    "exZh": "她以优异成绩毕业了。"
+  },
+  {
+    "de": "abschließen",
+    "art": null,
+    "pl": null,
+    "zh": "完成，结束（学业等）",
+    "en": "to complete/finish",
+    "ex": "Ich habe mein Studium letztes Jahr abgeschlossen.",
+    "exZh": "我去年完成了大学学业。"
+  },
+  {
+    "de": "Erfahrung",
+    "art": "die",
+    "pl": "Erfahrungen",
+    "zh": "经验，经历",
+    "en": "experience",
+    "ex": "Ich habe viel Erfahrung im Labor.",
+    "exZh": "我在实验室有很多经验。"
+  },
+  {
+    "de": "Stelle",
+    "art": "die",
+    "pl": "Stellen",
+    "zh": "职位，岗位",
+    "en": "position/job",
+    "ex": "Sie hat eine neue Stelle gefunden.",
+    "exZh": "她找到了一个新职位。"
+  },
+  {
+    "de": "Werdegang",
+    "art": "der",
+    "pl": "Werdegänge",
+    "zh": "职业经历，履历",
+    "en": "career path",
+    "ex": "Erzählen Sie von Ihrem Werdegang.",
+    "exZh": "请讲讲您的职业经历。"
+  },
+  {
+    "de": "Praktikum",
+    "art": "das",
+    "pl": "Praktika",
+    "zh": "实习",
+    "en": "internship",
+    "ex": "Ich habe ein Praktikum bei einer Firma gemacht.",
+    "exZh": "我在一家公司实习过。"
+  },
+  {
+    "de": "Kenntnisse",
+    "art": "die",
+    "pl": null,
+    "zh": "知识，技能（常用复数）",
+    "en": "knowledge/skills",
+    "ex": "Ich habe gute Kenntnisse in Biologie.",
+    "exZh": "我在生物学方面有扎实的知识。"
+  },
+  {
+    "de": "Abteilung",
+    "art": "die",
+    "pl": "Abteilungen",
+    "zh": "部门",
+    "en": "department",
+    "ex": "Sie arbeitet in der Marketing-Abteilung.",
+    "exZh": "她在市场部工作。"
+  },
+  {
+    "de": "Team",
+    "art": "das",
+    "pl": "Teams",
+    "zh": "团队",
+    "en": "team",
+    "ex": "Wir sind ein kleines Team.",
+    "exZh": "我们是个小团队。"
+  },
+  {
+    "de": "zuständig (für)",
+    "art": null,
+    "pl": null,
+    "zh": "负责……的",
+    "en": "responsible (for)",
+    "ex": "Wer ist für dieses Projekt zuständig?",
+    "exZh": "谁负责这个项目？"
+  },
+  {
+    "de": "kennenlernen",
+    "art": null,
+    "pl": null,
+    "zh": "认识，结识",
+    "en": "to get to know",
+    "ex": "Ich möchte den neuen Kollegen kennenlernen.",
+    "exZh": "我想认识一下这位新同事。"
+  },
+  {
+    "de": "erfahren",
+    "art": null,
+    "pl": null,
+    "zh": "有经验的",
+    "en": "experienced",
+    "ex": "Er ist ein erfahrener Ingenieur.",
+    "exZh": "他是一位有经验的工程师。"
+  },
+  {
+    "de": "kompetent",
+    "art": null,
+    "pl": null,
+    "zh": "能干的，胜任的",
+    "en": "competent",
+    "ex": "Die neue Kollegin ist sehr kompetent.",
+    "exZh": "这位新同事非常能干。"
+  },
+  {
+    "de": "freundlich",
+    "art": null,
+    "pl": null,
+    "zh": "友好的",
+    "en": "friendly",
+    "ex": "Alle Kollegen hier sind freundlich.",
+    "exZh": "这里的同事都很友好。"
+  },
+  {
+    "de": "Meinung",
+    "art": "die",
+    "pl": "Meinungen",
+    "zh": "意见，看法",
+    "en": "opinion",
+    "ex": "Das ist nur meine Meinung.",
+    "exZh": "这只是我的看法。"
+  },
+  {
+    "de": "meiner Meinung nach",
+    "art": null,
+    "pl": null,
+    "zh": "依我看，我认为",
+    "en": "in my opinion",
+    "ex": "Meiner Meinung nach ist das eine gute Idee.",
+    "exZh": "依我看，这是个好主意。"
+  },
+  {
+    "de": "Vorteil",
+    "art": "der",
+    "pl": "Vorteile",
+    "zh": "优点，好处",
+    "en": "advantage",
+    "ex": "Homeoffice hat viele Vorteile.",
+    "exZh": "居家办公有很多优点。"
+  },
+  {
+    "de": "Nachteil",
+    "art": "der",
+    "pl": "Nachteile",
+    "zh": "缺点，坏处",
+    "en": "disadvantage",
+    "ex": "Der größte Nachteil ist die Isolation.",
+    "exZh": "最大的缺点是孤立感。"
+  },
+  {
+    "de": "Argument",
+    "art": "das",
+    "pl": "Argumente",
+    "zh": "论据，理由",
+    "en": "argument",
+    "ex": "Das ist ein starkes Argument.",
+    "exZh": "这是个有力的论据。"
+  },
+  {
+    "de": "zustimmen",
+    "art": null,
+    "pl": null,
+    "zh": "同意（某人）",
+    "en": "to agree (with sb.)",
+    "ex": "Ich stimme dir zu.",
+    "exZh": "我同意你的看法。"
+  },
+  {
+    "de": "dafür sein / dagegen sein",
+    "art": null,
+    "pl": null,
+    "zh": "赞成/反对",
+    "en": "to be for / against (it)",
+    "ex": "Ich bin dafür, aber sie ist dagegen.",
+    "exZh": "我赞成，但她反对。"
+  },
+  {
+    "de": "überzeugen",
+    "art": null,
+    "pl": null,
+    "zh": "说服，使信服",
+    "en": "to convince",
+    "ex": "Das Argument überzeugt mich nicht.",
+    "exZh": "这个论据没能说服我。"
+  },
+  {
+    "de": "Idee",
+    "art": "die",
+    "pl": "Ideen",
+    "zh": "主意，想法",
+    "en": "idea",
+    "ex": "Das ist eine gute Idee.",
+    "exZh": "这是个好主意。"
+  },
+  {
+    "de": "Lösung",
+    "art": "die",
+    "pl": "Lösungen",
+    "zh": "解决方案，办法",
+    "en": "solution",
+    "ex": "Wir brauchen eine schnelle Lösung.",
+    "exZh": "我们需要一个快速的解决方案。"
+  },
+  {
+    "de": "Kompromiss",
+    "art": "der",
+    "pl": "Kompromisse",
+    "zh": "折中方案，妥协",
+    "en": "compromise",
+    "ex": "Das ist ein guter Kompromiss.",
+    "exZh": "这是个不错的折中方案。"
+  },
+  {
+    "de": "wichtig",
+    "art": null,
+    "pl": null,
+    "zh": "重要的",
+    "en": "important",
+    "ex": "Das ist ein wichtiges Thema.",
+    "exZh": "这是个重要的话题。"
+  },
+  {
+    "de": "interessant",
+    "art": null,
+    "pl": null,
+    "zh": "有趣的，有意思的",
+    "en": "interesting",
+    "ex": "Er hat ein interessantes Projekt.",
+    "exZh": "他有个有趣的项目。"
+  },
+  {
+    "de": "Thema",
+    "art": "das",
+    "pl": "Themen",
+    "zh": "话题，主题",
+    "en": "topic",
+    "ex": "Das ist ein wichtiges Thema für uns alle.",
+    "exZh": "这对我们所有人都是个重要话题。"
+  },
+  {
+    "de": "Wunsch",
+    "art": "der",
+    "pl": "Wünsche",
+    "zh": "愿望",
+    "en": "wish",
+    "ex": "Das ist mein größter Wunsch.",
+    "exZh": "这是我最大的愿望。"
+  },
+  {
+    "de": "sich wünschen",
+    "art": null,
+    "pl": null,
+    "zh": "希望，渴望（+ Akkusativ）",
+    "en": "to wish for",
+    "ex": "Ich wünsche mir mehr freie Zeit.",
+    "exZh": "我希望能有更多自由时间。"
+  },
+  {
+    "de": "eigentlich",
+    "art": null,
+    "pl": null,
+    "zh": "其实，本来（说实话）",
+    "en": "actually",
+    "ex": "Eigentlich hätte ich gern mehr Zeit.",
+    "exZh": "其实我想有更多时间。"
+  },
+  {
+    "de": "stattdessen",
+    "art": null,
+    "pl": null,
+    "zh": "而是，作为替代",
+    "en": "instead",
+    "ex": "Ich fahre nicht ans Meer, ich bleibe stattdessen zu Hause.",
+    "exZh": "我不去海边了，而是待在家里。"
+  },
+  {
+    "de": "träumen (von)",
+    "art": null,
+    "pl": null,
+    "zh": "梦想，向往（+ von 接 Dativ）",
+    "en": "to dream (of)",
+    "ex": "Ich träume von einem langen Urlaub.",
+    "exZh": "我梦想着一次长假。"
+  },
+  {
+    "de": "Traum",
+    "art": "der",
+    "pl": "Träume",
+    "zh": "梦，梦想",
+    "en": "dream",
+    "ex": "Das ist ein schöner Traum.",
+    "exZh": "这是个美好的梦想。"
+  },
+  {
+    "de": "Million",
+    "art": "die",
+    "pl": "Millionen",
+    "zh": "百万",
+    "en": "million",
+    "ex": "Wenn ich eine Million hätte, würde ich reisen.",
+    "exZh": "如果我有一百万，我会去旅行。"
+  },
+  {
+    "de": "gewinnen",
+    "art": null,
+    "pl": null,
+    "zh": "赢得，中奖",
+    "en": "to win",
+    "ex": "Er hat im Lotto gewonnen.",
+    "exZh": "他中了彩票。"
+  },
+  {
+    "de": "Glück",
+    "art": "das",
+    "pl": null,
+    "zh": "运气，幸运，幸福",
+    "en": "luck/happiness",
+    "ex": "Wir hätten dann mehr Glück im Alltag.",
+    "exZh": "那我们日常生活中就会更幸福了。"
+  },
+  {
+    "de": "an deiner Stelle",
+    "art": null,
+    "pl": null,
+    "zh": "要是我是你的话",
+    "en": "in your place / if I were you",
+    "ex": "An deiner Stelle würde ich das ansprechen.",
+    "exZh": "要是我是你，我会提出来。"
+  },
+  {
+    "de": "Rat",
+    "art": "der",
+    "pl": "Ratschläge",
+    "zh": "建议，忠告",
+    "en": "advice",
+    "ex": "Das ist ein guter Rat.",
+    "exZh": "这是个好建议。"
+  },
+  {
+    "de": "raten",
+    "art": null,
+    "pl": null,
+    "zh": "建议（某人，+ Dativ）",
+    "en": "to advise (sb.)",
+    "ex": "Ich rate dir, mit ihm zu sprechen.",
+    "exZh": "我建议你和他谈谈。"
+  },
+  {
+    "de": "Buchmesse",
+    "art": "die",
+    "pl": "Buchmessen",
+    "zh": "书展，图书博览会",
+    "en": "book fair",
+    "ex": "Die Leipziger Buchmesse findet jedes Jahr im März statt.",
+    "exZh": "莱比锡书展每年三月举办。"
+  },
+  {
+    "de": "Ausstellung",
+    "art": "die",
+    "pl": "Ausstellungen",
+    "zh": "展览，展会",
+    "en": "exhibition",
+    "ex": "Die Ausstellung im Museum ist sehr interessant.",
+    "exZh": "博物馆的这个展览很有意思。"
+  },
+  {
+    "de": "Museum",
+    "art": "das",
+    "pl": "Museen",
+    "zh": "博物馆",
+    "en": "museum",
+    "ex": "Das Museum der bildenden Künste liegt in der Innenstadt.",
+    "exZh": "造型艺术博物馆在市中心。"
+  },
+  {
+    "de": "Oper",
+    "art": "die",
+    "pl": "Opern",
+    "zh": "歌剧，歌剧院",
+    "en": "opera",
+    "ex": "Sie geht gern in die Oper.",
+    "exZh": "她喜欢去看歌剧。"
+  },
+  {
+    "de": "Eintritt",
+    "art": "der",
+    "pl": null,
+    "zh": "入场，门票费用",
+    "en": "admission/entry",
+    "ex": "Der Eintritt kostet zehn Euro.",
+    "exZh": "门票要十欧元。"
+  },
+  {
+    "de": "empfehlen",
+    "art": null,
+    "pl": null,
+    "zh": "推荐，建议",
+    "en": "to recommend",
+    "ex": "Ich empfehle dir dieses Museum.",
+    "exZh": "我推荐你去这家博物馆。"
+  },
+  {
+    "de": "stattfinden",
+    "art": null,
+    "pl": null,
+    "zh": "举行，举办（活动）",
+    "en": "to take place",
+    "ex": "Das Konzert findet im Gewandhaus statt.",
+    "exZh": "音乐会在 Gewandhaus 举行。"
+  },
+  {
+    "de": "Erlebnis",
+    "art": "das",
+    "pl": "Erlebnisse",
+    "zh": "经历，体验",
+    "en": "experience",
+    "ex": "Das war ein tolles Erlebnis!",
+    "exZh": "那是次很棒的体验！"
+  },
+  {
+    "de": "Lesung",
+    "art": "die",
+    "pl": "Lesungen",
+    "zh": "朗读会，读书会",
+    "en": "(author) reading",
+    "ex": "Die Autorin hält heute eine Lesung.",
+    "exZh": "这位作家今天有一场朗读会。"
+  },
+  {
+    "de": "Stand",
+    "art": "der",
+    "pl": "Stände",
+    "zh": "展位，摊位",
+    "en": "booth/stand",
+    "ex": "Der Stand des Verlags ist sehr groß.",
+    "exZh": "这家出版社的展位很大。"
+  },
+  {
+    "de": "signieren",
+    "art": null,
+    "pl": null,
+    "zh": "（给书）签名",
+    "en": "to sign (a book)",
+    "ex": "Der Autor signiert heute seine Bücher.",
+    "exZh": "这位作者今天签售他的书。"
+  },
+  {
+    "de": "Autor / die Autorin",
+    "art": "der",
+    "pl": "Autoren/Autorinnen",
+    "zh": "作者",
+    "en": "author",
+    "ex": "Die Autorin ist sehr bekannt.",
+    "exZh": "这位女作者很有名。"
+  },
+  {
+    "de": "frisch",
+    "art": null,
+    "pl": null,
+    "zh": "新鲜的，刚……的",
+    "en": "fresh",
+    "ex": "Hier gibt es frischen Kaffee.",
+    "exZh": "这里有新鲜咖啡。"
+  },
+  {
+    "de": "regional",
+    "art": null,
+    "pl": null,
+    "zh": "本地的，地区性的",
+    "en": "regional/local",
+    "ex": "Ich mag regionales Bier.",
+    "exZh": "我喜欢本地啤酒。"
+  },
+  {
+    "de": "hausgemacht",
+    "art": null,
+    "pl": null,
+    "zh": "自制的，家常的",
+    "en": "homemade",
+    "ex": "Der Kuchen ist hausgemacht.",
+    "exZh": "这个蛋糕是自制的。"
+  },
+  {
+    "de": "Bewerbung",
+    "art": "die",
+    "pl": "Bewerbungen",
+    "zh": "求职申请",
+    "en": "job application",
+    "ex": "Ich schreibe gerade meine Bewerbung.",
+    "exZh": "我正在写我的求职申请。"
+  },
+  {
+    "de": "Bewerbungsschreiben",
+    "art": "das",
+    "pl": "Bewerbungsschreiben",
+    "zh": "求职信",
+    "en": "cover letter",
+    "ex": "Das Bewerbungsschreiben sollte nicht länger als eine Seite sein.",
+    "exZh": "求职信不应该超过一页。"
+  },
+  {
+    "de": "Stellenanzeige",
+    "art": "die",
+    "pl": "Stellenanzeigen",
+    "zh": "招聘广告",
+    "en": "job posting",
+    "ex": "Ich habe eine interessante Stellenanzeige gefunden.",
+    "exZh": "我找到了一则有意思的招聘广告。"
+  },
+  {
+    "de": "Arbeitgeber / die Arbeitgeberin",
+    "art": "der",
+    "pl": "Arbeitgeber/Arbeitgeberinnen",
+    "zh": "雇主",
+    "en": "employer",
+    "ex": "Mein zukünftiger Arbeitgeber legt Wert auf Teamarbeit.",
+    "exZh": "我未来的雇主很看重团队合作。"
+  },
+  {
+    "de": "sich bewerben um",
+    "art": null,
+    "pl": null,
+    "zh": "申请（某职位）",
+    "en": "to apply for",
+    "ex": "Ich bewerbe mich um die Stelle als Laborleiterin.",
+    "exZh": "我在申请实验室主管这个职位。"
+  },
+  {
+    "de": "Berufserfahrung",
+    "art": "die",
+    "pl": null,
+    "zh": "工作经验",
+    "en": "professional experience",
+    "ex": "Sie bringt fünf Jahre Berufserfahrung mit.",
+    "exZh": "她带来了五年的工作经验。"
+  },
+  {
+    "de": "Qualifikation",
+    "art": "die",
+    "pl": "Qualifikationen",
+    "zh": "资质，资历",
+    "en": "qualification",
+    "ex": "Sie hat die passenden Qualifikationen für die Stelle.",
+    "exZh": "她具备这个职位所需的资质。"
+  },
+  {
+    "de": "Fähigkeit",
+    "art": "die",
+    "pl": "Fähigkeiten",
+    "zh": "能力",
+    "en": "skill, ability",
+    "ex": "Teamarbeit ist eine wichtige Fähigkeit.",
+    "exZh": "团队合作是一项重要能力。"
+  },
+  {
+    "de": "Stärke",
+    "art": "die",
+    "pl": "Stärken",
+    "zh": "优点，强项",
+    "en": "strength",
+    "ex": "Meine größte Stärke ist meine Sorgfalt.",
+    "exZh": "我最大的优点是细致认真。"
+  },
+  {
+    "de": "Schwäche",
+    "art": "die",
+    "pl": "Schwächen",
+    "zh": "缺点，弱项",
+    "en": "weakness",
+    "ex": "Und Ihre Schwäche? Ich bin manchmal zu ungeduldig.",
+    "exZh": "那您的缺点呢？我有时候太没耐心了。"
+  },
+  {
+    "de": "Gehalt",
+    "art": "das",
+    "pl": "Gehälter",
+    "zh": "薪水",
+    "en": "salary",
+    "ex": "Das Gehalt hängt von der Berufserfahrung ab.",
+    "exZh": "薪水取决于工作经验。"
+  },
+  {
+    "de": "Vorstellungstermin",
+    "art": "der",
+    "pl": "Vorstellungstermine",
+    "zh": "面试预约时间",
+    "en": "interview appointment",
+    "ex": "Der Vorstellungstermin ist am Donnerstag um zehn Uhr.",
+    "exZh": "面试预约在周四十点。"
+  },
+  {
+    "de": "einstellen",
+    "art": null,
+    "pl": null,
+    "zh": "雇佣，录用",
+    "en": "to hire",
+    "ex": "Die Firma hat letztes Jahr zehn neue Leute eingestellt.",
+    "exZh": "这家公司去年录用了十个新人。"
+  },
+  {
+    "de": "kündigen",
+    "art": null,
+    "pl": null,
+    "zh": "辞职；解雇（某人）",
+    "en": "to quit; to terminate",
+    "ex": "Sie hat ihre alte Stelle gekündigt.",
+    "exZh": "她辞去了原来的工作。"
+  },
+  {
+    "de": "befristet",
+    "art": null,
+    "pl": null,
+    "zh": "有固定期限的",
+    "en": "fixed-term",
+    "ex": "Der Vertrag ist zunächst auf ein Jahr befristet.",
+    "exZh": "合同最初签一年，有期限。"
+  },
+  {
+    "de": "unbefristet",
+    "art": null,
+    "pl": null,
+    "zh": "无固定期限的",
+    "en": "permanent (contract)",
+    "ex": "Nach der Probezeit wird die Stelle unbefristet.",
+    "exZh": "试用期之后这个职位就变成无固定期限的了。"
+  },
+  {
+    "de": "Motivation",
+    "art": "die",
+    "pl": null,
+    "zh": "动机，积极性",
+    "en": "motivation",
+    "ex": "Bitte erklären Sie kurz Ihre Motivation.",
+    "exZh": "请简要说明您的求职动机。"
+  },
+  {
+    "de": "verantwortlich sein für",
+    "art": null,
+    "pl": null,
+    "zh": "对……负责",
+    "en": "to be responsible for",
+    "ex": "In meiner letzten Stelle war ich für das Team verantwortlich.",
+    "exZh": "在我上一份工作里我负责这个团队。"
+  },
+  {
+    "de": "Referenz",
+    "art": "die",
+    "pl": "Referenzen",
+    "zh": "推荐人，证明",
+    "en": "reference",
+    "ex": "Ich kann Ihnen gerne eine Referenz nennen.",
+    "exZh": "我很乐意给您提供一个推荐人。"
+  },
+  {
+    "de": "Gehaltsvorstellung",
+    "art": "die",
+    "pl": "Gehaltsvorstellungen",
+    "zh": "期望薪资",
+    "en": "salary expectation",
+    "ex": "Bitte nennen Sie Ihre Gehaltsvorstellung.",
+    "exZh": "请说明您的期望薪资。"
+  },
+  {
+    "de": "Verspätung",
+    "art": "die",
+    "pl": "Verspätungen",
+    "zh": "延误，晚点",
+    "en": "delay",
+    "ex": "Der Zug hat zwanzig Minuten Verspätung.",
+    "exZh": "火车晚点了二十分钟。"
+  },
+  {
+    "de": "Fahrgast",
+    "art": "der",
+    "pl": "Fahrgäste",
+    "zh": "乘客",
+    "en": "passenger",
+    "ex": "Alle Fahrgäste müssen umsteigen.",
+    "exZh": "所有乘客都得换乘。"
+  },
+  {
+    "de": "Gepäck",
+    "art": "das",
+    "pl": null,
+    "zh": "行李",
+    "en": "luggage",
+    "ex": "Mein Gepäck ist noch nicht angekommen.",
+    "exZh": "我的行李还没到。"
+  },
+  {
+    "de": "verloren gehen",
+    "art": null,
+    "pl": null,
+    "zh": "丢失，遗失",
+    "en": "to get lost, go missing",
+    "ex": "Mein Koffer ist leider verloren gegangen.",
+    "exZh": "我的箱子很不幸丢了。"
+  },
+  {
+    "de": "Fundsachen",
+    "art": "die",
+    "pl": null,
+    "zh": "失物招领（处）",
+    "en": "lost and found",
+    "ex": "Ich muss zu den Fundsachen gehen.",
+    "exZh": "我得去失物招领处一趟。"
+  },
+  {
+    "de": "Ausfall",
+    "art": "der",
+    "pl": "Ausfälle",
+    "zh": "（班次）取消，故障",
+    "en": "cancellation, breakdown",
+    "ex": "Der Ausfall des Zuges hat viele Reisende überrascht.",
+    "exZh": "这趟车的取消让很多旅客措手不及。"
+  },
+  {
+    "de": "rechtzeitig",
+    "art": null,
+    "pl": null,
+    "zh": "及时的，按时的",
+    "en": "on time, in time",
+    "ex": "Ich bin rechtzeitig am Bahnsteig angekommen.",
+    "exZh": "我及时到了站台。"
+  },
+  {
+    "de": "deshalb",
+    "art": null,
+    "pl": null,
+    "zh": "所以，因此",
+    "en": "therefore",
+    "ex": "Der Zug hatte Verspätung, deshalb habe ich den Anschluss verpasst.",
+    "exZh": "火车晚点了，所以我错过了转乘。"
+  },
+  {
+    "de": "trotzdem",
+    "art": null,
+    "pl": null,
+    "zh": "尽管如此",
+    "en": "nevertheless",
+    "ex": "Der Zug hatte Verspätung, trotzdem habe ich den Anschluss geschafft.",
+    "exZh": "火车晚点了，尽管如此我还是赶上了转乘。"
+  },
+  {
+    "de": "obwohl",
+    "art": null,
+    "pl": null,
+    "zh": "虽然，尽管",
+    "en": "although",
+    "ex": "Obwohl der Zug Verspätung hatte, blieb ich ruhig.",
+    "exZh": "虽然火车晚点了，我还是保持冷静。"
+  },
+  {
+    "de": "Beschwerde",
+    "art": "die",
+    "pl": "Beschwerden",
+    "zh": "投诉",
+    "en": "complaint",
+    "ex": "Ich möchte eine Beschwerde einreichen.",
+    "exZh": "我想提交一份投诉。"
+  },
+  {
+    "de": "sich beschweren",
+    "art": null,
+    "pl": null,
+    "zh": "投诉，抱怨",
+    "en": "to complain",
+    "ex": "Ich beschwere mich über die Verspätung.",
+    "exZh": "我要为这次延误投诉。"
+  },
+  {
+    "de": "Entschädigung",
+    "art": "die",
+    "pl": "Entschädigungen",
+    "zh": "赔偿",
+    "en": "compensation",
+    "ex": "Bei über 60 Minuten Verspätung gibt es eine Entschädigung.",
+    "exZh": "延误超过 60 分钟就有赔偿。"
+  },
+  {
+    "de": "Ersatz",
+    "art": "der",
+    "pl": null,
+    "zh": "替代物，赔偿物",
+    "en": "replacement, compensation",
+    "ex": "Die Bahn bietet Ersatz für den Schaden an.",
+    "exZh": "德铁为损失提供赔偿。"
+  },
+  {
+    "de": "erstatten",
+    "art": null,
+    "pl": null,
+    "zh": "赔付，报销",
+    "en": "to reimburse",
+    "ex": "Die Kosten werden Ihnen erstattet.",
+    "exZh": "费用会赔付给您。"
+  },
+  {
+    "de": "Schaden",
+    "art": "der",
+    "pl": "Schäden",
+    "zh": "损失，损害",
+    "en": "damage, loss",
+    "ex": "Der Schaden am Koffer war zum Glück klein.",
+    "exZh": "幸好行李箱的损坏不大。"
+  },
+  {
+    "de": "Ursache",
+    "art": "die",
+    "pl": "Ursachen",
+    "zh": "起因，原因",
+    "en": "cause",
+    "ex": "Die Ursache der Verspätung war unklar.",
+    "exZh": "延误的原因不明。"
+  },
+  {
+    "de": "wegen",
+    "art": null,
+    "pl": null,
+    "zh": "因为，由于（+Genitiv）",
+    "en": "because of",
+    "ex": "Wegen einer technischen Störung kam der Zug später an.",
+    "exZh": "由于一次技术故障，火车晚到了。"
+  },
+  {
+    "de": "Brötchen",
+    "art": "das",
+    "pl": "Brötchen",
+    "zh": "小面包，餐包",
+    "en": "bread roll",
+    "ex": "Zwei Brötchen, bitte.",
+    "exZh": "请给我两个小面包。"
+  },
+  {
+    "de": "Croissant",
+    "art": "das",
+    "pl": "Croissants",
+    "zh": "牛角包",
+    "en": "croissant",
+    "ex": "Ich hätte gern ein Croissant.",
+    "exZh": "我想要一个牛角包。"
+  },
+  {
+    "de": "Kuchen",
+    "art": "der",
+    "pl": "Kuchen",
+    "zh": "蛋糕",
+    "en": "cake",
+    "ex": "Ich nehme ein Stück Kuchen.",
+    "exZh": "我要一块蛋糕。"
+  },
+  {
+    "de": "Stück",
+    "art": "das",
+    "pl": "Stücke",
+    "zh": "一块，一件",
+    "en": "piece",
+    "ex": "Ein Stück Kuchen, bitte.",
+    "exZh": "请给我一块蛋糕。"
+  },
+  {
+    "de": "Kaffee",
+    "art": "der",
+    "pl": "Kaffees",
+    "zh": "咖啡",
+    "en": "coffee",
+    "ex": "Ich hätte gern einen Kaffee.",
+    "exZh": "我想要一杯咖啡。"
+  },
+  {
+    "de": "Tee",
+    "art": "der",
+    "pl": "Tees",
+    "zh": "茶",
+    "en": "tea",
+    "ex": "Ich nehme einen Tee, bitte.",
+    "exZh": "我要一杯茶，谢谢。"
+  },
+  {
+    "de": "Bäckerei",
+    "art": "die",
+    "pl": "Bäckereien",
+    "zh": "面包店",
+    "en": "bakery",
+    "ex": "Die Bäckerei ist hier.",
+    "exZh": "面包店就在这儿。"
+  },
+  {
+    "de": "Café",
+    "art": "das",
+    "pl": "Cafés",
+    "zh": "咖啡馆",
+    "en": "café",
+    "ex": "Das Café ist schön.",
+    "exZh": "这家咖啡馆很不错。"
+  },
+  {
+    "de": "bestellen",
+    "art": null,
+    "pl": null,
+    "zh": "点（餐），预订",
+    "en": "to order",
+    "ex": "Ich bestelle einen Kaffee.",
+    "exZh": "我点一杯咖啡。"
+  },
+  {
+    "de": "zum Mitnehmen",
+    "art": null,
+    "pl": null,
+    "zh": "带走（外带）",
+    "en": "to go / takeaway",
+    "ex": "Einen Kaffee zum Mitnehmen, bitte.",
+    "exZh": "一杯咖啡带走，谢谢。"
+  },
+  {
+    "de": "zum Hier-Essen",
+    "art": null,
+    "pl": null,
+    "zh": "在这里吃（堂食）",
+    "en": "for here",
+    "ex": "Zum Hier-Essen, bitte.",
+    "exZh": "在这里吃，谢谢。"
+  },
+  {
+    "de": "lecker",
+    "art": null,
+    "pl": null,
+    "zh": "好吃的",
+    "en": "tasty",
+    "ex": "Der Kuchen ist lecker.",
+    "exZh": "这蛋糕很好吃。"
+  },
+  {
+    "de": "mit Milch",
+    "art": null,
+    "pl": null,
+    "zh": "加牛奶",
+    "en": "with milk",
+    "ex": "Ein Kaffee mit Milch, bitte.",
+    "exZh": "请来一杯加奶咖啡。"
+  },
+  {
+    "de": "ohne Zucker",
+    "art": null,
+    "pl": null,
+    "zh": "不加糖",
+    "en": "without sugar",
+    "ex": "Ein Tee ohne Zucker, bitte.",
+    "exZh": "请来一杯不加糖的茶。"
+  },
+  {
+    "de": "Was darf’s sein?",
+    "art": null,
+    "pl": null,
+    "zh": "您要点什么？（店员招呼语）",
+    "en": "What can I get you?",
+    "ex": "Guten Tag! Was darf’s sein?",
+    "exZh": "您好！您要点什么？"
+  },
+  {
+    "de": "Das wär’s",
+    "art": null,
+    "pl": null,
+    "zh": "就这些了（顾客表示点完了）",
+    "en": "That’s all",
+    "ex": "Ein Kaffee, das wär’s.",
+    "exZh": "一杯咖啡，就这些了。"
+  },
+  {
+    "de": "Noch etwas?",
+    "art": null,
+    "pl": null,
+    "zh": "还要别的吗？",
+    "en": "Anything else?",
+    "ex": "Noch etwas? Nein, danke.",
+    "exZh": "还要别的吗？不用了，谢谢。"
+  },
+  {
+    "de": "Klimawandel",
+    "art": "der",
+    "pl": null,
+    "zh": "气候变化",
+    "en": "climate change",
+    "ex": "Der Klimawandel betrifft uns alle.",
+    "exZh": "气候变化影响我们所有人。"
+  },
+  {
+    "de": "Bildung",
+    "art": "die",
+    "pl": null,
+    "zh": "教育",
+    "en": "education",
+    "ex": "Gute Bildung ist wichtig für die Zukunft.",
+    "exZh": "良好的教育对未来很重要。"
+  },
+  {
+    "de": "Work-Life-Balance",
+    "art": "die",
+    "pl": null,
+    "zh": "工作生活平衡",
+    "en": "work-life balance",
+    "ex": "Viele Deutsche legen Wert auf die Work-Life-Balance.",
+    "exZh": "很多德国人很看重工作生活平衡。"
+  },
+  {
+    "de": "Studie",
+    "art": "die",
+    "pl": "Studien",
+    "zh": "研究，调查报告",
+    "en": "study",
+    "ex": "Laut einer aktuellen Studie arbeiten viele Menschen lieber im Homeoffice.",
+    "exZh": "据一项最新研究，很多人更喜欢在家办公。"
+  },
+  {
+    "de": "Standpunkt",
+    "art": "der",
+    "pl": "Standpunkte",
+    "zh": "立场，观点",
+    "en": "standpoint",
+    "ex": "Ich verstehe deinen Standpunkt.",
+    "exZh": "我理解你的立场。"
+  },
+  {
+    "de": "behaupten",
+    "art": null,
+    "pl": null,
+    "zh": "声称，断言",
+    "en": "to claim",
+    "ex": "Er behauptet, dass er recht hat.",
+    "exZh": "他声称自己是对的。"
+  },
+  {
+    "de": "der Ansicht sein",
+    "art": null,
+    "pl": null,
+    "zh": "持……观点，认为",
+    "en": "to be of the opinion",
+    "ex": "Ich bin der Ansicht, dass wir handeln müssen.",
+    "exZh": "我认为我们必须采取行动。"
+  },
+  {
+    "de": "angeblich",
+    "art": null,
+    "pl": null,
+    "zh": "据说的，号称的（暗示存疑）",
+    "en": "allegedly",
+    "ex": "Er ist angeblich krank, aber ich habe ihn joggen gesehen.",
+    "exZh": "他据说病了，但我看见他在跑步。"
+  },
+  {
+    "de": "Debatte",
+    "art": "die",
+    "pl": "Debatten",
+    "zh": "辩论，讨论",
+    "en": "debate",
+    "ex": "Die Debatte über Homeoffice ist noch nicht vorbei.",
+    "exZh": "关于在家办公的讨论还没有结束。"
+  },
+  {
+    "de": "diskutieren",
+    "art": null,
+    "pl": null,
+    "zh": "讨论",
+    "en": "to discuss",
+    "ex": "Wir diskutieren gerade über die Work-Life-Balance.",
+    "exZh": "我们正在讨论工作生活平衡的话题。"
+  },
+  {
+    "de": "überzeugend",
+    "art": null,
+    "pl": null,
+    "zh": "有说服力的",
+    "en": "convincing",
+    "ex": "Ihr Argument war sehr überzeugend.",
+    "exZh": "她的论点很有说服力。"
+  },
+  {
+    "de": "widersprechen",
+    "art": null,
+    "pl": null,
+    "zh": "反驳，反对（+Dativ）",
+    "en": "to contradict",
+    "ex": "Da muss ich dir widersprechen.",
+    "exZh": "这一点我得反驳你。"
+  },
+  {
+    "de": "einerseits...andererseits",
+    "art": null,
+    "pl": null,
+    "zh": "一方面……另一方面……",
+    "en": "on the one hand...on the other hand",
+    "ex": "Einerseits spare ich Zeit, andererseits fehlt mir der Kontakt zu Kollegen.",
+    "exZh": "一方面我省了时间，另一方面我缺少和同事的接触。"
+  },
+  {
+    "de": "Quelle",
+    "art": "die",
+    "pl": "Quellen",
+    "zh": "来源，消息来源",
+    "en": "source",
+    "ex": "Die Zeitung nennt ihre Quelle nicht.",
+    "exZh": "这家报纸没有透露它的消息来源。"
+  },
+  {
+    "de": "Tatsache",
+    "art": "die",
+    "pl": "Tatsachen",
+    "zh": "事实",
+    "en": "fact",
+    "ex": "Das ist eine Tatsache, kein Gerücht.",
+    "exZh": "这是事实，不是谣言。"
+  },
+  {
+    "de": "Behauptung",
+    "art": "die",
+    "pl": "Behauptungen",
+    "zh": "声称，断言",
+    "en": "claim/assertion",
+    "ex": "Diese Behauptung ist noch nicht bewiesen.",
+    "exZh": "这个说法还没有被证实。"
+  },
+  {
+    "de": "veröffentlichen",
+    "art": null,
+    "pl": null,
+    "zh": "发布，公开发表",
+    "en": "to publish",
+    "ex": "Die Zeitung veröffentlicht den Artikel morgen.",
+    "exZh": "这家报纸明天发表这篇文章。"
+  },
+  {
+    "de": "objektiv",
+    "art": null,
+    "pl": null,
+    "zh": "客观的",
+    "en": "objective",
+    "ex": "Die Nachricht ist objektiv geschrieben.",
+    "exZh": "这条新闻写得很客观。"
+  },
+  {
+    "de": "subjektiv",
+    "art": null,
+    "pl": null,
+    "zh": "主观的",
+    "en": "subjective",
+    "ex": "Das ist nur seine subjektive Meinung.",
+    "exZh": "这只是他的主观看法。"
+  },
+  {
+    "de": "überprüfen",
+    "art": null,
+    "pl": null,
+    "zh": "核实，核查",
+    "en": "to verify",
+    "ex": "Man sollte die Fakten immer überprüfen.",
+    "exZh": "应该总是核实这些事实。"
+  },
+  {
+    "de": "glaubwürdig",
+    "art": null,
+    "pl": null,
+    "zh": "可信的",
+    "en": "credible",
+    "ex": "Ist diese Quelle glaubwürdig?",
+    "exZh": "这个消息来源可信吗？"
+  },
+  {
+    "de": "Falschmeldung",
+    "art": "die",
+    "pl": "Falschmeldungen",
+    "zh": "假消息，虚假报道",
+    "en": "false report/fake news",
+    "ex": "Das war leider eine Falschmeldung.",
+    "exZh": "可惜那是一条假消息。"
+  },
+  {
+    "de": "vermuten",
+    "art": null,
+    "pl": null,
+    "zh": "推测，猜测",
+    "en": "to suspect/assume",
+    "ex": "Man vermutet, dass das Gesetz bald geändert wird.",
+    "exZh": "据推测，这项法律很快会被修改。"
+  },
+  {
+    "de": "bestätigen",
+    "art": null,
+    "pl": null,
+    "zh": "证实，确认",
+    "en": "to confirm",
+    "ex": "Die Polizei hat die Information bestätigt.",
+    "exZh": "警方证实了这条信息。"
+  },
+  {
+    "de": "Artikel",
+    "art": "der",
+    "pl": "Artikel",
+    "zh": "文章",
+    "en": "article",
+    "ex": "Ich habe einen interessanten Artikel gelesen.",
+    "exZh": "我读了一篇有意思的文章。"
+  },
+  {
+    "de": "Kommentar",
+    "art": "der",
+    "pl": "Kommentare",
+    "zh": "评论",
+    "en": "commentary/comment",
+    "ex": "Der Kommentar zeigt die Meinung des Autors.",
+    "exZh": "这篇评论展示了作者的观点。"
+  },
+  {
+    "de": "Auswirkung",
+    "art": "die",
+    "pl": "Auswirkungen",
+    "zh": "影响，后果",
+    "en": "effect/impact",
+    "ex": "Die Auswirkungen des Gesetzes sind noch unklar.",
+    "exZh": "这项法律的影响目前还不明朗。"
+  },
+  {
+    "de": "Anteil",
+    "art": "der",
+    "pl": "Anteile",
+    "zh": "比例，份额",
+    "en": "share/proportion",
+    "ex": "Der Anteil ist in den letzten Jahren gestiegen.",
+    "exZh": "这个比例近几年上升了。"
+  },
+  {
+    "de": "steigen",
+    "art": null,
+    "pl": null,
+    "zh": "上升",
+    "en": "to rise",
+    "ex": "Die Zahlen steigen seit Monaten.",
+    "exZh": "这些数字已经上升了好几个月。"
+  },
+  {
+    "de": "sinken",
+    "art": null,
+    "pl": null,
+    "zh": "下降",
+    "en": "to fall/decrease",
+    "ex": "Die Preise sinken selten.",
+    "exZh": "价格很少下降。"
+  },
+  {
+    "de": "mittlerweile",
+    "art": null,
+    "pl": null,
+    "zh": "如今，与此同时",
+    "en": "by now/meanwhile",
+    "ex": "Mittlerweile wurde das Problem gelöst.",
+    "exZh": "如今这个问题已经被解决了。"
+  },
+  {
+    "de": "Missverständnis",
+    "art": "das",
+    "pl": "Missverständnisse",
+    "zh": "误会",
+    "en": "misunderstanding",
+    "ex": "Das war nur ein Missverständnis.",
+    "exZh": "那只是一场误会。"
+  },
+  {
+    "de": "missverstehen",
+    "art": null,
+    "pl": null,
+    "zh": "误解，理解错",
+    "en": "to misunderstand",
+    "ex": "Ich glaube, du hast mich missverstanden.",
+    "exZh": "我觉得你误解我了。"
+  },
+  {
+    "de": "klären",
+    "art": null,
+    "pl": null,
+    "zh": "澄清，弄清楚",
+    "en": "to clarify",
+    "ex": "Wir sollten das Missverständnis klären.",
+    "exZh": "我们应该把这个误会澄清一下。"
+  },
+  {
+    "de": "Eindruck",
+    "art": "der",
+    "pl": "Eindrücke",
+    "zh": "印象",
+    "en": "impression",
+    "ex": "Ich hatte den falschen Eindruck.",
+    "exZh": "我当时的印象是错的。"
+  },
+  {
+    "de": "Absicht",
+    "art": "die",
+    "pl": "Absichten",
+    "zh": "意图，本意",
+    "en": "intention",
+    "ex": "Das war nicht meine Absicht.",
+    "exZh": "那不是我的本意。"
+  },
+  {
+    "de": "beabsichtigen",
+    "art": null,
+    "pl": null,
+    "zh": "打算，意图是",
+    "en": "to intend",
+    "ex": "Ich habe das wirklich nicht beabsichtigt.",
+    "exZh": "我真的不是故意的。"
+  },
+  {
+    "de": "sich entschuldigen (bei + Dat., für + Akk.)",
+    "art": null,
+    "pl": null,
+    "zh": "道歉（复现）",
+    "en": "to apologize",
+    "ex": "Ich möchte mich bei dir entschuldigen.",
+    "exZh": "我想向你道歉。"
+  },
+  {
+    "de": "verletzen",
+    "art": null,
+    "pl": null,
+    "zh": "伤害（感情）",
+    "en": "to hurt (feelings)",
+    "ex": "Ich wollte dich nicht verletzen.",
+    "exZh": "我不是想伤害你。"
+  },
+  {
+    "de": "Kultur",
+    "art": "die",
+    "pl": "Kulturen",
+    "zh": "文化",
+    "en": "culture",
+    "ex": "Es gibt viele kulturelle Unterschiede.",
+    "exZh": "存在很多文化差异。"
+  },
+  {
+    "de": "Unterschied",
+    "art": "der",
+    "pl": "Unterschiede",
+    "zh": "区别，差异",
+    "en": "difference",
+    "ex": "Der Unterschied ist manchmal ziemlich groß.",
+    "exZh": "这种差异有时候相当大。"
+  },
+  {
+    "de": "direkt",
+    "art": null,
+    "pl": null,
+    "zh": "直接的",
+    "en": "direct",
+    "ex": "Deutsche kommunizieren oft direkter als Chinesen.",
+    "exZh": "德国人交流通常比中国人更直接。"
+  },
+  {
+    "de": "indirekt",
+    "art": null,
+    "pl": null,
+    "zh": "间接的",
+    "en": "indirect",
+    "ex": "In China ist Kritik oft indirekter formuliert.",
+    "exZh": "在中国，批评通常表达得更间接。"
+  },
+  {
+    "de": "Höflichkeit",
+    "art": "die",
+    "pl": null,
+    "zh": "礼貌",
+    "en": "politeness",
+    "ex": "Höflichkeit wird in beiden Kulturen geschätzt, aber unterschiedlich gezeigt.",
+    "exZh": "两种文化都重视礼貌，只是表达方式不同。"
+  },
+  {
+    "de": "taktvoll",
+    "art": null,
+    "pl": null,
+    "zh": "有分寸的，得体的",
+    "en": "tactful",
+    "ex": "Er hat das sehr taktvoll gesagt.",
+    "exZh": "他说得很有分寸。"
+  },
+  {
+    "de": "im Nachhinein",
+    "art": null,
+    "pl": null,
+    "zh": "事后（回想起来）",
+    "en": "in hindsight",
+    "ex": "Im Nachhinein hätte ich anders reagiert.",
+    "exZh": "事后想想，我当时会有不同的反应。"
+  },
+  {
+    "de": "bedauern",
+    "art": null,
+    "pl": null,
+    "zh": "遗憾，后悔",
+    "en": "to regret",
+    "ex": "Ich bedauere, was ich gesagt habe.",
+    "exZh": "我为自己说过的话感到遗憾。"
+  },
+  {
+    "de": "rückblickend",
+    "art": null,
+    "pl": null,
+    "zh": "回顾起来地",
+    "en": "looking back",
+    "ex": "Rückblickend war das keine gute Idee.",
+    "exZh": "回顾起来，那不是个好主意。"
+  },
+  {
+    "de": "Ratschlag",
+    "art": "der",
+    "pl": "Ratschläge",
+    "zh": "建议，忠告（复现 der Rat）",
+    "en": "piece of advice",
+    "ex": "Danke für den guten Ratschlag.",
+    "exZh": "谢谢你的好建议。"
+  },
+  {
+    "de": "Herausforderung",
+    "art": "die",
+    "pl": "Herausforderungen",
+    "zh": "挑战",
+    "en": "challenge",
+    "ex": "Der Umzug war eine große Herausforderung.",
+    "exZh": "搬家是一次很大的挑战。"
+  },
+  {
+    "de": "bewältigen",
+    "art": null,
+    "pl": null,
+    "zh": "克服，应付（挑战/任务）",
+    "en": "to manage/cope with",
+    "ex": "Ich habe die Herausforderung gut bewältigt.",
+    "exZh": "我很好地克服了这个挑战。"
+  },
+  {
+    "de": "Ablauf",
+    "art": "der",
+    "pl": "Abläufe",
+    "zh": "流程，过程",
+    "en": "process/procedure",
+    "ex": "Der Ablauf beim Bürgeramt war diesmal einfacher.",
+    "exZh": "这次在市民办事处的流程简单多了。"
+  },
+  {
+    "de": "reibungslos",
+    "art": null,
+    "pl": null,
+    "zh": "顺利的，没有摩擦的",
+    "en": "smoothly",
+    "ex": "Diesmal lief leider nicht alles reibungslos.",
+    "exZh": "这次可惜不是一切都很顺利。"
+  },
+  {
+    "de": "selbstständig",
+    "art": null,
+    "pl": null,
+    "zh": "独立自主的",
+    "en": "independent(ly)",
+    "ex": "Ich kann die meisten Dinge inzwischen selbstständig erledigen.",
+    "exZh": "现在大部分事情我都能独立办完了。"
+  },
+  {
+    "de": "souverän",
+    "art": null,
+    "pl": null,
+    "zh": "从容自如的，游刃有余的",
+    "en": "confident/assured",
+    "ex": "Sie hat das Gespräch sehr souverän geführt.",
+    "exZh": "她把这场对话应对得非常从容。"
+  },
+  {
+    "de": "Umgang (mit + Dat.)",
+    "art": "der",
+    "pl": null,
+    "zh": "应对，打交道（与……）",
+    "en": "dealing with",
+    "ex": "Der Umgang mit Behörden fällt mir jetzt viel leichter.",
+    "exZh": "现在跟官方机构打交道对我来说容易多了。"
+  },
+  {
+    "de": "zusammenfassend",
+    "art": null,
+    "pl": null,
+    "zh": "总而言之，总结来说",
+    "en": "in summary",
+    "ex": "Zusammenfassend kann ich sagen, dass ich viel gelernt habe.",
+    "exZh": "总而言之，我可以说自己学到了很多。"
+  },
+  {
+    "de": "insgesamt",
+    "art": null,
+    "pl": null,
+    "zh": "总体上，总共",
+    "en": "overall",
+    "ex": "Insgesamt war das ein sehr guter Kurs.",
+    "exZh": "总体上这是一门很棒的课程。"
+  },
+  {
+    "de": "Fortschritt",
+    "art": "der",
+    "pl": "Fortschritte",
+    "zh": "进步",
+    "en": "progress",
+    "ex": "Ich habe große Fortschritte gemacht.",
+    "exZh": "我取得了很大的进步。"
+  },
+  {
+    "de": "Rückblick",
+    "art": "der",
+    "pl": "Rückblicke",
+    "zh": "回顾，回想",
+    "en": "review/retrospective",
+    "ex": "Im Rückblick war die erste Zeit am schwersten.",
+    "exZh": "回顾起来，最初那段时间是最难的。"
+  },
+  {
+    "de": "Meilenstein",
+    "art": "der",
+    "pl": "Meilensteine",
+    "zh": "里程碑",
+    "en": "milestone",
+    "ex": "B1 ist ein wichtiger Meilenstein.",
+    "exZh": "B1 是一个重要的里程碑。"
+  },
+  {
+    "de": "Sicherheit",
+    "art": "die",
+    "pl": null,
+    "zh": "把握感，自信（语言运用上的）",
+    "en": "confidence/certainty",
+    "ex": "Ich habe viel Sicherheit im Deutschen gewonnen.",
+    "exZh": "我在德语运用上获得了很强的把握感。"
+  },
+  {
+    "de": "Routine",
+    "art": "die",
+    "pl": "Routinen",
+    "zh": "常规，熟练度",
+    "en": "routine",
+    "ex": "Deutsch ist Teil meiner Routine geworden.",
+    "exZh": "德语已经成为我日常习惯的一部分。"
+  },
+  {
+    "de": "Alltag",
+    "art": "der",
+    "pl": null,
+    "zh": "日常生活（复现）",
+    "en": "everyday life",
+    "ex": "Deutsch gehört jetzt fest zu meinem Alltag.",
+    "exZh": "德语现在已经牢牢融入我的日常生活了。"
+  },
+  {
+    "de": "Wie geht’s?",
+    "art": null,
+    "pl": null,
+    "zh": "你好吗？最近怎么样？（对 du）",
+    "en": "How are you?",
+    "ex": "Hallo! Wie geht’s?",
+    "exZh": "你好！最近怎么样？"
+  },
+  {
+    "de": "Wie geht es Ihnen?",
+    "art": null,
+    "pl": null,
+    "zh": "您好吗？（对 Sie，正式）",
+    "en": "How are you? (formal)",
+    "ex": "Guten Tag, Frau Schmidt! Wie geht es Ihnen?",
+    "exZh": "您好，施密特女士！您好吗？"
+  },
+  {
+    "de": "Gut, danke",
+    "art": null,
+    "pl": null,
+    "zh": "挺好的，谢谢",
+    "en": "Good, thanks",
+    "ex": "Gut, danke! Und dir?",
+    "exZh": "挺好的，谢谢！你呢？"
+  },
+  {
+    "de": "Sehr gut",
+    "art": null,
+    "pl": null,
+    "zh": "非常好",
+    "en": "Very good",
+    "ex": "Sehr gut, danke!",
+    "exZh": "非常好，谢谢！"
+  },
+  {
+    "de": "Es geht",
+    "art": null,
+    "pl": null,
+    "zh": "还行，一般般",
+    "en": "So-so",
+    "ex": "Es geht, und dir?",
+    "exZh": "还行吧，你呢？"
+  },
+  {
+    "de": "Nicht so gut",
+    "art": null,
+    "pl": null,
+    "zh": "不太好",
+    "en": "Not so good",
+    "ex": "Nicht so gut heute.",
+    "exZh": "今天不太好。"
+  },
+  {
+    "de": "Und dir?",
+    "art": null,
+    "pl": null,
+    "zh": "你呢？（对 du）",
+    "en": "And you?",
+    "ex": "Gut, und dir?",
+    "exZh": "挺好，你呢？"
+  },
+  {
+    "de": "Und Ihnen?",
+    "art": null,
+    "pl": null,
+    "zh": "您呢？（对 Sie）",
+    "en": "And you? (formal)",
+    "ex": "Gut, danke. Und Ihnen?",
+    "exZh": "挺好，谢谢。您呢？"
+  },
+  {
+    "de": "Wetter",
+    "art": "das",
+    "pl": null,
+    "zh": "天气",
+    "en": "weather",
+    "ex": "Wie ist das Wetter heute?",
+    "exZh": "今天天气怎么样？"
+  },
+  {
+    "de": "schön",
+    "art": null,
+    "pl": null,
+    "zh": "美好的（也形容天气好）",
+    "en": "nice/beautiful",
+    "ex": "Das Wetter ist schön.",
+    "exZh": "天气很好。"
+  },
+  {
+    "de": "schlecht",
+    "art": null,
+    "pl": null,
+    "zh": "糟糕的",
+    "en": "bad",
+    "ex": "Das Wetter ist schlecht.",
+    "exZh": "天气很糟糕。"
+  },
+  {
+    "de": "kalt",
+    "art": null,
+    "pl": null,
+    "zh": "冷的",
+    "en": "cold",
+    "ex": "Es ist kalt heute.",
+    "exZh": "今天很冷。"
+  },
+  {
+    "de": "warm",
+    "art": null,
+    "pl": null,
+    "zh": "暖和的",
+    "en": "warm",
+    "ex": "Es ist warm heute.",
+    "exZh": "今天很暖和。"
+  },
+  {
+    "de": "sonnig",
+    "art": null,
+    "pl": null,
+    "zh": "晴朗的，阳光明媚的",
+    "en": "sunny",
+    "ex": "Heute ist es sonnig.",
+    "exZh": "今天阳光明媚。"
+  },
+  {
+    "de": "Es regnet",
+    "art": null,
+    "pl": null,
+    "zh": "在下雨",
+    "en": "It’s raining",
+    "ex": "Es regnet heute.",
+    "exZh": "今天在下雨。"
+  },
+  {
+    "de": "heute",
+    "art": null,
+    "pl": null,
+    "zh": "今天",
+    "en": "today",
+    "ex": "Ich arbeite heute.",
+    "exZh": "我今天要工作。"
+  },
+  {
+    "de": "morgen",
+    "art": null,
+    "pl": null,
+    "zh": "明天",
+    "en": "tomorrow",
+    "ex": "Bis morgen!",
+    "exZh": "明天见！"
+  },
+  {
+    "de": "Wochenende",
+    "art": "das",
+    "pl": "Wochenenden",
+    "zh": "周末",
+    "en": "weekend",
+    "ex": "Was machst du am Wochenende?",
+    "exZh": "你周末打算做什么？"
+  },
+  {
+    "de": "müde",
+    "art": null,
+    "pl": null,
+    "zh": "累的，困的",
+    "en": "tired",
+    "ex": "Ich bin ein bisschen müde.",
+    "exZh": "我有点累。"
+  },
+  {
+    "de": "Bis Montag!",
+    "art": null,
+    "pl": null,
+    "zh": "周一见！",
+    "en": "See you Monday!",
+    "ex": "Tschüss, bis Montag!",
+    "exZh": "再见，周一见！"
+  },
+  {
+    "de": "Schönes Wochenende!",
+    "art": null,
+    "pl": null,
+    "zh": "周末愉快！",
+    "en": "Have a nice weekend!",
+    "ex": "Schönes Wochenende, Anna!",
+    "exZh": "周末愉快，Anna！"
+  },
+  {
+    "de": "Wie bitte?",
+    "art": null,
+    "pl": null,
+    "zh": "您说什么？（没听清，请对方重复）",
+    "en": "Sorry, what?",
+    "ex": "Wie bitte? Ich verstehe nicht.",
+    "exZh": "您说什么？我没听懂。"
+  },
+  {
+    "de": "Können Sie das bitte wiederholen?",
+    "art": null,
+    "pl": null,
+    "zh": "您能再说一遍吗？",
+    "en": "Could you repeat that, please?",
+    "ex": "Entschuldigung, können Sie das bitte wiederholen?",
+    "exZh": "不好意思，您能再说一遍吗？"
+  },
+  {
+    "de": "Langsamer, bitte",
+    "art": null,
+    "pl": null,
+    "zh": "请说慢一点",
+    "en": "Slower, please",
+    "ex": "Wie bitte? Langsamer, bitte.",
+    "exZh": "您说什么？请说慢一点。"
+  },
+  {
+    "de": "Ich verstehe nicht",
+    "art": null,
+    "pl": null,
+    "zh": "我没听懂，我不明白",
+    "en": "I don’t understand",
+    "ex": "Entschuldigung, ich verstehe nicht.",
+    "exZh": "不好意思，我没听懂。"
+  },
+  {
+    "de": "Ich spreche nur ein bisschen Deutsch",
+    "art": null,
+    "pl": null,
+    "zh": "我只会说一点点德语",
+    "en": "I only speak a little German",
+    "ex": "Entschuldigung, ich spreche nur ein bisschen Deutsch.",
+    "exZh": "不好意思，我只会说一点点德语。"
+  },
+  {
+    "de": "Sprechen Sie Englisch?",
+    "art": null,
+    "pl": null,
+    "zh": "您会说英语吗？",
+    "en": "Do you speak English?",
+    "ex": "Entschuldigung, sprechen Sie Englisch?",
+    "exZh": "不好意思，您会说英语吗？"
+  },
+  {
+    "de": "Kein Problem",
+    "art": null,
+    "pl": null,
+    "zh": "没问题",
+    "en": "No problem",
+    "ex": "Kein Problem, danke!",
+    "exZh": "没问题，谢谢！"
+  },
+  {
+    "de": "Moment, bitte",
+    "art": null,
+    "pl": null,
+    "zh": "请稍等",
+    "en": "One moment, please",
+    "ex": "Einen Moment, bitte!",
+    "exZh": "请稍等一下！"
+  },
+  {
+    "de": "Haltestelle",
+    "art": "die",
+    "pl": "Haltestellen",
+    "zh": "（公交/电车）站",
+    "en": "stop",
+    "ex": "Die Haltestelle ist da vorne.",
+    "exZh": "车站就在前面。"
+  },
+  {
+    "de": "Hauptbahnhof",
+    "art": "der",
+    "pl": "Hauptbahnhöfe",
+    "zh": "中央火车站",
+    "en": "main station",
+    "ex": "Das ist der Hauptbahnhof.",
+    "exZh": "这就是中央火车站。"
+  },
+  {
+    "de": "Straßenbahn",
+    "art": "die",
+    "pl": "Straßenbahnen",
+    "zh": "有轨电车",
+    "en": "tram",
+    "ex": "Die Straßenbahn kommt.",
+    "exZh": "电车来了。"
+  },
+  {
+    "de": "Bus",
+    "art": "der",
+    "pl": "Busse",
+    "zh": "公交车",
+    "en": "bus",
+    "ex": "Der Bus hat Verspätung.",
+    "exZh": "这趟公交车晚点了。"
+  },
+  {
+    "de": "Linie",
+    "art": "die",
+    "pl": "Linien",
+    "zh": "线路",
+    "en": "line",
+    "ex": "Ich nehme die Linie drei.",
+    "exZh": "我坐3路。"
+  },
+  {
+    "de": "umsteigen",
+    "art": null,
+    "pl": null,
+    "zh": "换乘",
+    "en": "to change/transfer",
+    "ex": "Hier müssen Sie umsteigen.",
+    "exZh": "您需要在这里换乘。"
+  },
+  {
+    "de": "Nächste Haltestelle: ...",
+    "art": null,
+    "pl": null,
+    "zh": "下一站是……",
+    "en": "Next stop: ...",
+    "ex": "Nächste Haltestelle: Hauptbahnhof.",
+    "exZh": "下一站：中央火车站。"
+  },
+  {
+    "de": "Zurückbleiben, bitte!",
+    "art": null,
+    "pl": null,
+    "zh": "请退后！（车门关闭前的提示）",
+    "en": "Stand back, please!",
+    "ex": "Türen schließen. Zurückbleiben, bitte!",
+    "exZh": "车门关闭，请退后！"
+  },
+  {
+    "de": "Eingang",
+    "art": "der",
+    "pl": "Eingänge",
+    "zh": "入口",
+    "en": "entrance",
+    "ex": "Wo ist der Eingang?",
+    "exZh": "入口在哪儿？"
+  },
+  {
+    "de": "Ausgang",
+    "art": "der",
+    "pl": "Ausgänge",
+    "zh": "出口",
+    "en": "exit",
+    "ex": "Der Ausgang ist dort.",
+    "exZh": "出口在那边。"
+  },
+  {
+    "de": "Notausgang",
+    "art": "der",
+    "pl": "Notausgänge",
+    "zh": "紧急出口",
+    "en": "emergency exit",
+    "ex": "Der Notausgang ist links.",
+    "exZh": "紧急出口在左边。"
+  },
+  {
+    "de": "ziehen",
+    "art": null,
+    "pl": null,
+    "zh": "拉（门上常见标识）",
+    "en": "to pull",
+    "ex": "Bitte ziehen.",
+    "exZh": "请拉。"
+  },
+  {
+    "de": "drücken",
+    "art": null,
+    "pl": null,
+    "zh": "推（门上常见标识）",
+    "en": "to push",
+    "ex": "Bitte drücken.",
+    "exZh": "请推。"
+  },
+  {
+    "de": "geöffnet",
+    "art": null,
+    "pl": null,
+    "zh": "营业中，开着的",
+    "en": "open",
+    "ex": "Die Bäckerei ist geöffnet.",
+    "exZh": "面包店营业中。"
+  },
+  {
+    "de": "geschlossen",
+    "art": null,
+    "pl": null,
+    "zh": "已关门，打烊",
+    "en": "closed",
+    "ex": "Der Supermarkt ist geschlossen.",
+    "exZh": "超市已经打烊了。"
+  },
+  {
+    "de": "Rabatt",
+    "art": "der",
+    "pl": "Rabatte",
+    "zh": "折扣",
+    "en": "discount",
+    "ex": "Zehn Prozent Rabatt!",
+    "exZh": "九折优惠！"
+  },
+  {
+    "de": "gesperrt",
+    "art": null,
+    "pl": null,
+    "zh": "封闭的，禁止通行的",
+    "en": "closed off/blocked",
+    "ex": "Die Straße ist gesperrt.",
+    "exZh": "这条路封闭了。"
+  },
+  {
+    "de": "mindestens haltbar bis",
+    "art": null,
+    "pl": null,
+    "zh": "最佳赏味期至……（标签上常缩写 MHD）",
+    "en": "best before",
+    "ex": "Mindestens haltbar bis Freitag.",
+    "exZh": "最佳赏味期至周五。"
+  },
+  {
+    "de": "bio",
+    "art": null,
+    "pl": null,
+    "zh": "有机的",
+    "en": "organic",
+    "ex": "Der Apfel ist bio.",
+    "exZh": "这个苹果是有机的。"
+  },
+  {
+    "de": "Vorspeise",
+    "art": "die",
+    "pl": "Vorspeisen",
+    "zh": "前菜，开胃菜",
+    "en": "starter",
+    "ex": "Die Vorspeise ist lecker.",
+    "exZh": "这道前菜很好吃。"
+  },
+  {
+    "de": "Hauptgericht",
+    "art": "das",
+    "pl": "Hauptgerichte",
+    "zh": "主菜",
+    "en": "main course",
+    "ex": "Das Hauptgericht kostet zwölf Euro.",
+    "exZh": "这道主菜要十二欧元。"
+  },
+  {
+    "de": "Nachtisch",
+    "art": "der",
+    "pl": "Nachtische",
+    "zh": "餐后甜点",
+    "en": "dessert",
+    "ex": "Der Nachtisch ist süß.",
+    "exZh": "这份甜点很甜。"
+  },
+  {
+    "de": "Getränk",
+    "art": "das",
+    "pl": "Getränke",
+    "zh": "饮料",
+    "en": "drink",
+    "ex": "Das Getränk ist kalt.",
+    "exZh": "这杯饮料是冰的。"
+  },
+  {
+    "de": "Speisekarte",
+    "art": "die",
+    "pl": "Speisekarten",
+    "zh": "菜单",
+    "en": "menu",
+    "ex": "Die Speisekarte ist hier.",
+    "exZh": "菜单在这儿。"
+  },
+  {
+    "de": "Uhr",
+    "art": "die",
+    "pl": "Uhren",
+    "zh": "钟，表；点钟",
+    "en": "clock / o’clock",
+    "ex": "Es ist acht Uhr.",
+    "exZh": "现在八点。"
+  },
+  {
+    "de": "Zeit",
+    "art": "die",
+    "pl": "Zeiten",
+    "zh": "时间",
+    "en": "time",
+    "ex": "Hast du Zeit?",
+    "exZh": "你有时间吗？"
+  },
+  {
+    "de": "Minute",
+    "art": "die",
+    "pl": "Minuten",
+    "zh": "分钟",
+    "en": "minute",
+    "ex": "Ich habe nur fünf Minuten.",
+    "exZh": "我只有五分钟。"
+  },
+  {
+    "de": "Stunde",
+    "art": "die",
+    "pl": "Stunden",
+    "zh": "小时",
+    "en": "hour",
+    "ex": "Der Kurs dauert eine Stunde.",
+    "exZh": "这门课持续一小时。"
+  },
+  {
+    "de": "Kalender",
+    "art": "der",
+    "pl": "Kalender",
+    "zh": "日历",
+    "en": "calendar",
+    "ex": "Ich habe einen neuen Kalender.",
+    "exZh": "我有一本新日历。"
+  },
+  {
+    "de": "Woche",
+    "art": "die",
+    "pl": "Wochen",
+    "zh": "星期，周",
+    "en": "week",
+    "ex": "Die Woche hat sieben Tage.",
+    "exZh": "一周有七天。"
+  },
+  {
+    "de": "Monat",
+    "art": "der",
+    "pl": "Monate",
+    "zh": "月，月份",
+    "en": "month",
+    "ex": "Der Monat hat dreißig Tage.",
+    "exZh": "这个月有三十天。"
+  },
+  {
+    "de": "Jahr",
+    "art": "das",
+    "pl": "Jahre",
+    "zh": "年",
+    "en": "year",
+    "ex": "Das Jahr hat zwölf Monate.",
+    "exZh": "一年有十二个月。"
+  },
+  {
+    "de": "früh",
+    "art": null,
+    "pl": null,
+    "zh": "早的",
+    "en": "early",
+    "ex": "Das ist mir zu früh.",
+    "exZh": "这对我来说太早了。"
+  },
+  {
+    "de": "spät",
+    "art": null,
+    "pl": null,
+    "zh": "晚的，迟的",
+    "en": "late",
+    "ex": "Bin ich zu spät?",
+    "exZh": "我来晚了吗？"
+  },
+  {
+    "de": "pünktlich",
+    "art": null,
+    "pl": null,
+    "zh": "准时的",
+    "en": "punctual",
+    "ex": "Der Zug ist pünktlich.",
+    "exZh": "火车很准时。"
+  },
+  {
+    "de": "Montag",
+    "art": "der",
+    "pl": null,
+    "zh": "星期一",
+    "en": "Monday",
+    "ex": "Bis Montag!",
+    "exZh": "周一见！"
+  },
+  {
+    "de": "Dienstag",
+    "art": "der",
+    "pl": null,
+    "zh": "星期二",
+    "en": "Tuesday",
+    "ex": "Der Termin ist am Dienstag.",
+    "exZh": "预约在周二。"
+  },
+  {
+    "de": "Mittwoch",
+    "art": "der",
+    "pl": null,
+    "zh": "星期三",
+    "en": "Wednesday",
+    "ex": "Am Mittwoch arbeite ich lange.",
+    "exZh": "周三我要工作很久。"
+  },
+  {
+    "de": "Donnerstag",
+    "art": "der",
+    "pl": null,
+    "zh": "星期四",
+    "en": "Thursday",
+    "ex": "Das Meeting ist am Donnerstag.",
+    "exZh": "会议在周四。"
+  },
+  {
+    "de": "Freitag",
+    "art": "der",
+    "pl": null,
+    "zh": "星期五",
+    "en": "Friday",
+    "ex": "Am Freitag habe ich frei.",
+    "exZh": "周五我休息。"
+  },
+  {
+    "de": "Samstag",
+    "art": "der",
+    "pl": null,
+    "zh": "星期六",
+    "en": "Saturday",
+    "ex": "Am Samstag schlafe ich lange.",
+    "exZh": "周六我睡懒觉。"
+  },
+  {
+    "de": "Sonntag",
+    "art": "der",
+    "pl": null,
+    "zh": "星期日",
+    "en": "Sunday",
+    "ex": "Am Sonntag ist alles geschlossen.",
+    "exZh": "周日所有店都关门。"
+  },
+  {
+    "de": "übermorgen",
+    "art": null,
+    "pl": null,
+    "zh": "后天",
+    "en": "the day after tomorrow",
+    "ex": "Übermorgen ist Freitag.",
+    "exZh": "后天是星期五。"
+  },
+  {
+    "de": "nächste Woche",
+    "art": null,
+    "pl": null,
+    "zh": "下周",
+    "en": "next week",
+    "ex": "Nächste Woche habe ich viel Zeit.",
+    "exZh": "下周我有很多时间。"
+  },
+  {
+    "de": "Termin",
+    "art": "der",
+    "pl": "Termine",
+    "zh": "预约，约定的时间",
+    "en": "appointment",
+    "ex": "Ich habe einen Termin um 10 Uhr.",
+    "exZh": "我十点有个预约。"
+  },
+  {
+    "de": "vereinbaren",
+    "art": null,
+    "pl": null,
+    "zh": "约定，商定",
+    "en": "to arrange",
+    "ex": "Können wir einen Termin vereinbaren?",
+    "exZh": "我们能约个时间吗？"
+  },
+  {
+    "de": "verschieben",
+    "art": null,
+    "pl": null,
+    "zh": "改期，推迟",
+    "en": "to reschedule",
+    "ex": "Können wir den Termin verschieben?",
+    "exZh": "我们能改一下预约时间吗？"
+  },
+  {
+    "de": "absagen",
+    "art": null,
+    "pl": null,
+    "zh": "取消（约定）",
+    "en": "to cancel",
+    "ex": "Ich muss den Termin leider absagen.",
+    "exZh": "我很遗憾必须取消这个预约。"
+  },
+  {
+    "de": "frei",
+    "art": null,
+    "pl": null,
+    "zh": "有空的，空闲的",
+    "en": "free/available",
+    "ex": "Sind Sie am Donnerstag frei?",
+    "exZh": "您星期四有空吗？"
+  },
+  {
+    "de": "besetzt",
+    "art": null,
+    "pl": null,
+    "zh": "被占用的，没空的",
+    "en": "busy/occupied",
+    "ex": "Die Nummer ist immer besetzt.",
+    "exZh": "这个号码总是占线。"
+  },
+  {
+    "de": "Frisör",
+    "art": "der",
+    "pl": "Frisöre",
+    "zh": "理发师，理发店",
+    "en": "hairdresser",
+    "ex": "Ich brauche einen Termin beim Frisör.",
+    "exZh": "我需要一个理发的预约。"
+  },
+  {
+    "de": "Frisörin",
+    "art": "die",
+    "pl": "Frisörinnen",
+    "zh": "女理发师",
+    "en": "hairdresser (female)",
+    "ex": "Die Frisörin ist sehr nett.",
+    "exZh": "这位理发师很亲切。"
+  },
+  {
+    "de": "Salon",
+    "art": "der",
+    "pl": "Salons",
+    "zh": "（理发/美容）店",
+    "en": "salon",
+    "ex": "Der Salon öffnet um neun Uhr.",
+    "exZh": "理发店九点开门。"
+  },
+  {
+    "de": "klingeln",
+    "art": null,
+    "pl": null,
+    "zh": "（电话）响铃",
+    "en": "to ring",
+    "ex": "Das Telefon klingelt.",
+    "exZh": "电话响了。"
+  },
+  {
+    "de": "Moment mal",
+    "art": null,
+    "pl": null,
+    "zh": "稍等一下",
+    "en": "just a moment",
+    "ex": "Moment mal, wie spät ist es?",
+    "exZh": "稍等一下，现在几点了？"
+  },
+  {
+    "de": "na klar",
+    "art": null,
+    "pl": null,
+    "zh": "当然啦",
+    "en": "of course",
+    "ex": "Na klar, das passt!",
+    "exZh": "当然啦，这个时间没问题！"
+  },
+  {
+    "de": "wunderbar",
+    "art": null,
+    "pl": null,
+    "zh": "太好了，棒极了",
+    "en": "wonderful",
+    "ex": "Wunderbar, bis Donnerstag!",
+    "exZh": "太好了，周四见！"
+  },
+  {
+    "de": "spätestens",
+    "art": null,
+    "pl": null,
+    "zh": "最晚，至迟",
+    "en": "at the latest",
+    "ex": "Ich komme spätestens um zehn Uhr.",
+    "exZh": "我最晚十点到。"
+  },
+  {
+    "de": "Familie",
+    "art": "die",
+    "pl": "Familien",
+    "zh": "家庭",
+    "en": "family",
+    "ex": "Das ist meine Familie.",
+    "exZh": "这是我的家人。"
+  },
+  {
+    "de": "Eltern",
+    "art": "die",
+    "pl": null,
+    "zh": "父母（只有复数）",
+    "en": "parents",
+    "ex": "Meine Eltern wohnen in China.",
+    "exZh": "我父母住在中国。"
+  },
+  {
+    "de": "Mutter",
+    "art": "die",
+    "pl": "Mütter",
+    "zh": "母亲",
+    "en": "mother",
+    "ex": "Meine Mutter kocht sehr gut.",
+    "exZh": "我妈妈做饭很好吃。"
+  },
+  {
+    "de": "Vater",
+    "art": "der",
+    "pl": "Väter",
+    "zh": "父亲",
+    "en": "father",
+    "ex": "Mein Vater trinkt gern Tee.",
+    "exZh": "我爸爸喜欢喝茶。"
+  },
+  {
+    "de": "Kind",
+    "art": "das",
+    "pl": "Kinder",
+    "zh": "孩子",
+    "en": "child",
+    "ex": "Das Kind ist müde.",
+    "exZh": "孩子累了。"
+  },
+  {
+    "de": "Bruder",
+    "art": "der",
+    "pl": "Brüder",
+    "zh": "兄弟",
+    "en": "brother",
+    "ex": "Ich habe einen Bruder.",
+    "exZh": "我有一个哥哥。"
+  },
+  {
+    "de": "Schwester",
+    "art": "die",
+    "pl": "Schwestern",
+    "zh": "姐妹",
+    "en": "sister",
+    "ex": "Hast du eine Schwester?",
+    "exZh": "你有姐妹吗？"
+  },
+  {
+    "de": "Sohn",
+    "art": "der",
+    "pl": "Söhne",
+    "zh": "儿子",
+    "en": "son",
+    "ex": "Unser Sohn heißt Paul.",
+    "exZh": "我们的儿子叫保罗。"
+  },
+  {
+    "de": "Tochter",
+    "art": "die",
+    "pl": "Töchter",
+    "zh": "女儿",
+    "en": "daughter",
+    "ex": "Unsere Tochter ist fünf Jahre alt.",
+    "exZh": "我们的女儿五岁。"
+  },
+  {
+    "de": "Geschwister",
+    "art": "die",
+    "pl": null,
+    "zh": "兄弟姐妹（只有复数）",
+    "en": "siblings",
+    "ex": "Hast du Geschwister?",
+    "exZh": "你有兄弟姐妹吗？"
+  },
+  {
+    "de": "Mann",
+    "art": "der",
+    "pl": "Männer",
+    "zh": "男人；丈夫",
+    "en": "man / husband",
+    "ex": "Das ist mein Mann Thomas.",
+    "exZh": "这是我丈夫托马斯。"
+  },
+  {
+    "de": "Frau",
+    "art": "die",
+    "pl": "Frauen",
+    "zh": "女人；妻子",
+    "en": "woman / wife",
+    "ex": "Seine Frau kommt aus Leipzig.",
+    "exZh": "他的妻子来自莱比锡。"
+  },
+  {
+    "de": "Partner",
+    "art": "der",
+    "pl": "Partner",
+    "zh": "伴侣（男）",
+    "en": "partner (male)",
+    "ex": "Mein Partner arbeitet am Institut.",
+    "exZh": "我的伴侣在研究所工作。"
+  },
+  {
+    "de": "Partnerin",
+    "art": "die",
+    "pl": "Partnerinnen",
+    "zh": "伴侣（女）",
+    "en": "partner (female)",
+    "ex": "Seine Partnerin heißt Julia.",
+    "exZh": "他的伴侣叫尤莉娅。"
+  },
+  {
+    "de": "Freund",
+    "art": "der",
+    "pl": "Freunde",
+    "zh": "朋友（男）；男朋友",
+    "en": "friend / boyfriend",
+    "ex": "Das ist ein Freund von mir.",
+    "exZh": "这是我的一个朋友。"
+  },
+  {
+    "de": "Freundin",
+    "art": "die",
+    "pl": "Freundinnen",
+    "zh": "朋友（女）；女朋友",
+    "en": "friend / girlfriend",
+    "ex": "Hast du eine Freundin?",
+    "exZh": "你有女朋友吗？"
+  },
+  {
+    "de": "Großeltern",
+    "art": "die",
+    "pl": null,
+    "zh": "祖父母（只有复数）",
+    "en": "grandparents",
+    "ex": "Meine Großeltern wohnen auch in China.",
+    "exZh": "我的祖父母也住在中国。"
+  },
+  {
+    "de": "verheiratet",
+    "art": null,
+    "pl": null,
+    "zh": "已婚的",
+    "en": "married",
+    "ex": "Bist du verheiratet?",
+    "exZh": "你结婚了吗？"
+  },
+  {
+    "de": "ledig",
+    "art": null,
+    "pl": null,
+    "zh": "单身的，未婚的",
+    "en": "single",
+    "ex": "Ich bin ledig.",
+    "exZh": "我是单身。"
+  },
+  {
+    "de": "Onkel",
+    "art": "der",
+    "pl": "Onkel",
+    "zh": "叔叔，舅舅，姨父，姑父",
+    "en": "uncle",
+    "ex": "Mein Onkel wohnt in Shanghai.",
+    "exZh": "我叔叔住在上海。"
+  },
+  {
+    "de": "Tante",
+    "art": "die",
+    "pl": "Tanten",
+    "zh": "阿姨，姑姑，姨妈，舅妈",
+    "en": "aunt",
+    "ex": "Meine Tante hat zwei Kinder.",
+    "exZh": "我阿姨有两个孩子。"
+  },
+  {
+    "de": "Cousin",
+    "art": "der",
+    "pl": "Cousins",
+    "zh": "表哥/堂哥（男性表亲）",
+    "en": "cousin (male)",
+    "ex": "Mein Cousin ist Student.",
+    "exZh": "我表哥是大学生。"
+  },
+  {
+    "de": "Cousine",
+    "art": "die",
+    "pl": "Cousinen",
+    "zh": "表姐/堂姐（女性表亲）",
+    "en": "cousin (female)",
+    "ex": "Meine Cousine Lin wohnt in Leipzig.",
+    "exZh": "我表姐 Lin 住在莱比锡。"
+  },
+  {
+    "de": "Einzelkind",
+    "art": "das",
+    "pl": "Einzelkinder",
+    "zh": "独生子女",
+    "en": "only child",
+    "ex": "Ich bin Einzelkind.",
+    "exZh": "我是独生子女。"
+  },
+  {
+    "de": "Neffe",
+    "art": "der",
+    "pl": "Neffen",
+    "zh": "侄子，外甥",
+    "en": "nephew",
+    "ex": "Mein Neffe ist drei Jahre alt.",
+    "exZh": "我侄子三岁。"
+  },
+  {
+    "de": "Nichte",
+    "art": "die",
+    "pl": "Nichten",
+    "zh": "侄女，外甥女",
+    "en": "niece",
+    "ex": "Meine Nichte ist noch klein.",
+    "exZh": "我侄女还很小。"
+  },
+  {
+    "de": "Verwandten",
+    "art": "die",
+    "pl": null,
+    "zh": "亲戚们（只有复数）",
+    "en": "relatives",
+    "ex": "Meine Verwandten wohnen alle in China.",
+    "exZh": "我的亲戚都住在中国。"
+  },
+  {
+    "de": "nicht",
+    "art": null,
+    "pl": null,
+    "zh": "不，没有（否定动词/形容词等）",
+    "en": "not",
+    "ex": "Ich bin nicht müde.",
+    "exZh": "我不累。"
+  },
+  {
+    "de": "kein",
+    "art": null,
+    "pl": null,
+    "zh": "没有（否定名词，随性数变化）",
+    "en": "no/not a",
+    "ex": "Ich habe kein Auto.",
+    "exZh": "我没有车。"
+  },
+  {
+    "de": "nie",
+    "art": null,
+    "pl": null,
+    "zh": "从不，从未",
+    "en": "never",
+    "ex": "Ich bin nie zu spät.",
+    "exZh": "我从不迟到。"
+  },
+  {
+    "de": "doch",
+    "art": null,
+    "pl": null,
+    "zh": "（对否定问题作肯定回答时）不，恰恰相反",
+    "en": "yes, on the contrary",
+    "ex": "Doch, ich bin verheiratet!",
+    "exZh": "不，我结婚了！"
+  },
+  {
+    "de": "gar nicht",
+    "art": null,
+    "pl": null,
+    "zh": "一点也不，完全不",
+    "en": "not at all",
+    "ex": "Der Kaffee ist gar nicht teuer.",
+    "exZh": "这咖啡一点也不贵。"
+  },
+  {
+    "de": "möchten",
+    "art": null,
+    "pl": null,
+    "zh": "想要（礼貌）",
+    "en": "would like to",
+    "ex": "Ich möchte Deutsch lernen.",
+    "exZh": "我想学德语。"
+  },
+  {
+    "de": "können",
+    "art": null,
+    "pl": null,
+    "zh": "能，会",
+    "en": "can/to be able to",
+    "ex": "Kannst du schwimmen?",
+    "exZh": "你会游泳吗？"
+  },
+  {
+    "de": "müssen",
+    "art": null,
+    "pl": null,
+    "zh": "必须",
+    "en": "must/to have to",
+    "ex": "Ich muss heute arbeiten.",
+    "exZh": "我今天必须工作。"
+  },
+  {
+    "de": "Deutschkurs",
+    "art": "der",
+    "pl": "Deutschkurse",
+    "zh": "德语课",
+    "en": "German course",
+    "ex": "Ich muss am Samstag zum Deutschkurs.",
+    "exZh": "我周六得去上德语课。"
+  },
+  {
+    "de": "Fitnessstudio",
+    "art": "das",
+    "pl": "Fitnessstudios",
+    "zh": "健身房",
+    "en": "gym",
+    "ex": "Ich möchte heute Abend ins Fitnessstudio gehen.",
+    "exZh": "我今晚想去健身房。"
+  },
+  {
+    "de": "Sport machen",
+    "art": null,
+    "pl": null,
+    "zh": "做运动",
+    "en": "to do sports",
+    "ex": "Kannst du am Wochenende Sport machen?",
+    "exZh": "你周末能运动吗？"
+  },
+  {
+    "de": "Zeit haben",
+    "art": null,
+    "pl": null,
+    "zh": "有时间",
+    "en": "to have time",
+    "ex": "Hast du heute Zeit?",
+    "exZh": "你今天有时间吗？"
+  },
+  {
+    "de": "frei sein",
+    "art": null,
+    "pl": null,
+    "zh": "有空的，空闲的",
+    "en": "to be free",
+    "ex": "Bist du am Freitag frei?",
+    "exZh": "你周五有空吗？"
+  },
+  {
+    "de": "heute Abend",
+    "art": null,
+    "pl": null,
+    "zh": "今晚",
+    "en": "this evening",
+    "ex": "Was machst du heute Abend?",
+    "exZh": "你今晚做什么？"
+  },
+  {
+    "de": "dieses Wochenende",
+    "art": null,
+    "pl": null,
+    "zh": "这个周末",
+    "en": "this weekend",
+    "ex": "Dieses Wochenende möchte ich joggen gehen.",
+    "exZh": "这个周末我想去慢跑。"
+  },
+  {
+    "de": "vielleicht",
+    "art": null,
+    "pl": null,
+    "zh": "也许",
+    "en": "maybe",
+    "ex": "Vielleicht können wir zusammen joggen.",
+    "exZh": "也许我们可以一起慢跑。"
+  },
+  {
+    "de": "zusammen",
+    "art": null,
+    "pl": null,
+    "zh": "一起",
+    "en": "together",
+    "ex": "Wir können zusammen lernen.",
+    "exZh": "我们可以一起学习。"
+  },
+  {
+    "de": "joggen",
+    "art": null,
+    "pl": null,
+    "zh": "慢跑",
+    "en": "to jog",
+    "ex": "Ich jogge nicht gern im Winter.",
+    "exZh": "冬天我不喜欢慢跑。"
+  },
+  {
+    "de": "schwimmen",
+    "art": null,
+    "pl": null,
+    "zh": "游泳",
+    "en": "to swim",
+    "ex": "Ich kann gut schwimmen.",
+    "exZh": "我游泳游得很好。"
+  },
+  {
+    "de": "Hobby",
+    "art": "das",
+    "pl": "Hobbys",
+    "zh": "爱好",
+    "en": "hobby",
+    "ex": "Was ist dein Hobby?",
+    "exZh": "你的爱好是什么？"
+  },
+  {
+    "de": "dürfen",
+    "art": null,
+    "pl": null,
+    "zh": "可以，被允许",
+    "en": "may/to be allowed to",
+    "ex": "Hier darf man nicht rauchen.",
+    "exZh": "这里不允许吸烟。"
+  },
+  {
+    "de": "wollen",
+    "art": null,
+    "pl": null,
+    "zh": "想要（比 möchten 更直接）",
+    "en": "to want to",
+    "ex": "Ich will nach Hause.",
+    "exZh": "我想回家。"
+  },
+  {
+    "de": "sollen",
+    "art": null,
+    "pl": null,
+    "zh": "应该，被要求",
+    "en": "should/to be supposed to",
+    "ex": "Der Arzt sagt, ich soll mehr Wasser trinken.",
+    "exZh": "医生说我应该多喝水。"
+  },
+  {
+    "de": "einladen",
+    "art": null,
+    "pl": null,
+    "zh": "邀请",
+    "en": "to invite",
+    "ex": "Ich möchte dich einladen.",
+    "exZh": "我想邀请你。"
+  },
+  {
+    "de": "Einladung",
+    "art": "die",
+    "pl": "Einladungen",
+    "zh": "邀请",
+    "en": "invitation",
+    "ex": "Danke für die Einladung!",
+    "exZh": "谢谢你的邀请！"
+  },
+  {
+    "de": "Picknick",
+    "art": "das",
+    "pl": "Picknicks",
+    "zh": "野餐",
+    "en": "picnic",
+    "ex": "Wir machen am Sonntag ein Picknick.",
+    "exZh": "我们周日野餐。"
+  },
+  {
+    "de": "Park",
+    "art": "der",
+    "pl": "Parks",
+    "zh": "公园",
+    "en": "park",
+    "ex": "Der Park ist sehr schön.",
+    "exZh": "这个公园很漂亮。"
+  },
+  {
+    "de": "Lust haben (auf)",
+    "art": null,
+    "pl": null,
+    "zh": "对……有兴趣，想做……",
+    "en": "to feel like (doing)",
+    "ex": "Hast du Lust auf ein Picknick?",
+    "exZh": "你想去野餐吗？"
+  },
+  {
+    "de": "leider",
+    "art": null,
+    "pl": null,
+    "zh": "可惜，遗憾的是",
+    "en": "unfortunately",
+    "ex": "Ich habe leider keine Zeit.",
+    "exZh": "我很遗憾没有时间。"
+  },
+  {
+    "de": "ein anderes Mal",
+    "art": null,
+    "pl": null,
+    "zh": "下次，改天",
+    "en": "another time",
+    "ex": "Können wir ein anderes Mal joggen gehen?",
+    "exZh": "我们可以改天去慢跑吗？"
+  },
+  {
+    "de": "schade",
+    "art": null,
+    "pl": null,
+    "zh": "可惜",
+    "en": "a pity/shame",
+    "ex": "Schade! Vielleicht ein anderes Mal.",
+    "exZh": "真可惜！那就改天吧。"
+  },
+  {
+    "de": "klingt gut",
+    "art": null,
+    "pl": null,
+    "zh": "听起来不错",
+    "en": "sounds good",
+    "ex": "Das klingt gut, aber ich kann leider nicht.",
+    "exZh": "听起来不错，但我恐怕不行。"
+  },
+  {
+    "de": "draußen",
+    "art": null,
+    "pl": null,
+    "zh": "在外面，户外",
+    "en": "outside",
+    "ex": "Wir können draußen essen.",
+    "exZh": "我们可以在外面吃。"
+  },
+  {
+    "de": "drinnen",
+    "art": null,
+    "pl": null,
+    "zh": "在里面，室内",
+    "en": "inside",
+    "ex": "Heute möchte ich drinnen bleiben.",
+    "exZh": "今天我想待在室内。"
+  }
+]
