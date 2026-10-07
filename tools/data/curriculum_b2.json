@@ -737,69 +737,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "Mangels (+Gen.) 表示“由于缺乏……”，是典型的学术名词化因果介词短语。",
           "id": "B2_L01_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "名词化结构 (Nominalstil) 转化：将动词从句 'Während die Temperaturen steigen, ...' 转换为介词+名词短语是：",
           "options": [
-            "Mangels ausreichender Daten",
-            "Obwohl Daten da waren",
-            "Damit Daten fehlen",
-            "Während der Daten"
+            "Beim Steigen der Temperaturen",
+            "Wegen des Temperaturanstiegs",
+            "Während des Anstiegs der Temperaturen",
+            "Nachdem die Temperaturen stiegen"
           ],
-          "question": "______ (Weil die Daten fehlten) konnte die Hypothese nicht überprüft werden.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 2,
+          "explanation": "während + 从句转换为介词短语时，介词 während 支配第二格，动词 steigen 名词化为 der Anstieg：Während des Anstiegs der Temperaturen。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "die Prämisse 表示“逻辑论证的前提、预设前提条件”。",
           "id": "B2_L01_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "目的从句的名词化转换：'um das Problem zu lösen' 转换为介词短语为：",
           "options": [
-            "前提，假定前提",
-            "结论",
-            "数据异常值",
-            "反驳论据"
+            "zur Lösung des Problems",
+            "bei der Lösung des Problems",
+            "durch die Lösung des Problems",
+            "wegen Lösung des Problems"
           ],
-          "question": "“die Prämisse” 在科学论证与哲学思辨中的确切中文含义是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 0,
+          "explanation": "um...zu 目的从句在学术德语中常转换为 zu + Dativ (zur Lösung des Problems) 或 zwecks + Genitiv。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主动态变被动态：dass alle Faktoren wechselseitig beeinflusst werden。",
           "id": "B2_L01_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "原因从句转换为介词短语：'weil das Experiment scheiterte' -> '_____ des Experiments'",
           "options": [
-            "wechselseitig beeinflusst",
-            "beeinflussen gegenseitig",
-            "zu beeinflussen",
-            "beeinflussend"
+            "infolge des Scheiterns",
+            "trotz des Scheiterns",
+            "anstelle des Scheiterns",
+            "vor dem Scheitern"
           ],
-          "question": "Die Forscher gingen von der Annahme aus, dass alle Faktoren ______ (beeinflussen) werden.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "infolge + Genitiv 意为“由于……的后果/起因”，精确对应因果连词 weil。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "empirische Befunde = 实证研究结果，widerlegen = 驳斥、推翻，Lehrmeinung = 传统主流学说。",
           "id": "B2_L01_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "学术写作规范词：'die Hypothese aufstellen und verifizieren' 含义是：",
           "options": [
-            "实证研究结果明确推翻了以往的传统学术共识。",
-            "研究数据验证了传统学说。",
-            "实验因缺乏样本而宣告失败。",
-            "新的观点尚未获得任何证据支持。"
+            "提出假说并加以实证检验",
+            "推翻实验结论并重做",
+            "抄袭他人学术成果",
+            "放弃科学研究"
           ],
-          "question": "“Die empirischen Befunde widerlegen die bisherige Lehrmeinung eindeutig.” 表达的主旨是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 0,
+          "explanation": "eine Hypothese aufstellen 意为提出学术假设；verifizieren 意为验证证实（falsifizieren 意为证伪）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "标准学术句式：Die vorliegende Untersuchung widmet sich (+Dat.) ... (本项研究致力于……)。",
           "id": "B2_L01_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Erkenntnis' (科学认知、学术洞见) 的定冠词是：",
           "options": [
-            "Die vorliegende Untersuchung widmet sich der Analyse komplexer Phänomene.",
-            "Der Analyse komplexer Phänomene widmet sich die vorliegende Untersuchung nicht.",
-            "Die Untersuchung vorliegende widmet sich komplexer Phänomene.",
-            "Widmet sich die Untersuchung der Analyse komplexer Phänomene."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组规范学术论证句：“widmet sich / Die vorliegende Untersuchung / der Analyse komplexer Phänomene”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "以 -nis 结尾的名词大多为中性，但 die Erkenntnis, die Erlaubnis, die Finsternis, die Besorgnis 属于极少数特殊阴性名词！"
+        },
+        {
+          "id": "B2_L01_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "动词与名词搭配：'eine Schlussfolgerung _____' (得出结论)",
+          "options": [
+            "ziehen",
+            "machen",
+            "tun",
+            "stellen"
+          ],
+          "correctIndex": 0,
+          "explanation": "学术固定搭配：eine Schlussfolgerung ziehen（得出学术推论/结论）。"
+        },
+        {
+          "id": "B2_L01_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "德福/学术写作核心词：'der Forschungsgegenstand' 意思是：",
+          "options": [
+            "实验仪器",
+            "学术研究对象 / 探讨客体",
+            "资助机构",
+            "科研成果转化"
+          ],
+          "correctIndex": 1,
+          "explanation": "der Gegenstand（对象、客体）；der Forschungsgegenstand 指科学研究所聚焦的主题与研究对象。"
+        },
+        {
+          "id": "B2_L01_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "名词化风格 (Nominalstil) 在学术德语中的主要交际功能是：",
+          "options": [
+            "增加口语亲和力",
+            "高度压缩信息、提高客观性与概念密度",
+            "减少学术词汇使用",
+            "便于儿童理解"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nominalstil 是德语学术语体 (Wissenschaftssprache) 的灵魂，通过介词短语和第二格属性极大提升句式的信息承载密度与客观严肃性。"
+        },
+        {
+          "id": "B2_L01_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "动词 untersuchen 的名词化形式及性属是：",
+          "options": [
+            "die Untersuchung",
+            "das Untersuchen",
+            "der Untersuch",
+            "die Untersuchnis"
+          ],
+          "correctIndex": 0,
+          "explanation": "动词 untersuchen 派生出阴性动作名词 die Untersuchung（调查、研究）。"
+        },
+        {
+          "id": "B2_L01_Q10",
+          "type": "EXAM_REAL",
+          "question": "TestDaF 学术论文综述经典过渡句：",
+          "options": [
+            "Im Folgenden soll näher auf die Ursachen dieses Phänomens eingegangen werden.",
+            "Ich sage euch jetzt, warum das so ist.",
+            "Das Phänomen ist blöd.",
+            "Jeder weiß, warum das passiert."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Im Folgenden soll näher auf ... eingegangen werden'（下文将对……的成因展开进一步深入探讨）是严谨客观的学术语体范例。"
         }
       ]
     },
@@ -1536,69 +1601,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "扩展分词定语框架结构：定冠词 Die + 扩展成分 (gestern von beiden Seiten) + 第二分词词尾 (unterzeichnete) + 名词 (Vereinbarung)。",
           "id": "B2_L02_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "扩展分词定语 (Erweitertes Partizipialattribut) 解码：'die [von Experten entwickelte] Methode' 等同于关系从句：",
           "options": [
-            "gestern von beiden Seiten unterzeichnete",
-            "unterzeichnete gestern von beiden Seiten",
-            "gestern unterzeichnende von beiden Seiten",
-            "unterzeichnete Vereinbarung gestern"
+            "die Methode, die von Experten entwickelt wurde",
+            "die Methode, die Experten entwickeln",
+            "die Methode, die sich entwickelt hat",
+            "die Methode, die zu entwickeln ist"
           ],
-          "question": "Die ______ (gestern von beiden Seiten unterzeichnen) Vereinbarung tritt sofort in Kraft.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "Partizip II (entwickelte) 加定冠词 die 及修饰成分 von Experten，属于被动态第二分词定语，还原为定语从句即：die Methode, die von Experten entwickelt wurde。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "die Verhandlungssache 指在商业谈判中“有待协商讨价还价的事项”。",
           "id": "B2_L02_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "第一分词扩展定语解码：'die [stetig wachsende] Nachfrage nach Elektroautos' 等同于：",
           "options": [
-            "可谈判协商的事项",
-            "不可更改的既定条款",
-            "已生效判决",
-            "违约罚金"
+            "die Nachfrage, die stetig gewachsen ist",
+            "die Nachfrage, die stetig wächst",
+            "die Nachfrage, die wachsen muss",
+            "die Nachfrage, die gewachsen wurde"
           ],
-          "question": "“die Verhandlungssache” 的商务法律含义是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 1,
+          "explanation": "Partizip I (wachsend) 表示主动且正在进行的状态，还原为关系从句即：die Nachfrage, die stetig wächst。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "被动完成且修饰复数四格名词 Mehrkosten：die ... verursachten Mehrkosten。",
           "id": "B2_L02_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "及物动词第一分词带有 zu 构成表“必须/应当被……”的定语：'das [bis morgen abzugebende] Dokument' 含义是：",
           "options": [
-            "verursachten",
-            "verursachenden",
-            "verursacht",
-            "verursachend"
+            "das Dokument, das bis morgen abgegeben wurde",
+            "das Dokument, das bis morgen abgegeben werden muss",
+            "das Dokument, das abgegeben wird",
+            "das Dokument, das man abgeben kann"
           ],
-          "question": "Wir müssen die durch Rohstoffengpässe ______ (verursachen) Mehrkosten an die Kunden weitergeben.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 1,
+          "explanation": "Gerundiv (Partizip I + zu 作定语) 带有强制性被动含义，等同于 sein + zu + Infinitiv：das Dokument, das bis morgen abgegeben werden muss。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "sich einigen auf = 就…达成一致，schrittweise = 分阶段逐步，Lieferkonditionen = 供货交付条款。",
           "id": "B2_L02_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "商务谈判核心动词短语：'Verhandlungen führen / einen Vertrag abschließen' 含义是：",
           "options": [
-            "双方代表团就分阶段逐步调整供货条款达成一致。",
-            "谈判因分歧严重破裂。",
-            "买方拒绝接受任何交货调整。",
-            "供货协议被无条件终止。"
+            "开展商务谈判 / 签署达成合同",
+            "单方面中止合同 / 提起商业仲裁",
+            "恶意拖欠货款 / 宣告破产",
+            "裁员重组 / 降低成本"
           ],
-          "question": "“Beide Delegationen einigten sich auf eine schrittweise Anpassung der Lieferkonditionen.” 意味着：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 0,
+          "explanation": "Verhandlungen führen 指进行谈判；einen Vertrag abschließen 意为签订商业合同。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "标准商务德语固定客套句：介词短语放句首 + 动词 stehen + 主语 wir + 补足语。",
           "id": "B2_L02_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Wettbewerbsfähigkeit' (核心竞争力) 的定冠词是：",
           "options": [
-            "Für weitere Verhandlungen stehen wir Ihnen jederzeit gern zur Verfügung.",
-            "Jederzeit gern zur Verfügung für weitere Verhandlungen stehen wir Ihnen.",
-            "Für weitere Verhandlungen wir Ihnen jederzeit gern stehen zur Verfügung.",
-            "Wir stehen für weitere Verhandlungen zur Verfügung jederzeit gern."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组商业信函表达：“stehen wir Ihnen / Für weitere Verhandlungen / jederzeit gern zur Verfügung”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "-keit 结尾必为阴性名词：die Wettbewerbsfähigkeit。"
+        },
+        {
+          "id": "B2_L02_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "介词搭配：'verhandeln _____ den Preis' (就价格进行磋商)",
+          "options": [
+            "über",
+            "um",
+            "auf",
+            "an"
+          ],
+          "correctIndex": 0,
+          "explanation": "verhandeln über + Akkusativ（就某议题/价格进行洽谈）；也可用于 verhandeln um + Akkusativ（为争夺……而谈判）。"
+        },
+        {
+          "id": "B2_L02_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "跨国企业治理术语：'die Lieferkette / der Lieferengpass' 意思是：",
+          "options": [
+            "销售渠道 / 资金链断裂",
+            "供应链 / 供应链交付瓶颈与短缺",
+            "仓储物流 / 关税清关",
+            "生产流水线 / 员工罢工"
+          ],
+          "correctIndex": 1,
+          "explanation": "die Lieferkette 指供应链；der Lieferengpass 指供应链受阻导致的物料供应短缺瓶颈。"
+        },
+        {
+          "id": "B2_L02_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "扩展分词定语在句子中的语序结构铁律是：",
+          "options": [
+            "定冠词与被修饰名词之间夹入所有的修饰性状语及分词",
+            "分词放在被修饰名词之后",
+            "状语放在整句句末",
+            "被修饰名词放在定冠词前"
+          ],
+          "correctIndex": 0,
+          "explanation": "德语扩展定语具有著名的“括号/夹心结构”：[冠词 + 各种从属状语/补足语 + 第一/第二分词 + 被修饰名词]。"
+        },
+        {
+          "id": "B2_L02_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "形容词词尾规律（扩展定语中的分词）：'die [im Labor getesteten] Medikamente' (复数第四格)",
+          "options": [
+            "getestete",
+            "getesteten",
+            "getesteter",
+            "getestetes"
+          ],
+          "correctIndex": 1,
+          "explanation": "定冠词 die 后复数形容词/分词词尾一律加 -en：die im Labor getesteten Medikamente。"
+        },
+        {
+          "id": "B2_L02_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 商务信函（在妥协基础上达成共识）：",
+          "options": [
+            "Wir sind zuversichtlich, eine für beide Seiten vorteilhafte Einigung erzielt zu haben.",
+            "Ihr Angebot ist eine Frechheit.",
+            "Wir wollen kein Geschäft mehr machen.",
+            "Geben Sie uns 50 Prozent Rabatt."
+          ],
+          "correctIndex": 0,
+          "explanation": "'eine für beide Seiten vorteilhafte Einigung erzielt zu haben'（达成了令双方互利共赢的协议）是高阶商务德语精髓表达 (Win-Win-Situation)。"
         }
       ]
     },
@@ -2335,70 +2465,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "过去非现实条件从句的过去完成时虚拟搭配：hätte angehoben ..., wäre gestiegen。",
           "id": "B2_L03_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "两部分并列连词：'nicht nur ..., _____ auch' (不仅……而且……)：",
           "options": [
-            "wäre gestiegen",
-            "würde steigen",
-            "ist gestiegen",
-            "sei gestiegen",
-            "hatte gestiegen"
+            "sondern",
+            "aber",
+            "oder",
+            "noch"
           ],
-          "question": "Wenn die EZB die Zinsen nicht angehoben hätte, ______ (steigen) die Inflation noch dramatischer.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "固定搭配：nicht nur ..., sondern auch（不仅……而且……）。带有前面否定词时，转折并列用 sondern。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "die Konjunktur 指整体国民经济的周期性起伏与宏观景气循环。",
           "id": "B2_L03_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "双重否定并列连词：'weder ..., _____ ' (既不……也不……)：",
           "options": [
-            "宏观经济景气周期，商业周期",
-            "微观产品价格波动",
-            "公司破产重整",
-            "法定最低薪酬"
+            "oder",
+            "noch",
+            "sondern",
+            "auch"
           ],
-          "question": "“die Konjunktur” 在宏观经济学中的标准学术定义是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 1,
+          "explanation": "固定搭配：weder ... noch ...（既不……也不……），二者皆否定，后半句不可再加否定词 nicht。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "高阶第二虚拟式婉言表达：Es empföhle sich ... (建议……/……是明智之举)。",
           "id": "B2_L03_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "比例相关连词：'Je mehr man liest, _____ besser versteht man die Sprache.'",
           "options": [
-            "empföhle",
-            "empfiehlt",
-            "empfohlen",
-            "empfehle"
+            "desto",
+            "umso",
+            "sowohl",
+            "desto oder umso"
           ],
-          "question": "Es ______ (empfehlen) sich, die Währungsrisiken durch Termingeschäfte abzusichern.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 3,
+          "explanation": "je 后接比较级引出从句（动词在句末）；主句用 desto 或 umso 接比较级并紧跟变位动词（倒装）。两者皆完全正确且地道。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "Rezession = 经济衰退，drastisch = 严厉剧烈的，Investitionskürzungen = 削减投资。",
           "id": "B2_L03_Q4",
+          "type": "GRAMMAR_FILL",
+          "question": "并列连词 'sowohl ..., _____ auch' (既……且……)：",
           "options": [
-            "迫在眉睫的经济衰退促使企业大幅削减投资开支。",
-            "经济繁荣吸引大量资本涌入。",
-            "企业正在大规模扩招技术员工。",
-            "利率下降刺激了实体投资。"
+            "als",
+            "wie",
+            "und",
+            "oder"
           ],
-          "question": "“Eine drohende Rezession veranlasst Unternehmen zu drastischen Investitionskürzungen.” 意味着：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 0,
+          "explanation": "固定搭配：sowohl ... als auch ...（既……也……，两者兼有）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主语(Ein Anstieg der Rohstoffpreise) + 谓语(führte) + 状语(unweigerlich) + 介词补足语(zu höherer Inflation)。",
           "id": "B2_L03_Q5",
+          "type": "VOCAB_MEANING",
+          "question": "宏观经济学高频词：'die Inflation / der Leitzins' 含义分别是：",
           "options": [
-            "Ein Anstieg der Rohstoffpreise führte unweigerlich zu höherer Inflation.",
-            "Unweigerlich führte zu höherer Inflation ein Anstieg der Rohstoffpreise nicht.",
-            "Zu höherer Inflation ein Anstieg der Rohstoffpreise unweigerlich führte.",
-            "Führte ein Anstieg der Rohstoffpreise unweigerlich zu höherer Inflation."
+            "通货紧缩 / 股票分红",
+            "通货膨胀（物价飞涨） / 中央银行基准利率",
+            "贸易顺差 / 国债收益率",
+            "失业率 / 人均国内生产总值"
           ],
-          "question": "重组宏观经济分析句：“führte / Ein Anstieg der Rohstoffpreise / unweigerlich / zu höherer Inflation”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "die Inflation 指通货膨胀，der Leitzins 是央行调控宏观经济与货币政策的核心基准利率。"
+        },
+        {
+          "id": "B2_L03_Q6",
+          "type": "ARTICLE",
+          "question": "名词 'Bruttoinlandsprodukt' (国内生产总值 GDP) 的定冠词是：",
+          "options": [
+            "der",
+            "die",
+            "das",
+            "den"
+          ],
+          "correctIndex": 2,
+          "explanation": "das Produkt 结尾，复合词必定为中性：das Bruttoinlandsprodukt (BIP)。"
+        },
+        {
+          "id": "B2_L03_Q7",
+          "type": "GRAMMAR_FILL",
+          "question": "二选一连词：'entweder ..., _____ ' (要么……要么……)：",
+          "options": [
+            "oder",
+            "noch",
+            "sondern",
+            "als"
+          ],
+          "correctIndex": 0,
+          "explanation": "固定搭配：entweder ... oder ...（要么……要么……，二选一排他）。"
+        },
+        {
+          "id": "B2_L03_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "je...desto 句式的严密语序结构是：",
+          "options": [
+            "Je + 比较级 + 从句(动词在末), desto + 比较级 + 动词 + 主语",
+            "Je + 比较级 + 动词 + 主语, desto + 比较级 + 从句(动词在末)",
+            "Je + 主语 + 动词, desto + 比较级 + 动词",
+            "Je ... desto 无任何语序要求"
+          ],
+          "correctIndex": 0,
+          "explanation": "Je 引导从属从句（动词位于从句绝对末位）；desto/umso 引导主句，比较级后必须紧跟变位动词（倒装语序）。"
+        },
+        {
+          "id": "B2_L03_Q9",
+          "type": "VOCAB_MEANING",
+          "question": "国际贸易术语：'die Handelsbilanz / der Zoll' 含义是：",
+          "options": [
+            "商品质检报告 / 运费",
+            "外贸进出口差额(贸易平衡表) / 关税",
+            "外汇汇率 / 银行担保",
+            "海运提单 / 信用证"
+          ],
+          "correctIndex": 1,
+          "explanation": "die Handelsbilanz 指贸易收支差额；der Zoll 指进出口关税或海关。"
+        },
+        {
+          "id": "B2_L03_Q10",
+          "type": "EXAM_REAL",
+          "question": "TestDaF 经济图表分析典型趋势描述：",
+          "options": [
+            "Im Gegensatz zum Vorjahr ist ein kontinuierlicher Anstieg der Exportzahlen zu verzeichnen.",
+            "Zahlen gehen rauf.",
+            "Exporte sind super.",
+            "Alles wird teurer."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Im Gegensatz zum Vorjahr ist ein kontinuierlicher Anstieg der Exportzahlen zu verzeichnen'（与前一年相比，出口额呈现出持续平稳的增长态势）是德福图表分析金牌范例句。"
         }
       ]
     },
@@ -3135,69 +3329,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "sein + zu + 不定式 表示必须被做：Die strittigen Punkte sind bis morgen zu klären。",
           "id": "B2_L04_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "高级第二格介词：'_____ mangelnder Beweise wurde der Angeklagte freigesprochen.' (由于缺乏证据)",
           "options": [
-            "sind",
-            "haben",
-            "lassen",
-            "werden"
+            "Mangels",
+            "Trotz",
+            "Wegen",
+            "Kraft"
           ],
-          "question": "Die strittigen Punkte des Vertrags ______ (müssen... klären) bis morgen zu klären.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "mangels + Genitiv（缺乏…… / 因缺少……），是德国司法与公文中的地道古雅第二格介词。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "die Unschuldsvermutung 表示在法庭终审宣判有罪之前人人依法享有“无罪推定”。",
           "id": "B2_L04_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "第二格介词 anlässlich 填空：'_____ des 100-jährigen Jubiläums wurde eine Feier veranstaltet.'",
           "options": [
-            "无罪推定原则",
-            "罪刑法定原则",
-            "证据排除规则",
-            "一事不再理"
+            "Anlässlich",
+            "Infolge",
+            "Kraft",
+            "Unbeschadet"
           ],
-          "question": "“die Unschuldsvermutung” 作为现代刑事诉讼法的基石，中文含义是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 0,
+          "explanation": "anlässlich + Genitiv 意为“值此……之际 / 逢……的庆典”，用于重大节日或纪念日。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "sich lassen + 不定式（不带 zu）表示“能够被……”，后接纯动词原形 ignorieren。",
           "id": "B2_L04_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "第二格介词 zugunsten 填空：'Er verzichtete auf sein Erbe _____ seiner jüngeren Schwester.'",
           "options": [
-            "ignorieren",
-            "zu ignorieren",
-            "ignoriert",
-            "ignorierend"
+            "zugunsten",
+            "infolge",
+            "mangels",
+            "zuungunsten"
           ],
-          "question": "Diese schwerwiegenden Vorwürfe lassen sich nicht länger ______ (ignorieren).",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "zugunsten + Genitiv 意为“为了有利于…… / 惠及……”。zuungunsten 则表示“不利于……”。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "Klage abweisen = 驳回诉讼请求，aus Mangel an Beweisen = 因缺乏证据，vollumfänglich = 全面地。",
           "id": "B2_L04_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "法律德语核心术语：'die Unschuldsvermutung' 含义是：",
           "options": [
-            "法院因缺乏确凿证据全面驳回了原告的诉讼请求。",
-            "被告被当庭判处全额赔偿。",
-            "案件被移交上级法院重审。",
-            "双方达成庭外和解。"
+            "自首从宽原则",
+            "无罪推定原则（未经法院审判定罪前推定被告无罪）",
+            "直接定罪原则",
+            "附带民事赔偿"
           ],
-          "question": "“Das Gericht wies die Klage aus Mangel an stichhaltigen Beweisen vollumfänglich ab.” 的裁决结果是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "die Unschuldsvermutung（无罪推定）是法治国家刑事诉讼基石：Jede Person gilt bis zum Beweis ihrer Schuld als unschuldig。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "基本法核心法治国原则：所有国家权力机关均受宪法与现行法律的严格约束 (an Recht und Gesetz gebunden sein)。",
           "id": "B2_L04_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Grundgesetz' (德意志联邦共和国基本法/宪法) 的定冠词是：",
           "options": [
-            "Alle staatlichen Organe sind an Recht und Gesetz gebunden.",
-            "An Recht und Gesetz sind alle staatlichen gebunden Organe.",
-            "Alle Organe staatlichen gebunden sind an Recht und Gesetz.",
-            "Gebunden sind alle staatlichen Organe nicht an Recht und Gesetz."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组法治宪政原则表述：“sind an Recht und Gesetz / Alle staatlichen Organe / gebunden”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 2,
+          "explanation": "das Gesetz 结尾，复合词必定为中性：das Grundgesetz (GG)。"
+        },
+        {
+          "id": "B2_L04_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "法律条文第二格介词 kraft (依据、凭借)：'_____ seines Amtes erließ der Richter den Beschluss.'",
+          "options": [
+            "Kraft",
+            "Statt",
+            "Trotz",
+            "Mangels"
+          ],
+          "correctIndex": 0,
+          "explanation": "kraft + Genitiv 表示“凭借……的权力 / 基于……的法定职权”：kraft seines Amtes（基于其公职职权）。"
+        },
+        {
+          "id": "B2_L04_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "民事侵权法词汇：'der Schadensersatz' 意思是：",
+          "options": [
+            "刑事监禁",
+            "损害民事赔偿金",
+            "行政警告处分",
+            "法律援助金"
+          ],
+          "correctIndex": 1,
+          "explanation": "der Schaden（损失）+ der Ersatz（赔偿）= 损害赔偿；Schadensersatz leisten 意为进行民事赔偿。"
+        },
+        {
+          "id": "B2_L04_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "第二格公文介词 unbeschadet 的含义与搭配：'unbeschadet _____ gesetzlichen Regelungen' (die)",
+          "options": [
+            "der",
+            "des",
+            "den",
+            "dem"
+          ],
+          "correctIndex": 0,
+          "explanation": "unbeschadet + Genitiv 意为“在不损害/不违反……规定的前提下”；修饰阴性复数 Regelungen 冠词为 der。"
+        },
+        {
+          "id": "B2_L04_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "法律关系介词 laut (依据、按照)：现代公文德语中 laut 后接第二格（或第三格）：'laut _____ Berichts' (der)",
+          "options": [
+            "des",
+            "dem",
+            "den",
+            "der"
+          ],
+          "correctIndex": 0,
+          "explanation": "laut 支配第二格：laut des Berichts（依据该报告）；在省略冠词时亦可接第三格 laut Bericht。"
+        },
+        {
+          "id": "B2_L04_Q10",
+          "type": "EXAM_REAL",
+          "question": "德国法学论述核心名言：德意志联邦共和国基本法第一条第一款：",
+          "options": [
+            "Die Würde des Menschen ist unantastbar.",
+            "Alle Staatsgewalt geht vom Volke aus.",
+            "Eigentum verpflichtet.",
+            "Freiheit, Gleichheit, Brüderlichkeit."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Die Würde des Menschen ist unantastbar'（人的尊严不可侵犯）是德国《基本法》Art. 1 Abs. 1 GG 的首句，德意志宪法的最高灵魂准则。"
         }
       ]
     },
@@ -3934,69 +4193,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "ungeachtet 表示让步关系“尽管/不顾……”，符合句意“不顾伦理方面的重重疑虑”。",
           "id": "B2_L05_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "被动替代形式：'sich lassen + Infinitiv' 表示可能性：'Dieses schwierige Problem lässt sich leicht lösen.' 等同于：",
           "options": [
-            "Ungeachtet",
-            "Angesichts",
-            "Zwecks",
-            "Anlässlich"
+            "kann leicht gelöst werden",
+            "muss leicht gelöst werden",
+            "sollte nicht gelöst werden",
+            "wird von sich selbst gelöst"
           ],
-          "question": "______ (Angesichts / Zwecks / Ungeachtet) ethischer Bedenken trieb das Labor die Klonversuche voran.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "sich lassen + 不定式等同于 können + 被动态（表示“能够被…… / 可以被……”）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "CRISPR-Cas9 是一种革命性的高精度基因组定点靶向修饰剪切技术。",
           "id": "B2_L05_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "形容词后缀 -lich 构成的被动含义：'Das ist ein erklärlicher Fehler.' 意思是：",
           "options": [
-            "精准定点基因组编辑技术",
-            "化疗药物分子靶向递送",
-            "干细胞培养基杀菌剂",
-            "传统疫苗灭活助剂"
+            "Dieser Fehler muss erklärt werden.",
+            "Dieser Fehler kann erklärt werden.",
+            "Niemand kann diesen Fehler erklären.",
+            "Dieser Fehler erklärt sich."
           ],
-          "question": "“die CRISPR-Genschere” 在现代分子生物学中的突破性功能是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 1,
+          "explanation": "erklärlich = kann erklärt werden（可以得到解释的/情有可原的）。类似还有 verständlich (kann verstanden werden)。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "zwecks (+Gen.) 表示目的：“为了避免严重遗传病……”。",
           "id": "B2_L05_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "被动替代句式：'es gilt, ... zu + Infinitiv' 含义是：",
           "options": [
-            "Zwecks",
-            "Trotz",
-            "Während",
-            "Entlang"
+            "es ist verboten, ... zu tun",
+            "es ist notwendig / man muss, ... tun",
+            "es ist unmöglich, ... zu tun",
+            "es ist freiwillig, ... zu tun"
           ],
-          "question": "______ (Zwecks) der Vermeidung schwerer Erbkrankheiten forschen Genetiker an Therapien.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 1,
+          "explanation": "es gilt, etwas zu tun 是高阶公文与论说文中极其常见的句型，意为“当务之急是做某事 / 必须做某事” (es ist erforderlich / man muss)。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "Deutscher Ethikrat = 德国伦理委员会，Keimbahneingriff = 生殖系基因干预，strikte Grenzen = 严格界限。",
           "id": "B2_L05_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "生命伦理学争议焦点：'die Genmanipulation an menschlichen Embryonen' 含义是：",
           "options": [
-            "德国伦理理事会告诫必须对人类生殖系基因干预划定极其严格的监管红线。",
-            "基因编辑生殖细胞已被全面合法化。",
-            "伦理委员会已批准所有临床试验。",
-            "基因干预对后代没有任何遗传风险。"
+            "试管婴儿日常体检",
+            "人类胚胎基因编辑 / 基因操纵改造",
+            "胎儿器官超声扫描",
+            "无痛分娩技术"
           ],
-          "question": "“Der Deutsche Ethikrat mahnt zu strikten regulatorischen Grenzen bei Keimbahneingriffen.” 表达的核心主张是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "die Genmanipulation（基因改造）与人类胚胎干细胞研究在伦理学界引发激烈激辩与立法规范。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主语 (Die Manipulation menschlicher DNA) + 谓语动词 (erfordert) + 宾语 (eine tiefgehende ethische Debatte)。",
           "id": "B2_L05_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Würde' (尊严) 的定冠词是：",
           "options": [
-            "Die Manipulation menschlicher DNA erfordert eine tiefgehende ethische Debatte.",
-            "Eine ethische Debatte tiefgehende erfordert die Manipulation menschlicher DNA.",
-            "Die Manipulation DNA menschlicher erfordert tiefgehende eine Debatte.",
-            "Erfordert eine tiefgehende ethische Debatte die Manipulation menschlicher DNA nicht."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组生物技术伦理命题：“erfordert / Die Manipulation menschlicher DNA / eine tiefgehende ethische Debatte”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "die Würde (阴性名词)，如 die Menschenwürde（人的尊严）。"
+        },
+        {
+          "id": "B2_L05_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "被动替代句式：'es bleibt, ... zu + Infinitiv'：'Es bleibt abzuwarten, wie sich die Lage entwickelt.' 含义是：",
+          "options": [
+            "Man muss noch abwarten.",
+            "Man darf nicht abwarten.",
+            "Niemand will abwarten.",
+            "Es ist verboten abzuwarten."
+          ],
+          "correctIndex": 0,
+          "explanation": "es bleibt zu tun = man muss noch ... tun / es ist noch zu tun（尚有待于/仍需要去做某事）。"
+        },
+        {
+          "id": "B2_L05_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "临床医学伦理术语：'die informierte Einwilligung' (Informed Consent) 是指：",
+          "options": [
+            "医生全权替患者做决定",
+            "患者在充分知悉病情、诊疗方案及手术风险后自主做出的知情同意签署",
+            "医疗事故免责协议",
+            "医保报销申请"
+          ],
+          "correctIndex": 1,
+          "explanation": "Informed Consent（知情同意）保障患者生命自主权，手术或实验前必须详细告知风险并征求其知情签署。"
+        },
+        {
+          "id": "B2_L05_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "将下列词语按 sich lassen 被动替代形式组成合规德语句子：",
+          "options": [
+            "Diese Frage lässt sich wissenschaftlich nicht eindeutig beantworten.",
+            "Diese Frage lässt sich nicht beantworten eindeutig wissenschaftlich.",
+            "Lässt diese Frage sich wissenschaftlich beantworten nicht eindeutig.",
+            "Diese Frage wissenschaftlich nicht lässt sich eindeutig beantworten."
+          ],
+          "correctIndex": 0,
+          "explanation": "主语 Diese Frage + 变位动词 lässt + 反身 sich + 状语 + 不定式 beantworten 置于句末。"
+        },
+        {
+          "id": "B2_L05_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "形容词后缀 -bar 被动替代：'Das Problem ist unlösbar.' 等同于：",
+          "options": [
+            "Das Problem kann nicht gelöst werden.",
+            "Das Problem muss gelöst werden.",
+            "Das Problem soll gelöst werden.",
+            "Niemand löst das Problem."
+          ],
+          "correctIndex": 0,
+          "explanation": "unlösbar = kann nicht gelöst werden（无法被解决的）。"
+        },
+        {
+          "id": "B2_L05_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 生命伦理思辩观点阐述：",
+          "options": [
+            "Der wissenschaftliche Fortschritt darf nicht auf Kosten grundlegender ethischer Prinzipien erzielt werden.",
+            "Wissenschaftler dürfen alles tun, was sie wollen.",
+            "Ethik ist veraltet.",
+            "Medizin braucht keine Gesetze."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Der wissenschaftliche Fortschritt darf nicht auf Kosten grundlegender ethischer Prinzipien erzielt werden'（科学进步绝不能以牺牲基本伦理准则为代价）是经典 B2 伦理辩论论点。"
         }
       ]
     },
@@ -4733,69 +5057,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "转述复数主语时，第一虚拟式复数形式为 seien。",
           "id": "B2_L06_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "情态动词主观推测用法 (Epistemische Modalverben)：'müssen' 表达何种推测把握度？'Er muss im Büro sein.'",
           "options": [
-            "seien",
-            "sind",
-            "wären",
-            "waren"
+            "完全不可能 (0%)",
+            "非常肯定、几乎百分之百确信 (95-100%)",
+            "微弱可能 (30%)",
+            "道听途说转述他人所言"
           ],
-          "question": "Die KI-Ethikerin betonte, autonome Waffensysteme ______ (sein) völkerrechtlich zu ächten.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 1,
+          "explanation": "müssen 的主观用法表示说话人根据确凿证据做出的高度确定推测（逻辑必然性，把握度高达 95%-100%）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "der Algorithmus 指用于解决特定问题或执行计算的“算法、解题程序规则”。",
           "id": "B2_L06_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "情态动词 dürfte 主观用法表达的推测程度：'Der Zug dürfte pünktlich ankommen.'",
           "options": [
-            "算法，计算规则",
-            "数据黑客",
-            "硬件加速卡",
-            "屏幕分辨率"
+            "毫无根据的瞎猜",
+            "极有可能、很可能 (Wahrscheinlichkeit ~75%)",
+            "绝对不可能",
+            "被他人严厉禁止"
           ],
-          "question": "“der Algorithmus” 在计算机科学与社会学中的确切中文含义是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 1,
+          "explanation": "dürfte 是 dürfen 的第二虚拟式主观用法，表示根据常理推测的“很有可能”（相当于 wahrscheinlich）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "第三人称单数间接引语第一虚拟式用 habe。",
           "id": "B2_L06_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "情态动词 sollen 的主观用法（转述传闻）：'Der Minister soll zurücktreten.' 含义是：",
           "options": [
-            "habe",
-            "hat",
-            "hätte",
-            "hatte"
+            "部长必须被迫辞职",
+            "部长打算辞职",
+            "据说 / 据传闻部长要辞职（说话人不担保真伪）",
+            "部长被允许辞职"
           ],
-          "question": "Laut Regierungsbericht ______ (haben) das KI-Gesetz bereits erste positive Effekte gezeigt.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 2,
+          "explanation": "sollen 作主观用法时表示转述他人传闻或外间谣传（据说……，man sagt, dass ...），说话人对传闻真实性持中立保留态度。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "gesellschaftliche Vorurteile = 社会偏见，reproduzieren = 复制、再生产。",
           "id": "B2_L06_Q4",
+          "type": "GRAMMAR_FILL",
+          "question": "情态动词 wollen 的主观用法（自吹自擂 / 声称）：'Er will den Nobelpreis gewonnen haben.' 含义是：",
           "options": [
-            "算法可能会复现并强化既有的社会偏见与歧视。",
-            "算法能够彻底根除一切社会偏见。",
-            "算法在做决策时绝对客观公正。",
-            "人类无法对算法进行任何监管。"
+            "他渴望赢得诺贝尔奖",
+            "他声称自己赢得了诺贝尔奖（说话人对其表示怀疑）",
+            "他被评委会颁发了诺贝尔奖",
+            "他不得不放弃诺贝尔奖"
           ],
-          "question": "“Algorithmen können gesellschaftliche Vorurteile und Diskriminierung reproduzieren.” 表达的核心观点是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "wollen 作主观用法表示某人“自诩、声称自己做了某事”（er behauptet, dass ...），但说话人往往暗示此说法可疑或未经证实。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主语 (Künstliche Intelligenz) + 谓语 (benötigt) + 宾语 (strikte ethische Leitplanken) + 状语 (für ihren Einsatz)。",
           "id": "B2_L06_Q5",
+          "type": "VOCAB_MEANING",
+          "question": "人工智能哲学核心议题：'die algorithmische Verzerrung' (Algorithmic Bias) 是指：",
           "options": [
-            "Künstliche Intelligenz benötigt strikte ethische Leitplanken für ihren Einsatz.",
-            "Für ihren Einsatz künstliche Intelligenz strikte ethische Leitplanken benötigt.",
-            "Strikte ethische Leitplanken künstliche Intelligenz für ihren Einsatz benötigt nicht.",
-            "Benötigt künstliche Intelligenz strikte ethische Leitplanken für ihren Einsatz."
+            "电脑屏幕分辨率失真",
+            "训练数据或算法模型中潜藏的算法偏见与歧视性倾向",
+            "计算机散热故障",
+            "网络信号延迟"
           ],
-          "question": "重组规范科技伦理命题：“strikte ethische Leitplanken / Künstliche Intelligenz / benötigt / für ihren Einsatz”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "algorithmische Verzerrung 指机器学习算法受训练集历史偏差影响而做出的歧视性或偏颇决策。"
+        },
+        {
+          "id": "B2_L06_Q6",
+          "type": "ARTICLE",
+          "question": "名词 'Künstliche Intelligenz' (人工智能 AI) 的定冠词是：",
+          "options": [
+            "der",
+            "die",
+            "das",
+            "den"
+          ],
+          "correctIndex": 1,
+          "explanation": "die Intelligenz 是阴性名词，故定冠词为 die：die Künstliche Intelligenz (KI)。"
+        },
+        {
+          "id": "B2_L06_Q7",
+          "type": "GRAMMAR_FILL",
+          "question": "情态动词对过去的推测构成：'情态动词现在时 + 完成时不定式 (Partizip II + haben/sein)'：'Er _____ den Zug verpasst haben.' (极有可能)",
+          "options": [
+            "dürfte",
+            "musste",
+            "sollte",
+            "wollte"
+          ],
+          "correctIndex": 0,
+          "explanation": "对过去的很有可能推测：dürfte + verpasst haben（他极有可能赶不上火车了）。"
+        },
+        {
+          "id": "B2_L06_Q8",
+          "type": "VOCAB_MEANING",
+          "question": "数字治理核心词：'die Transparenz von Algorithmen' 含义是：",
+          "options": [
+            "透明外壳硬件设计",
+            "算法决策过程与机制的可解释性与公开透明度",
+            "取消所有数据保护",
+            "完全免费开源"
+          ],
+          "correctIndex": 1,
+          "explanation": "Transparenz 指黑箱算法模型向公众和监管机构展示其决策逻辑与依据的公开透明度。"
+        },
+        {
+          "id": "B2_L06_Q9",
+          "type": "SENTENCE_BUILDER",
+          "question": "主观推测语序排列：'Er / der Täter / sein / nicht / kann (不可能)'",
+          "options": [
+            "Er kann nicht der Täter sein.",
+            "Er nicht der Täter sein kann.",
+            "Kann er nicht der Täter sein.",
+            "Der Täter er kann nicht sein."
+          ],
+          "correctIndex": 0,
+          "explanation": "kann nicht ... sein 表示主观推测上的“绝不可能是……”（0% 把握）：Er kann nicht der Täter sein。"
+        },
+        {
+          "id": "B2_L06_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 人工智能伦理论述：",
+          "options": [
+            "Künstliche Intelligenz birgt enormes Potenzial, erfordert jedoch klare ethische und regulatorische Rahmenbedingungen.",
+            "Roboter werden alle Menschen vernichten.",
+            "KI ist ein Spielzeug ohne praktischen Nutzen.",
+            "Computer dürfen niemals Gesetze befolgen."
+          ],
+          "correctIndex": 0,
+          "explanation": "'... birgt enormes Potenzial, erfordert jedoch klare ethische und regulatorische Rahmenbedingungen'（潜藏着巨大的潜力，然而亟需明确的伦理与监管框架）是典型的满分论辩模式。"
         }
       ]
     },
@@ -5532,69 +5921,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "先行词是阴性单数 die Patientin，第二格物主关系代词必须用 deren。",
           "id": "B2_L07_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "连词 ohne ... zu + Infinitiv (未做某事便...)：'Er ging an mir vorbei, _____ mich _____.' (grüßen)",
           "options": [
-            "deren",
-            "dessen",
-            "welcher",
-            "denen"
+            "ohne / zu grüßen",
+            "anstatt / zu grüßen",
+            "um / zu grüßen",
+            "ohne / grüßte"
           ],
-          "question": "Die Patientin, ______ (deren / dessen / welcher) Gedächtnisleistung untersucht wurde, erholte sich rasch.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "ohne ... zu + 不定式表示伴随否定（前后主语一致），意为“没有做……就…… / 竟然连招呼都没打”。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "die Neuroplastizität 指人脑神经回路在后天学习刺激下终身具备“神经可塑性”。",
           "id": "B2_L07_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "连词 anstatt ... zu + Infinitiv (不去做...反倒做...)：'_____ seine Fehler zuzugeben, beschuldigte er andere.'",
           "options": [
-            "大脑神经突触随学习与经验终身重塑重构的能力",
-            "脑血管硬化指数",
-            "头骨外伤修复速度",
-            "神经系统遗传退化"
+            "Ohne",
+            "Anstatt",
+            "Um",
+            "Damit"
           ],
-          "question": "“die Neuroplastizität” 在现代脑科学中的重大理论发现是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 1,
+          "explanation": "anstatt ... zu + 不定式表示代替性对比（本该做 A 却做了 B）：Anstatt seine Fehler zuzugeben（没有承认自己的错误，反倒去指责别人）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "先行词是阳性单数 der Wissenschaftler，第二格所属关系代词用 dessen。",
           "id": "B2_L07_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "前后主语不一致时，ohne dass 从句的使用：'Sie verließ den Raum, _____ er es bemerkte.'",
           "options": [
-            "dessen",
-            "deren",
-            "dem",
-            "desselben"
+            "ohne dass",
+            "ohne zu",
+            "anstatt",
+            "damit"
           ],
-          "question": "Der Wissenschaftler, ______ (dessen / deren / dem) Thesen diskutiert wurden, hielt einen Vortrag.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "主语不同时（Sie vs er），【不能】使用 ohne zu，强制使用连词 ohne dass 引导从属从句！"
         },
         {
-          "correctIndex": 0,
-          "explanation": "Kognitive Dissonanz = 认知失调，im Widerspruch stehen = 处于自相矛盾之中。",
           "id": "B2_L07_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "认知心理学高频词：'die kognitive Dissonanz' 表现为：",
           "options": [
-            "当实际行为与内心深层信念发生冲突矛盾时，便会诱发认知失调与心理不适。",
-            "行为完全由潜意识决定。",
-            "认知能力随年龄下降。",
-            "大脑无法同时处理两条信息。"
+            "听力受损导致的噪音耳鸣",
+            "个体自身的认知、信念与实际行为产生矛盾冲突时产生的心理不适与焦虑",
+            "失忆症",
+            "阅读障碍"
           ],
-          "question": "“Kognitive Dissonanz entsteht, wenn Handeln und innere Überzeugungen im Widerspruch stehen.” 描述的心理学机制是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "die kognitive Dissonanz（认知失调）指人的思想认知与外部行为发生对立冲突时的内心心理失衡状态。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主语 (Das menschliche Gehirn) + 谓语 (verarbeitet) + 状语 (ununterbrochen) + 宾语 (sensorische Reize)。",
           "id": "B2_L07_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Gehirn' (大脑、智力) 的定冠词是：",
           "options": [
-            "Das menschliche Gehirn verarbeitet ununterbrochen sensorische Reize.",
-            "Ununterbrochen sensorische Reize das menschliche Gehirn verarbeitet.",
-            "Sensorische Reize das menschliche Gehirn verarbeitet ununterbrochen nicht.",
-            "Verarbeitet das menschliche Gehirn ununterbrochen sensorische Reize."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组认知神经学核心句式：“verarbeitet / Ununterbrochen / sensorische Reize / Das menschliche Gehirn”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 2,
+          "explanation": "das Gehirn (中性名词，Pl. die Gehirne)。"
+        },
+        {
+          "id": "B2_L07_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "anstatt dass 从句（主语不一致）：'Der Chef schickte eine E-Mail, _____ er persönlich mit dem Mitarbeiter sprach.'",
+          "options": [
+            "anstatt dass",
+            "anstatt zu",
+            "ohne zu",
+            "damit"
+          ],
+          "correctIndex": 0,
+          "explanation": "当主从句动作执行主体不同或强调完整句子时，使用 anstatt dass 引导从句，动词 sprach 在句末。"
+        },
+        {
+          "id": "B2_L07_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "脑科学前沿概念：'die neuronale Plastizität' 含义是：",
+          "options": [
+            "大脑神经元的不可逆衰老",
+            "大脑神经回路随学习与经验发生重塑与结构改变的可塑性",
+            "脑部人工塑料植入物",
+            "短暂性脑缺血"
+          ],
+          "correctIndex": 1,
+          "explanation": "Neuroplastizität（神经可塑性）是大脑神经突触根据环境刺激与终身学习不断建立全新联结的能力。"
+        },
+        {
+          "id": "B2_L07_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "排列带有 ohne zu 的正确句子：",
+          "options": [
+            "Er traf eine riskante Entscheidung, ohne die Konsequenzen zu bedenken.",
+            "Er traf eine riskante Entscheidung, ohne die Konsequenzen bedachte zu.",
+            "Ohne zu die Konsequenzen bedenken er traf eine riskante Entscheidung.",
+            "Er ohne die Konsequenzen zu bedenken traf eine Entscheidung riskante."
+          ],
+          "correctIndex": 0,
+          "explanation": "主句先行，逗号后衔接 ohne + 宾语 die Konsequenzen + 不定式 zu bedenken。"
+        },
+        {
+          "id": "B2_L07_Q9",
+          "type": "VOCAB_MEANING",
+          "question": "心理学动词短语：'unterbewusst wahrnehmen' 意思是：",
+          "options": [
+            "潜意识地下意识地感知到",
+            "刻意集中注意力观察",
+            "视觉完全失明",
+            "过度夸大外界刺激"
+          ],
+          "correctIndex": 0,
+          "explanation": "unterbewusst 指潜意识的；wahrnehmen 意为感知、觉察。"
+        },
+        {
+          "id": "B2_L07_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 心理学科普汇报总结：",
+          "options": [
+            "Das menschliche Gehirn ist bis ins hohe Alter lernfähig und anpassungsfähig.",
+            "Ab 20 Jahren lernt das Gehirn nichts mehr.",
+            "Psychologie ist keine echte Wissenschaft.",
+            "Gedächtnis lässt sich nicht trainieren."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Das menschliche Gehirn ist bis ins hohe Alter lernfähig und anpassungsfähig'（人类大脑即便到了高龄依然具备学习与适应能力）展示了精准的科学表达。"
         }
       ]
     },
@@ -6331,69 +6785,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "je + 比较级 ..., desto + 比较级 ...: desto mehr Methan wird freigesetzt。",
           "id": "B2_L08_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "状态被动态 (Zustandspassiv) vs 过程被动态 (Vorgangspassiv)：'Die Tür wird um 18 Uhr geschlossen.' (过程) 与 'Die Tür ist um 18 Uhr geschlossen.' (状态) 区别在于：",
           "options": [
-            "desto mehr",
-            "desto",
-            "umso schneller",
-            "weil mehr"
+            "前者表示关门这一动作动作正在发生；后者表示关门动作已经完成且处于关闭状态",
+            "两句毫无区别",
+            "前者表示门坏了",
+            "后者表示门正被打开"
           ],
-          "question": "Je schneller die Permafrostböden auftauen, ______ (desto mehr / desto / umso schneller) Methan wird freigesetzt.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "Vorgangspassiv (werden + Part. II) 强调动作过程本身；Zustandspassiv (sein + Part. II) 强调动作实施完成后所遗留下的静止结果状态。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "der Kipppunkt (tipping point) 指气候系统一旦被突破即触发不可逆连锁崩溃的“临界点”。",
           "id": "B2_L08_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "受益者被动态 / 接受者被动态 (Rezipientenpassiv)：'Der Chef schenkte dem Mitarbeiter eine Uhr.' 转为受动者作主语的被动态为：'Der Mitarbeiter _____ eine Uhr geschenkt.'",
           "options": [
-            "不可逆生态崩溃临界点",
-            "全球碳排放峰值年",
-            "海洋潮汐最低点",
-            "极地科考补给站"
+            "bekam",
+            "wurde",
+            "war",
+            "hatte"
           ],
-          "question": "“der Kipppunkt” 在全球气候动力学系统中的科学含义是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 0,
+          "explanation": "Rezipientenpassiv 以 bekamen / kriegten / erhielten + Partizip II 构成，将原第三格间接宾语（受益人）升格为主语。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "固定递进搭配：nicht nur ..., sondern auch ... (不仅……而且……)。",
           "id": "B2_L08_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "状态被动态过去时构成：'Das Geschäft _____ gestern den ganzen Tag geschlossen.' (sein im Präteritum)",
           "options": [
-            "nicht nur",
-            "sowohl",
-            "weder",
-            "zwar"
+            "war",
+            "wurde",
+            "worden",
+            "gewesen"
           ],
-          "question": "Die Industriestaaten müssen ______ (nicht nur) die Emissionen senken, sondern auch Entwicklungsländer finanziell unterstützen.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "状态被动态过去时由 war / waren + 第二分词构成：war geschlossen（处于关门状态）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "planetare Belastungsgrenzen = 地球极限承载边界，gefährdet die Existenz = 危及生存。",
           "id": "B2_L08_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "全球气候治理概念：'ökologische Kipppunkte' (Tipping Points) 是指：",
           "options": [
-            "突破地球生态承载极限将危及未来子孙后代的生存基石。",
-            "地球承载力是无限的。",
-            "只要开发新技术，资源消耗就无关紧要。",
-            "人口增长不会对生态造成影响。"
+            "垃圾分类倾倒站",
+            "生态系统发生不可逆突变与灾难性连锁反应的临界阈值",
+            "春季候鸟迁徙分界线",
+            "人工林采伐红线"
           ],
-          "question": "“Das Überschreiten planetarer Belastungsgrenzen gefährdet die Existenz künftiger Generationen.” 的主旨是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "Kipppunkte（生态临界点）一旦被逾越（如格陵兰冰盖融化），将引发全球气候系统不可逆转的自加速恶化。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主语 (Ein ambitioniertes internationales Abkommen) + 谓语 (schützt) + 宾语 (die Artenvielfalt) + 状语 (weltweit)。",
           "id": "B2_L08_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Artensterben' (生物物种大规模灭绝) 的定冠词是：",
           "options": [
-            "Ein ambitioniertes internationales Abkommen schützt die Artenvielfalt weltweit.",
-            "Weltweit ein ambitioniertes internationales Abkommen die Artenvielfalt schützt.",
-            "Die Artenvielfalt schützt weltweit ein Abkommen internationales ambitioniertes nicht.",
-            "Schützt ein ambitioniertes internationales Abkommen die Artenvielfalt weltweit."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组气候治理多边公约核心论点：“schützt / Ein ambitioniertes internationales Abkommen / die Artenvielfalt / weltweit”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 2,
+          "explanation": "das Sterben 动名词结尾，必为中性：das Artensterben。"
+        },
+        {
+          "id": "B2_L08_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "接受者被动态现在时：'Die Studenten _____ die Urkunden überreicht.'",
+          "options": [
+            "bekommen",
+            "werden",
+            "sind",
+            "haben"
+          ],
+          "correctIndex": 0,
+          "explanation": "主语 Die Studenten（原第三格），用 bekommen + 第二分词 überreicht 表达“被颁发了荣誉证书”。"
+        },
+        {
+          "id": "B2_L08_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "国际气候协议核心目标：'die Klimaneutralität' 含义是：",
+          "options": [
+            "气候不偏不倚",
+            "温室气体净零排放（碳中和）",
+            "停止所有工业制造",
+            "永久退出气候协定"
+          ],
+          "correctIndex": 1,
+          "explanation": "Klimaneutralität（碳中和/气候中和）指排放的温室气体总量通过吸收减排手段实现净零平衡 (Netto-Null)。"
+        },
+        {
+          "id": "B2_L08_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "状态被动态判断：下列哪个句子属于状态被动态 (Zustandspassiv)？",
+          "options": [
+            "Der Vertrag ist bereits von allen Parteien unterzeichnet.",
+            "Der Vertrag wird jetzt von allen Parteien unterzeichnet.",
+            "Der Vertrag wurde gestern unterzeichnet.",
+            "Der Vertrag soll unterzeichnet werden."
+          ],
+          "correctIndex": 0,
+          "explanation": "'ist ... unterzeichnet' 由 sein + 第二分词构成，明确表述合同已签署完毕的生效状态，属状态被动态。"
+        },
+        {
+          "id": "B2_L08_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "介词搭配：'sich einigen _____ verbindliche Klimaziele' (就具有约束力的气候目标达成一致)",
+          "options": [
+            "auf",
+            "über",
+            "in",
+            "an"
+          ],
+          "correctIndex": 0,
+          "explanation": "固定搭配：sich einigen auf + Akkusativ（在经过协商后就某一方案达成共识并敲定）。"
+        },
+        {
+          "id": "B2_L08_Q10",
+          "type": "EXAM_REAL",
+          "question": "TestDaF 全球生态论文论述句：",
+          "options": [
+            "Die Bewahrung der biologischen Vielfalt ist eine Überlebensfrage für die gesamte Menschheit.",
+            "Tiere können sich alleine retten.",
+            "Klimaschutz kostet nur zu viel Geld.",
+            "Ökologie ist Privatsache."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Die Bewahrung der biologischen Vielfalt ist eine Überlebensfrage für ...'（保护生物多样性是关乎全人类生死存亡的根本问题）是高级学术语篇的高瞻远瞩句。"
         }
       ]
     },
@@ -7130,69 +7649,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "让步从句虽然……转换为介词短语：Trotz (+Gen.) seiner Herkunft aus einer Arbeiterfamilie。",
           "id": "B2_L09_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "扩展关系代词第二格（阳性/中性）：'Der Autor, _____ Buch ein Bestseller wurde, hält heute einen Vortrag.'",
           "options": [
-            "Trotz seiner Herkunft aus einer Arbeiterfamilie",
-            "Weil er aus einer Arbeiterfamilie stammte",
-            "Damit er aus einer Arbeiterfamilie stammt",
-            "Während der Arbeiterfamilie"
+            "dessen",
+            "deren",
+            "dem",
+            "welches"
           ],
-          "question": "______ (Obwohl er aus einer Arbeiterfamilie stammte) schaffte er den Aufstieg zum Universitätsprofessor.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "先行词是阳性单数 Der Autor，其第二格物主所有关系代词必用 dessen（注意：不可加名词词尾，后面直接接名词 Buch）！"
         },
         {
-          "correctIndex": 0,
-          "explanation": "die Chancengleichheit 表示无论家庭出身背景，人人依法享有平等公平的受教育发展机会。",
           "id": "B2_L09_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "扩展关系代词第二格（阴性/复数）：'Die Professorin, _____ Forschung international gewürdigt wurde, leitet das Institut.'",
           "options": [
-            "接受优质教育与发展的机会均等",
-            "按家庭资产分配名额",
-            "统一所有人的期末考分",
-            "免除所有学科家庭作业"
+            "dessen",
+            "deren",
+            "derer",
+            "welche"
           ],
-          "question": "“die Chancengleichheit” 在现代教育学中的宪政核心内涵是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 1,
+          "explanation": "先行词是阴性单数 Die Professorin，第二格物主所有关系代词必须用 deren（其研究成果）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "条件从句 wenn 转换为介词短语：Bei (+Dat.) einer Entscheidung durch die soziale Herkunft。",
           "id": "B2_L09_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "关系代词 was 的使用条件（先行词为中性不定代词 alles / etwas / nichts）：'Das ist alles, _____ ich über diesen Fall weiß.'",
           "options": [
-            "Bei einer Entscheidung durch die soziale Herkunft",
-            "Trotz der sozialen Herkunft",
-            "Nach der sozialen Herkunft",
-            "Ohne soziale Herkunft"
+            "das",
+            "was",
+            "dass",
+            "welches"
           ],
-          "question": "______ (Wenn die soziale Herkunft entscheidet) bleibt das Bildungssystem ungerecht.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 1,
+          "explanation": "当先行词为 alles, etwas, nichts, vieles, das Beste 等中性代词或最高级时，关系代词强制使用 was！"
         },
         {
-          "correctIndex": 0,
-          "explanation": "Bildungserfolg = 学业成功，abhängen vom Elternhaus = 依赖于原生家庭。",
           "id": "B2_L09_Q4",
+          "type": "GRAMMAR_FILL",
+          "question": "无先行词人称从句关系代词：'_____ nicht hören will, muss fühlen.'",
           "options": [
-            "在德国个人的学业成功依然过度严重地受制于原生家庭的阶层背景。",
-            "德国教育已彻底消除了阶层差距。",
-            "父母学历与孩子成绩毫无关联。",
-            "公立大学仅向高收入家庭开放。"
+            "Wer",
+            "Der",
+            "Was",
+            "Welcher"
           ],
-          "question": "“Der Bildungserfolg in Deutschland hängt nach wie vor überdurchschnittlich stark vom Elternhaus ab.” 揭示的核心社会学问题是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 0,
+          "explanation": "泛指人且句首无具体先行词时，引导主语从句使用 Wer（第一格）：Wer nicht hören will...（不听规劝者，必自食其果）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主语 (Ein gerechtes Schulsystem) + 谓语 (erfordert) + 宾语 (frühkindliche Förderung) + 补足语 (für alle Kinder)。",
           "id": "B2_L09_Q5",
+          "type": "VOCAB_MEANING",
+          "question": "社会学高频词：'die Chancengleichheit / Bildungsbenachteiligung' 含义是：",
           "options": [
-            "Ein gerechtes Schulsystem erfordert frühkindliche Förderung für alle Kinder.",
-            "Für alle Kinder frühkindliche Förderung ein gerechtes Schulsystem erfordert.",
-            "Ein gerechtes Schulsystem für alle Kinder erfordert frühkindliche Förderung nicht.",
-            "Erfordert ein gerechtes Schulsystem frühkindliche Förderung für alle Kinder."
+            "教育经费充裕 / 义务教育普及",
+            "机会均等 / 因社会家庭背景造成的教育资源匮乏与不利地位",
+            "高校自主招生 / 免试录取",
+            "高考竞争激烈 / 重点中学"
           ],
-          "question": "重组教育公平宏观议题：“erfordert / Ein gerechtes Schulsystem / frühkindliche Förderung / für alle Kinder”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "Chancengleichheit 指机会均等；Bildungsbenachteiligung 指社会弱势群体子女在受教育机会上的劣势。"
+        },
+        {
+          "id": "B2_L09_Q6",
+          "type": "ARTICLE",
+          "question": "名词 'Herkunft' (出身来源、籍贯背景) 的定冠词是：",
+          "options": [
+            "der",
+            "die",
+            "das",
+            "den"
+          ],
+          "correctIndex": 1,
+          "explanation": "die Herkunft (阴性名词，Pl. die Herkünfte)，如 soziale Herkunft（社会家庭背景）。"
+        },
+        {
+          "id": "B2_L09_Q7",
+          "type": "GRAMMAR_FILL",
+          "question": "无先行词宾语从句关系代词（第四格）：'_____ ich gestern getroffen habe, kenne ich schon lange.'",
+          "options": [
+            "Wen",
+            "Wer",
+            "Wem",
+            "Wessen"
+          ],
+          "correctIndex": 0,
+          "explanation": "treffen 支配第四格，针对人的无先行词关系代词第四格为 Wen：Wen ich gestern getroffen habe...。"
+        },
+        {
+          "id": "B2_L09_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "关系代词 deren 复数用法排序：'Die Studenten, _____ Arbeiten ausgezeichnet wurden, erhielten ein Stipendium.'",
+          "options": [
+            "deren",
+            "dessen",
+            "welche",
+            "denen"
+          ],
+          "correctIndex": 0,
+          "explanation": "先行词 Die Studenten 为复数，第二格所有格代词统一为 deren（他们的论文）。"
+        },
+        {
+          "id": "B2_L09_Q9",
+          "type": "VOCAB_MEANING",
+          "question": "社会阶层流动术语：'die soziale Mobilität' 意思是：",
+          "options": [
+            "市民搬家流动性",
+            "个人在社会阶层与经济地位结构之间的纵向或横向跨阶层流动能力",
+            "手机移动通信",
+            "公共交通通勤率"
+          ],
+          "correctIndex": 1,
+          "explanation": "soziale Mobilität 指个人或群体通过教育、拼搏在社会各阶层梯队之间上下流动的流动性。"
+        },
+        {
+          "id": "B2_L09_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 教育公平大作文论点：",
+          "options": [
+            "Der Bildungserfolg eines Kindes darf nicht von der sozialen Herkunft der Eltern abhängen.",
+            "Nur reiche Kinder sollten studieren dürfen.",
+            "Schulen sollten abgeschafft werden.",
+            "Bildung ist unwichtig für den Beruf."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Der Bildungserfolg eines Kindes darf nicht von der sozialen Herkunft der Eltern abhängen'（孩子的学业成败绝不能取决于其父母的社会家庭出身）是教育学与公共政策的经典名言。"
         }
       ]
     },
@@ -7929,69 +8513,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "强调法规通过后的现存法律状态，使用状态被动态：sind bereits beschlossen。",
           "id": "B2_L10_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "高级功能动词短语 (FVG)：'Maßnahmen _____' (采取措施/付诸行动)",
           "options": [
-            "sind bereits beschlossen",
-            "werden bereits beschlossen",
-            "haben bereits beschlossen",
-            "seien beschlossen"
+            "ergreifen",
+            "machen",
+            "tun",
+            "nehmen"
           ],
-          "question": "Die neuen Visabestimmungen für Fachkräfte ______ (beschließen - Zustandspassiv) und treten morgen in Kraft.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "固定功能动词搭配：Maßnahmen ergreifen（采取有力措施），不可用 *Maßnahmen machen。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "der demografische Wandel 指整个人口结构（出生率、死亡率、寿命延长及老龄化）的根本性演变。",
           "id": "B2_L10_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "功能动词短语填空：'etwas in Kauf _____' (容忍、承担负面代价与风险)",
           "options": [
-            "人口年龄结构、出生率与老龄化变迁",
-            "季节性候鸟迁徙",
-            "城市地下水网改造",
-            "外汇储备增减"
+            "nehmen",
+            "kaufen",
+            "geben",
+            "stellen"
           ],
-          "question": "“der demografische Wandel” 在社会学中的核心内涵是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 0,
+          "explanation": "in Kauf nehmen 意为“权衡后容忍或甘冒某种不良代价/风险”（Nachteile in Kauf nehmen）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "情态被动态复数主语使用 können: Tausende Stellen können ... besetzt werden。",
           "id": "B2_L10_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "功能动词短语填空：'Abschied _____ von + Dativ' (向……告别)",
           "options": [
-            "können",
-            "müssen",
-            "dürfen",
-            "lassen"
+            "nehmen",
+            "geben",
+            "machen",
+            "gehen"
           ],
-          "question": "Tausende unbesetzte Stellen in der Pflege ______ (können... besetzen) nur durch qualifizierte Zuwanderung besetzt werden.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "Abschied nehmen von + Dativ 意为“向某人或旧习惯告别” (sich verabschieden)。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "auf ... angewiesen sein = 依赖于，geordnete Arbeitsmigration = 有序技术劳动力移民。",
           "id": "B2_L10_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "人口学核心概念：'der demografische Wandel' 核心特征是：",
           "options": [
-            "老龄化社会唯有依靠有序劳动力移民才能维系经济繁荣。",
-            "移民会削弱国家经济。",
-            "老龄化对社会福利制度毫无压力。",
-            "应当全面禁止外国劳工入境。"
+            "城市人口急剧年轻化",
+            "人口出生率持续走低导致的人口老龄化与劳动力结构变迁",
+            "农村人口占比飙升",
+            "国际游客激增"
           ],
-          "question": "“Eine alternde Gesellschaft ist auf eine geordnete Arbeitsmigration angewiesen, um den Wohlstand zu sichern.” 的核心结论是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "der demografische Wandel（人口结构老龄化变迁）伴随出生率下降 (niedrige Geburtenrate) 与人均预期寿命延长 (steigende Lebenserwartung)。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主语 (Eine weltoffene Gesellschaft) + 谓语 (bereichert) + 宾语 (das kulturelle Leben) + 状语 (durch Vielfalt)。",
           "id": "B2_L10_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Fachkräftemangel' (专业技术劳动力短缺) 的定冠词是：",
           "options": [
-            "Eine weltoffene Gesellschaft bereichert das kulturelle Leben durch Vielfalt.",
-            "Durch Vielfalt eine weltoffene Gesellschaft das kulturelle Leben bereichert.",
-            "Das kulturelle Leben bereichert eine weltoffene Gesellschaft durch Vielfalt nicht.",
-            "Bereichert eine weltoffene Gesellschaft das kulturelle Leben durch Vielfalt."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组跨文化融合倡议命题：“bereichert / Eine weltoffene Gesellschaft / durch Vielfalt / das kulturelle Leben”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 0,
+          "explanation": "der Mangel（缺乏、匮乏）结尾，复合词必为阳性：der Fachkräftemangel。"
+        },
+        {
+          "id": "B2_L10_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "功能动词短语填空：'etwas zum Ausdruck _____' (把……明确表达出来)",
+          "options": [
+            "bringen",
+            "machen",
+            "geben",
+            "nehmen"
+          ],
+          "correctIndex": 0,
+          "explanation": "zum Ausdruck bringen 意为“表达、展现”（ausdrücken）。"
+        },
+        {
+          "id": "B2_L10_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "移民融入核心词：'die gesellschaftliche Integration' 含义是：",
+          "options": [
+            "强制同化抛弃母语",
+            "移民在法律权益、语言能力、劳动力市场与社会认同方面的良性全面融入",
+            "隔离居住区设立",
+            "短期旅游签证发放"
+          ],
+          "correctIndex": 1,
+          "explanation": "die Integration 指移民与本国社会在互相尊重法治基石上的良性融入融合。"
+        },
+        {
+          "id": "B2_L10_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "功能动词短语 'in Gang setzen' (启动、推动...运转) 选出例句：",
+          "options": [
+            "Die Regierung hat wichtige Reformen in Gang gesetzt.",
+            "Die Regierung hat Reformen in Gang gebracht genommen.",
+            "In Gang sein Reformen gesetzt von Regierung.",
+            "Reformen Regierung in Gang hat setzen."
+          ],
+          "correctIndex": 0,
+          "explanation": "in Gang setzen 意为推动运转、启动推进：etwas in Gang setzen。"
+        },
+        {
+          "id": "B2_L10_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "功能动词短语填空：'in Anspruch _____' (利用、使用、占用时间)",
+          "options": [
+            "nehmen",
+            "machen",
+            "stellen",
+            "legen"
+          ],
+          "correctIndex": 0,
+          "explanation": "in Anspruch nehmen 意为“利用某服务/咨询或占用某人时间精力” (nutzen / beanspruchen)。"
+        },
+        {
+          "id": "B2_L10_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 人口老龄化考题经典对策论述：",
+          "options": [
+            "Um dem Fachkräftemangel entgegenzuwirken, ist eine gezielte Zuwanderungspolitik unerlässlich.",
+            "Rente sollte mit 40 Jahren beginnen.",
+            "Deutschland braucht keine Arbeitskräfte.",
+            "Alte Menschen dürfen nicht mehr arbeiten."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Um dem Fachkräftemangel entgegenzuwirken, ist eine gezielte Zuwanderungspolitik unerlässlich'（为了遏制专业人才匮乏，推行针对性的专业技术移民政策势在必行）是德国政经与语言考试焦点范文句。"
         }
       ]
     },
@@ -8728,69 +9377,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "表示外界传闻“据说该告密者已经向媒体泄露了绝密文件”，使用 sollen: soll weitergegeben haben。",
           "id": "B2_L11_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "新闻与学术第一虚拟式 (Konjunktiv I) 动词 werden 单数形式：'Der Regierungssprecher teilte mit, das Projekt _____ fortgesetzt.'",
           "options": [
-            "soll",
-            "will",
-            "muss",
-            "darf"
+            "werde",
+            "würde",
+            "wird",
+            "wurde"
           ],
-          "question": "Der Whistleblower ______ (sollen) brisante Dokumente an die Presse weitergegeben haben.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "werden 的第一虚拟式第三人称单数形式为 werde：er/es werde fortgesetzt。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "die vierte Gewalt（第四权力）代指监督立法、行政、司法三权的新闻出版与独立媒体。",
           "id": "B2_L11_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "第一虚拟式完成时态统一公式：'sei / habe + Partizip II'：'Er behauptete, er _____ den Vorfall selbst beobachtet.'",
           "options": [
-            "独立自主、行使舆论监督权的新闻媒体与新闻界",
-            "秘密警察机关",
-            "中央银行货币委员会",
-            "宪法起草委员会"
+            "habe",
+            "hätte",
+            "hat",
+            "sei"
           ],
-          "question": "“die vierte Gewalt” 在现代宪政民主体制中的政治代名词是指：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 0,
+          "explanation": "第一虚拟式过去时由 habe 或 sei + 第二分词构成：er habe beobachtet。表明客观引述被采访者的话。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "表示当事人自我声称/狡辩“自称对篡改毫不知情”，主观情态动词使用 wollen: will gewusst haben。",
           "id": "B2_L11_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "第一虚拟式位移动词完成时：'Die Polizei gab bekannt, die Verdächtigen _____ ins Ausland geflohen.'",
           "options": [
-            "will",
-            "soll",
-            "muss",
-            "mag"
+            "seien",
+            "seist",
+            "wären",
+            "sind"
           ],
-          "question": "Der Konzernchef ______ (wollen) von den Manipulationen nichts gewusst haben.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "主语 die Verdächtigen 为复数，位移动词 fliehen 用 sei 复数形式 seien + 第二分词 geflohen：seien geflohen。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "recherchierende Journalisten = 调查记者，aufdecken = 揭露曝光，Steuerskandal = 税务丑闻。",
           "id": "B2_L11_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "数字传媒素养：'die Desinformation / Fake News' 传播特征是：",
           "options": [
-            "深入调查的新闻记者曝光了一起巨额偷逃税款丑闻。",
-            "媒体隐瞒了丑闻真相。",
-            "税务部门指控记者违法。",
-            "调查因缺乏线索中断。"
+            "同行评议客观求证",
+            "刻意编造虚假信息以操纵舆论与制造社会撕裂",
+            "学术期刊严格审核",
+            "突发气象预警"
           ],
-          "question": "“Recherchierende Journalisten deckten einen gigantischen Steuerskandal auf.” 意味着：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "die Desinformation 指有预谋、带恶意政治或商业目的编造散布的虚假不实资讯。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主语 (Eine freie und unabhängige Presse) + 谓语 (garantiert) + 宾语 (das Recht auf Information) + 补足语 (für alle Bürger)。",
           "id": "B2_L11_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Medienkompetenz' (媒体素养批判能力) 的定冠词是：",
           "options": [
-            "Eine freie und unabhängige Presse garantiert das Recht auf Information für alle Bürger.",
-            "Für alle Bürger das Recht auf Information eine freie Presse garantiert nicht.",
-            "Eine freie Presse für alle Bürger das Recht garantiert auf Information.",
-            "Garantiert eine freie und unabhängige Presse das Recht auf Information für alle Bürger."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组新闻自由核心命题：“garantiert / Eine freie und unabhängige Presse / das Recht auf Information / für alle Bürger”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "-enz 结尾必为阴性名词：die Kompetenz, die Medienkompetenz。"
+        },
+        {
+          "id": "B2_L11_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "第一虚拟式情态动词 können 第三人称单数：'Die Studie zeige, dass man das Ziel erreichen _____.'",
+          "options": [
+            "könne",
+            "könnte",
+            "kann",
+            "konnte"
+          ],
+          "correctIndex": 0,
+          "explanation": "können 的第一虚拟式第三人称单数形式为 könne。"
+        },
+        {
+          "id": "B2_L11_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "新闻伦理规范短语：'Quellen kritisch hinterfragen und Fakten überprüfen' 意思是：",
+          "options": [
+            "不假思索直接转发",
+            "以批判思维审视信源真实性并核查求证事实真相",
+            "屏蔽所有主流媒体",
+            "付费购买虚假水军"
+          ],
+          "correctIndex": 1,
+          "explanation": "hinterfragen 意为探究质疑；Fakten überprüfen 意为事实核查 (Fact-Checking)。"
+        },
+        {
+          "id": "B2_L11_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "间接引语在学术引述中的规范排列：'Die Forscher betonen, _____.'",
+          "options": [
+            "weitere Untersuchungen seien dringend erforderlich",
+            "weitere Untersuchungen dringend seien erforderlich",
+            "seien dringend erforderlich weitere Untersuchungen",
+            "erforderlich seien dringend Untersuchungen weitere"
+          ],
+          "correctIndex": 0,
+          "explanation": "省略连词 dass 后的间接引语采用主句语序：主语 (weitere Untersuchungen) + 虚拟式动词 (seien) + 表语。"
+        },
+        {
+          "id": "B2_L11_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "第一虚拟式 sein 的单复数变位：er _____ / sie (Pl.) _____：",
+          "options": [
+            "sei / seien",
+            "wäre / wären",
+            "ist / sind",
+            "sei / seist"
+          ],
+          "correctIndex": 0,
+          "explanation": "sein 的第一虚拟式单数为 sei，复数为 seien。"
+        },
+        {
+          "id": "B2_L11_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 媒介素养与思辨能力论述：",
+          "options": [
+            "Im Zeitalter der digitalen Reizüberflutung ist die Fähigkeit zur kritischen Medienanalyse unverzichtbar.",
+            "Man sollte alles glauben, was im Internet steht.",
+            "Zeitungen schreiben immer die Wahrheit.",
+            "Niemand braucht Nachrichten."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Im Zeitalter der digitalen Reizüberflutung ist die Fähigkeit zur kritischen Medienanalyse unverzichtbar'（在数字信息过载时代，批判性传媒分析能力不可或缺）是当代议论文极佳论点。"
         }
       ]
     },
@@ -9527,69 +10241,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "省略连词 wenn 的过去非现实条件句，虚拟助动词 hätte 提至句首。",
           "id": "B2_L12_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "无连词的第二虚拟式非现实条件从句（动词直接占第 1 位）：'_____ er rechtzeitig losgefahren, hätte er den Zug noch erreicht.'",
           "options": [
+            "Wäre",
+            "Wenn",
             "Hätte",
-            "Würde",
-            "War",
             "Sei"
           ],
-          "question": "______ (Wenn er nicht reflektiert hätte) Kant die Schrift nicht verfasst, wäre unser Begriff von Vernunft ärmer.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "非现实条件句可省略連词 wenn，此时变位虚拟式动词强制提前至第 1 位！位移动词 losfahren 助动词用 sein，故为 Wäre er ... losgefahren。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "Sapere aude! = Habe Mut, dich deines eigenen Verstandes zu bedienen!（敢于运用你自己的理性！）。",
           "id": "B2_L12_Q2",
-          "options": [
-            "敢于运用你自己的理性！",
-            "顺从自然法则！",
-            "怀疑一切权威！",
-            "知识就是力量！"
-          ],
-          "question": "康德在《何谓启蒙》中提出的哲学名言 “Sapere aude!” 的中文标准经典翻译是：",
-          "type": "MEANING_SELECT"
-        },
-        {
-          "correctIndex": 0,
-          "explanation": "beinahe + 第二虚拟式过去时表达“差一点就……”：wäre beinahe verbrannt。",
-          "id": "B2_L12_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "险些/差一点从句 (Beinahe-Sätze)：'Es fehlte nicht viel, und der Plan _____ gescheitert.'",
           "options": [
             "wäre",
-            "würde",
             "hatte",
-            "wurde"
+            "würde",
+            "sei"
           ],
-          "question": "Das historische Archiv ______ (beinahe / verbrennen) im großen Stadtbrand beinahe verbrannt.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "固定句型：Es fehlte nicht viel / Beinahe wäre der Plan gescheitert（差一点方案就要流产泡汤了）。强制使用第二虚拟式过去时 wäre gescheitert。"
         },
         {
+          "id": "B2_L12_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "第二虚拟式替代形式 (an seiner Stelle)：'An deiner Stelle _____ ich das Angebot sofort angenommen.'",
+          "options": [
+            "hätte",
+            "würde",
+            "habe",
+            "wäre"
+          ],
           "correctIndex": 0,
-          "explanation": "Kategorischer Imperativ = 定言令式（绝对命令），allgemeines Gesetz = 普遍法则。",
+          "explanation": "An deiner Stelle（换作是你的话，针对过去）+ hätte ... angenommen（我早就接受这邀请了）。"
+        },
+        {
           "id": "B2_L12_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "德意志启蒙哲学家康德 (Immanuel Kant) 提出的启蒙格言：'Sapere aude!' 德语译为：",
           "options": [
-            "定言令式要求个体的行为准则必须能够同时成为普遍的立法准则。",
-            "为了个人利益可以突破道德底线。",
-            "道德标准随社会风俗随时改变。",
-            "唯有法律命令才具有道德价值。"
+            "Glaube an Gott!",
+            "Habe Mut, dich deines eigenen Verstandes zu bedienen!",
+            "Freiheit für alle Menschen!",
+            "Alles ist relativ!"
           ],
-          "question": "“Der kategorische Imperativ fordert, nur nach Maximen zu handeln, die zugleich allgemeines Gesetz werden können.” 核心准则是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "康德在《何谓启蒙》中写道：'Habe Mut, dich deines eigenen Verstandes zu bedienen!'（要有勇气运用你自己的理性！），这是启蒙运动座右铭。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "康德对启蒙的经典定义：启蒙是人类脱离自身所招致的不成熟状态的走出 (der Ausgang des Menschen...)。",
           "id": "B2_L12_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Vernunft' (人类理性) 的定冠词是：",
           "options": [
-            "Die Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit.",
-            "Aus seiner selbstverschuldeten Unmündigkeit die Aufklärung der Ausgang ist nicht.",
-            "Der Ausgang des Menschen aus der Aufklärung ist Unmündigkeit.",
-            "Ist die Aufklärung der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组启蒙时代格言：“ist der Ausgang des Menschen / Die Aufklärung / aus seiner selbstverschuldeten Unmündigkeit”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "-kunft 词源同源，为阴性名词：die Vernunft (Kritik der reinen Vernunft 纯粹理性批判)。"
+        },
+        {
+          "id": "B2_L12_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "无连词条件句（haben 过去时）：'_____ ich mehr Geld gehabt, hätte ich mir das Gemälde gekauft.'",
+          "options": [
+            "Hätte",
+            "Wenn",
+            "Hatte",
+            "Wäre"
+          ],
+          "correctIndex": 0,
+          "explanation": "省略 wenn 的非现实条件句：Hätte ich ... gehabt（要是我当时有更多钱的话……）。"
+        },
+        {
+          "id": "B2_L12_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "哲学伦理学核心概念：'der kategorische Imperativ' 是指康德的：",
+          "options": [
+            "君权神授法则",
+            "定言指令 / 绝对命令（若你希望你的行动准则成为普遍法则，你才这样行事）",
+            "实用功利主义",
+            "道德虚无主义"
+          ],
+          "correctIndex": 1,
+          "explanation": "der kategorische Imperativ（绝对命令）是康德伦理学的最高道德原则：Handle nur nach derjenigen Maxime...。"
+        },
+        {
+          "id": "B2_L12_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "无连词虚拟条件主从句完整连接语序：",
+          "options": [
+            "Hätte er mich gewarnt, wäre mir das Unglück nicht widerfahren.",
+            "Hätte er mich gewarnt, mir das Unglück nicht widerfahren wäre.",
+            "Er hätte mich gewarnt, wäre mir das Unglück nicht widerfahren.",
+            "Wenn hätte er mich gewarnt, wäre mir das Unglück."
+          ],
+          "correctIndex": 0,
+          "explanation": "从句动词 Hätte 居首，主句同样以变位动词 wäre 居首进行倒装紧接。"
+        },
+        {
+          "id": "B2_L12_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "第二虚拟式情态动词表责备 (hätte sollen)：'Du _____ vorsichtiger sein sollen!'",
+          "options": [
+            "hättest",
+            "wärest",
+            "solltest",
+            "würdest"
+          ],
+          "correctIndex": 0,
+          "explanation": "hätte + 不定式 + sollen 用于对过去未履行义务的事后责备与遗憾：Du hättest vorsichtiger sein sollen!（你当时本该更小心一点的！）。"
+        },
+        {
+          "id": "B2_L12_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 思想文化历史反思句：",
+          "options": [
+            "Die Aufklärung markiert den Übergang von blindem Dogmatismus zu kritischer Selbstreflexion.",
+            "Philosophie hat keine Bedeutung für die Moderne.",
+            "Kant war ein Dichter.",
+            "Denken ist unnötig."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Die Aufklärung markiert den Übergang von blindem Dogmatismus zu kritischer Selbstreflexion'（启蒙运动标志着人类从盲从教条主义向批判性自我审视的伟大过渡）体现了深厚的人文底蕴。"
         }
       ]
     },
@@ -10326,69 +11105,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "infolgedessen 引导因果推论结果：“和平谈判破裂；因此外交官们撤回了。”",
           "id": "B2_L13_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "介词短语表达原因与考量：'_____ der aktuellen geopolitischen Lage muss die EU enger zusammenarbeiten.'",
           "options": [
-            "infolgedessen",
-            "trotzdem",
-            "weil",
-            "obwohl"
+            "In Anbetracht",
+            "Ungeachtet",
+            "Zwecks",
+            "Anhand"
           ],
-          "question": "Die Friedensgespräche scheiterten; ______ (infolgedessen / trotzdem / weil) zogen sich die Diplomaten zurück.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "in Anbetracht + Genitiv 意为“鉴于、考虑到……”（In Anbetracht der aktuellen Lage）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "das Subsidiaritätsprinzip 确立：凡各成员国在地方能妥善处理的事务，欧盟不得大包大揽越俎代庖。",
           "id": "B2_L13_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "介词短语表达让步：'_____ aller Schwierigkeiten wurde der Gipfel erfolgreich beendet.'",
           "options": [
-            "辅德律原则（欧盟仅当下级成员国无力单独解决时才介入）",
-            "欧盟法绝对无条件高于一切国内法",
-            "所有提案必须全票通过",
-            "取消一切国家边界"
+            "Ungeachtet",
+            "Infolge",
+            "Kraft",
+            "Zwecks"
           ],
-          "question": "“das Subsidiaritätsprinzip” 在欧盟宪政分权体制中的核心指导法理是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 0,
+          "explanation": "ungeachtet + Genitiv 意为“不顾、尽管……”（相当于 trotz，但更为正式高雅）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "否定词后表相反纠偏：“他并非想削弱条约，恰恰相反，而是想强化条约 (vielmehr stärken)。”",
           "id": "B2_L13_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "公文介词短语表达目的：'_____ Intensivierung der Zusammenarbeit' (为了深化合作)",
           "options": [
-            "vielmehr",
-            "infolgedessen",
-            "trotzdem",
-            "während"
+            "Zwecks",
+            "Trotz",
+            "Wegen",
+            "Anlässlich"
           ],
-          "question": "Er wollte den Vertrag nicht schwächen, ______ (vielmehr) stärken.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "zwecks + Genitiv 专用于公文和正式条约，表达“为了……之目的”（zwecks Intensivierung）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "europäische Souveränität = 欧洲战略自主，Sicherheits- und Verteidigungspolitik = 共同安全与防务政策。",
           "id": "B2_L13_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "欧盟宪政体制：'das Subsidiaritätsprinzip' 含义是：",
           "options": [
-            "欧洲实现战略自主必须依靠协同一致的共同安全与防务政策。",
-            "欧洲应当彻底解散防务机制。",
-            "各国应当完全各自为战。",
-            "欧盟无需参与国际安全事务。"
+            "所有权力一律收归布鲁塞尔中央",
+            "辅德律原则 / 辅助性原则（欧盟仅处理成员国层级无法有效解决的跨国事务）",
+            "欧盟永久废除边境管制",
+            "统一全欧洲各州语言"
           ],
-          "question": "“Die europäische Souveränität erfordert eine koordinierte gemeinsame Sicherheits- und Verteidigungspolitik.” 表达的政治共识是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "das Subsidiaritätsprinzip（辅助性原则）确保决策在尽可能贴近公民的基层政府做出，唯有必要时才由欧盟统筹。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "主语 (Die multilaterale Ordnung) + 谓语 (basiert auf) + 补足语 (Völkerrecht und verbindlichen Verträgen)。",
           "id": "B2_L13_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Souveränität' (国家主权) 的定冠词是：",
           "options": [
-            "Die multilaterale Ordnung basiert auf Völkerrecht und verbindlichen Verträgen.",
-            "Auf Völkerrecht und Verträgen verbindlichen die Ordnung multilaterale basiert nicht.",
-            "Die Ordnung multilaterale basiert auf Verträgen und Völkerrecht verbindlichen.",
-            "Basiert auf Völkerrecht die multilaterale Ordnung und Verträgen verbindlichen."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组多边主义外交宣示：“basiert auf Völkerrecht / Die multilaterale Ordnung / und verbindlichen Verträgen”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "-tät 结尾必为阴性名词：die Souveränität。"
+        },
+        {
+          "id": "B2_L13_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "介词短语表达条件：'_____ der Bedingung, dass Frieden herrscht, werden Verhandlungen aufgenommen.'",
+          "options": [
+            "Unter",
+            "In",
+            "Auf",
+            "Bei"
+          ],
+          "correctIndex": 0,
+          "explanation": "unter der Bedingung, dass ... 意为“在满足……条件的前提下”。"
+        },
+        {
+          "id": "B2_L13_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "国际多边外交术语：'das multilaterale Abkommen' 意思是：",
+          "options": [
+            "双边秘密备忘录",
+            "多边多国正式条约或协定",
+            "单边军事制裁",
+            "非政府组织倡议"
+          ],
+          "correctIndex": 1,
+          "explanation": "multilateral 指由三个或三个以上主权国家共同参与缔结的国际协定；bilateral 为双边协定。"
+        },
+        {
+          "id": "B2_L13_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "高级介词 anhand (借助、依据) 的搭配：'anhand _____ vorliegenden Dokumente' (die)",
+          "options": [
+            "der",
+            "des",
+            "den",
+            "dem"
+          ],
+          "correctIndex": 0,
+          "explanation": "anhand + Genitiv，复数名词定冠词为 der：anhand der vorliegenden Dokumente（依据现有的文件资料）。"
+        },
+        {
+          "id": "B2_L13_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "固定公文介词短语：'auf Grund _____ Beschlusses' (der Beschluss)",
+          "options": [
+            "des",
+            "dem",
+            "den",
+            "der"
+          ],
+          "correctIndex": 0,
+          "explanation": "auf Grund + Genitiv（基于……决议），阳性单数定冠词用 des。"
+        },
+        {
+          "id": "B2_L13_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 国际地缘政治论述句：",
+          "options": [
+            "Globale Herausforderungen wie Klimawandel und Sicherheit lassen sich nur durch multilaterale Kooperation bewältigen.",
+            "Jedes Land sollte sich abschotten.",
+            "Internationale Verträge sind nutzlos.",
+            "Kriege lösen alle Probleme."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Globale Herausforderungen ... lassen sich nur durch multilaterale Kooperation bewältigen'（全球性挑战唯有通过多边合作方能有效化解）是政治学论辩标准高分句。"
         }
       ]
     },
@@ -11125,69 +11969,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "固定功能动词搭配：etwas in Erwägung ziehen (将某事纳入审慎考量范围)。",
           "id": "B2_L14_Q1",
+          "type": "GRAMMAR_FILL",
+          "question": "逻辑推理连接副词：'demzufolge / folglich' 相当于：",
           "options": [
-            "in Erwägung",
-            "zur Sprache",
-            "zum Abschluss",
-            "in Zweifel"
+            "obwohl (尽管)",
+            "deshalb / infolgedessen (因此、由此可见)",
+            "während (与此同时)",
+            "anstatt (而不是)"
           ],
-          "question": "Die Bundesregierung muss diesen unkonventionellen Lösungsweg ernsthaft ______ (in Erwägung / zur Sprache / zum Abschluss) ziehen.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 1,
+          "explanation": "demzufolge 与 folglich 属于学术与演讲中严密的因果逻辑推进词，意为“因此、结果证明、由此可知”。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "die Antithese 指在修辞上将对立冲突的意象或命题并置对比，以制造强烈的逻辑反差震撼。如“Friede den Hütten, Krieg den Palästen!”",
           "id": "B2_L14_Q2",
+          "type": "GRAMMAR_FILL",
+          "question": "限定性连词：'insofern, als ...' 引导从句，含义是：",
           "options": [
-            "将截然对立的观点并列对比以强化反差与说服力",
-            "故意含糊其辞回避核心问题",
-            "以人身攻击替代逻辑论证",
-            "重复朗读同一句话三次"
+            "就……而言 / 在……的限度内",
+            "除……之外绝无可能",
+            "不论发生什么",
+            "虽然但是"
           ],
-          "question": "修辞格 “die Antithese” 在公众辩论与高阶演说中的艺术效果是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 0,
+          "explanation": "insofern, als (或 inwiefern) 用于界定论点的适用范围与边界，意为“在某种程度上/就……而言”。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "固定功能动词表达：Vorrang haben vor (+Dat.) (享有绝对优先权)。",
           "id": "B2_L14_Q3",
+          "type": "GRAMMAR_FILL",
+          "question": "递进排他连词短语：'geschweige denn' 含义是：",
           "options": [
-            "Vorrang",
-            "Vortritt",
-            "Vorteil",
-            "Vorfall"
+            "更不必说 / 遑论（前接否定句）",
+            "不仅而且",
+            "虽然如此",
+            "总而言之"
           ],
-          "question": "Der Schutz des Lebens muss vor wirtschaftlichen Profitinteressen immer absoluten ______ (Vorrang) haben.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "geschweige denn 前接否定陈述，表示程度进一步递增否定（“他连基本德语都不会说，更不用说写学术论文了”）。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "entkräften = 驳倒、瓦解，Einwände = 异议反驳，bestechende Logik = 令人信服叫绝的严密逻辑。",
           "id": "B2_L14_Q4",
+          "type": "VOCAB_MEANING",
+          "question": "修辞论辩术语：'ein schlagkräftiges Argument anführen' 意思是：",
           "options": [
-            "演讲者用无懈可击的严密逻辑彻底击溃了反对派的全部异议质问。",
-            "演讲者因紧张忘词被对手打断。",
-            "反对派说服了全场听众。",
-            "双方因争执过激被议长逐出会场。"
+            "举出一个软弱无力的反例",
+            "提出一个极具说服力与震撼力的有力论据",
+            "打断对方的陈述",
+            "离题万里"
           ],
-          "question": "“Der Redner entkräftete die Einwände der Opposition mit bestechender Logik.” 描述的辩论现场情况是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "schlagkräftig 指强有力的、切中要害的；ein Argument anführen 指引述提出论据。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "介词状语放句首 + 动词 (überzeugte) + 主语 (der Redner) + 宾语 (das gesamte Parlament)。",
           "id": "B2_L14_Q5",
+          "type": "ARTICLE",
+          "question": "名词 'Rhetorik' (演讲修辞学、雄辩术) 的定冠词是：",
           "options": [
-            "Durch präzise Fakten und rhetorische Brillanz überzeugte der Redner das gesamte Parlament.",
-            "Der Redner das gesamte Parlament überzeugte durch präzise Fakten und Brillanz rhetorische nicht.",
-            "Durch präzise Fakten der Redner das gesamte Parlament überzeugte und rhetorische Brillanz.",
-            "Überzeugte der Redner durch präzise Fakten und rhetorische Brillanz das gesamte Parlament."
+            "der",
+            "die",
+            "das",
+            "den"
           ],
-          "question": "重组议会辩论名言：“überzeugte / Durch präzise Fakten und rhetorische Brillanz / das gesamte Parlament / der Redner”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "-ik 结尾的学科名词通常为阴性：die Rhetorik, die Grammatik, die Politik。"
+        },
+        {
+          "id": "B2_L14_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "辩证权衡逻辑连接词：'einerseits ..., _____ ' (一方面……另一方面……)：",
+          "options": [
+            "andererseits",
+            "trotzdem",
+            "außerdem",
+            "sonst"
+          ],
+          "correctIndex": 0,
+          "explanation": "固定成对搭配：einerseits ..., andererseits ...（一方面……另一方面……）。两者位于句首时动词皆倒装。"
+        },
+        {
+          "id": "B2_L14_Q7",
+          "type": "VOCAB_MEANING",
+          "question": "论辩驳斥动词短语：'einen Einwand entkräften' 意思是：",
+          "options": [
+            "提出激烈抗议",
+            "驳倒/化解反驳意见与质疑",
+            "认同对方的所有指责",
+            "宣布放弃辩论"
+          ],
+          "correctIndex": 1,
+          "explanation": "der Einwand 是异议/反对意见；entkräften（削弱消除其效力）即有力驳倒对方的反对论点。"
+        },
+        {
+          "id": "B2_L14_Q8",
+          "type": "SENTENCE_BUILDER",
+          "question": "辩论会发言中表示赞同但补充保留意见的高阶句式：",
+          "options": [
+            "Diesem Argument ist zwar zuzustimmen, doch darf man einen weiteren Aspekt nicht außer Acht lassen.",
+            "Du hast unrecht und ich habe recht.",
+            "Ich stimme dir zu und sage nichts mehr.",
+            "Das ist Unsinn."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Diesem Argument ist zwar zuzustimmen, doch darf man ... nicht außer Acht lassen'（这一论点固然值得赞同，然而人们绝不能忽视另一个关键维度）展现了完美的立论驳论修辞艺术。"
+        },
+        {
+          "id": "B2_L14_Q9",
+          "type": "GRAMMAR_FILL",
+          "question": "衔接副词 demnach 占句首第 1 位时的语序：'Demnach _____ wir zu folgendem Ergebnis.' (kommen)",
+          "options": [
+            "kommen",
+            "wir kommen",
+            "gekommen",
+            "zu kommen"
+          ],
+          "correctIndex": 0,
+          "explanation": "Demnach 占句首第 1 位，变位动词 kommen 强制占第 2 位，主语 wir 退居第 3 位。"
+        },
+        {
+          "id": "B2_L14_Q10",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 口语辩论与演讲总结收尾句：",
+          "options": [
+            "Zusammenfassend lässt sich festhalten, dass eine ausgewogene Synthese beider Positionen den nachhaltigsten Weg darstellt.",
+            "Das war alles, ich gehe jetzt.",
+            "Mehr kann man dazu nicht sagen.",
+            "Keine Ahnung, wer recht hat."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Zusammenfassend lässt sich festhalten, dass ...'（综上所述可以明确得出结论：对两种立场的辩证综合才是最可持续之道）是辩论终局总结的典范。"
         }
       ]
     },
@@ -11924,69 +12833,134 @@
       ],
       "quiz": [
         {
-          "correctIndex": 0,
-          "explanation": "学术图表描述标准固定搭配：Aufschluss geben über (+Akk.) / Auskunft geben über (+Akk.)。",
           "id": "B2_L15_Q1",
+          "type": "EXAM_REAL",
+          "question": "TestDaF 写作 (Schriftlicher Ausdruck) 整体结构标准四步法：",
           "options": [
-            "gibt",
-            "macht",
-            "stellt",
-            "bringt"
+            "想写什么就写什么，无结构要求",
+            "引言导入 -> 图表数据客观描述与特征提炼 -> 双方正反观点对比论证与个人论证 -> 总结与结合本国实际",
+            "只描述图表，不写任何论述",
+            "全篇只阐述个人观点，忽略图表"
           ],
-          "question": "Die vorliegende Grafik ______ (liefern) Aufschluss über die Entwicklung des internationalen Handels.",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 1,
+          "explanation": "TestDaF 写作必须严格按照题目指令完成：Einleitung -> Grafikbeschreibung -> Argumentation (Vor- und Nachteile) -> Eigene Meinung & Heimatland -> Fazit。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "das Schlusslicht bilden 指在统计图表排名中“位居榜尾、垫底”。",
           "id": "B2_L15_Q2",
+          "type": "EXAM_REAL",
+          "question": "TestDaF 图表描述金牌套话（描述数据来源与时间范围）：",
           "options": [
-            "das Schlusslicht bilden",
-            "an der Spitze stehen",
-            "im Mittelfeld rangieren",
-            "stagnieren"
+            "Die vorliegende Grafik stammt aus ... und bezieht sich auf den Zeitraum von ... bis ...",
+            "Ich sehe hier ein Bild mit Zahlen.",
+            "Das Bild ist schön gezeichnet.",
+            "Die Grafik zeigt ein paar Dinge."
           ],
-          "question": "德福写作与歌德B2中表达“位列倒数第一，垫底”的高分学术表达是：",
-          "type": "MEANING_SELECT"
+          "correctIndex": 0,
+          "explanation": "'Die vorliegende Grafik stammt aus dem Institut ... und bezieht sich auf den Zeitraum ...' 是图表开篇规范标准学术引言。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "表达数据翻倍使用及物反身动词完成时：hat sich nahezu verdoppelt。",
           "id": "B2_L15_Q3",
+          "type": "EXAM_REAL",
+          "question": "TestDaF 图表极端值与趋势描述标准语料：'An erster Stelle steht ... mit einem Anteil von ...'",
           "options": [
-            "verdoppelt",
-            "doppelt",
-            "gedoppelt",
-            "verzweifacht"
+            "居于首位，占比为……",
+            "位列倒数第一",
+            "数据出现严重错误",
+            "数据保持不变"
           ],
-          "question": "Im Vergleich zum Vorjahr hat sich der Wert nahezu ______ (doppelt / verdoppelt / gedoppelt).",
-          "type": "GRAMMAR_FILL"
+          "correctIndex": 0,
+          "explanation": "'An erster Stelle steht X mit einem Anteil von Y %'（X 占据第一位，份额为 Y%）是图表描述极值首位的地道句式。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "abwägen = 权衡斟酌，überwiegen = 占据压倒性上风。",
           "id": "B2_L15_Q4",
+          "type": "EXAM_REAL",
+          "question": "TestDaF 口语 (Mündlicher Ausdruck) 共有多少道考题，分别在多长时间内考查？",
           "options": [
-            "综合权衡所有论据，该扩建工程所带来的长远优势占据明显上风。",
-            "扩建工程彻底弊大于利。",
-            "所有论据均被推翻。",
-            "政府应立即取消该工程。"
+            "共 3 道题，考查 10 分钟",
+            "共 7 道题 (Aufgabe 1-7)，分别覆盖咨询信息、提供建议、描述图表、预测趋势、权衡优缺点及评估对策",
+            "共 10 道日常聊天题",
+            "只有考官现场面试对话，无机考录音"
           ],
-          "question": "“Wägt man alle Argumente sorgfältig ab, so überwiegen die langfristigen Vorteile des Ausbaus.” 的论证结语是：",
-          "type": "LISTENING_MCQ"
+          "correctIndex": 1,
+          "explanation": "TestDaF 口语为纯机考录音答题，标准化共 7 道题目，精准考查从日常生活求助到大学高阶学术研讨的全场景交际能力。"
         },
         {
-          "correctIndex": 0,
-          "explanation": "从句居首 (Während die Industrie stagnierte) + 主句动词在第一位 (verzeichnete) + 主语 (der Sektor) + 宾语 (ein enormes Wachstum)。",
           "id": "B2_L15_Q5",
+          "type": "EXAM_REAL",
+          "question": "歌德 B2 考试等级评定标准：听说读写四项单项满分各为多少分，总分为多少？",
           "options": [
-            "Während die Industrie stagnierte, verzeichnete der Sektor ein enormes Wachstum.",
-            "Verzeichnete der Sektor ein enormes Wachstum während die Industrie stagnierte nicht.",
-            "Während stagnierte die Industrie, verzeichnete ein enormes Wachstum der Sektor.",
-            "Ein enormes Wachstum der Sektor verzeichnete, während die Industrie stagnierte."
+            "每项 100 分，总分 400 分",
+            "每项 25 分，单项及格线 15 分 (60%)，总分 100 分，及格 60 分",
+            "每项 20 分，总分 80 分",
+            "每项 50 分，总分 200 分"
           ],
-          "question": "重组学术图表转折句式：“verzeichnete der Sektor / Während die Industrie stagnierte, / ein enormes Wachstum”",
-          "type": "SENTENCE_BUILDER"
+          "correctIndex": 1,
+          "explanation": "歌德新版 B2 模块化考试：Lesen (25P), Hören (25P), Schreiben (25P), Sprechen (25P)，单科满分 25 分，15 分（即 60%）为及格线。"
+        },
+        {
+          "id": "B2_L15_Q6",
+          "type": "GRAMMAR_FILL",
+          "question": "综合学术改写：将从句 'Weil sich die Technologie rasant entwickelt, ...' 转换为高级学术名词短语：",
+          "options": [
+            "Aufgrund der rasanten technologischen Entwicklung",
+            "Wegen der Technologie entwickelt rasant",
+            "Durch rasant entwickeln der Technologie",
+            "Trotz technologischer Entwicklung"
+          ],
+          "correctIndex": 0,
+          "explanation": "Aufgrund + Genitiv，动词 entwickelt 名词化为 die Entwicklung，加上形容词修饰：Aufgrund der rasanten technologischen Entwicklung。"
+        },
+        {
+          "id": "B2_L15_Q7",
+          "type": "GRAMMAR_FILL",
+          "question": "综合分词定语改写：'die Gesetze, die neu verabschiedet wurden' 转换为扩展定语：",
+          "options": [
+            "die neu verabschiedeten Gesetze",
+            "die Gesetze neu verabschiedend",
+            "die neu zu verabschiedenden Gesetze",
+            "die Gesetze verabschiedet neu"
+          ],
+          "correctIndex": 0,
+          "explanation": "定冠词 die + 状语 neu + 第二分词 verabschiedeten + 名词 Gesetze。"
+        },
+        {
+          "id": "B2_L15_Q8",
+          "type": "GRAMMAR_FILL",
+          "question": "综合虚拟语气辨析：'Wäre die Warnung ernst genommen worden, _____ das Unglück verhindert werden können.'",
+          "options": [
+            "hätte",
+            "wäre",
+            "würde",
+            "hatte"
+          ],
+          "correctIndex": 0,
+          "explanation": "情态动词过去虚拟式复合句：hätte + Partizip II (verhindert) + werden (Passiv) + können (Ersatzinfinitiv)！助动词用 hätte。"
+        },
+        {
+          "id": "B2_L15_Q9",
+          "type": "VOCAB_MEANING",
+          "question": "德福/歌德高分核心逻辑过渡词：'nichtsdestotrotz' 的含义等同于：",
+          "options": [
+            "trotzdem / dennoch (尽管如此、然而)",
+            "deshalb (因此)",
+            "nämlich (因为)",
+            "außerdem (此外)"
+          ],
+          "correctIndex": 0,
+          "explanation": "nichtsdestotrotz 属于德语高级转折让步副词，意为“尽管如此、话虽如此但是……”。"
+        },
+        {
+          "id": "B2_L15_Q10",
+          "type": "EXAM_REAL",
+          "question": "TestDaF 与歌德 B2 取得高分的最核心通关战略是：",
+          "options": [
+            "死记硬背生僻单词，不练习完整段落写作",
+            "吃透各等级语法结构、掌握严谨学术逻辑框架、大量进行限时全真模拟并融会贯通高级表达",
+            "只刷阅读题，放弃口语和写作",
+            "临考前看中文辅导书即可"
+          ],
+          "correctIndex": 1,
+          "explanation": "B2/德福备考核心在于：在扎实的词汇语法基石上，熟练驾驭德语思维的学术结构（图表、论辩、假设、综合），做到输出严谨、输入精准。"
         }
       ]
     }
